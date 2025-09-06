@@ -79,7 +79,7 @@ api:
   # API constraints
   constraints:
     rate_limit_ms: 800  # Minimum delay between API requests
-    max_per_run: 100  # Maximum items to fetch in one run
+    max_per_run: 5000  # Maximum items to fetch in one run (increased for full catalog)
 
 # Selectors for product detail pages
 selectors:
