@@ -1,0 +1,25 @@
+# Seed Breed URLs for Bark Scraper Testing
+# 15 popular breeds with diverse characteristics
+
+# Small/Tiny breeds
+https://dogo.app/dog-breeds/chihuahua
+https://dogo.app/dog-breeds/yorkshire-terrier  
+https://dogo.app/dog-breeds/pomeranian
+https://dogo.app/dog-breeds/french-bulldog
+
+# Medium breeds
+https://dogo.app/dog-breeds/beagle
+https://dogo.app/dog-breeds/border-collie
+https://dogo.app/dog-breeds/cocker-spaniel
+https://dogo.app/dog-breeds/boston-terrier
+https://dogo.app/dog-breeds/shih-tzu
+
+# Large breeds
+https://dogo.app/dog-breeds/golden-retriever
+https://dogo.app/dog-breeds/labrador-retriever
+https://dogo.app/dog-breeds/german-shepherd
+https://dogo.app/dog-breeds/rottweiler
+
+# Giant breeds
+https://dogo.app/dog-breeds/great-dane
+https://dogo.app/dog-breeds/mastiff
