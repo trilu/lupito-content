@@ -37,6 +37,7 @@ from etl.json_path import (
     resolve_path, resolve_multiple, extract_all, extract_values,
     safe_float, safe_bool
 )
+from etl.nutrition_parser import parse_nutrition_from_html
 
 # Load environment variables
 load_dotenv()
@@ -134,8 +135,8 @@ class PetFoodExpertScraperV2:
     
     def _extract_slug_from_url(self, url: str) -> Optional[str]:
         """Extract slug from product URL"""
-        # Pattern: /food/slug or /api/products/slug
-        match = re.search(r'/(?:food|api/products)/([^/]+)/?$', url)
+        # Pattern: /product/slug, /food/slug or /api/products/slug
+        match = re.search(r'/(?:product|food|api/products)/([^/]+)/?$', url)
         if match:
             return match.group(1)
         return None
@@ -301,41 +302,13 @@ class PetFoodExpertScraperV2:
         return {k: v for k, v in product_data.items() if v is not None}
     
     def _extract_nutrition_from_html(self, html: str) -> Dict[str, Optional[float]]:
-        """Extract nutrition data from HTML"""
-        soup = BeautifulSoup(html, 'html.parser')
-        nutrition = {}
-        nutrition_config = self.profile['selectors']['nutrition']
+        """Extract nutrition data from HTML using robust parser"""
+        # Use the new robust parser
+        nutrition = parse_nutrition_from_html(html)
         
-        # Find nutrition table
-        table = None
-        for selector in nutrition_config.get('table_css', []):
-            table = soup.select_one(selector)
-            if table:
-                break
-        
-        if not table:
-            return nutrition
-        
-        # Extract rows
-        rows = table.select('tr')
-        for row in rows:
-            cells = row.select('td, th')
-            if len(cells) >= 2:
-                label = cells[0].get_text().lower()
-                value = cells[1].get_text()
-                
-                if 'kcal' in label or 'energy' in label:
-                    nutrition['kcal_per_100g'] = parse_energy(value)
-                elif 'protein' in label:
-                    nutrition['protein_percent'] = parse_percent(value)
-                elif 'fat' in label:
-                    nutrition['fat_percent'] = parse_percent(value)
-                elif 'fiber' in label or 'fibre' in label:
-                    nutrition['fiber_percent'] = parse_percent(value)
-                elif 'ash' in label:
-                    nutrition['ash_percent'] = parse_percent(value)
-                elif 'moisture' in label:
-                    nutrition['moisture_percent'] = parse_percent(value)
+        # Add kcal_basis to stats if estimated
+        if nutrition.get('kcal_basis') == 'estimated':
+            self.stats['kcal_estimated'] = self.stats.get('kcal_estimated', 0) + 1
         
         return nutrition
     
@@ -389,6 +362,15 @@ class PetFoodExpertScraperV2:
                             # Merge nutrition data
                             product_data.update(nutrition)
                             
+                            # Check if we got macros
+                            has_macros = bool(nutrition.get('protein_percent') or nutrition.get('fat_percent'))
+                            if has_macros:
+                                self.stats['products_with_macros'] = self.stats.get('products_with_macros', 0) + 1
+                            
+                            # Check if we got kcal
+                            if nutrition.get('kcal_per_100g'):
+                                self.stats['products_with_kcal'] = self.stats.get('products_with_kcal', 0) + 1
+                            
                             # Check again if we got nutrition
                             has_nutrition = any(nutrition.get(field.replace('_percent', '_percent').replace('kcal_per_100g', 'kcal_per_100g')) 
                                               for field in nutrition_fields)
@@ -426,13 +408,23 @@ class PetFoodExpertScraperV2:
         existing = None
         if self.supabase:
             try:
-                existing = self.supabase.table('food_raw').select('fingerprint').eq(
+                existing = self.supabase.table('food_raw').select('fingerprint, parsed_json').eq(
                     'source_url', url
                 ).execute()
             except:
                 pass
         
-        if existing and existing.data and existing.data[0].get('fingerprint') == product_data['fingerprint']:
+        # Check if nutrition data is new
+        has_new_nutrition = False
+        if existing and existing.data:
+            # Check if we have nutrition that wasn't there before
+            existing_parsed = existing.data[0].get('parsed_json', {}) if existing.data else {}
+            for field in ['protein_percent', 'fat_percent', 'kcal_per_100g']:
+                if product_data.get(field) and not existing_parsed.get(field):
+                    has_new_nutrition = True
+                    break
+        
+        if existing and existing.data and existing.data[0].get('fingerprint') == product_data['fingerprint'] and not has_new_nutrition:
             logger.info(f"Skipped (unchanged): {product_data['brand']} - {product_data['product_name']} [source: {raw_type}]")
             self.stats['skipped'] += 1
         else:
@@ -534,16 +526,27 @@ class PetFoodExpertScraperV2:
             candidate_data.pop('grain_free', None)
             candidate_data.pop('wheat_free', None)
             candidate_data.pop('price_gbp', None)
+            # Keep kcal_basis now that column exists in schema
             
             # Add timestamp
             candidate_data['last_seen_at'] = datetime.utcnow().isoformat()
             
-            # Check if exists
-            existing = self.supabase.table('food_candidates').select('id').eq(
+            # Check if exists and what nutrition data it has
+            existing = self.supabase.table('food_candidates').select(
+                'id, protein_percent, fat_percent, kcal_per_100g'
+            ).eq(
                 'source_url', candidate_data['source_url']
             ).execute()
             
             if existing.data:
+                # Always update if we have new nutrition data
+                existing_row = existing.data[0]
+                has_new_nutrition = False
+                for field in ['protein_percent', 'fat_percent', 'kcal_per_100g']:
+                    if candidate_data.get(field) and not existing_row.get(field):
+                        has_new_nutrition = True
+                        logger.info(f"  → New {field}: {candidate_data.get(field)}")
+                
                 result = self.supabase.table('food_candidates').update(
                     candidate_data
                 ).eq('source_url', candidate_data['source_url']).execute()
@@ -597,6 +600,9 @@ class PetFoodExpertScraperV2:
         logger.info("-"*60)
         logger.info(f"API hits: {self.stats['api_hits']}")
         logger.info(f"HTML fallbacks: {self.stats['html_fallbacks']}")
+        logger.info(f"Products with macros: {self.stats.get('products_with_macros', 0)}")
+        logger.info(f"Products with kcal: {self.stats.get('products_with_kcal', 0)}")
+        logger.info(f"Kcal estimated: {self.stats.get('kcal_estimated', 0)}")
         logger.info(f"Nutrition missing: {self.stats['nutrition_missing']}")
         logger.info("="*60)
         
