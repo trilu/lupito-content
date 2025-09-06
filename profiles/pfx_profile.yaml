@@ -46,7 +46,7 @@ selectors:
         value: "dry"
       - regex: "(wet|can|pouch)"
         value: "wet"
-      - regex: "(raw|freeze.?dried|frozen)"
+      - regex: "(raw|freeze-?dried|frozen)"
         value: "raw"
       - regex: "(vet|veterinary|prescription)"
         value: "vet"
@@ -60,9 +60,9 @@ selectors:
         value: "puppy"
       - regex: "(adult|mature)"
         value: "adult"
-      - regex: "(senior|mature\s*adult)"
+      - regex: "(senior|mature\\s*adult)"
         value: "senior"
-      - regex: "(all\s*life|all\s*stage)"
+      - regex: "(all\\s*life|all\\s*stage)"
         value: "all"
   
   # Nutrition table
@@ -97,7 +97,7 @@ selectors:
     css: [".pack-size", ".size-option", "select.size-selector option"]
     xpath: ["//select[@class='size-selector']/option/text()"]
     patterns:
-      - regex: "(\d+(?:\.\d+)?)\s*(kg|g)"
+      - regex: "(\\d+(?:\\.\\d+)?)\\s*(kg|g)"
         extract_groups: [1, 2]  # Extract number and unit
         
   price:
