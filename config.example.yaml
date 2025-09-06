@@ -1,0 +1,23 @@
+# Lupito Content Ingestion Configuration
+
+# Google Cloud Storage settings
+gcs_bucket: lupito-content-raw-eu
+
+# Supabase settings (can also be set via environment variables)
+# supabase_url: https://your-project.supabase.co
+# supabase_key: your-service-key-here
+
+# Scraping settings
+rate_limit: 0.5  # Maximum requests per second
+jitter: [0.5, 2.0]  # Random delay range in seconds
+timeout: 30  # Request timeout in seconds
+max_retries: 3  # Maximum retry attempts for failed requests
+
+# User agent for HTTP requests
+user_agent: "Mozilla/5.0 (compatible; LupitoBot/1.0; +https://lupito.app)"
+
+# Concurrency settings (for future parallel processing)
+max_workers: 1  # Number of concurrent workers
+
+# Logging
+log_level: INFO  # DEBUG, INFO, WARNING, ERROR

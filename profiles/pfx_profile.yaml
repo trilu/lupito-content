@@ -1,0 +1,139 @@
+# PetFoodExpert scraping profile
+# CSS/XPath selectors for extracting product data
+
+domain: petfoodexpert.com
+base_url: https://www.petfoodexpert.com
+
+# Rate limiting settings
+rate_limit:
+  requests_per_second: 0.5
+  jitter_seconds: [0.5, 2.0]  # Random delay between requests
+  default_delay_ms: 1500
+  jitter_ms: 300
+
+# User agent for requests
+user_agent: "Mozilla/5.0 (compatible; LupitoBot/1.0; +https://lupito.app)"
+
+# Currency conversion rates (static, annotate with date)
+currency_rates:
+  conversion_date: "2024-01-01"
+  EUR: 1.0
+  USD: 0.92
+  GBP: 1.16
+  SEK: 0.087
+  DKK: 0.134
+  NOK: 0.085
+
+# Selectors for product detail pages
+selectors:
+  # Product identity
+  brand:
+    css: ["h1.product-brand", ".brand-name", "[itemprop='brand']"]
+    xpath: ["//div[@class='product-brand']/text()"]
+    json_ld: ["brand.name"]
+    
+  product_name:
+    css: ["h1.product-title", ".product-name", "[itemprop='name']"]
+    xpath: ["//h1[@class='product-title']/text()"]
+    json_ld: ["name"]
+    
+  # Form (dry/wet/raw/vet)
+  form:
+    css: [".product-type", ".food-type", "[data-food-type]"]
+    xpath: ["//span[@class='food-type']/text()"]
+    patterns:
+      - regex: "(dry|kibble)"
+        value: "dry"
+      - regex: "(wet|can|pouch)"
+        value: "wet"
+      - regex: "(raw|freeze.?dried|frozen)"
+        value: "raw"
+      - regex: "(vet|veterinary|prescription)"
+        value: "vet"
+  
+  # Life stage
+  life_stage:
+    css: [".life-stage", ".age-range", "[data-life-stage]"]
+    xpath: ["//div[@class='life-stage']/text()"]
+    patterns:
+      - regex: "(puppy|junior)"
+        value: "puppy"
+      - regex: "(adult|mature)"
+        value: "adult"
+      - regex: "(senior|mature\s*adult)"
+        value: "senior"
+      - regex: "(all\s*life|all\s*stage)"
+        value: "all"
+  
+  # Nutrition table
+  nutrition:
+    table_css: ["table.nutrition-table", ".analytical-constituents table", "#nutrition-info table"]
+    table_xpath: ["//table[@class='nutrition-table']", "//div[contains(@class,'nutrition')]//table"]
+    fields:
+      kcal:
+        patterns: ["kcal.*100g", "calories.*100g", "energy.*100g"]
+        unit_conversion:
+          kj_to_kcal: 0.239006  # 1 kJ = 0.239 kcal
+      protein:
+        patterns: ["protein", "crude protein"]
+      fat:
+        patterns: ["fat", "crude fat", "oils and fats"]
+      fiber:
+        patterns: ["fiber", "crude fiber", "fibre"]
+      ash:
+        patterns: ["ash", "crude ash", "inorganic matter"]
+      moisture:
+        patterns: ["moisture", "water", "humidity"]
+    
+  # Ingredients
+  ingredients:
+    css: [".ingredients-list", ".composition", "[itemprop='ingredients']"]
+    xpath: ["//div[@class='ingredients']/text()", "//div[contains(@class,'composition')]/text()"]
+    json_ld: ["ingredients"]
+    delimiter: ","  # How ingredients are separated
+    
+  # Pack sizes and pricing
+  pack_sizes:
+    css: [".pack-size", ".size-option", "select.size-selector option"]
+    xpath: ["//select[@class='size-selector']/option/text()"]
+    patterns:
+      - regex: "(\d+(?:\.\d+)?)\s*(kg|g)"
+        extract_groups: [1, 2]  # Extract number and unit
+        
+  price:
+    css: [".price", ".product-price", "[itemprop='price']"]
+    xpath: ["//span[@class='price']/text()"]
+    json_ld: ["offers.price", "offers[0].price"]
+    currency_css: [".currency", "[itemprop='priceCurrency']"]
+    currency_json_ld: ["offers.priceCurrency"]
+    
+  # Additional metadata
+  gtin:
+    css: ["[itemprop='gtin13']", "[itemprop='gtin']", ".ean-code"]
+    json_ld: ["gtin13", "gtin", "ean"]
+    
+  availability:
+    css: [".availability", "[itemprop='availability']"]
+    json_ld: ["offers.availability"]
+    
+  countries:
+    css: [".shipping-countries", ".available-in"]
+    default: ["EU"]
+
+# URL patterns for finding products
+crawl_patterns:
+  sitemap_urls:
+    - "/sitemap.xml"
+    - "/sitemap-products.xml"
+  
+  category_list_pages:
+    - "/dog-food/"
+    - "/dog-food/dry/"
+    - "/dog-food/wet/"
+    - "/dog-food/raw/"
+    
+  product_url_pattern: "/(product|item|p)/.*"
+  
+  pagination:
+    param: "page"
+    css_next: ["a.next-page", ".pagination .next"]
