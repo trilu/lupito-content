@@ -1,0 +1,256 @@
+# All About Dog Food (AADF) scraping profile
+# HTML-only scraping with polite rate limiting
+
+domain: allaboutdogfood.co.uk
+base_url: https://www.allaboutdogfood.co.uk
+
+# Mode: HTML-only as per requirements
+mode: html
+
+# Rate limiting settings (polite: 1 request per 2 seconds)
+rate_limit:
+  requests_per_second: 0.5
+  default_delay_ms: 2000  # 2 seconds between requests
+  jitter_ms: 300  # ±300ms random jitter
+  
+# User agent for requests
+user_agent: "Mozilla/5.0 (compatible; LupitoBot/1.0; +https://lupito.app; respects robots.txt)"
+
+# Currency conversion rates (updated for GBP to EUR)
+currency_rates:
+  conversion_date: "2024-01-01"
+  EUR: 1.0
+  GBP: 1.17  # 1 GBP = 1.17 EUR
+
+# Selectors for product detail pages
+selectors:
+  # Product identity
+  brand:
+    css: [
+      ".product-brand",
+      ".brand-name", 
+      "h1 .brand",
+      ".review-header .brand"
+    ]
+    xpath: [
+      "//div[@class='review-header']//span[@class='brand']/text()",
+      "//h1//span[@class='brand']/text()"
+    ]
+    
+  product_name:
+    css: [
+      ".product-name",
+      ".review-title",
+      "h1 .name",
+      ".review-header .name"
+    ]
+    xpath: [
+      "//div[@class='review-header']//span[@class='name']/text()",
+      "//h1//span[@class='name']/text()",
+      "//h1/text()"
+    ]
+    
+  # Composition/Ingredients
+  ingredients:
+    css: [
+      ".composition",
+      ".ingredients",
+      ".ingredients-list",
+      "#composition",
+      "div:contains('Composition') + div",
+      "h3:contains('Composition') + p"
+    ]
+    xpath: [
+      "//h3[contains(text(),'Composition')]/following-sibling::p[1]/text()",
+      "//div[contains(@class,'composition')]/text()",
+      "//div[@id='composition']/text()"
+    ]
+    patterns:
+      - regex: "Composition:?\\s*([^.]+)"
+        extract_group: 1
+    
+  # Analytical constituents table
+  nutrition:
+    # Look for table or text sections containing analytical data
+    table_css: [
+      "table.analytical",
+      ".analytical-constituents table",
+      "table:contains('Protein')",
+      "#analytical table"
+    ]
+    table_xpath: [
+      "//table[contains(.,'Protein')]",
+      "//div[contains(@class,'analytical')]//table"
+    ]
+    # Also try text-based extraction
+    text_css: [
+      ".analytical-constituents",
+      ".typical-analysis",
+      "#analytical",
+      "div:contains('Analytical Constituent')",
+      "div:contains('Analytical Composition')",
+      "div:contains('Typical Analysis')"
+    ]
+    text_xpath: [
+      "//h3[contains(text(),'Analytical')]/following-sibling::*[1]",
+      "//div[contains(text(),'Analytical Constituent')]",
+      "//div[contains(@class,'analytical')]"
+    ]
+    
+    # Field patterns for extraction
+    fields:
+      protein:
+        patterns: 
+          - "(?:Crude\\s+)?Protein:?\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+          - "Protein\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+        aliases: ["Crude Protein", "Protein"]
+        
+      fat:
+        patterns:
+          - "(?:Crude\\s+)?(?:Fat|Oil(?:s)?\\s*(?:&|and)?\\s*Fat(?:s)?):?\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+          - "Fat\\s*(?:Content)?:?\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+          - "Oil\\s*&\\s*Fat:?\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+        aliases: ["Crude Fat", "Fat", "Fat/Oil", "Oil & Fat", "Oils and Fats"]
+        
+      fiber:
+        patterns:
+          - "(?:Crude\\s+)?Fib(?:re|er):?\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+          - "Fib(?:re|er)\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+        aliases: ["Crude Fibre", "Crude Fiber", "Fibre", "Fiber"]
+        
+      ash:
+        patterns:
+          - "(?:Crude\\s+)?Ash:?\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+          - "Ash\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+        aliases: ["Crude Ash", "Ash", "Inorganic Matter"]
+        
+      moisture:
+        patterns:
+          - "Moisture:?\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+          - "Water:?\\s*(\\d+(?:\\.\\d+)?)\\s*%"
+        aliases: ["Moisture", "Water", "Humidity"]
+        
+      energy:
+        patterns:
+          - "(\\d+(?:\\.\\d+)?)\\s*kcal(?:/100g)?"
+          - "Energy:?\\s*(\\d+(?:\\.\\d+)?)\\s*kcal"
+          - "(\\d+(?:\\.\\d+)?)\\s*kJ(?:/kg)?"
+        unit_conversion:
+          kj_to_kcal: 0.239006  # 1 kJ = 0.239 kcal
+          per_kg_to_per_100g: 0.1  # /kg to /100g
+  
+  # Form (dry/wet/raw/etc)
+  form:
+    css: [
+      ".food-type",
+      ".product-type",
+      "span:contains('Type:')",
+      ".review-info .type"
+    ]
+    xpath: [
+      "//span[contains(text(),'Type:')]/following-sibling::span/text()",
+      "//div[@class='food-type']/text()"
+    ]
+    patterns:
+      - regex: "(?i)(dry|kibble)"
+        value: "dry"
+      - regex: "(?i)(wet|can|pouch|tin)"
+        value: "wet"
+      - regex: "(?i)(raw|freeze[- ]?dried|frozen)"
+        value: "raw"
+      - regex: "(?i)(air[- ]?dried)"
+        value: "air-dried"
+      - regex: "(?i)(vet|veterinary|prescription)"
+        value: "vet"
+  
+  # Life stage
+  life_stage:
+    css: [
+      ".life-stage",
+      ".suitable-for",
+      "span:contains('Suitable for:')",
+      ".review-info .stage"
+    ]
+    xpath: [
+      "//span[contains(text(),'Suitable for:')]/following-sibling::span/text()",
+      "//div[@class='life-stage']/text()"
+    ]
+    patterns:
+      - regex: "(?i)(puppy|junior)"
+        value: "puppy"
+      - regex: "(?i)(adult)"
+        value: "adult"
+      - regex: "(?i)(senior|mature)"
+        value: "senior"
+      - regex: "(?i)(all\\s*life|all\\s*stage)"
+        value: "all"
+  
+  # Rating score (if present)
+  rating:
+    css: [
+      ".rating-score",
+      ".overall-rating",
+      ".score",
+      "span.rating"
+    ]
+    xpath: [
+      "//div[@class='rating']//span[@class='score']/text()",
+      "//div[@class='overall-rating']/text()"
+    ]
+    patterns:
+      - regex: "(\d+(?:\.\d+)?)\s*(?:/|out of)?\s*(?:5|100)"
+        extract_group: 1
+  
+  # Notes/flags (grain-free, hypoallergenic, etc)
+  notes:
+    css: [
+      ".product-flags",
+      ".special-properties",
+      ".features",
+      "div:contains('grain-free')",
+      "div:contains('hypoallergenic')"
+    ]
+    xpath: [
+      "//div[contains(@class,'features')]//text()",
+      "//div[contains(text(),'grain-free')]",
+      "//div[contains(text(),'hypoallergenic')]"
+    ]
+    patterns:
+      - regex: "(?i)(grain[- ]?free|hypoallergenic|single[- ]?protein|limited[- ]?ingredient)"
+        extract_all: true
+
+# URL patterns for finding products
+crawl_patterns:
+  # Starting points for crawling
+  directory_urls:
+    - "/the-dog-food-directory"
+    - "/dog-food-directory"
+    
+  # Product URL patterns
+  product_url_patterns:
+    - r"/dog-food-reviews/\d+/.*"
+    - r"/reviews/\d+/.*"
+    
+  # Pagination
+  pagination:
+    param: "page"
+    css_next: ["a.next", ".pagination .next", "a:contains('Next')"]
+    xpath_next: ["//a[contains(@class,'next')]/@href"]
+
+# Data normalization rules
+normalization:
+  # Convert decimal commas to dots
+  decimal_separator: "."
+  
+  # Atwater factors for estimating kcal when missing
+  atwater_factors:
+    protein: 3.5  # kcal per gram
+    fat: 8.5      # kcal per gram
+    carbs: 3.5    # kcal per gram (if calculable)
+    
+  # Normalize "Oil & Fat" variations to "fat"
+  field_mappings:
+    "Oil & Fat": "fat"
+    "Oils and Fats": "fat"
+    "Fat/Oil": "fat"
+    "Fats": "fat"

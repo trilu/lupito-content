@@ -1,0 +1,12 @@
+# All About Dog Food - Seed URLs for testing
+# Format: one URL per line, comments start with #
+# These are actual product review URLs from AADF
+
+# Real URLs found via search
+https://www.allaboutdogfood.co.uk/dog-food-reviews/0666/canagan-dry-all-breeds
+
+# TODO: Need more real AADF review URLs
+# Pattern: https://www.allaboutdogfood.co.uk/dog-food-reviews/[ID]/[product-name]
+# Brand pages show all products: 
+# https://www.allaboutdogfood.co.uk/dog-food-brands/1/acana
+# https://www.allaboutdogfood.co.uk/dog-food-brands/0097/canagan

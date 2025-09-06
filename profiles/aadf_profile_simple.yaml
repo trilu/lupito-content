@@ -1,0 +1,170 @@
+# All About Dog Food (AADF) scraping profile - Simplified version
+# HTML-only scraping with polite rate limiting
+
+domain: allaboutdogfood.co.uk
+base_url: https://www.allaboutdogfood.co.uk
+
+# Mode: HTML-only as per requirements
+mode: html
+
+# Rate limiting settings (polite: 1 request per 2 seconds)
+rate_limit:
+  requests_per_second: 0.5
+  default_delay_ms: 2000  # 2 seconds between requests
+  jitter_ms: 300  # ±300ms random jitter
+  
+# User agent for requests
+user_agent: "Mozilla/5.0 (compatible; LupitoBot/1.0; +https://lupito.app; respects robots.txt)"
+
+# Currency conversion rates (updated for GBP to EUR)
+currency_rates:
+  conversion_date: "2024-01-01"
+  EUR: 1.0
+  GBP: 1.17  # 1 GBP = 1.17 EUR
+
+# Selectors for product detail pages
+selectors:
+  # Product identity
+  brand:
+    css: 
+      - ".product-brand"
+      - ".brand-name" 
+      - "h1 .brand"
+      - ".review-header .brand"
+    xpath: 
+      - "//div[@class='review-header']//span[@class='brand']/text()"
+      - "//h1//span[@class='brand']/text()"
+    
+  product_name:
+    css:
+      - ".product-name"
+      - ".review-title"
+      - "h1 .name"
+      - ".review-header .name"
+    xpath:
+      - "//div[@class='review-header']//span[@class='name']/text()"
+      - "//h1//span[@class='name']/text()"
+      - "//h1/text()"
+    
+  # Composition/Ingredients
+  ingredients:
+    css:
+      - ".composition"
+      - ".ingredients"
+      - ".ingredients-list"
+      - "#composition"
+      - "div:contains('Composition') + div"
+      - "h3:contains('Composition') + p"
+    xpath:
+      - "//h3[contains(text(),'Composition')]/following-sibling::p[1]/text()"
+      - "//div[contains(@class,'composition')]/text()"
+      - "//div[@id='composition']/text()"
+    
+  # Analytical constituents - use simplified approach
+  nutrition:
+    # Look for table or text sections containing analytical data
+    table_css:
+      - "table.analytical"
+      - ".analytical-constituents table"
+      - "table:contains('Protein')"
+      - "#analytical table"
+    table_xpath:
+      - "//table[contains(.,'Protein')]"
+      - "//div[contains(@class,'analytical')]//table"
+    # Also try text-based extraction
+    text_css:
+      - ".analytical-constituents"
+      - ".typical-analysis"
+      - "#analytical"
+      - "div:contains('Analytical Constituent')"
+      - "div:contains('Analytical Composition')"
+      - "div:contains('Typical Analysis')"
+    text_xpath:
+      - "//h3[contains(text(),'Analytical')]/following-sibling::*[1]"
+      - "//div[contains(text(),'Analytical Constituent')]"
+      - "//div[contains(@class,'analytical')]"
+  
+  # Form (dry/wet/raw/etc)
+  form:
+    css:
+      - ".food-type"
+      - ".product-type"
+      - "span:contains('Type:')"
+      - ".review-info .type"
+    xpath:
+      - "//span[contains(text(),'Type:')]/following-sibling::span/text()"
+      - "//div[@class='food-type']/text()"
+  
+  # Life stage
+  life_stage:
+    css:
+      - ".life-stage"
+      - ".suitable-for"
+      - "span:contains('Suitable for:')"
+      - ".review-info .stage"
+    xpath:
+      - "//span[contains(text(),'Suitable for:')]/following-sibling::span/text()"
+      - "//div[@class='life-stage']/text()"
+  
+  # Rating score (if present)
+  rating:
+    css:
+      - ".rating-score"
+      - ".overall-rating"
+      - ".score"
+      - "span.rating"
+    xpath:
+      - "//div[@class='rating']//span[@class='score']/text()"
+      - "//div[@class='overall-rating']/text()"
+  
+  # Notes/flags (grain-free, hypoallergenic, etc)
+  notes:
+    css:
+      - ".product-flags"
+      - ".special-properties"
+      - ".features"
+      - "div:contains('grain-free')"
+      - "div:contains('hypoallergenic')"
+    xpath:
+      - "//div[contains(@class,'features')]//text()"
+      - "//div[contains(text(),'grain-free')]"
+      - "//div[contains(text(),'hypoallergenic')]"
+
+# URL patterns for finding products
+crawl_patterns:
+  # Starting points for crawling
+  directory_urls:
+    - "/the-dog-food-directory"
+    - "/dog-food-directory"
+    
+  # Product URL patterns (will be handled in code)
+  product_url_patterns:
+    - "/dog-food-reviews/"
+    
+  # Pagination
+  pagination:
+    param: "page"
+    css_next: 
+      - "a.next"
+      - ".pagination .next"
+      - "a:contains('Next')"
+    xpath_next: 
+      - "//a[contains(@class,'next')]/@href"
+
+# Data normalization rules
+normalization:
+  # Convert decimal commas to dots
+  decimal_separator: "."
+  
+  # Atwater factors for estimating kcal when missing
+  atwater_factors:
+    protein: 3.5  # kcal per gram
+    fat: 8.5      # kcal per gram
+    carbs: 3.5    # kcal per gram (if calculable)
+    
+  # Field mappings for normalization
+  field_mappings:
+    "Oil & Fat": "fat"
+    "Oils and Fats": "fat"
+    "Fat/Oil": "fat"
+    "Fats": "fat"
