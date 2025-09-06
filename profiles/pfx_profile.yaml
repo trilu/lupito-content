@@ -24,6 +24,63 @@ currency_rates:
   DKK: 0.134
   NOK: 0.085
 
+# API configuration (preferred over HTML scraping)
+api:
+  mode: auto  # Try API first, fallback to HTML if needed
+  
+  # API endpoints
+  endpoints:
+    detail: "https://petfoodexpert.com/api/products/{slug}"
+    list: "https://petfoodexpert.com/api/products?species=dog&page={page}"
+  
+  # Required headers for API requests
+  headers:
+    accept: "application/json"
+    referer: "https://petfoodexpert.com/"
+    origin: "https://petfoodexpert.com"
+  
+  # Pagination configuration
+  pagination:
+    type: "page"
+    page_param: "page"
+    per_page_fixed: 20
+  
+  # JSON path mapping to our schema
+  mapping:
+    # Product identity
+    brand_path: "data.brand.name"  # EDIT ME: Verify brand path in actual response
+    name_path: "data.name"  # EDIT ME: Verify product name path
+    
+    # Food characteristics
+    ingredients_path: "data.food.ingredients"  # EDIT ME: Check ingredients location
+    form_path: "data.food.moisture_level"  # EDIT ME: Returns "Dry"/"Wet" - map to our forms
+    life_stage_path: "data.animal.life_stage.string"  # EDIT ME: Returns "All Life Stages", "Adult", etc.
+    
+    # Pack sizes and pricing
+    packs_path: "data.variations"  # EDIT ME: Array with weight_label and variation_price
+    price_currency_path: "data.cost.day"  # EDIT ME: Parse "£1.51" format
+    
+    # Nutrition data - NOT AVAILABLE IN JSON
+    protein_pct_path: null  # EDIT ME: Not in JSON - need HTML fallback
+    fat_pct_path: null  # EDIT ME: Not in JSON - need HTML fallback
+    energy_kcal_path: null  # EDIT ME: Not in JSON - need HTML fallback or calculation
+    fiber_pct_path: null  # EDIT ME: Not in JSON - need HTML fallback
+    ash_pct_path: null  # EDIT ME: Not in JSON - need HTML fallback
+    moisture_pct_path: null  # EDIT ME: Not in JSON - need HTML fallback
+    
+    # Additional metadata
+    gtin_path: null  # EDIT ME: Not available in JSON
+    image_path: "data.packaging.original_url"  # EDIT ME: Product image URL
+    
+    # Useful flags from checklist
+    grain_free_path: "data.checklist.grain_free"  # EDIT ME: Returns "Y"/"N"
+    wheat_free_path: "data.checklist.wheat_free"  # EDIT ME: Returns "Y"/"N"
+  
+  # API constraints
+  constraints:
+    rate_limit_ms: 800  # Minimum delay between API requests
+    max_per_run: 100  # Maximum items to fetch in one run
+
 # Selectors for product detail pages
 selectors:
   # Product identity
