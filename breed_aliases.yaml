@@ -1,0 +1,113 @@
+# Breed Aliases for Canonical Slug Generation
+# Maps common breed names and variations to canonical slugs
+
+# Format: canonical_slug -> [list of aliases]
+# The first alias is used as display_name
+
+golden-retriever:
+  - "Golden Retriever"
+  - "Golden"
+  - "Golden Ret"
+  
+labrador-retriever:
+  - "Labrador Retriever" 
+  - "Labrador"
+  - "Lab"
+  - "Labs"
+  
+german-shepherd:
+  - "German Shepherd"
+  - "GSD"
+  - "German Shepherd Dog"
+  - "Alsatian"
+  
+border-collie:
+  - "Border Collie"
+  - "Border"
+  - "BC"
+  
+bulldog:
+  - "Bulldog"
+  - "English Bulldog"
+  - "Bull Dog"
+  
+french-bulldog:
+  - "French Bulldog"
+  - "Frenchie"
+  - "French Bull"
+  - "Bouledogue Français"
+  
+poodle:
+  - "Poodle"
+  - "Standard Poodle"
+  - "Caniche"
+  
+beagle:
+  - "Beagle"
+  - "Beagles"
+  
+rottweiler:
+  - "Rottweiler"
+  - "Rottie"
+  - "Rotty"
+  - "Rott"
+  
+yorkshire-terrier:
+  - "Yorkshire Terrier"
+  - "Yorkie" 
+  - "York"
+  - "Yorkshire"
+  
+dachshund:
+  - "Dachshund"
+  - "Wiener Dog"
+  - "Sausage Dog"
+  - "Teckel"
+  - "Dackel"
+  
+siberian-husky:
+  - "Siberian Husky"
+  - "Husky"
+  - "Sibe"
+  
+shih-tzu:
+  - "Shih Tzu"
+  - "Shih-Tzu"
+  - "Chrysanthemum Dog"
+  
+boston-terrier:
+  - "Boston Terrier"
+  - "Boston"
+  - "American Gentleman"
+  
+great-dane:
+  - "Great Dane"
+  - "Dane"
+  - "German Mastiff"
+  - "Apollo of Dogs"
+  
+chihuahua:
+  - "Chihuahua"
+  - "Chi"
+  - "Chihuahueño"
+  
+pomeranian:
+  - "Pomeranian"
+  - "Pom"
+  - "Zwergspitz"
+  
+australian-shepherd:
+  - "Australian Shepherd"  
+  - "Aussie"
+  - "Aussie Shepherd"
+  
+cocker-spaniel:
+  - "Cocker Spaniel"
+  - "American Cocker Spaniel"
+  - "English Cocker Spaniel"
+  - "Cocker"
+  
+mastiff:
+  - "Mastiff"
+  - "English Mastiff"
+  - "Old English Mastiff"
