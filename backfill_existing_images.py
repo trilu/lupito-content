@@ -74,31 +74,32 @@ class PFXImageBackfill:
     def extract_image_url(self, product_url: str, soup: BeautifulSoup) -> Optional[str]:
         """Extract product image URL from HTML"""
         try:
-            # Extract slug from product URL
-            slug = product_url.split('/food/')[-1]
+            # Method 1: Meta tag with itemprop="image" (most reliable)
+            meta = soup.find('meta', {'itemprop': 'image'})
+            if meta and meta.get('content'):
+                image_url = meta.get('content')
+                if image_url and 'packshots' in image_url:
+                    return image_url
             
-            # Look for image ID in the HTML
-            img_elements = soup.find_all('img', {'data-src': True})
-            for img in img_elements:
-                data_src = img.get('data-src', '')
-                if slug in data_src and 'packshots' in data_src and 'thumb--md.jpg' in data_src:
-                    return data_src
-            
-            # Fallback: look for standard img src
+            # Method 2: Direct img tag with packshots in src
             img_elements = soup.find_all('img', {'src': True})
             for img in img_elements:
                 src = img.get('src', '')
-                if slug in src and 'packshots' in src:
+                if 'packshots' in src and '.jpg' in src and 'flags' not in src:
                     return src
             
-            # Look for any packshot URL patterns to get the ID
-            all_text = str(soup)
+            # Method 3: Regex search for any packshot URL pattern
             import re
-            packshot_match = re.search(r'packshots/(\d+)/', all_text)
+            packshot_match = re.search(r'https://petfoodexpert\.com/packshots/\d+/[^"]+\.jpg', str(soup))
             if packshot_match:
-                image_id = packshot_match.group(1)
-                constructed_url = f"https://petfoodexpert.com/packshots/{image_id}/conversions/{slug}-thumb--md.jpg"
-                return constructed_url
+                return packshot_match.group()
+            
+            # Method 4: Look for data-src attribute (less common)
+            img_elements = soup.find_all('img', {'data-src': True})
+            for img in img_elements:
+                data_src = img.get('data-src', '')
+                if 'packshots' in data_src and '.jpg' in data_src:
+                    return data_src
             
             return None
             
@@ -136,13 +137,14 @@ class PFXImageBackfill:
             self.stats['images_downloaded'] += 1
             print(f"    📦 Downloaded {len(response.content)} bytes")
             
-            # Upload to Supabase storage
+            # Upload to Supabase storage (with upsert to handle existing files)
             upload_result = self.supabase.storage.from_(self.config['storage_bucket']).upload(
                 filename,
                 response.content,
                 file_options={
                     'content-type': 'image/jpeg',
-                    'cache-control': '3600'
+                    'cache-control': '3600',
+                    'upsert': 'true'
                 }
             )
             
