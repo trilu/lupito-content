@@ -1,0 +1,22 @@
+[
+  {
+    "breed_slug": "golden-retriever",
+    "display_name": "Golden Retriever",
+    "akc_url": "https://www.akc.org/dog-breeds/golden-retriever/",
+    "extraction_timestamp": "2025-09-07T19:39:30.339577",
+    "extraction_status": "success",
+    "has_physical_data": false,
+    "has_profile_data": true,
+    "about": "Home Dog Breeds Golden Retriever Back To Dog Breeds",
+    "personality": "",
+    "health": "",
+    "care": "",
+    "feeding": "",
+    "grooming": "",
+    "exercise": "",
+    "training": "Golden Retriever The Golden Retriever, an exuberant Scottish gundog of great beauty, stands among America’s most popular dog breeds. They are serious workers at hunting and field work, as guides for the blind, and in search-and-rescue, enjoy obedience and other competitive events, and have an endearing love of life when not at work. The Golden Retriever, an exuberant Scottish gundog of great beauty, stands among America’s most popular dog breeds. They are serious workers at hunting and field work, as guides for the blind, and in search-and-rescue, enjoy obedience and other competitive events, and have an endearing love of life when not at work.",
+    "history": "",
+    "scraping_method": "scrapingbee",
+    "scrapingbee_cost": 5
+  }
+]
