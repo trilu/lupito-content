@@ -1,0 +1,161 @@
+breed_name,breed_slug,status,has_size,has_weight,has_height,has_lifespan,source
+Alaskan Klee Kai,alaskan-klee-kai,new,False,False,False,False,akc.org
+Alaskan Malamute,alaskan-malamute,new,False,False,False,False,akc.org
+American Bulldog,american-bulldog,new,False,False,False,False,akc.org
+American Eskimo Dog,american-eskimo-dog,new,False,False,False,False,akc.org
+American Water Spaniel,american-water-spaniel,new,False,False,False,False,akc.org
+Anatolian Shepherd Dog,anatolian-shepherd-dog,updated,False,False,False,False,akc.org
+Appenzeller Sennenhund,appenzeller-sennenhund,updated,False,False,False,False,akc.org
+Australian Cattle Dog,australian-cattle-dog,updated,False,False,False,False,akc.org
+Australian Kelpie,australian-kelpie,updated,False,False,False,False,akc.org
+Australian Shepherd,australian-shepherd,updated,False,False,False,False,akc.org
+Australian Stumpy Tail Cattle Dog,australian-stumpy-tail-cattle-dog,new,False,False,False,False,akc.org
+Barbado Da Terceira,barbado-da-terceira,new,False,False,False,False,akc.org
+Basset Fauve De Bretagne,basset-fauve-de-bretagne,new,False,False,False,False,akc.org
+Bearded Collie,bearded-collie,new,False,False,False,False,akc.org
+Belgian Laekenois,belgian-laekenois,new,False,False,False,False,akc.org
+Belgian Malinois,belgian-malinois,new,False,False,False,False,akc.org
+Belgian Sheepdog,belgian-sheepdog,new,False,False,False,False,akc.org
+Belgian Tervuren,belgian-tervuren,new,False,False,False,False,akc.org
+Bergamasco Sheepdog,bergamasco-sheepdog,new,False,False,False,False,akc.org
+Berger Picard,berger-picard,new,False,False,False,False,akc.org
+Bernese Mountain Dog,bernese-mountain-dog,new,False,False,False,False,akc.org
+Bichon Frise,bichon-frise,new,False,False,False,False,akc.org
+Blue Picardy Spaniel,blue-picardy-spaniel,new,False,False,False,False,akc.org
+Bohemian Shepherd,bohemian-shepherd,new,False,False,False,False,akc.org
+Border Collie,border-collie,new,False,False,False,False,akc.org
+Bouvier De Ardennes,bouvier-de-ardennes,new,False,False,False,False,akc.org
+Bouvier Des Flandres,bouvier-des-flandres,new,False,False,False,False,akc.org
+Boykin Spaniel,boykin-spaniel,new,False,False,False,False,akc.org
+Bracco Italiano,bracco-italiano,new,False,False,False,False,akc.org
+Braque Du Bourbonnais,braque-du-bourbonnais,new,False,False,False,False,akc.org
+Braque Francais Pyrenean,braque-francais-pyrenean,new,False,False,False,False,akc.org
+Braque Saint Germain,braque-saint-germain,new,False,False,False,False,akc.org
+Brussels Griffon,brussels-griffon,new,False,False,False,False,akc.org
+Canaan Dog,canaan-dog,new,False,False,False,False,akc.org
+Canadian Eskimo Dog,canadian-eskimo-dog,new,False,False,False,False,akc.org
+Cane Corso,cane-corso,new,False,False,False,False,akc.org
+Cardigan Welsh Corgi,cardigan-welsh-corgi,new,False,False,False,False,akc.org
+Carolina Dog,carolina-dog,new,False,False,False,False,akc.org
+Catahoula Leopard Dog,catahoula-leopard-dog,new,False,False,False,False,akc.org
+Caucasian Shepherd Dog,caucasian-shepherd-dog,new,False,False,False,False,akc.org
+Cavalier King Charles Spaniel,cavalier-king-charles-spaniel,new,False,False,False,False,akc.org
+Central Asian Shepherd Dog,central-asian-shepherd-dog,new,False,False,False,False,akc.org
+Chesapeake Bay Retriever,chesapeake-bay-retriever,new,False,False,False,False,akc.org
+Chinese Crested,chinese-crested,new,False,False,False,False,akc.org
+Chinese Shar Pei,chinese-shar-pei,new,False,False,False,False,akc.org
+Chow Chow,chow-chow,new,False,False,False,False,akc.org
+Cirneco Delletna,cirneco-delletna,new,False,False,False,False,akc.org
+Clumber Spaniel,clumber-spaniel,new,False,False,False,False,akc.org
+Cocker Spaniel,cocker-spaniel,new,False,False,False,False,akc.org
+Coton De Tulear,coton-de-tulear,new,False,False,False,False,akc.org
+Croatian Sheepdog,croatian-sheepdog,new,False,False,False,False,akc.org
+Curly Coated Retriever,curly-coated-retriever,new,False,False,False,False,akc.org
+Czechoslovakian Vlciak,czechoslovakian-vlciak,new,False,False,False,False,akc.org
+Danish Swedish Farmdog,danish-swedish-farmdog,new,False,False,False,False,akc.org
+Deutscher Wachtelhund,deutscher-wachtelhund,new,False,False,False,False,akc.org
+Doberman Pinscher,doberman-pinscher,new,False,False,False,False,akc.org
+Dogo Argentino,dogo-argentino,new,False,False,False,False,akc.org
+Dogue De Bordeaux,dogue-de-bordeaux,new,False,False,False,False,akc.org
+Drentsche Patrijshond,drentsche-patrijshond,new,False,False,False,False,akc.org
+Dutch Shepherd,dutch-shepherd,new,False,False,False,False,akc.org
+English Cocker Spaniel,english-cocker-spaniel,new,False,False,False,False,akc.org
+English Setter,english-setter,new,False,False,False,False,akc.org
+English Springer Spaniel,english-springer-spaniel,new,False,False,False,False,akc.org
+Entlebucher Mountain Dog,entlebucher-mountain-dog,new,False,False,False,False,akc.org
+Estrela Mountain Dog,estrela-mountain-dog,new,False,False,False,False,akc.org
+Field Spaniel,field-spaniel,new,False,False,False,False,akc.org
+Finnish Lapphund,finnish-lapphund,new,False,False,False,False,akc.org
+Finnish Spitz,finnish-spitz,new,False,False,False,False,akc.org
+Flat Coated Retriever,flat-coated-retriever,new,False,False,False,False,akc.org
+French Bulldog,french-bulldog,new,False,False,False,False,akc.org
+French Spaniel,french-spaniel,new,False,False,False,False,akc.org
+German Longhaired Pointer,german-longhaired-pointer,new,False,False,False,False,akc.org
+German Pinscher,german-pinscher,new,False,False,False,False,akc.org
+German Shepherd Dog,german-shepherd-dog,new,False,False,False,True,akc.org
+German Shorthaired Pointer,german-shorthaired-pointer,new,False,False,False,False,akc.org
+German Spitz,german-spitz,new,False,False,False,False,akc.org
+German Wirehaired Pointer,german-wirehaired-pointer,new,False,False,False,False,akc.org
+Giant Schnauzer,giant-schnauzer,new,False,False,False,False,akc.org
+Golden Retriever,golden-retriever,new,False,False,False,True,akc.org
+Gordon Setter,gordon-setter,new,False,False,False,False,akc.org
+Grand Basset Griffon Vendeen,grand-basset-griffon-vendeen,new,False,False,False,False,akc.org
+Great Dane,great-dane,new,False,False,False,False,akc.org
+Great Pyrenees,great-pyrenees,new,False,False,False,False,akc.org
+Greater Swiss Mountain Dog,greater-swiss-mountain-dog,new,False,False,False,False,akc.org
+Hairless Dog Breeds,hairless-dog-breeds,new,False,False,False,False,akc.org
+Icelandic Sheepdog,icelandic-sheepdog,new,False,False,False,False,akc.org
+Irish Red And White Setter,irish-red-and-white-setter,new,False,False,False,False,akc.org
+Irish Setter,irish-setter,new,False,False,False,False,akc.org
+Irish Water Spaniel,irish-water-spaniel,new,False,False,False,False,akc.org
+Japanese Akitainu,japanese-akitainu,new,False,False,False,False,akc.org
+Japanese Chin,japanese-chin,new,False,False,False,False,akc.org
+Japanese Spitz,japanese-spitz,new,False,False,False,False,akc.org
+Kai Ken,kai-ken,new,False,False,False,False,akc.org
+Karelian Bear Dog,karelian-bear-dog,new,False,False,False,False,akc.org
+Kishu Ken,kishu-ken,new,False,False,False,False,akc.org
+Korean Jindo Dog,korean-jindo-dog,new,False,False,False,False,akc.org
+Labrador Retriever,labrador-retriever,new,False,False,False,True,akc.org
+Lagotto Romagnolo,lagotto-romagnolo,new,False,False,False,False,akc.org
+Lancashire Heeler,lancashire-heeler,new,False,False,False,False,akc.org
+Lapponian Herder,lapponian-herder,new,False,False,False,False,akc.org
+Lhasa Apso,lhasa-apso,new,False,False,False,False,akc.org
+Miniature American Shepherd,miniature-american-shepherd,new,False,False,False,False,akc.org
+Miniature Pinscher,miniature-pinscher,new,False,False,False,False,akc.org
+Miniature Schnauzer,miniature-schnauzer,new,False,False,False,False,akc.org
+Mountain Cur,mountain-cur,new,False,False,False,False,akc.org
+Neapolitan Mastiff,neapolitan-mastiff,new,False,False,False,False,akc.org
+Nederlandse Kooikerhondje,nederlandse-kooikerhondje,new,False,False,False,False,akc.org
+Norwegian Buhund,norwegian-buhund,new,False,False,False,False,akc.org
+Norwegian Lundehund,norwegian-lundehund,new,False,False,False,False,akc.org
+Nova Scotia Duck Tolling Retriever,nova-scotia-duck-tolling-retriever,new,False,False,False,False,akc.org
+Old English Sheepdog,old-english-sheepdog,new,False,False,False,False,akc.org
+Pembroke Welsh Corgi,pembroke-welsh-corgi,new,False,False,False,False,akc.org
+Peruvian Inca Orchid,peruvian-inca-orchid,new,False,False,False,False,akc.org
+Petit Basset Griffon Vendeen,petit-basset-griffon-vendeen,new,False,False,False,False,akc.org
+Polish Lowland Sheepdog,polish-lowland-sheepdog,new,False,False,False,False,akc.org
+Pont Audemer Spaniel,pont-audemer-spaniel,new,False,False,False,False,akc.org
+Poodle Miniature,poodle-miniature,new,False,False,False,False,akc.org
+Poodle Standard,poodle-standard,new,False,False,False,False,akc.org
+Portuguese Podengo Pequeno,portuguese-podengo-pequeno,new,False,False,False,False,akc.org
+Portuguese Podengo,portuguese-podengo,new,False,False,False,False,akc.org
+Portuguese Pointer,portuguese-pointer,new,False,False,False,False,akc.org
+Portuguese Sheepdog,portuguese-sheepdog,new,False,False,False,False,akc.org
+Portuguese Water Dog,portuguese-water-dog,new,False,False,False,False,akc.org
+Presa Canario,presa-canario,new,False,False,False,False,akc.org
+Pyrenean Mastiff,pyrenean-mastiff,new,False,False,False,False,akc.org
+Pyrenean Shepherd,pyrenean-shepherd,new,False,False,False,False,akc.org
+Rafeiro Do Alentejo,rafeiro-do-alentejo,new,False,False,False,False,akc.org
+Rhodesian Ridgeback,rhodesian-ridgeback,new,False,False,False,False,akc.org
+Romanian Carpathian Shepherd,romanian-carpathian-shepherd,new,False,False,False,False,akc.org
+Romanian Mioritic Shepherd Dog,romanian-mioritic-shepherd-dog,new,False,False,False,False,akc.org
+Russian Tsvetnaya Bolonka,russian-tsvetnaya-bolonka,new,False,False,False,False,akc.org
+Segugio Italiano,segugio-italiano,new,False,False,False,False,akc.org
+Shetland Sheepdog,shetland-sheepdog,new,False,False,False,False,akc.org
+Shiba Inu,shiba-inu,new,False,False,False,False,akc.org
+Shih Tzu,shih-tzu,new,False,False,False,False,akc.org
+Siberian Husky,siberian-husky,new,False,False,False,False,akc.org
+Slovakian Wirehaired Pointer,slovakian-wirehaired-pointer,new,False,False,False,False,akc.org
+Slovensky Cuvac,slovensky-cuvac,new,False,False,False,False,akc.org
+Slovensky Kopov,slovensky-kopov,new,False,False,False,False,akc.org
+Smartest Breeds Of Dog,smartest-breeds-of-dog,new,False,False,False,False,akc.org
+Smartest Dogs,smartest-dogs,new,False,False,False,False,akc.org
+Spanish Mastiff,spanish-mastiff,new,False,False,False,False,akc.org
+Spanish Water Dog - Dog Breed Information,spanish-water-dog,new,False,False,False,False,akc.org
+Spinone Italiano,spinone-italiano,new,False,False,False,False,akc.org
+St Bernard,st-bernard,new,False,False,False,False,akc.org
+Standard Schnauzer,standard-schnauzer,new,False,False,False,False,akc.org
+Sussex Spaniel,sussex-spaniel,new,False,False,False,False,akc.org
+Swedish Lapphund,swedish-lapphund,new,False,False,False,False,akc.org
+Swedish Vallhund,swedish-vallhund,new,False,False,False,False,akc.org
+Taiwan Dog,taiwan-dog,new,False,False,False,False,akc.org
+Thai Bangkaew,thai-bangkaew,new,False,False,False,False,akc.org
+Thai Ridgeback,thai-ridgeback,new,False,False,False,False,akc.org
+Tibetan Mastiff,tibetan-mastiff,new,False,False,False,False,akc.org
+Tibetan Spaniel,tibetan-spaniel,new,False,False,False,False,akc.org
+Treeing Tennessee Brindle,treeing-tennessee-brindle,new,False,False,False,False,akc.org
+Volpino Italiano,volpino-italiano,new,False,False,False,False,akc.org
+Welsh Springer Spaniel,welsh-springer-spaniel,new,False,False,False,False,akc.org
+Wirehaired Pointing Griffon,wirehaired-pointing-griffon,new,False,False,False,False,akc.org
+Wirehaired Vizsla,wirehaired-vizsla,new,False,False,False,False,akc.org
+Yakutian Laika,yakutian-laika,new,False,False,False,False,akc.org
