@@ -1,0 +1,21 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+# Copy requirements file
+COPY requirements.txt .
+
+# Install Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the universal web scraper
+COPY universal_web_scraper.py .
+
+# Set environment variables
+ENV PYTHONUNBUFFERED=1
+
+# Expose port 8080
+EXPOSE 8080
+
+# Run the Flask web service
+CMD ["python3", "universal_web_scraper.py"]

@@ -5,3 +5,4 @@ pyyaml>=6.0
 python-dotenv>=1.0.0
 supabase>=2.0.0
 google-cloud-storage>=2.10.0
+flask>=2.3.0
