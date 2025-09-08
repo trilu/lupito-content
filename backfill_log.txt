@@ -1,0 +1,40 @@
+/Users/sergiubiris/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+🚀 Starting PFX Image Backfill
+============================================================
+🔍 Finding products without images...
+📊 Found 907 products without images
+
+📋 Processing 907 products...
+============================================================
+
+[1/907]   📦 Applaws Applaws Adult Chicken
+    📥 Downloading: https://petfoodexpert.com/packshots/22/applaws-adult-chicken-dry-dog.jpg
+    📦 Downloaded 57238 bytes
+    ❌ Image processing failed: {'statusCode': 409, 'error': Duplicate, 'message': The resource already exists}
+
+[2/907]   📦 Sainsburys Natures Goodness Senior Dog Terrine with Fresh Salmon  Vegetables
+    📥 Downloading: https://petfoodexpert.com/packshots/2752/sainsburys-hypoallergenic-recipe-senior-dog-terrine-with-fresh-salmon-vegetables.jpg
+    📦 Downloaded 708921 bytes
+    ✅ Uploaded: https://cibjeqgftuxuezarjsdl.supabase.co/storage/v1/object/public/dog-food/sainsbury-s-hypoallergenic-recipe-senior-dog-terrine-with-fresh-salmon-vegetables.jpg?
+    ✅ Updated database
+
+[3/907]   📦 Sainsburys Natures Goodness Adult Lamb
+    📥 Downloading: https://petfoodexpert.com/packshots/2759/sainsburys-natures-goodness-adult-lamb.jpg
+    📦 Downloaded 391013 bytes
+    ✅ Uploaded: https://cibjeqgftuxuezarjsdl.supabase.co/storage/v1/object/public/dog-food/sainsbury-s-nature-s-goodness-adult-lamb.jpg?
+    ✅ Updated database
+
+[4/907]   📦 Acana Acana Puppy Small Breed Recipe
+    📥 Downloading: https://petfoodexpert.com/packshots/3390/acana-puppy-small-breed-recipe.jpg
+    📦 Downloaded 60766 bytes
+    ✅ Uploaded: https://cibjeqgftuxuezarjsdl.supabase.co/storage/v1/object/public/dog-food/acana-puppy-small-breed-recipe-dry-dog.jpg?
+    ✅ Updated database
+
+[5/907]   📦 Markus Mühle Black Angus Adult
+    📥 Downloading: https://petfoodexpert.com/packshots/4260/markus-muhle-black-angus-adult.jpg
+    📦 Downloaded 109784 bytes
+    ✅ Uploaded: https://cibjeqgftuxuezarjsdl.supabase.co/storage/v1/object/public/dog-food/markus-muehle-black-angus-adult.jpg?
+    ✅ Updated database
+
+[6/907]   📦 Applaws Applaws Puppy Chicken

@@ -1,0 +1,6 @@
+breed_name,breed_slug,status,has_size,has_weight,has_height,has_lifespan,source
+Alaskan Klee Kai,alaskan-klee-kai,new,False,False,False,False,akc.org
+Alaskan Malamute,alaskan-malamute,updated,False,False,False,False,akc.org
+American Bulldog,american-bulldog,new,False,False,False,False,akc.org
+American Eskimo Dog,american-eskimo-dog,updated,False,False,False,False,akc.org
+American Water Spaniel,american-water-spaniel,updated,False,False,False,False,akc.org

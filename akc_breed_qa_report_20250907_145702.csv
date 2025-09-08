@@ -1,0 +1,6 @@
+breed_name,breed_slug,status,has_size,has_weight,has_height,has_lifespan,source
+Anatolian Shepherd Dog,anatolian-shepherd-dog,new,False,False,False,False,akc.org
+Appenzeller Sennenhund,appenzeller-sennenhund,new,False,False,False,False,akc.org
+Australian Cattle Dog,australian-cattle-dog,new,False,False,False,False,akc.org
+Australian Kelpie,australian-kelpie,new,False,False,False,False,akc.org
+Australian Shepherd,australian-shepherd,new,False,False,False,False,akc.org

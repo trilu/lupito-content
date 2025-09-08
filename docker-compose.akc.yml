@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  akc-scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile.akc
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    environment:
+      - CHROME_BIN=/usr/bin/google-chrome
+      - CHROME_PATH=/usr/bin/google-chrome
+    volumes:
+      - ./data:/app/data  # Optional: for storing outputs
+    restart: unless-stopped
+    
+  # Alternative: Run as one-time job
+  akc-scraper-job:
+    build:
+      context: .
+      dockerfile: Dockerfile.akc
+    env_file:
+      - .env
+    environment:
+      - CHROME_BIN=/usr/bin/google-chrome
+      - CHROME_PATH=/usr/bin/google-chrome
+    command: python3 jobs/akc_cloud_scraper.py --cloud --headless --limit 10
+    profiles:
+      - job  # Only runs when explicitly requested

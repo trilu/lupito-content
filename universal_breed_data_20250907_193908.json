@@ -1,0 +1,20 @@
+[
+  {
+    "breed_slug": "",
+    "akc_url": "https://www.akc.org/dog-breeds/golden-retriever/",
+    "extraction_status": "fetch_failed",
+    "scraping_method": "failed"
+  },
+  {
+    "breed_slug": "",
+    "akc_url": "https://www.akc.org/dog-breeds/german-shepherd-dog/",
+    "extraction_status": "fetch_failed",
+    "scraping_method": "failed"
+  },
+  {
+    "breed_slug": "",
+    "akc_url": "https://www.akc.org/dog-breeds/labrador-retriever/",
+    "extraction_status": "fetch_failed",
+    "scraping_method": "failed"
+  }
+]
