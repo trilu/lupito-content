@@ -1,0 +1,11 @@
+WIKIPEDIA BREED SCRAPING REPORT
+============================================================
+
+Generated: 2025-09-08T12:19:43.346707
+
+STATISTICS:
+Total processed: 5
+Success: 3
+Failed: 2
+Skipped: 0
+Success rate: 60.0%
