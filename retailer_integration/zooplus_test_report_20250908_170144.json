@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-09-08T14:01:44.924560",
+  "connector": "zooplus",
+  "tests": {
+    "brand_search": false,
+    "specific_product": false
+  },
+  "overall_result": false
+}
