@@ -1,0 +1,152 @@
+# Retailer Configuration File
+# Contains settings for each retailer integration
+
+retailers:
+  zooplus:
+    name: "Zooplus"
+    type: "api_first"  # api_first, scraper_only, hybrid
+    active: true
+    priority: 1
+    
+    # API Configuration
+    api:
+      base_url: "https://www.zooplus.com"
+      endpoints:
+        search: "/api/search/products"
+        product: "/api/products/{id}"
+        brands: "/api/brands"
+      rate_limit:
+        requests_per_second: 10
+        burst: 20
+      timeout: 30
+    
+    # Scraper fallback
+    scraper:
+      base_url: "https://www.zooplus.co.uk"
+      use_javascript: false
+      selectors:
+        search_results: "div.product-list"
+        product_name: "h2.product-name"
+        price: "span.price"
+        nutrition: "div.nutritional-info"
+    
+    # Data mapping
+    fields:
+      product_name: "name"
+      brand: "brand.name"
+      price: "price.value"
+      currency: "price.currency"
+      ingredients: "composition"
+      protein: "analyticalConstituents.protein"
+      fat: "analyticalConstituents.fat"
+      fiber: "analyticalConstituents.fiber"
+      ash: "analyticalConstituents.ash"
+      moisture: "analyticalConstituents.moisture"
+      images: "images[].url"
+      in_stock: "availability.inStock"
+      rating: "rating.average"
+      reviews: "rating.count"
+    
+    # Countries served
+    countries: ["UK", "DE", "FR", "IT", "ES", "NL", "BE", "AT", "PL", "CZ", "DK", "SE", "FI", "NO"]
+    default_country: "UK"
+    default_language: "en"
+
+  fressnapf:
+    name: "Fressnapf / Maxi Zoo"
+    type: "hybrid"
+    active: true
+    priority: 2
+    
+    api:
+      base_url: "https://www.fressnapf.de"
+      requires_auth: false
+      rate_limit:
+        requests_per_second: 5
+        burst: 10
+    
+    scraper:
+      base_url: "https://www.fressnapf.de"
+      use_javascript: true  # May need headless browser
+      selectors:
+        search_results: "div.product-grid"
+        product_card: "article.product-card"
+        nutrition_table: "table.nutrition-facts"
+    
+    fields:
+      product_name: "title"
+      brand: "vendor"
+      price: "price"
+      currency: "EUR"
+      ingredients: "description.ingredients"
+      images: "media.images"
+    
+    countries: ["DE", "AT", "CH", "LU"]
+    variants:
+      maxizoo:
+        countries: ["BE", "FR", "IT", "PL", "DK"]
+        base_url: "https://www.maxizoo.{country}"
+
+  bitiba:
+    name: "Bitiba"
+    type: "api_first"
+    active: true
+    priority: 3
+    parent_company: "zooplus"
+    
+    api:
+      base_url: "https://www.bitiba.co.uk"
+      # Similar structure to Zooplus
+    
+    countries: ["UK", "DE", "FR", "IT", "ES", "NL"]
+
+  medpets:
+    name: "Medpets"
+    type: "scraper_only"
+    active: true
+    priority: 4
+    specialty: "veterinary_diets"
+    
+    scraper:
+      base_url: "https://www.medpets.co.uk"
+      use_javascript: false
+    
+    countries: ["UK", "NL", "BE", "DE", "AT"]
+
+  petsathome:
+    name: "Pets at Home"
+    type: "hybrid"
+    active: false  # Already have brand website
+    priority: 5
+    
+    api:
+      base_url: "https://www.petsathome.com"
+      type: "rest"
+    
+    countries: ["UK", "IE"]
+
+# Affiliate Networks
+affiliate_networks:
+  awin:
+    api_url: "https://api.awin.com/publishers"
+    requires_key: true
+    retailers: ["zooplus", "medpets", "bitiba"]
+    
+  webgains:
+    api_url: "https://api.webgains.com/2.0"
+    requires_key: true
+    retailers: ["petsathome"]
+
+# Global Settings
+global:
+  user_agent: "Mozilla/5.0 (compatible; LupitoPetFoodBot/1.0; +https://lupito.app)"
+  max_retries: 3
+  retry_delay: 5  # seconds
+  image_storage:
+    provider: "gcs"
+    bucket: "lupito-content-raw-eu"
+    path: "product-images/retailers/"
+  database:
+    table: "food_candidates_sc"
+    batch_size: 100
+    upsert: true  # Update if exists, insert if new

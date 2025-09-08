@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-09-08T14:02:54.639853",
+  "search_results": {
+    "Royal Canin": {
+      "status": "success",
+      "json_ld_scripts": 0,
+      "product_elements": 0,
+      "brand_mentioned": true,
+      "page_size": 651035
+    },
+    "Hills": {
+      "status": "success",
+      "json_ld_scripts": 0,
+      "product_elements": 0,
+      "brand_mentioned": false,
+      "page_size": 651035
+    },
+    "Acana": {
+      "status": "success",
+      "json_ld_scripts": 0,
+      "product_elements": 0,
+      "brand_mentioned": false,
+      "page_size": 651035
+    }
+  },
+  "product_results": {
+    "status": "success",
+    "json_ld_count": 2,
+    "structured_data": [
+      {
+        "type": "BreadcrumbList",
+        "has_products": false
+      },
+      {
+        "type": "CollectionPage",
+        "has_products": true
+      }
+    ],
+    "nutrition_indicators": {
+      "protein": true,
+      "fat": true,
+      "fiber": false,
+      "ingredients": true
+    },
+    "page_title": "Dry Dog Food | Buy Now for Less at zooplus"
+  }
+}

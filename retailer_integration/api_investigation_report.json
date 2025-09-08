@@ -1,0 +1,2331 @@
+{
+  "timestamp": "2025-09-08 16:59:06",
+  "retailers": {
+    "zooplus": {
+      "base_url": "https://www.zooplus.co.uk",
+      "api_endpoints": [],
+      "search_patterns": [
+        {
+          "url": "https://www.zooplus.co.uk/shop/search?q=Royal Canin",
+          "type": "html",
+          "response": "html",
+          "contains_results": true
+        },
+        {
+          "url": "https://www.zooplus.co.uk/shop/search?q=Hills",
+          "type": "html",
+          "response": "html",
+          "contains_results": true
+        },
+        {
+          "url": "https://www.zooplus.co.uk/shop/search?q=Purina",
+          "type": "html",
+          "response": "html",
+          "contains_results": true
+        }
+      ],
+      "ajax_calls": [],
+      "structured_data": {
+        "json_ld": {
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          "name": "Dry Dog Food",
+          "description": "Discover our premium selection of dry dog food at great prices, tailored to nourish every dog based on age, size, breed or special health needs. Our extensive range includes dry kibbles, <a href=\"//www.zooplus.co.uk/shop/dogs/dog_health/grain_free_food\">grain-free dry dog food</a>, <a href=\"//www.zooplus.co.uk/shop/dogs/dog_health/single_protein\">single protein kibble</a> options and much more, recognising that each dog has unique dietary requirements. Alternatively, consider our <a href=\"//www.zooplus.co.uk/shop/dogs/wet_dog_food\" target=\"_blank\">wet dog food</a>, canned dog food and convenient pouches.&nbsp;",
+          "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food",
+          "mainEntity": {
+            "@type": "ItemList",
+            "numberOfItems": "1941",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                  "@type": "Product",
+                  "name": "Skinner\u2019s Field & Trial Adult Salmon & Rice Dry Dog Food",
+                  "description": "A hypoallergenic dry dog food with salmon and rice, free from gluten, wheat, maize, barley, soya and milk products, with a combination of rice, oats, peas and salmon from sustainable sources.",
+                  "image": "https://media.zooplus.com/bilder/9/200/salmon_rice_9.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Skinner's"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "15"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/skinners/adult/742575?activeVariant=742575.0",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "37.19",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "37.19",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.48",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "742575.0",
+                    "gtin13": "5021815000608",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                  "@type": "Product",
+                  "name": "Skinner\u2019s Field & Trial Adult Maintenance Chicken Dry Dog Food",
+                  "description": "Balanced dry food for moderately active dogs, easily digested chicken as a source of protein, grains and unsaturated fatty acids to promote healthy skin and glossy coat, with key vitamins and minerals",
+                  "image": "https://media.zooplus.com/bilder/3/200/maintenance_3.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Skinner's"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "5"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/skinners/adult/742654?activeVariant=742654.1",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "25.99",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "25.99",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "1.73",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "742654.1",
+                    "gtin13": "5021815000042",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                  "@type": "Product",
+                  "name": "Skinner\u2019s Field & Trial Adult Duck & Rice Dry Dog Food",
+                  "description": "Hypoallergenic dog food with duck and rice, free from gluten, wheat, maize, barley, soya and milk products, with omega fatty acids and beneficial glucosamine and chondroitin.",
+                  "image": "https://media.zooplus.com/bilder/6/200/duck_rice_6.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Skinner's"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4",
+                    "reviewCount": "14"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/skinners/adult/742569?activeVariant=742569.0",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "36.59",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "36.59",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.44",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "742569.0",
+                    "gtin13": "5021815000134",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                  "@type": "Product",
+                  "name": "Harringtons Complete Adult Dog - Rich in Lamb & Rice",
+                  "description": "Tasty, all natural, complete adult dry dog food with lamb as a healthy source of animal protein. Free from wheat, artificial additives, dairy or soya to aid the immune system.",
+                  "image": "https://media.zooplus.com/bilder/1/200/harri_adult_dog_lamb_15kg_opt_2_1.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Harringtons"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4",
+                    "reviewCount": "13"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/harringtons/adult/586479?activeVariant=586479.0",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "30.49",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "30.49",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.03",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "586479.0",
+                    "gtin13": "5013919001094",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "5",
+                "item": {
+                  "@type": "Product",
+                  "name": "Skinner\u2019s Field & Trial Adult Working 23 Dry Dog Food",
+                  "description": "Nutritious dry food for active and working dogs, with beef and grains as well as being rich in essential nutrients, helping to promote overall good health, strong muscles and glossy coat.",
+                  "image": "https://media.zooplus.com/bilder/9/200/working_23_9.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Skinner's"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "5"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/skinners/adult/742667?activeVariant=742667.0",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "26.29",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "26.29",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "1.75",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "742667.0",
+                    "gtin13": "5021815000110",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "6",
+                "item": {
+                  "@type": "Product",
+                  "name": "Harringtons Complete Adult Dog - Rich in Turkey with Veg",
+                  "description": "A tasty dry dog food with turkey and wholesome veg, this additive-free kibble is a natural source of vitamins &amp; minerals and supports healthy digestion. Suitable for all dogs.",
+                  "image": "https://media.zooplus.com/bilder/6/200/harri_adult_dog_turkey_15kg_opt_6.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Harringtons"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "8"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/harringtons/adult/586480?activeVariant=586480.0",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "31.99",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "31.99",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.13",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "586480.0",
+                    "gtin13": "5013919001100",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "7",
+                "item": {
+                  "@type": "Product",
+                  "name": "Skinner\u2019s Field & Trial Muesli Mix Dry Dog Food",
+                  "description": "Wholesome dry food for active adult dogs, with an adapted nutrient profile and a grain mix for best acceptance, helping to promote strong muscles and a healthy coat.",
+                  "image": "https://media.zooplus.com/bilder/3/200/muesli_15kg_bag_render_2_3.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Skinner's"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "2"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/skinners/adult/742661?activeVariant=742661.2",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "25.49",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "25.49",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "1.7",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "742661.2",
+                    "gtin13": "5021815000080",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "8",
+                "item": {
+                  "@type": "Product",
+                  "name": "Hill's Science Plan Adult 1+ Sensitive Stomach & Skin Medium with Chicken",
+                  "description": "Digestible dry food for adult dogs with sensitive digestions, with chicken and prebiotic fibres to help support digestion, enriched with omega fatty acids and vitamin E for skin and coat health.",
+                  "image": "https://media.zooplus.com/bilder/9/200/13702_hill_s_science_plan_adult_1_sensitive_stomach_skin_medium_with_chicken_9.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Hill's Science Plan"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "29"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/hills_science_plan/special_care/13702?activeVariant=13702.6",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "58.49",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "58.49",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "4.18",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "13702.6",
+                    "gtin13": "052742026091",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "9",
+                "item": {
+                  "@type": "Product",
+                  "name": "Hill\u2019s Science Plan Adult 1-6 Medium with Chicken",
+                  "description": "High-quality dry food for medium breed adult dogs, with tasty chicken and natural fibres to support the digestive system, as well as vitamin E and omega-6 fatty acids for skin and coat health.",
+                  "image": "https://media.zooplus.com/bilder/7/200/13497_hill_s_science_plan_adult_1_6_medium_with_chicken_7.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Hill's Science Plan"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "13"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/hills_science_plan/adult/13497?activeVariant=13497.16",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "49.99",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "49.99",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "3.57",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "13497.16",
+                    "gtin13": "052742025742",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "10",
+                "item": {
+                  "@type": "Product",
+                  "name": "Skinner\u2019s Field & Trial Adult Chicken & Rice Dry Dog Food",
+                  "description": "Delectable dry food, specially crafted to cater to the unique nutritional requirements of active adult dogs. Made with high-protein chicken, enriched with essential vitamins and minerals.",
+                  "image": "https://media.zooplus.com/bilder/0/200/chicken_and_rice_15kg_bag_render_2_0.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Skinner's"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "0",
+                    "reviewCount": "0"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/skinners/adult/1872184?activeVariant=1872184.0",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "32.49",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "32.49",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.17",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "1872184.0",
+                    "gtin13": "5021815000356",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "11",
+                "item": {
+                  "@type": "Product",
+                  "name": "9kg Royal Canin Mini Adult Dry Dog Food - 8kg + 1kg Free! *",
+                  "description": "Now when you buy selected&nbsp;9kg Royal Canin Mini Adult Dry Dog Food, for&nbsp;small breeds (1 - 10kg) aged from 10 months to 8 years, you'll pay for 8kg, that's&nbsp;<b><font color=\"red\">1kg free!</font></b>",
+                  "image": "https://media.zooplus.com/bilder/2/200/rc_shn_miniadult_mv_1_2.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Royal Canin Size"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "61"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/royal_canin_size/402593?activeVariant=402593.17",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "34.09",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "34.09",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/ListPrice",
+                        "price": "38.39",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "3.79",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "402593.17",
+                    "gtin13": "3182550835336",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "12",
+                "item": {
+                  "@type": "Product",
+                  "name": "Hill's Prescription Diet Canine z/d Food Sensitivities",
+                  "description": "Dietetic dry food for adult dogs with food allergies and intolerances, with a hypoallergenic recipe to help with dermatosis and hair loss, as well as reducing digestive upset.",
+                  "image": "https://media.zooplus.com/bilder/5/200/49_pd_zd_dog_bk30873m_plp_uk_5.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Hill's Prescription Diet"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "21"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/hills_prescription/allergies_intolerances/465436?activeVariant=465436.2",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "69.49",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "69.49",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "6.95",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "465436.2",
+                    "gtin13": "052742040417",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "13",
+                "item": {
+                  "@type": "Product",
+                  "name": "18kg Eukanuba Dry Dog Food - 15kg + 3kg Free! *",
+                  "description": "Now when you buy selected 18kg Eukanuba Dry Dog Food, now available in a great-value bonus bag, you'll only pay for 15kg - that's <font color=\"red\"><b>3kg free!</b></font>",
+                  "image": "https://media.zooplus.com/bilder/5/200/1_81022_pla_eukanuba_activeadultlarge_15_3kg_1_5.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Eukanuba"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "69"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/eukanuba/702543?activeVariant=702543.1",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "48.79",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "48.79",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/ListPrice",
+                        "price": "58.59",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.71",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "702543.1",
+                    "gtin13": "8710255121772",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "14",
+                "item": {
+                  "@type": "Product",
+                  "name": "Burns Adult & Senior Original Chicken & Brown Rice",
+                  "description": "Wheat-free dry food for adult &amp; older dogs, low-fat recipe, without soy &amp; dairy products, natural ingredients, high in fiber, valuable fatty acids, easily digestible, tasty",
+                  "image": "https://media.zooplus.com/bilder/3/200/pic_original_chicken_12kg_3.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Burns"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "72"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/burns/burns_adult/116366?activeVariant=116366.7",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "55.99",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "55.99",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/ListPrice",
+                        "price": "66.99",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "4.67",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "116366.7",
+                    "gtin13": "5060084772175",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "15",
+                "item": {
+                  "@type": "Product",
+                  "name": "Skinner\u2019s Field & Trial Adult Lamb & Rice Dry Dog Food",
+                  "description": "Delectable dry dog food, specially crafted to cater to the unique requirements of active adult dogs. Made with lamb - a protein powerhouse, enriched with vitamins, minerals and trace elements.",
+                  "image": "https://media.zooplus.com/bilder/3/200/lamb_and_rice_15kg_bag_render_2_3.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Skinner's"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "1"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/skinners/adult/1872305?activeVariant=1872305.0",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "36.09",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "36.09",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.41",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "1872305.0",
+                    "gtin13": "5021815000431",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "16",
+                "item": {
+                  "@type": "Product",
+                  "name": "Arden Grange Sensitive Adult - Grain-Free Ocean White Fish & Potato",
+                  "description": "This tasty dish is free from grains and rich in essential protein and key nutrients to support your dog\u2019s health, ideal for dogs that suffer with sensitive skin or digestion.",
+                  "image": "https://media.zooplus.com/bilder/5/200/ag_sensitive_adult_12kg_5.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Arden Grange"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "64"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/arden_grange/adult/190002?activeVariant=190002.6",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "61.39",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "61.39",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "5.12",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "190002.6",
+                    "gtin13": "5028399635349",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "17",
+                "item": {
+                  "@type": "Product",
+                  "name": "Chappie Complete Chicken & Wholegrain Cereal",
+                  "description": "Chappie Complete dry dog food is a good quality, healthy complete pet food, ideal for the sensitive dog",
+                  "image": "https://media.zooplus.com/bilder/4/200/46656_PLA_Chappie_Complete_Chicken_15kg_4.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Chappie"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "21"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/chappie/233373?activeVariant=233373.1",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "39.99",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "39.99",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.67",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "233373.1",
+                    "gtin13": "5000166106351",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "18",
+                "item": {
+                  "@type": "Product",
+                  "name": "Harringtons Adult Grain Free with Superfoods Dry Dog Food - Salmon",
+                  "description": "A complete <strong>hypoallergenic </strong>dry dog food made with <strong>salmon</strong>&nbsp;and superfoods.&nbsp; It is free from <strong>grain, soya, dairy </strong>and enriched with omega-3 &amp; 6 oils, vitamins and minerals.",
+                  "image": "https://media.zooplus.com/bilder/9/200/12kg_salmon_9.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Harringtons"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "1"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/harringtons/grain_free/1888016?activeVariant=1888016.2",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "39.89",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "39.89",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "3.32",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "1888016.2",
+                    "gtin13": "5013919006990",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "19",
+                "item": {
+                  "@type": "Product",
+                  "name": "Royal Canin Labrador Retriever Adult",
+                  "description": "Balanced dry dog \u200b\u200bfood, specifically for adult Labrador Retrievers over 15 months old, to support weight management, enriched with omega fatty acids for skin and coat health, with tailored kibble.",
+                  "image": "https://media.zooplus.com/bilder/6/200/rc_bhn_labrador_mv_eretailkit__6.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Royal Canin Breed"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "40"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/royal_canin_breed/labrador_retriever/14077?activeVariant=14077.12",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "58.99",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "58.99",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "4.92",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "14077.12",
+                    "gtin13": "3182550715645",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "20",
+                "item": {
+                  "@type": "Product",
+                  "name": "Skinner's Field & Trial Light & Senior Dry Dog Food",
+                  "description": "Meticulously crafted dry food to cater to the distinct requirements of older, overweight and less active working dogs. With lower protein and fat levels for weight loss and management.",
+                  "image": "https://media.zooplus.com/bilder/6/200/light_and_senior_15kg_bag_render_2_6.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Skinner's"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "0",
+                    "reviewCount": "0"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/skinners/1872302?activeVariant=1872302.0",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "35.09",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "35.09",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.34",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "1872302.0",
+                    "gtin13": "5021815000349",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "21",
+                "item": {
+                  "@type": "Product",
+                  "name": "Skinner\u2019s Field & Trial Puppy Chicken Dry Dog Food",
+                  "description": "A complete dry food developed for growing puppies, helping to support healthy development with a range of key nutrients beneficial to teeth, bones, immune system, coat and joints.",
+                  "image": "https://media.zooplus.com/bilder/8/200/puppy_chicken_8.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Skinner's"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "3"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/skinners/puppy/1043578?activeVariant=1043578.0",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "40.49",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "40.49",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.7",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "1043578.0",
+                    "gtin13": "5021815000127",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "22",
+                "item": {
+                  "@type": "Product",
+                  "name": "Harringtons Adult Grain Free with Superfoods Dry Dog Food - Chicken",
+                  "description": "A complete <strong>hypoallergenic </strong>dry dog food made with <strong>freshly prepared chicken</strong>&nbsp;and superfoods.&nbsp; It is free from <strong>grain, soya, dairy </strong>and enriched with omega-3 &amp; 6 oils, vitamins and minerals.",
+                  "image": "https://media.zooplus.com/bilder/1/200/12kg_chicken_1__1.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Harringtons"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4",
+                    "reviewCount": "6"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/harringtons/grain_free/743984?activeVariant=743984.3",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "41.99",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "41.99",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "3.5",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "743984.3",
+                    "gtin13": "5013919006976",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "23",
+                "item": {
+                  "@type": "Product",
+                  "name": "Hill's Science Plan Adult 1+ Perfect Weight Large Breed with Chicken",
+                  "description": "Special complete food for large breed dogs with a tendency to gain weight or those carrying a few extra pounds, with a balanced calorie and nutrient content including L-carnitine, with 16% chicken.",
+                  "image": "https://media.zooplus.com/bilder/9/200/462887_hill_s_science_plan_adult_1_perfect_weight_large_breed_with_chicken_9.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Hill's Science Plan"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "10"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/hills_science_plan/hills_perfect_weight/462887?activeVariant=462887.3",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "53.99",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "53.99",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "4.5",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "462887.3",
+                    "gtin13": "052742366906",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "24",
+                "item": {
+                  "@type": "Product",
+                  "name": "Wolf of Wilderness Adult \"Blue River\" - Salmon",
+                  "description": "Grain-free dry dog food<strong> with valuable salmon protein and 41% fresh chicken meat,</strong>&nbsp;enriched with wild berries, roots &amp; wild herbs. Produced in a family business.",
+                  "image": "https://media.zooplus.com/bilder/7/200/wow_classic_blueriver_1kg_1000x1000_4_2_1__7.jpg",
+                  "brand": {
+                    "@type": "Brand",
+                    "name": [
+                      "Wolf of Wilderness"
+                    ]
+                  },
+                  "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4",
+                    "reviewCount": "72"
+                  },
+                  "offers": {
+                    "@type": "Offer",
+                    "url": "https://www.zooplus.co.uk/shop/dogs/dry_dog_food/wolf_of_wilderness/dry/480829?activeVariant=480829.6",
+                    "itemCondition": "https://schema.org/NewCondition",
+                    "seller": {
+                      "@type": "Organization",
+                      "name": "zooplus SE"
+                    },
+                    "availability": "https://schema.org/InStock",
+                    "priceCurrency": "GBP",
+                    "price": "1",
+                    "priceSpecification": [
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/SalePrice",
+                        "price": "1",
+                        "priceCurrency": "GBP"
+                      },
+                      {
+                        "@type": "UnitPriceSpecification",
+                        "priceType": "https://schema.org/UnitPrice",
+                        "price": "2.5",
+                        "priceCurrency": "GBP",
+                        "referenceQuantity": {
+                          "@type": "QuantitativeValue",
+                          "value": "1",
+                          "unitCode": "KGM"
+                        },
+                        "unitText": "kg"
+                      }
+                    ],
+                    "priceValidUntil": "2025-09-15",
+                    "sku": "480829.6",
+                    "gtin13": "4062911006126",
+                    "shippingDetails": {
+                      "@type": "OfferShippingDetails",
+                      "description": "Free delivery from \u00a339 (T&C\u2019s apply)**",
+                      "shippingRate": {
+                        "@type": "MonetaryAmount",
+                        "value": "0",
+                        "currency": "GBP"
+                      },
+                      "shippingDestination": {
+                        "@type": "DefinedRegion",
+                        "addressCountry": "GB"
+                      },
+                      "deliveryTime": {
+                        "@type": "ShippingDeliveryTime",
+                        "handlingTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 0,
+                          "maxValue": 1,
+                          "unitCode": "DAY"
+                        },
+                        "transitTime": {
+                          "@type": "QuantitativeValue",
+                          "minValue": 2,
+                          "maxValue": 4,
+                          "unitCode": "DAY"
+                        }
+                      }
+                    },
+                    "hasMerchantReturnPolicy": {
+                      "@type": "MerchantReturnPolicy",
+                      "applicableCountry": "GB",
+                      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                      "merchantReturnDays": 14,
+                      "returnMethod": "https://schema.org/ReturnByMail",
+                      "returnFees": "https://schema.org/FreeReturn",
+                      "refundType": "https://schema.org/FullRefund"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": [
+        "\u274c No clear API endpoints found",
+        "\ud83d\udd78\ufe0f Use web scraping with structured data parsing",
+        "\ud83d\udcca Structured data available - can extract from HTML",
+        "\ud83d\udd0d Search functionality identified",
+        "\ud83d\udd78\ufe0f Use HTML scraping for search results"
+      ]
+    },
+    "fressnapf": {
+      "base_url": "https://www.fressnapf.de",
+      "api_endpoints": [
+        ",hybrisApiPath:",
+        ",googleMapsApiKey:",
+        "https://api.os.fressnapf.com/",
+        "ccaSubscriptionApiEnabled",
+        ",paybackApiScript:",
+        "maximumPosAmountForStockApi",
+        "https://api.sovendus.com/sovabo/common/js/flexibleIframe.js",
+        "paybackApi",
+        "https://api-prod.fnmz.io",
+        ",wordpressApiVersion:"
+      ],
+      "graphql_endpoint": null,
+      "recommendations": [
+        "\u2705 REST API endpoints found"
+      ]
+    }
+  },
+  "summary": {
+    "total_api_endpoints": 10,
+    "has_graphql": false,
+    "retailers_with_apis": 1
+  },
+  "next_steps": [
+    "1. Implement API connectors for retailers with endpoints",
+    "2. Test authentication requirements",
+    "3. Implement rate limiting"
+  ]
+}
