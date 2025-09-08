@@ -173,7 +173,7 @@ class EnhancedUniversalBreedScraper:
             return None, False
     
     def fetch_with_scrapingbee(self, url: str, render_js: bool = True) -> Tuple[Optional[str], bool]:
-        """Fetch using ScrapingBee with optimized settings for AKC React site"""
+        """Fetch using ScrapingBee with JavaScript rendering"""
         if not self.scrapingbee_api_key:
             self.logger.error("❌ ScrapingBee API key not found!")
             return None, False
@@ -182,20 +182,18 @@ class EnhancedUniversalBreedScraper:
             'api_key': self.scrapingbee_api_key,
             'url': url,
             'render_js': 'true' if render_js else 'false',
-            'premium_proxy': 'true',  # Use premium proxy for better success rate
-            'country_code': 'us',  # Use US IP for AKC
-            'block_ads': 'true',  # Block ads to reduce payload
-            'block_resources': 'false',  # Keep resources for React rendering
-            'wait': '10000'  # Wait 10 seconds for full React rendering
+            'premium_proxy': 'false',
+            'block_resources': 'false',  # Don't block resources for better extraction
+            'wait': '3000'  # Wait 3 seconds for content to load
         }
         
         try:
-            cost = 25 if render_js else 1  # Premium proxy + JS rendering = 25 credits
-            self.logger.info(f"🕷️ Using ScrapingBee (JS: {render_js}, Premium Proxy: True, Cost: {cost} credits): {url}")
-            response = requests.get(self.scrapingbee_endpoint, params=params, timeout=90)
+            self.logger.info(f"🕷️ Using ScrapingBee (JS: {render_js}, Cost: 5 credits): {url}")
+            response = requests.get(self.scrapingbee_endpoint, params=params, timeout=60)
             if response.status_code == 200:
+                cost = 5 if render_js else 1
                 self.total_cost_credits += cost
-                self.logger.info(f"✅ ScrapingBee success: {url} (Credits used: {cost}, Total: {self.total_cost_credits})")
+                self.logger.info(f"✅ ScrapingBee success: {url} (Credits used: {cost})")
                 return response.text, True
             else:
                 self.logger.error(f"❌ ScrapingBee failed: {response.status_code}")
@@ -234,122 +232,6 @@ class EnhancedUniversalBreedScraper:
                 if success_sb and html_sb:
                     return html_sb, "scrapingbee"
             return None, "failed"
-    
-    def extract_from_json_props(self, soup: BeautifulSoup) -> Dict[str, Any]:
-        """Tier 1: Extract from JSON data-js-props (95% reliability)"""
-        try:
-            # Find the breed page component with data-js-props
-            breed_div = soup.find('div', {'data-js-component': 'breedPage'})
-            if breed_div and breed_div.get('data-js-props'):
-                data = json.loads(breed_div['data-js-props'])
-                
-                # Extract breed data from JSON
-                breed_info = data.get('breed', {})
-                
-                result = {
-                    'extraction_method': 'json_props',
-                    'display_name': breed_info.get('name', ''),
-                    'breed_slug': breed_info.get('slug', ''),
-                    'description': breed_info.get('description', ''),
-                    'traits': {},
-                    'physical': {},
-                    'content': {}
-                }
-                
-                # Extract trait scores (1-5 scale)
-                if 'traits' in breed_info:
-                    for trait, score in breed_info['traits'].items():
-                        if isinstance(score, (int, float)):
-                            result['traits'][trait] = int(score)
-                
-                # Extract physical measurements
-                if 'physicalTraits' in breed_info or 'physical' in breed_info:
-                    physical = breed_info.get('physicalTraits', breed_info.get('physical', {}))
-                    result['physical'] = {
-                        'height': physical.get('height', ''),
-                        'weight': physical.get('weight', ''),
-                        'lifespan': physical.get('lifeExpectancy', physical.get('lifespan', ''))
-                    }
-                
-                # Extract content sections
-                sections = breed_info.get('sections', {})
-                for section in ['about', 'personality', 'health', 'care', 'feeding', 
-                              'grooming', 'exercise', 'training', 'history']:
-                    if section in sections:
-                        result['content'][section] = sections[section]
-                    elif section in breed_info:
-                        result['content'][section] = breed_info[section]
-                
-                self.logger.info("✅ Successfully extracted from JSON data-js-props")
-                return result
-                
-        except Exception as e:
-            self.logger.debug(f"Could not extract from JSON props: {e}")
-        
-        return None
-    
-    def extract_from_metadata(self, soup: BeautifulSoup) -> Dict[str, Any]:
-        """Tier 2: Extract from structured metadata (80% reliability)"""
-        try:
-            result = {
-                'extraction_method': 'metadata',
-                'traits': {},
-                'physical': {},
-                'content': {}
-            }
-            
-            # Look for JSON-LD structured data
-            scripts = soup.find_all('script', type='application/ld+json')
-            for script in scripts:
-                try:
-                    data = json.loads(script.string)
-                    
-                    # Handle different schema types
-                    if isinstance(data, dict):
-                        # Extract from schema.org data
-                        if data.get('@type') == 'Animal' or 'breed' in str(data).lower():
-                            result['display_name'] = data.get('name', '')
-                            result['description'] = data.get('description', '')
-                            
-                            # Look for physical traits
-                            if 'weight' in data:
-                                result['physical']['weight'] = data['weight']
-                            if 'height' in data:
-                                result['physical']['height'] = data['height']
-                            if 'lifeExpectancy' in data:
-                                result['physical']['lifespan'] = data['lifeExpectancy']
-                    
-                    # Handle PageMap or CSV-W format
-                    if '@graph' in data:
-                        for item in data['@graph']:
-                            if 'breed' in str(item).lower():
-                                # Extract available data
-                                pass
-                                
-                except json.JSONDecodeError:
-                    continue
-            
-            # Look for meta tags with breed data
-            meta_tags = soup.find_all('meta')
-            for tag in meta_tags:
-                name = tag.get('name', '').lower()
-                content = tag.get('content', '')
-                
-                if 'breed' in name or 'dog' in name:
-                    if 'description' in name:
-                        result['content']['about'] = content
-                    elif 'title' in name:
-                        result['display_name'] = content
-            
-            if any([result.get('display_name'), result.get('traits'), 
-                   result.get('physical'), result.get('content')]):
-                self.logger.info("✅ Successfully extracted from metadata")
-                return result
-                
-        except Exception as e:
-            self.logger.debug(f"Could not extract from metadata: {e}")
-        
-        return None
     
     def extract_breed_traits(self, soup: BeautifulSoup) -> Dict[str, str]:
         """Extract physical and temperament traits from AKC React page"""
@@ -597,174 +479,91 @@ class EnhancedUniversalBreedScraper:
         
         return mapped
     
-    def _parse_height(self, height_text: str, breed_data: dict):
-        """Parse height text and add to breed data"""
-        if not height_text:
-            return
-        numbers = re.findall(r'(\d+(?:\.\d+)?)', height_text)
-        if numbers:
-            if len(numbers) >= 2:
-                min_inches = float(numbers[0])
-                max_inches = float(numbers[1])
-            else:
-                min_inches = max_inches = float(numbers[0])
-            # Convert to cm (1 inch = 2.54 cm)
-            breed_data['height_cm_min'] = round(min_inches * 2.54, 1)
-            breed_data['height_cm_max'] = round(max_inches * 2.54, 1)
-    
-    def _parse_weight(self, weight_text: str, breed_data: dict):
-        """Parse weight text and add to breed data"""
-        if not weight_text:
-            return
-        numbers = re.findall(r'(\d+(?:\.\d+)?)', weight_text)
-        if numbers:
-            if len(numbers) >= 2:
-                min_lbs = float(numbers[0])
-                max_lbs = float(numbers[1])
-            else:
-                min_lbs = max_lbs = float(numbers[0])
-            # Convert to kg (1 lb = 0.453592 kg)
-            breed_data['weight_kg_min'] = round(min_lbs * 0.453592, 1)
-            breed_data['weight_kg_max'] = round(max_lbs * 0.453592, 1)
-            
-            # Determine size based on weight
-            if breed_data['weight_kg_max'] < 10:
-                breed_data['size'] = 'small'
-            elif breed_data['weight_kg_max'] < 25:
-                breed_data['size'] = 'medium'
-            elif breed_data['weight_kg_max'] < 45:
-                breed_data['size'] = 'large'
-            else:
-                breed_data['size'] = 'giant'
-    
-    def _parse_lifespan(self, lifespan_text: str, breed_data: dict):
-        """Parse lifespan text and add to breed data"""
-        if not lifespan_text:
-            return
-        life_min, life_max = extract_lifespan(lifespan_text)
-        if life_min:
-            breed_data['lifespan_years_min'] = life_min
-        if life_max:
-            breed_data['lifespan_years_max'] = life_max
-    
     def extract_comprehensive_breed_data(self, html: str, url: str) -> Dict[str, Any]:
-        """Extract comprehensive breed data using three-tier strategy"""
+        """Extract comprehensive breed data from HTML"""
         soup = BeautifulSoup(html, 'html.parser')
         
-        # Extract breed slug from URL
+        # Extract breed slug and display name
         breed_slug = url.rstrip('/').split('/')[-1]
         
-        # Initialize result structure
+        # Try to get display name from page
+        display_name = None
+        title_elem = soup.find('title')
+        if title_elem:
+            title_text = title_elem.get_text()
+            # AKC format: "Breed Name - American Kennel Club"
+            if ' - American Kennel Club' in title_text:
+                display_name = title_text.split(' - American Kennel Club')[0].strip()
+        
+        # Fallback to h1
+        if not display_name:
+            h1 = soup.find('h1')
+            if h1:
+                display_name = h1.get_text(strip=True)
+        
+        # Final fallback
+        if not display_name:
+            display_name = breed_slug.replace('-', ' ').title()
+        
+        # Extract traits
+        traits = self.extract_breed_traits(soup)
+        
+        # Extract content sections
+        content_sections = self.extract_content_sections(soup)
+        
+        # Map traits to schema
+        mapped_traits = self.map_traits_to_schema(traits)
+        
+        # Build comprehensive data
         breed_data = {
             'breed_slug': breed_slug,
+            'display_name': display_name,
             'akc_url': url,
             'extraction_timestamp': datetime.now().isoformat(),
-            'extraction_status': 'failed',
-            'extraction_tier': None
+            'extraction_status': 'success',
+            
+            # Physical traits
+            'size': mapped_traits.get('size'),
+            'height_cm_min': mapped_traits.get('height_cm_min'),
+            'height_cm_max': mapped_traits.get('height_cm_max'),
+            'weight_kg_min': mapped_traits.get('weight_kg_min'),
+            'weight_kg_max': mapped_traits.get('weight_kg_max'),
+            'lifespan_years_min': mapped_traits.get('lifespan_years_min'),
+            'lifespan_years_max': mapped_traits.get('lifespan_years_max'),
+            
+            # Temperament traits
+            'energy': mapped_traits.get('energy'),
+            'shedding': mapped_traits.get('shedding'),
+            'trainability': mapped_traits.get('trainability'),
+            'bark_level': mapped_traits.get('bark_level'),
+            'breed_group': mapped_traits.get('breed_group'),
+            
+            # Content sections
+            'about': content_sections.get('about', ''),
+            'personality': content_sections.get('personality', ''),
+            'health': content_sections.get('health', ''),
+            'care': content_sections.get('care', ''),
+            'feeding': content_sections.get('feeding', ''),
+            'grooming': content_sections.get('grooming', ''),
+            'exercise': content_sections.get('exercise', ''),
+            'training': content_sections.get('training', ''),
+            'history': content_sections.get('history', ''),
+            
+            # Raw data for debugging
+            'raw_traits': traits,
+            
+            # Metadata
+            'has_physical_data': bool(mapped_traits.get('weight_kg_max') or mapped_traits.get('height_cm_max')),
+            'has_temperament_data': bool(mapped_traits.get('energy') or mapped_traits.get('trainability')),
+            'has_content': bool(any(content_sections.values())),
+            
+            # Combine all content for comprehensive field
+            'comprehensive_content': json.dumps({
+                'traits': traits,
+                'content': content_sections,
+                'mapped': mapped_traits
+            }, indent=2)
         }
-        
-        # Tier 1: Try JSON extraction first (95% reliability)
-        json_data = self.extract_from_json_props(soup)
-        if json_data:
-            self.logger.info("✅ Using Tier 1: JSON extraction")
-            breed_data['extraction_tier'] = 'json'
-            breed_data['extraction_status'] = 'success'
-            
-            # Map JSON data to our schema
-            breed_data['display_name'] = json_data.get('display_name') or breed_slug.replace('-', ' ').title()
-            
-            # Process trait scores (1-5 scale)
-            if json_data.get('traits'):
-                for trait, score in json_data['traits'].items():
-                    breed_data[trait] = score
-            
-            # Process physical measurements
-            if json_data.get('physical'):
-                physical = json_data['physical']
-                if physical.get('height'):
-                    self._parse_height(physical['height'], breed_data)
-                if physical.get('weight'):
-                    self._parse_weight(physical['weight'], breed_data)
-                if physical.get('lifespan'):
-                    self._parse_lifespan(physical['lifespan'], breed_data)
-            
-            # Add content sections
-            for section, content in json_data.get('content', {}).items():
-                breed_data[section] = content
-            
-            # Add profile data flag
-            breed_data['has_profile_data'] = bool(json_data.get('content'))
-            breed_data['has_physical_data'] = bool(json_data.get('physical'))
-            
-            return breed_data
-        
-        # Tier 2: Try metadata extraction (80% reliability)
-        metadata = self.extract_from_metadata(soup)
-        if metadata:
-            self.logger.info("✅ Using Tier 2: Metadata extraction")
-            breed_data['extraction_tier'] = 'metadata'
-            breed_data['extraction_status'] = 'partial'
-            
-            # Merge metadata results
-            breed_data['display_name'] = metadata.get('display_name') or breed_slug.replace('-', ' ').title()
-            
-            # Process any available data from metadata
-            if metadata.get('physical'):
-                physical = metadata['physical']
-                if physical.get('height'):
-                    self._parse_height(physical['height'], breed_data)
-                if physical.get('weight'):
-                    self._parse_weight(physical['weight'], breed_data)
-                if physical.get('lifespan'):
-                    self._parse_lifespan(physical['lifespan'], breed_data)
-            
-            # Add content if available
-            for section, content in metadata.get('content', {}).items():
-                breed_data[section] = content
-        
-        # Tier 3: Fall back to CSS selector extraction (60% reliability)
-        if not json_data:
-            self.logger.info("⚠️ Using Tier 3: CSS selector extraction")
-            breed_data['extraction_tier'] = 'css'
-            
-            # Try to get display name from page
-            display_name = None
-            title_elem = soup.find('title')
-            if title_elem:
-                title_text = title_elem.get_text()
-                if ' - American Kennel Club' in title_text:
-                    display_name = title_text.split(' - American Kennel Club')[0].strip()
-            
-            if not display_name:
-                h1 = soup.find('h1')
-                if h1:
-                    display_name = h1.get_text(strip=True)
-            
-            if not display_name:
-                display_name = breed_slug.replace('-', ' ').title()
-            
-            breed_data['display_name'] = display_name
-            
-            # Use existing extraction methods as fallback
-            traits = self.extract_breed_traits(soup)
-            content_sections = self.extract_content_sections(soup)
-            mapped_traits = self.map_traits_to_schema(traits)
-            
-            # Merge CSS extraction results
-            breed_data.update(mapped_traits)
-            
-            # Add content sections
-            for section in ['about', 'personality', 'health', 'care', 'feeding', 
-                          'grooming', 'exercise', 'training', 'history']:
-                breed_data[section] = content_sections.get(section, '')
-            
-            # Add metadata flags
-            breed_data['has_physical_data'] = bool(mapped_traits.get('weight_kg_max') or mapped_traits.get('height_cm_max'))
-            breed_data['has_profile_data'] = bool(any(content_sections.values()))
-            breed_data['raw_traits'] = traits
-            
-            if breed_data['has_physical_data'] or breed_data['has_profile_data']:
-                breed_data['extraction_status'] = 'partial'
         
         return breed_data
     
@@ -783,7 +582,7 @@ class EnhancedUniversalBreedScraper:
             
             # Add metadata
             breed_data['scraping_method'] = method
-            breed_data['scrapingbee_cost'] = 25 if method == 'scrapingbee' else 0  # Premium proxy + JS = 25 credits
+            breed_data['scrapingbee_cost'] = 5 if method == 'scrapingbee' else 0
             
             return breed_data
             
@@ -833,7 +632,7 @@ def main():
     # Extract breed data
     breed_data = scraper.extract_comprehensive_breed_data(html, args.url)
     breed_data['scraping_method'] = method
-    breed_data['scrapingbee_cost'] = 25 if method == 'scrapingbee' else 0  # Premium proxy + JS = 25 credits
+    breed_data['scrapingbee_cost'] = 5 if method == 'scrapingbee' else 0
     
     # Display results
     print(f"\n{'='*80}")
