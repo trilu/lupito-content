@@ -1,0 +1,5 @@
+age_bucket,products,percentage
+0-30 days,1000,100.0
+31-90 days,0,0.0
+91-180 days,0,0.0
+Over 180 days,0,0.0

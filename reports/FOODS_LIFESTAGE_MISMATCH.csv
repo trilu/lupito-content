@@ -1,0 +1,2 @@
+product_key,brand,product_name,life_stage,mismatch_reason
+bosch|bosch_adult_mini_senior_dry_dog_food|dry,bosch,bosch Adult Mini Senior Dry Dog Food,senior,"Name says adult, life_stage is senior"
