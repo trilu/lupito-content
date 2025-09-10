@@ -1,0 +1,3 @@
+our_product_key,our_brand,our_name,opff_id,opff_brand,opff_name,match_score,token_jaccard,protein_overlap,char_fuzzy,form_lifestage
+"applaws|applaws_adult_chicken,_salmon_&_vegetables|wet",Applaws,"Applaws Adult Chicken, Salmon & Vegetables",5060122491433,Applaws,Adult cat chicken with extra salmon,0.8712121212121212,1.0,1.0,0.6060606060606061,0.5
+"applaws|adult_chicken,_salmon__vegetables|wet",Applaws,"Adult Chicken, Salmon  Vegetables",5060122491433,Applaws,Adult cat chicken with extra salmon,0.8712121212121212,1.0,1.0,0.6060606060606061,0.5
