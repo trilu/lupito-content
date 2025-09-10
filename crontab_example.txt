@@ -1,0 +1,15 @@
+# Crontab configuration for breeds weekly maintenance
+# Add this to your crontab with: crontab -e
+
+# Weekly breeds database maintenance - Every Sunday at 2:00 AM local time
+0 2 * * 0 /Users/sergiubiris/Desktop/lupito-content/breeds_maintenance_cron.sh
+
+# Alternative schedules:
+# Every Monday at 3:00 AM
+# 0 3 * * 1 /Users/sergiubiris/Desktop/lupito-content/breeds_maintenance_cron.sh
+
+# Every 7 days at midnight
+# 0 0 */7 * * /Users/sergiubiris/Desktop/lupito-content/breeds_maintenance_cron.sh
+
+# For testing: Every 5 minutes (remove in production)
+# */5 * * * * /Users/sergiubiris/Desktop/lupito-content/breeds_maintenance_cron.sh
