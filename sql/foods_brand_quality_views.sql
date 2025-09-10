@@ -117,35 +117,39 @@ CREATE INDEX idx_brand_quality_preview_completion ON foods_brand_quality_preview
 
 -- ============================================================================
 -- PRODUCTION VIEW (Only allowlisted brands in production)
+-- Uses brand_allowlist table for transparent control
 -- ============================================================================
 
 CREATE MATERIALIZED VIEW foods_brand_quality_prod_mv AS
 WITH brand_metrics AS (
     SELECT 
-        brand_slug,
+        f.brand_slug,
         COUNT(*) AS sku_count,
         
         -- Coverage calculations
-        ROUND(COUNT(form) * 100.0 / NULLIF(COUNT(*), 0), 2) AS form_cov,
-        ROUND(COUNT(life_stage) * 100.0 / NULLIF(COUNT(*), 0), 2) AS life_stage_cov,
-        ROUND(COUNT(ingredients) * 100.0 / NULLIF(COUNT(*), 0), 2) AS ingredients_cov,
-        ROUND(COUNT(kcal_per_100g) * 100.0 / NULLIF(COUNT(*), 0), 2) AS kcal_cov,
-        ROUND(COUNT(price) * 100.0 / NULLIF(COUNT(*), 0), 2) AS price_cov,
-        ROUND(COUNT(price_bucket) * 100.0 / NULLIF(COUNT(*), 0), 2) AS price_bucket_cov,
+        ROUND(COUNT(f.form) * 100.0 / NULLIF(COUNT(*), 0), 2) AS form_cov,
+        ROUND(COUNT(f.life_stage) * 100.0 / NULLIF(COUNT(*), 0), 2) AS life_stage_cov,
+        ROUND(COUNT(f.ingredients) * 100.0 / NULLIF(COUNT(*), 0), 2) AS ingredients_cov,
+        ROUND(COUNT(f.kcal_per_100g) * 100.0 / NULLIF(COUNT(*), 0), 2) AS kcal_cov,
+        ROUND(COUNT(f.price) * 100.0 / NULLIF(COUNT(*), 0), 2) AS price_cov,
+        ROUND(COUNT(f.price_bucket) * 100.0 / NULLIF(COUNT(*), 0), 2) AS price_bucket_cov,
         
         -- Count outliers
         COUNT(CASE 
-            WHEN kcal_per_100g IS NOT NULL 
-                AND (kcal_per_100g < 200 OR kcal_per_100g > 600) 
+            WHEN f.kcal_per_100g IS NOT NULL 
+                AND (f.kcal_per_100g < 200 OR f.kcal_per_100g > 600) 
             THEN 1 
         END) AS kcal_outliers,
         
-        -- Production-specific metrics
-        COUNT(CASE WHEN enrichment_status = 'production' THEN 1 END) AS enriched_count,
-        COUNT(CASE WHEN production_allowlist = true THEN 1 END) AS allowlisted_count
+        -- Production-specific metrics from allowlist
+        MAX(CASE WHEN a.status = 'ACTIVE' THEN 1 ELSE 0 END) AS is_active,
+        MAX(a.status) AS allowlist_status,
+        MAX(a.last_validated) AS allowlist_validated_at,
+        COUNT(CASE WHEN a.status = 'ACTIVE' THEN 1 END) AS enriched_count
         
-    FROM foods_published_prod
-    GROUP BY brand_slug
+    FROM foods_published_prod f
+    LEFT JOIN brand_allowlist a ON f.brand_slug = a.brand_slug
+    GROUP BY f.brand_slug
 ),
 brand_status AS (
     SELECT 
@@ -160,7 +164,12 @@ brand_status AS (
         ) / 5.0, 2) AS completion_pct,
         
         -- Calculate enrichment rate
-        ROUND(enriched_count * 100.0 / NULLIF(allowlisted_count, 0), 2) AS enrichment_rate,
+        ROUND(enriched_count * 100.0 / NULLIF(sku_count, 0), 2) AS enrichment_rate,
+        
+        -- Include allowlist status
+        allowlist_status,
+        allowlist_validated_at,
+        is_active,
         
         -- Determine status
         CASE
@@ -193,9 +202,11 @@ SELECT
     completion_pct,
     kcal_outliers,
     status,
+    allowlist_status,
+    is_active,
     enriched_count,
-    allowlisted_count,
     enrichment_rate,
+    allowlist_validated_at,
     CURRENT_TIMESTAMP AS last_refreshed_at
 FROM brand_status
 ORDER BY sku_count DESC;
