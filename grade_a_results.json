@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-09-10T12:14:06.097041",
+  "final_score": 89.18238993710692,
+  "grade": "B",
+  "scores": {
+    "Data Coverage": 100.0,
+    "Completeness": 74.7284162378502,
+    "Internal Consistency": 100.0,
+    "Weight Data Available": 71.18353344768438,
+    "Update Recency": 100.0
+  },
+  "weight_coverage": 71.18353344768438,
+  "completeness": 74.7284162378502,
+  "consistency": 100.0
+}

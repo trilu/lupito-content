@@ -1,0 +1,360 @@
+{
+  "timestamp": "2025-09-10T12:06:02.567596",
+  "old_size_accuracy": 35.1,
+  "new_size_accuracy": 35.694822888283376,
+  "improvement": 0.5948228882833746,
+  "old_overall": 72.74,
+  "new_overall": 72.85896457765668,
+  "mismatches": [
+    {
+      "breed": "Great Dane",
+      "benchmark_weight": 64.1,
+      "benchmark_calc_size": "giant",
+      "scraped_size": "large",
+      "scraped_weight": "13.61-27.22"
+    },
+    {
+      "breed": "Beagle",
+      "benchmark_weight": 9.6,
+      "benchmark_calc_size": "small",
+      "scraped_size": "medium",
+      "scraped_weight": "10.0-11.3"
+    },
+    {
+      "breed": "Siberian Husky",
+      "benchmark_weight": 21.55,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "20.0-27.0"
+    },
+    {
+      "breed": "Alano Espa\u00f1ol",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "30.0-40.0"
+    },
+    {
+      "breed": "Alaskan Malamute",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "4.54-5.44"
+    },
+    {
+      "breed": "Alopekis",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "3.5-7.5"
+    },
+    {
+      "breed": "American Foxhound",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "tiny",
+      "scraped_weight": "0.82-1.0"
+    },
+    {
+      "breed": "American Leopard Hound",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "15.9-34.0"
+    },
+    {
+      "breed": "American Pit Bull Terrier",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "15.8-27.2"
+    },
+    {
+      "breed": "Ari\u00e9geois",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "25.0-27.0"
+    },
+    {
+      "breed": "Banjara Hound",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "23.0-31.0"
+    },
+    {
+      "breed": "Bakharwal",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "giant",
+      "scraped_weight": "70.0-90.0"
+    },
+    {
+      "breed": "Basenji",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "tiny",
+      "scraped_weight": "0.82-1.0"
+    },
+    {
+      "breed": "Beauceron",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "4.54-5.44"
+    },
+    {
+      "breed": "Belgian Shepherd",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "25.0-30.0"
+    },
+    {
+      "breed": "Bernese Mountain Dog",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "giant",
+      "scraped_weight": "36.0-55.0"
+    },
+    {
+      "breed": "Black and Tan Coonhound",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "4.54-5.44"
+    },
+    {
+      "breed": "Black Russian Terrier",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "13.61-27.22"
+    },
+    {
+      "breed": "Bluetick Coonhound",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "4.54-5.44"
+    },
+    {
+      "breed": "Blue Lacy",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "20.0-25.0"
+    },
+    {
+      "breed": "Bohemian Shepherd",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "15.0-25.0"
+    },
+    {
+      "breed": "Boerboel",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "13.61-27.22"
+    },
+    {
+      "breed": "Border Terrier",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "tiny",
+      "scraped_weight": "0.45-1.36"
+    },
+    {
+      "breed": "Bouvier des Ardennes",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "28.0-35.0"
+    },
+    {
+      "breed": "Bouvier des Flandres",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "13.61-27.22"
+    },
+    {
+      "breed": "Bracco Italiano",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "25.0-40.0"
+    },
+    {
+      "breed": "Briard",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "tiny",
+      "scraped_weight": "0.82-1.0"
+    },
+    {
+      "breed": "Bullmastiff",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "13.61-27.22"
+    },
+    {
+      "breed": "Broholmer",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "giant",
+      "scraped_weight": "50.0-70.0"
+    },
+    {
+      "breed": "Bucovina Shepherd Dog",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "giant",
+      "scraped_weight": "50.0-90.0"
+    },
+    {
+      "breed": "Bulgarian Hound",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "23.0-27.0"
+    },
+    {
+      "breed": "Burgos Pointer",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "30.0-30.0"
+    },
+    {
+      "breed": "Cairn Terrier",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "6.0-7.5"
+    },
+    {
+      "breed": "Ca de Bou",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "35.0-38.0"
+    },
+    {
+      "breed": "Canadian Eskimo Dog",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "30.0-40.0"
+    },
+    {
+      "breed": "Cane Corso",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "13.61-27.22"
+    },
+    {
+      "breed": "C\u00e3o de Gado Transmontano",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "giant",
+      "scraped_weight": "60.0-75.0"
+    },
+    {
+      "breed": "Carea Leon\u00e9s",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "14.0-32.0"
+    },
+    {
+      "breed": "Carpathian Shepherd Dog",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "giant",
+      "scraped_weight": "45.0-45.0"
+    },
+    {
+      "breed": "Caucasian Shepherd Dog",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "giant",
+      "scraped_weight": "45.0-70.0"
+    },
+    {
+      "breed": "Cavalier King Charles Spaniel",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "5.4-8.0"
+    },
+    {
+      "breed": "Cesky Terrier",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "13.61-27.22"
+    },
+    {
+      "breed": "Chinese Crested Dog",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "13.61-27.22"
+    },
+    {
+      "breed": "Chilean Terrier",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "5.0-8.0"
+    },
+    {
+      "breed": "Colombian Fino Hound",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "15.0-35.0"
+    },
+    {
+      "breed": "Dalmatian",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "4.54-5.44"
+    },
+    {
+      "breed": "Dobermann",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "giant",
+      "scraped_weight": "40.0-45.0"
+    },
+    {
+      "breed": "Dutch Shepherd",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "30.0-40.0"
+    },
+    {
+      "breed": "Drentse Patrijshond",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "large",
+      "scraped_weight": "24.9-33.1"
+    },
+    {
+      "breed": "English Cocker Spaniel",
+      "benchmark_weight": 16.25,
+      "benchmark_calc_size": "medium",
+      "scraped_size": "small",
+      "scraped_weight": "5.5-9.0"
+    }
+  ]
+}
