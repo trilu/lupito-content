@@ -1,8 +1,14 @@
 -- Publish Reconciled Breeds View with Grade A+ Data
 -- This creates the production view with proper precedence and provenance
 
--- 1. Rename current breeds_published to breeds_published_prev for rollback
-ALTER VIEW IF EXISTS breeds_published RENAME TO breeds_published_prev;
+-- 1. Drop old backup view if exists and rename current to backup
+DROP VIEW IF EXISTS breeds_published_prev;
+DO $$ 
+BEGIN
+    IF EXISTS (SELECT 1 FROM pg_views WHERE viewname = 'breeds_published') THEN
+        ALTER VIEW breeds_published RENAME TO breeds_published_prev;
+    END IF;
+END $$;
 
 -- 2. Create the reconciled view with proper precedence
 CREATE OR REPLACE VIEW breeds_published AS
@@ -142,8 +148,16 @@ CREATE UNIQUE INDEX IF NOT EXISTS idx_breeds_published_slug ON breeds_details(br
 CREATE INDEX IF NOT EXISTS idx_breeds_published_size ON breeds_details(size_category);
 CREATE INDEX IF NOT EXISTS idx_breeds_published_quality ON breeds_details(size_category, growth_end_months, adult_weight_avg_kg);
 
--- 4. Add constraint to ensure breed_slug uniqueness
-ALTER TABLE breeds_details ADD CONSTRAINT unique_breed_slug UNIQUE (breed_slug) ON CONFLICT DO NOTHING;
+-- 4. Add constraint to ensure breed_slug uniqueness (if not exists)
+DO $$ 
+BEGIN
+    IF NOT EXISTS (
+        SELECT 1 FROM pg_constraint 
+        WHERE conname = 'unique_breed_slug'
+    ) THEN
+        ALTER TABLE breeds_details ADD CONSTRAINT unique_breed_slug UNIQUE (breed_slug);
+    END IF;
+END $$;
 
 -- 5. Grant appropriate permissions
 GRANT SELECT ON breeds_published TO authenticated;
