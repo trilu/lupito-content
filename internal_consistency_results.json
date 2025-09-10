@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-09-10T12:16:20.022799",
+  "total_breeds": 583,
+  "internal_consistency": 100.0,
+  "completeness": 74.7284162378502,
+  "weight_outliers": 0,
+  "null_weights": 168,
+  "overall_score": 89.18238993710692,
+  "grade": "B",
+  "scores": {
+    "Data Coverage": 100,
+    "Completeness": 74.7284162378502,
+    "Internal Consistency": 100.0,
+    "Weight Data Available": 71.18353344768438,
+    "Update Recency": 100.0
+  }
+}
