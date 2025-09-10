@@ -14,10 +14,11 @@ rate_limits:
 
 # Product discovery
 discovery:
-  method: sitemap  # sitemap, category_pages, or search
+  method: category_pages  # sitemap, category_pages, or search
   sitemap_url: https://www.applaws.com/sitemap.xml
   category_urls:
-    - https://www.applaws.com/dog/
+    - https://www.applaws.com/uk/dogs/
+    - https://www.applaws.com/uk/product-category/dogs/
   
 # Product page selectors
 pdp_selectors:

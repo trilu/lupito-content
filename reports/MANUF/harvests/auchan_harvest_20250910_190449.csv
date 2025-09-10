@@ -1,0 +1,2 @@
+url,scraped_at,brand,brand_slug,product_name,from_cache,ingredients,form,life_stage,price,pack_size,price_per_kg,jsonld,analytical_constituents
+https://www.auchan.com/products/auchan|auchan_complete_dry_dog_food_beef|dry,2025-09-10T19:04:49.289558,Auchan,auchan,Auchan Complete Dry Dog Food Beef,False,,,,13.277043274707033,2kg,6.6385216373535165,"{'@type': 'Product', 'name': 'Auchan Complete Dry Dog Food Beef', 'brand': {'@type': 'Brand', 'name': 'Auchan'}, 'offers': {'@type': 'Offer', 'price': 13.277043274707033, 'priceCurrency': 'EUR'}}",

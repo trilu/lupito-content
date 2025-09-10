@@ -1,0 +1,27 @@
+{
+  "url": "https://www.applaws.com/sitemap.xml",
+  "status_code": 200,
+  "headers": {
+    "Date": "Wed, 10 Sep 2025 15:56:24 GMT",
+    "Content-Type": "text/xml; charset=UTF-8",
+    "Content-Length": "327",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Content-Security-Policy-Report-Only": "script-src 'none'; report-uri https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=jGpnGnHZyHjZrNdPAh32AznkcjA6p8wDjoQXtCR9pWk-1757519784.117624-1.0.1.1-qqG0McgE5AqCrktTKknAAx7lvb9jRG30Egrs4PCDyBgZnf.ekl5EFYzaPjmYkKpxq3yrEs5RJadhBaFq6c4LS9A8ZbJc_6SKYhm9WuVe8Al.UklRVGG8_OfEp3PuOrwhri_mnjuUlwXqprWdzUVXx6ooqP48FFn6GWYd5hrpiso; report-to cf-csp-endpoint",
+    "cf-edge-cache": "cache,platform=wordpress",
+    "x-robots-tag": "noindex, follow",
+    "vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "strict-transport-security": "max-age=15552000",
+    "Report-To": "{\"group\":\"cf-csp-endpoint\",\"max_age\":86400,\"endpoints\":[{\"url\":\"https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=jGpnGnHZyHjZrNdPAh32AznkcjA6p8wDjoQXtCR9pWk-1757519784.117624-1.0.1.1-qqG0McgE5AqCrktTKknAAx7lvb9jRG30Egrs4PCDyBgZnf.ekl5EFYzaPjmYkKpxq3yrEs5RJadhBaFq6c4LS9A8ZbJc_6SKYhm9WuVe8Al.UklRVGG8_OfEp3PuOrwhri_mnjuUlwXqprWdzUVXx6ooqP48FFn6GWYd5hrpiso\"}]}",
+    "cf-cache-status": "DYNAMIC",
+    "Expect-Ct": "max-age=86400, enforce",
+    "X-Xss-Protection": "1; mode=block",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "CF-RAY": "97d01d7abb793144-MAD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "fetched_at": "2025-09-10T18:56:24.336434",
+  "content_type": "text/xml; charset=UTF-8"
+}
