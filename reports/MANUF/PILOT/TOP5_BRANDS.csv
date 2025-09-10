@@ -1,0 +1,6 @@
+brand,brand_slug,sku_count,has_form,has_life_stage,has_kcal,has_ingredients,has_price,website_url,has_website
+Brit,brit,73,62,60,72,73,37,https://www.brit-petfood.com,True
+Alpha,alpha,53,5,6,53,53,0,https://www.alphapetfoods.com,True
+Briantos,briantos,46,23,34,43,46,23,https://www.briantos.de,True
+Bozita,bozita,34,14,18,34,34,14,https://www.bozita.com,True
+Belcando,belcando,34,12,22,33,34,11,https://www.belcando.de,True
