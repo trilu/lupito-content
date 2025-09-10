@@ -94,8 +94,10 @@ class WikipediaBreedScraper:
         """Extract data from Wikipedia infobox"""
         data = {}
         
-        # Find infobox
+        # Find infobox - try multiple selectors
         infobox = soup.find('table', {'class': 'infobox'})
+        if not infobox:
+            infobox = soup.find('table', class_=lambda x: x and 'infobox' in str(x))
         if not infobox:
             return data
         
@@ -106,11 +108,14 @@ class WikipediaBreedScraper:
                 continue
             
             header_text = header.get_text(strip=True).lower()
-            cell = row.find('td')
-            if not cell:
+            
+            # For weight and height, get all td cells in the row
+            cells = row.find_all('td')
+            if not cells:
                 continue
             
-            cell_text = cell.get_text(separator=' ', strip=True)
+            # Combine text from all cells
+            cell_text = ' '.join([cell.get_text(separator=' ', strip=True) for cell in cells])
             
             # Parse specific fields
             if 'height' in header_text:
@@ -140,54 +145,64 @@ class WikipediaBreedScraper:
         """Parse height/weight measurements from text"""
         data = {}
         
-        # Convert to lowercase for easier parsing
-        text = text.lower()
+        # Keep original text for better pattern matching
+        text_lower = text.lower()
         
         # Find all numbers
         numbers = re.findall(r'(\d+(?:\.\d+)?)', text)
         
         if measure_type == 'height':
-            # Look for cm values
-            cm_matches = re.findall(r'(\d+(?:\.\d+)?)\s*(?:cm|centimeter)', text)
+            # Look for range patterns with proper dash handling
+            cm_pattern = r'(\d+)[–\-](\d+)\s*cm'
+            inch_pattern = r'(\d+(?:\.\d+)?)[–\-](\d+(?:\.\d+)?)\s*in'
+            
+            cm_matches = re.findall(cm_pattern, text)
+            inch_matches = re.findall(inch_pattern, text)
+            
             if cm_matches:
-                values = [float(x) for x in cm_matches]
-                data['height_cm_min'] = int(min(values))
-                data['height_cm_max'] = int(max(values))
-            # Look for inch values and convert
-            elif 'inch' in text or '"' in text:
-                inch_matches = re.findall(r'(\d+(?:\.\d+)?)\s*(?:inch|")', text)
-                if inch_matches:
-                    values = [float(x) * 2.54 for x in inch_matches]  # Convert to cm
-                    data['height_cm_min'] = int(round(min(values)))
-                    data['height_cm_max'] = int(round(max(values)))
-            elif numbers and len(numbers) >= 2:
-                # Assume first two numbers are min/max in cm
-                data['height_cm_min'] = int(float(numbers[0]))
-                data['height_cm_max'] = int(float(numbers[1]))
+                # Use cm values directly
+                heights = []
+                for match in cm_matches:
+                    heights.extend([float(match[0]), float(match[1])])
+                data['height_cm_min'] = int(min(heights))
+                data['height_cm_max'] = int(max(heights))
+            elif inch_matches:
+                # Convert inches to cm
+                heights = []
+                for match in inch_matches:
+                    heights.extend([float(match[0]) * 2.54, float(match[1]) * 2.54])
+                data['height_cm_min'] = int(round(min(heights)))
+                data['height_cm_max'] = int(round(max(heights)))
         
         elif measure_type == 'weight':
-            # Look for kg values
-            kg_matches = re.findall(r'(\d+(?:\.\d+)?)\s*(?:kg|kilogram)', text)
+            # Look for range patterns with proper dash handling
+            kg_pattern = r'(\d+)[–\-](\d+)\s*kg'
+            lb_pattern = r'(\d+)[–\-](\d+)\s*lb'
+            
+            kg_matches = re.findall(kg_pattern, text)
+            lb_matches = re.findall(lb_pattern, text)
+            
             if kg_matches:
-                values = [float(x) for x in kg_matches]
-                data['weight_kg_min'] = min(values)
-                data['weight_kg_max'] = max(values)
-            # Look for lb/pound values and convert
-            elif 'lb' in text or 'pound' in text:
-                lb_matches = re.findall(r'(\d+(?:\.\d+)?)\s*(?:lb|pound)', text)
-                if lb_matches:
-                    values = [float(x) * 0.453592 for x in lb_matches]  # Convert to kg
-                    data['weight_kg_min'] = round(min(values), 1)
-                    data['weight_kg_max'] = round(max(values), 1)
-            elif numbers and len(numbers) >= 2:
-                # Check if values are reasonable for kg (not lbs)
-                val1, val2 = float(numbers[0]), float(numbers[1])
-                if val1 < 100 and val2 < 100:  # Likely kg
-                    data['weight_kg_min'] = val1
-                    data['weight_kg_max'] = val2
-                else:  # Likely lbs, convert
-                    data['weight_kg_min'] = round(val1 * 0.453592, 1)
-                    data['weight_kg_max'] = round(val2 * 0.453592, 1)
+                # Use kg values directly
+                weights = []
+                for match in kg_matches:
+                    weights.extend([float(match[0]), float(match[1])])
+                data['weight_kg_min'] = min(weights)
+                data['weight_kg_max'] = max(weights)
+            elif lb_matches:
+                # Convert lb to kg
+                weights = []
+                for match in lb_matches:
+                    weights.extend([float(match[0]) * 0.453592, float(match[1]) * 0.453592])
+                data['weight_kg_min'] = round(min(weights), 1)
+                data['weight_kg_max'] = round(max(weights), 1)
+            # Fallback: look for individual kg values
+            elif re.search(r'\d+\s*kg', text_lower):
+                kg_individual = re.findall(r'(\d+(?:\.\d+)?)\s*kg', text_lower)
+                if kg_individual:
+                    values = [float(x) for x in kg_individual]
+                    data['weight_kg_min'] = min(values)
+                    data['weight_kg_max'] = max(values)
         
         return data
     

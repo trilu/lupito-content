@@ -1,0 +1,105 @@
+{
+  "url_corrections": {
+    "Alapaha Blue Blood Bulldog": {
+      "original": "https://en.wikipedia.org/wiki/Alapaha_Blue_Blood_Bulldog_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Alapaha_Blue_Blood_Bulldog"
+    },
+    "Ari\u00e8ge Pointer": {
+      "original": "https://en.wikipedia.org/wiki/Ari%C3%A8ge_Pointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Ari%C3%A8ge_Pointer"
+    },
+    "Beagle-Harrier": {
+      "original": "https://en.wikipedia.org/wiki/Beagle-Harrier_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Beagle-Harrier"
+    },
+    "Burgos Pointer": {
+      "original": "https://en.wikipedia.org/wiki/Burgos_Pointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Burgos_Pointer"
+    },
+    "Campeiro Bulldog": {
+      "original": "https://en.wikipedia.org/wiki/Campeiro_Bulldog_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Campeiro_Bulldog"
+    },
+    "Continental bulldog": {
+      "original": "https://en.wikipedia.org/wiki/Continental_bulldog_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Continental_bulldog"
+    },
+    "Eurasier": {
+      "original": "https://en.wikipedia.org/wiki/Eurasier_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Eurasier"
+    },
+    "German Longhaired Pointer": {
+      "original": "https://en.wikipedia.org/wiki/German_Longhaired_Pointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/German_Longhaired_Pointer"
+    },
+    "German Roughhaired Pointer": {
+      "original": "https://en.wikipedia.org/wiki/German_Roughhaired_Pointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/German_Roughhaired_Pointer"
+    },
+    "German Shorthaired Pointer": {
+      "original": "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer"
+    },
+    "German Wirehaired Pointer": {
+      "original": "https://en.wikipedia.org/wiki/German_Wirehaired_Pointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/German_Wirehaired_Pointer"
+    },
+    "Hovawart": {
+      "original": "https://en.wikipedia.org/wiki/Hovawart_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Hovawart"
+    },
+    "Kerry Beagle": {
+      "original": "https://en.wikipedia.org/wiki/Kerry_Beagle_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Kerry_Beagle"
+    },
+    "Old Danish Pointer": {
+      "original": "https://en.wikipedia.org/wiki/Old_Danish_Pointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Old_Danish_Pointer"
+    },
+    "Olde English Bulldogge": {
+      "original": "https://en.wikipedia.org/wiki/Olde_English_Bulldogge_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Olde_English_Bulldogge"
+    },
+    "Polish Greyhound": {
+      "original": "https://en.wikipedia.org/wiki/Polish_Greyhound_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Polish_Greyhound"
+    },
+    "Portuguese Pointer": {
+      "original": "https://en.wikipedia.org/wiki/Portuguese_Pointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Portuguese_Pointer"
+    },
+    "Pudelpointer": {
+      "original": "https://en.wikipedia.org/wiki/Pudelpointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Pudelpointer"
+    },
+    "Rampur Greyhound": {
+      "original": "https://en.wikipedia.org/wiki/Rampur_Greyhound_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Rampur_Greyhound"
+    },
+    "Rough Collie": {
+      "original": "https://en.wikipedia.org/wiki/Rough_Collie_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Rough_Collie"
+    },
+    "Serrano Bulldog": {
+      "original": "https://en.wikipedia.org/wiki/Serrano_Bulldog_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Serrano_Bulldog"
+    },
+    "Slovak Rough-haired Pointer": {
+      "original": "https://en.wikipedia.org/wiki/Slovak_Rough-haired_Pointer_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Slovak_Rough-haired_Pointer"
+    },
+    "Smooth Collie": {
+      "original": "https://en.wikipedia.org/wiki/Smooth_Collie_(dog)",
+      "corrected": "https://en.wikipedia.org/wiki/Smooth_Collie"
+    }
+  },
+  "special_cases": {
+    "Florida Brown Dog": "https://en.wikipedia.org/wiki/Florida_Cracker_cur",
+    "L\u00e0": null,
+    "Pach\u00f3n Navarro": "https://en.wikipedia.org/wiki/Pach\u00f3n_Navarro",
+    "English Mastiff": "https://en.wikipedia.org/wiki/English_Mastiff"
+  },
+  "connection_retries": [
+    "English Mastiff"
+  ]
+}

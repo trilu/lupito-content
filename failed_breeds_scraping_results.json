@@ -1,0 +1,136 @@
+{
+  "success": [],
+  "failed": [],
+  "skipped": [
+    {
+      "breed": "Alapaha Blue Blood Bulldog",
+      "url": "https://en.wikipedia.org/wiki/Alapaha_Blue_Blood_Bulldog",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Ari\u00e8ge Pointer",
+      "url": "https://en.wikipedia.org/wiki/Ari%C3%A8ge_Pointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Beagle-Harrier",
+      "url": "https://en.wikipedia.org/wiki/Beagle-Harrier",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Burgos Pointer",
+      "url": "https://en.wikipedia.org/wiki/Burgos_Pointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Campeiro Bulldog",
+      "url": "https://en.wikipedia.org/wiki/Campeiro_Bulldog",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Continental bulldog",
+      "url": "https://en.wikipedia.org/wiki/Continental_bulldog",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Eurasier",
+      "url": "https://en.wikipedia.org/wiki/Eurasier",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "German Longhaired Pointer",
+      "url": "https://en.wikipedia.org/wiki/German_Longhaired_Pointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "German Roughhaired Pointer",
+      "url": "https://en.wikipedia.org/wiki/German_Roughhaired_Pointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "German Shorthaired Pointer",
+      "url": "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "German Wirehaired Pointer",
+      "url": "https://en.wikipedia.org/wiki/German_Wirehaired_Pointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Hovawart",
+      "url": "https://en.wikipedia.org/wiki/Hovawart",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Kerry Beagle",
+      "url": "https://en.wikipedia.org/wiki/Kerry_Beagle",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Old Danish Pointer",
+      "url": "https://en.wikipedia.org/wiki/Old_Danish_Pointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Olde English Bulldogge",
+      "url": "https://en.wikipedia.org/wiki/Olde_English_Bulldogge",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Polish Greyhound",
+      "url": "https://en.wikipedia.org/wiki/Polish_Greyhound",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Portuguese Pointer",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Pointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Pudelpointer",
+      "url": "https://en.wikipedia.org/wiki/Pudelpointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Rampur Greyhound",
+      "url": "https://en.wikipedia.org/wiki/Rampur_Greyhound",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Rough Collie",
+      "url": "https://en.wikipedia.org/wiki/Rough_Collie",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Serrano Bulldog",
+      "url": "https://en.wikipedia.org/wiki/Serrano_Bulldog",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Slovak Rough-haired Pointer",
+      "url": "https://en.wikipedia.org/wiki/Slovak_Rough-haired_Pointer",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "Smooth Collie",
+      "url": "https://en.wikipedia.org/wiki/Smooth_Collie",
+      "reason": "URL not valid after correction"
+    },
+    {
+      "breed": "English Mastiff",
+      "url": "https://en.wikipedia.org/wiki/English_Mastiff",
+      "reason": "URL not valid"
+    },
+    {
+      "breed": "Florida Brown Dog",
+      "url": "https://en.wikipedia.org/wiki/Florida_Cracker_cur",
+      "reason": "URL not valid"
+    },
+    {
+      "breed": "Pach\u00f3n Navarro",
+      "url": "https://en.wikipedia.org/wiki/Pach\u00f3n_Navarro",
+      "reason": "URL not valid"
+    }
+  ]
+}

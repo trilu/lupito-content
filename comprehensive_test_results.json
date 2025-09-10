@@ -1,0 +1,112 @@
+{
+  "validation_report": [
+    {
+      "breed": "Labrador Retriever",
+      "status": "ISSUES",
+      "issues": [
+        "Missing lifespan data"
+      ]
+    },
+    {
+      "breed": "German Shepherd",
+      "status": "ISSUES",
+      "issues": [
+        "Weight mismatch: got 30.0-40.0, expected 22-40",
+        "Missing lifespan data"
+      ]
+    },
+    {
+      "breed": "French Bulldog",
+      "status": "ISSUES",
+      "issues": [
+        "Size mismatch: got medium, expected small",
+        "Missing lifespan data"
+      ]
+    },
+    {
+      "breed": "Chihuahua",
+      "status": "ISSUES",
+      "issues": [
+        "Weight mismatch: got 1.0-3.0, expected 1.5-3",
+        "Missing lifespan data"
+      ]
+    },
+    {
+      "breed": "Great Dane",
+      "status": "ISSUES",
+      "issues": [
+        "Missing weight data",
+        "Size mismatch: got , expected giant",
+        "Missing lifespan data"
+      ]
+    }
+  ],
+  "scraped_data": [
+    {
+      "breed_slug": "labrador-retriever",
+      "display_name": "Labrador Retriever",
+      "origin": "United Kingdom",
+      "height_cm_min": 56,
+      "height_cm_max": 57,
+      "weight_kg_min": 29.0,
+      "weight_kg_max": 36.0,
+      "size": "large",
+      "energy": "high",
+      "trainability": "easy",
+      "coat_length": "short",
+      "bark_level": "moderate",
+      "friendliness_to_humans": 4,
+      "friendliness_to_dogs": 3
+    },
+    {
+      "breed_slug": "german-shepherd",
+      "display_name": "German Shepherd",
+      "origin": "Germany",
+      "height_cm_min": 60,
+      "height_cm_max": 65,
+      "weight_kg_min": 30.0,
+      "weight_kg_max": 40.0,
+      "size": "large",
+      "energy": "moderate",
+      "trainability": "easy",
+      "coat_length": "medium",
+      "bark_level": "moderate"
+    },
+    {
+      "breed_slug": "french-bulldog",
+      "display_name": "French Bulldog",
+      "origin": "France [ 1 ]",
+      "height_cm_min": 27,
+      "height_cm_max": 35,
+      "weight_kg_min": 9.0,
+      "weight_kg_max": 14.0,
+      "size": "medium",
+      "trainability": "moderate",
+      "coat_length": "medium",
+      "bark_level": "moderate"
+    },
+    {
+      "breed_slug": "chihuahua",
+      "display_name": "Chihuahua",
+      "origin": "Mexico",
+      "height_cm_min": 8,
+      "height_cm_max": 23,
+      "weight_kg_min": 1.0,
+      "weight_kg_max": 3.0,
+      "size": "tiny",
+      "trainability": "moderate",
+      "coat_length": "long",
+      "bark_level": "moderate"
+    },
+    {
+      "breed_slug": "great-dane",
+      "display_name": "Great Dane",
+      "origin": "Germany",
+      "height_cm_min": 80,
+      "height_cm_max": 90,
+      "trainability": "moderate",
+      "coat_length": "medium",
+      "bark_level": "moderate"
+    }
+  ]
+}

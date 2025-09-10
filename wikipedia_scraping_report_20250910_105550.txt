@@ -1,0 +1,43 @@
+WIKIPEDIA BREED SCRAPING REPORT
+============================================================
+
+Generated: 2025-09-10T10:55:50.865931
+
+STATISTICS:
+Total processed: 390
+Success: 360
+Failed: 30
+Skipped: 0
+Success rate: 92.3%
+
+ERRORS:
+  - Alapaha Blue Blood Bulldog: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Alapaha_Blue_Blood_Bulldog_(dog)
+  - Ariège Pointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Ari%C3%A8ge_Pointer_(dog)
+  - Beagle-Harrier: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Beagle-Harrier_(dog)
+  - Burgos Pointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Burgos_Pointer_(dog)
+  - Campeiro Bulldog: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Campeiro_Bulldog_(dog)
+  - Continental bulldog: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Continental_bulldog_(dog)
+  - English Mastiff: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+  - Eurasier: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Eurasier_(dog)
+  - Florida Brown Dog: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Florida_Brown_Dog
+  - German Longhaired Pointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/German_Longhaired_Pointer_(dog)
+  - German Roughhaired Pointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/German_Roughhaired_Pointer_(dog)
+  - German Shorthaired Pointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/German_Shorthaired_Pointer_(dog)
+  - German Wirehaired Pointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/German_Wirehaired_Pointer_(dog)
+  - Hovawart: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Hovawart_(dog)
+  - Kerry Beagle: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Kerry_Beagle_(dog)
+  - Lài: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/L%C3%A0i
+  - Old Danish Pointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Old_Danish_Pointer_(dog)
+  - Olde English Bulldogge: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Olde_English_Bulldogge_(dog)
+  - Pach��n Navarro: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Pach%EF%BF%BD%EF%BF%BDn_Navarro
+  - Polish Greyhound: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Polish_Greyhound_(dog)
+  - Portuguese Pointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Portuguese_Pointer_(dog)
+  - Pudelpointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Pudelpointer_(dog)
+  - Rampur Greyhound: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Rampur_Greyhound_(dog)
+  - Rough Collie: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Rough_Collie_(dog)
+  - Serrano Bulldog: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Serrano_Bulldog_(dog)
+  - Slovak Rough-haired Pointer: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Slovak_Rough-haired_Pointer_(dog)
+  - Smooth Collie: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Smooth_Collie_(dog)
+  - Florida Brown Dog: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Florida_Brown_Dog
+  - Lài: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/L%C3%A0i
+  - Pach��n Navarro: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Pach%EF%BF%BD%EF%BF%BDn_Navarro

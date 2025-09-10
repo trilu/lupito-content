@@ -1,0 +1,47 @@
+[
+  {
+    "breed_name": "Labrador Retriever",
+    "url": "https://en.wikipedia.org/wiki/Labrador_Retriever",
+    "height_cm_min": 56,
+    "height_cm_max": 57,
+    "weight_kg_min": 29.0,
+    "weight_kg_max": 36.0,
+    "size": "large"
+  },
+  {
+    "breed_name": "German Shepherd",
+    "url": "https://en.wikipedia.org/wiki/German_Shepherd",
+    "height_cm_min": 60,
+    "height_cm_max": 65,
+    "weight_kg_min": 30.0,
+    "weight_kg_max": 40.0,
+    "size": "large"
+  },
+  {
+    "breed_name": "Golden Retriever",
+    "url": "https://en.wikipedia.org/wiki/Golden_Retriever",
+    "height_cm_min": 56,
+    "height_cm_max": 61,
+    "weight_kg_min": 25.0,
+    "weight_kg_max": 34.0,
+    "size": "large"
+  },
+  {
+    "breed_name": "French Bulldog",
+    "url": "https://en.wikipedia.org/wiki/French_Bulldog",
+    "height_cm_min": 27,
+    "height_cm_max": 35,
+    "weight_kg_min": 9.0,
+    "weight_kg_max": 14.0,
+    "size": "medium"
+  },
+  {
+    "breed_name": "Chihuahua",
+    "url": "https://en.wikipedia.org/wiki/Chihuahua_(dog)",
+    "height_cm_min": 8,
+    "height_cm_max": 23,
+    "weight_kg_min": 1.0,
+    "weight_kg_max": 3.0,
+    "size": "tiny"
+  }
+]

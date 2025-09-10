@@ -1,0 +1,12 @@
+{
+  "analysis_date": "2025-09-10T11:15:59.118625",
+  "coverage_rate": 0.9029304029304029,
+  "size_accuracy": 0.0,
+  "weight_accuracy": 0.2852941176470588,
+  "data_completeness": 0.6127787307032591,
+  "quality_score": 1,
+  "max_score": 5,
+  "total_benchmark_breeds": 546,
+  "total_scraped_breeds": 583,
+  "matched_breeds": 493
+}

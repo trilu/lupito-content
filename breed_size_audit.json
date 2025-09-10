@@ -1,0 +1,238 @@
+{
+  "timestamp": "2025-09-10T10:01:25.470422",
+  "summary": {
+    "total_published": 636,
+    "total_details": 583,
+    "size_mismatches": 0,
+    "weight_discrepancies": 0,
+    "suspicious_patterns": 1,
+    "missing_from_details": 53
+  },
+  "mismatches": {
+    "size": [],
+    "weight": [],
+    "missing_in_details": [
+      {
+        "breed_slug": "alano-espa\u00f1ol",
+        "breed_name": "Alano Espa\u00f1ol"
+      },
+      {
+        "breed_slug": "anglo-fran\u00e7ais-de-petite-v\u00e9nerie",
+        "breed_name": "Anglo-Fran\u00e7ais de Petite V\u00e9nerie"
+      },
+      {
+        "breed_slug": "ari\u00e8ge-pointer",
+        "breed_name": "Ari\u00e8ge Pointer"
+      },
+      {
+        "breed_slug": "ari\u00e9geois",
+        "breed_name": "Ari\u00e9geois"
+      },
+      {
+        "breed_slug": "b\u1eafc-h\u00e0",
+        "breed_name": "B\u1eafc H\u00e0"
+      },
+      {
+        "breed_slug": "basset-art\u00e9sien-normand",
+        "breed_name": "Basset Art\u00e9sien Normand"
+      },
+      {
+        "breed_slug": "bichon-fris\u00e9",
+        "breed_name": "Bichon Fris\u00e9"
+      },
+      {
+        "breed_slug": "braque-d'auvergne",
+        "breed_name": "Braque d'Auvergne"
+      },
+      {
+        "breed_slug": "braque-fran\u00e7ais",
+        "breed_name": "Braque Fran\u00e7ais"
+      },
+      {
+        "breed_slug": "briquet-griffon-vend\u00e9en",
+        "breed_name": "Briquet Griffon Vend\u00e9en"
+      },
+      {
+        "breed_slug": "ca-m\u00e8-mallorqu\u00ed",
+        "breed_name": "Ca M\u00e8 Mallorqu\u00ed"
+      },
+      {
+        "breed_slug": "ca-rater-mallorqu\u00ed",
+        "breed_name": "Ca Rater Mallorqu\u00ed"
+      },
+      {
+        "breed_slug": "c\u00e3o-de-gado-transmontano",
+        "breed_name": "C\u00e3o de Gado Transmontano"
+      },
+      {
+        "breed_slug": "carea-leon\u00e9s",
+        "breed_name": "Carea Leon\u00e9s"
+      },
+      {
+        "breed_slug": "\u010desk\u00fd-fousek",
+        "breed_name": "\u010cesk\u00fd fousek"
+      },
+      {
+        "breed_slug": "chien-fran\u00e7ais-blanc-et-noir",
+        "breed_name": "Chien Fran\u00e7ais Blanc et Noir"
+      },
+      {
+        "breed_slug": "chien-fran\u00e7ais-blanc-et-orange",
+        "breed_name": "Chien Fran\u00e7ais Blanc et Orange"
+      },
+      {
+        "breed_slug": "chien-fran\u00e7ais-tricolore",
+        "breed_name": "Chien Fran\u00e7ais Tricolore"
+      },
+      {
+        "breed_slug": "cimarr\u00f3n-uruguayo",
+        "breed_name": "Cimarr\u00f3n Uruguayo"
+      },
+      {
+        "breed_slug": "cirneco-dell'etna",
+        "breed_name": "Cirneco dell'Etna"
+      },
+      {
+        "breed_slug": "danish\u2013swedish-farmdog",
+        "breed_name": "Danish\u2013Swedish Farmdog"
+      },
+      {
+        "breed_slug": "english-toy-terrier-(black-&-tan)",
+        "breed_name": "English Toy Terrier (Black & Tan)"
+      },
+      {
+        "breed_slug": "florida-brown-dog",
+        "breed_name": "Florida Brown Dog"
+      },
+      {
+        "breed_slug": "galgo-espa\u00f1ol",
+        "breed_name": "Galgo Espa\u00f1ol"
+      },
+      {
+        "breed_slug": "go\u0144czy-polski",
+        "breed_name": "Go\u0144czy Polski"
+      },
+      {
+        "breed_slug": "grand-anglo-fran\u00e7ais-blanc-et-noir",
+        "breed_name": "Grand Anglo-Fran\u00e7ais Blanc et Noir"
+      },
+      {
+        "breed_slug": "grand-anglo-fran\u00e7ais-blanc-et-orange",
+        "breed_name": "Grand Anglo-Fran\u00e7ais Blanc et Orange"
+      },
+      {
+        "breed_slug": "grand-anglo-fran\u00e7ais-tricolore",
+        "breed_name": "Grand Anglo-Fran\u00e7ais Tricolore"
+      },
+      {
+        "breed_slug": "grand-basset-griffon-vend\u00e9en",
+        "breed_name": "Grand Basset Griffon Vend\u00e9en"
+      },
+      {
+        "breed_slug": "grand-griffon-vend\u00e9en",
+        "breed_name": "Grand Griffon Vend\u00e9en"
+      },
+      {
+        "breed_slug": "h\u00e4llefors-elkhound",
+        "breed_name": "H\u00e4llefors Elkhound"
+      },
+      {
+        "breed_slug": "hamiltonst\u00f6vare",
+        "breed_name": "Hamiltonst\u00f6vare"
+      },
+      {
+        "breed_slug": "j\u00e4mthund",
+        "breed_name": "J\u00e4mthund"
+      },
+      {
+        "breed_slug": "kromfohrl\u00e4nder",
+        "breed_name": "Kromfohrl\u00e4nder"
+      },
+      {
+        "breed_slug": "l\u00e0i",
+        "breed_name": "L\u00e0i"
+      },
+      {
+        "breed_slug": "large-m\u00fcnsterl\u00e4nder",
+        "breed_name": "Large M\u00fcnsterl\u00e4nder"
+      },
+      {
+        "breed_slug": "lobito-herre\u00f1o",
+        "breed_name": "Lobito Herre\u00f1o"
+      },
+      {
+        "breed_slug": "l\u00f6wchen",
+        "breed_name": "L\u00f6wchen"
+      },
+      {
+        "breed_slug": "magyar-ag\u00e1r",
+        "breed_name": "Magyar Ag\u00e1r"
+      },
+      {
+        "breed_slug": "pach\ufffd\ufffdn-navarro",
+        "breed_name": "Pach\ufffd\ufffdn Navarro"
+      },
+      {
+        "breed_slug": "petit-basset-griffon-vend\u00e9en",
+        "breed_name": "Petit Basset Griffon Vend\u00e9en"
+      },
+      {
+        "breed_slug": "phal\u00e8ne",
+        "breed_name": "Phal\u00e8ne"
+      },
+      {
+        "breed_slug": "pra\u017esk\u00fd-krysa\u0159\u00edk",
+        "breed_name": "Pra\u017esk\u00fd Krysa\u0159\u00edk"
+      },
+      {
+        "breed_slug": "sabueso-espa\u00f1ol",
+        "breed_name": "Sabueso Espa\u00f1ol"
+      },
+      {
+        "breed_slug": "\u0161arplaninac",
+        "breed_name": "\u0160arplaninac"
+      },
+      {
+        "breed_slug": "schillerst\u00f6vare",
+        "breed_name": "Schillerst\u00f6vare"
+      },
+      {
+        "breed_slug": "segugio-dell'appennino",
+        "breed_name": "Segugio dell'Appennino"
+      },
+      {
+        "breed_slug": "slovensk\u00fd-kopov",
+        "breed_name": "Slovensk\u00fd kopov"
+      },
+      {
+        "breed_slug": "small-me\u0111imurje-dog",
+        "breed_name": "Small Me\u0111imurje Dog"
+      },
+      {
+        "breed_slug": "small-m\u00fcnsterl\u00e4nder",
+        "breed_name": "Small M\u00fcnsterl\u00e4nder"
+      },
+      {
+        "breed_slug": "st.-bernard",
+        "breed_name": "St. Bernard"
+      },
+      {
+        "breed_slug": "st.-hubert-jura-hound",
+        "breed_name": "St. Hubert Jura Hound"
+      },
+      {
+        "breed_slug": "tarsus-\u00e7atalburun",
+        "breed_name": "Tarsus \u00e7atalburun"
+      }
+    ],
+    "suspicious_data": [
+      {
+        "breed": "Japanese Chin",
+        "breed_slug": "japanese-chin",
+        "issue": "Large breed (537.51kg) marked as s",
+        "published_size": "s",
+        "wikipedia_weight": "360.15-537.51 kg"
+      }
+    ]
+  }
+}

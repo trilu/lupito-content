@@ -1,0 +1,35 @@
+{
+  "manual_url_mappings": {
+    "English Mastiff": "https://en.wikipedia.org/wiki/English_Mastiff",
+    "Alapaha Blue Blood Bulldog": null,
+    "Ariège Pointer": null,
+    "Beagle-Harrier": null,
+    "Burgos Pointer": null,
+    "Campeiro Bulldog": null,
+    "Continental bulldog": null,
+    "Eurasier": null,
+    "Florida Brown Dog": null,
+    "German Longhaired Pointer": null,
+    "German Roughhaired Pointer": null,
+    "German Shorthaired Pointer": null,
+    "German Wirehaired Pointer": null,
+    "Hovawart": null,
+    "Kerry Beagle": null,
+    "Lài": null,
+    "Old Danish Pointer": null,
+    "Olde English Bulldogge": null,
+    "Pachón Navarro": null,
+    "Polish Greyhound": null,
+    "Portuguese Pointer": null,
+    "Pudelpointer": null,
+    "Rampur Greyhound": null,
+    "Rough Collie": null,
+    "Serrano Bulldog": null,
+    "Slovak Rough-haired Pointer": null,
+    "Smooth Collie": null
+  },
+  "notes": {
+    "English Mastiff": "Valid Wikipedia page exists",
+    "explanation": "Most of these breeds appear to be rare or regional breeds that don't have Wikipedia pages. They may need alternative data sources or manual data entry."
+  }
+}
