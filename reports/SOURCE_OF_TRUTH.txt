@@ -1,0 +1,13 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║                    SOURCE OF TRUTH                           ║
+╠══════════════════════════════════════════════════════════════╣
+║ SUPABASE_URL = https://cibjeqgftuxuezarjsdl.supabase.co          ║
+║ ACTIVE_PROD_VIEW = foods_published_prod (rows = 0)║
+║ ACTIVE_PREVIEW_VIEW = foods_published_preview (rows = 0)║
+║ BRAND_QUALITY_MV_PROD = foods_brand_quality_prod_mv          ║
+║ BRAND_QUALITY_MV_PREVIEW = foods_brand_quality_preview_mv    ║
+║ JSON_ARRAYS_OK = prod: 0.0% • preview: 0.0%║
+║ NOTE = Allowlist gating applied at view layer                ║
+╚══════════════════════════════════════════════════════════════╝
+        

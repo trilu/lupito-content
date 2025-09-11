@@ -1,0 +1,14 @@
+canonical_brand_slug,product_line,match_pattern,confidence,sample_count
+hills,science_plan,brand_slug LIKE '%science_plan%' OR product_name LIKE 'Science Plan%',medium,0
+hills,prescription_diet,brand_slug LIKE '%prescription_diet%' OR product_name LIKE 'Prescription Diet%',medium,0
+hills,ideal_balance,brand_slug LIKE '%ideal_balance%' OR product_name LIKE 'Ideal Balance%',medium,0
+purina,pro_plan,brand_slug LIKE '%pro_plan%' OR product_name LIKE 'Pro Plan%',medium,0
+purina,one,brand_slug LIKE '%one%' OR product_name LIKE 'One%',medium,0
+purina,beta,brand_slug LIKE '%beta%' OR product_name LIKE 'Beta%',medium,0
+purina,beyond,brand_slug LIKE '%beyond%' OR product_name LIKE 'Beyond%',medium,0
+purina,dentalife,brand_slug LIKE '%dentalife%' OR product_name LIKE 'Dentalife%',medium,0
+mars,pedigree,brand_slug LIKE '%pedigree%' OR product_name LIKE 'Pedigree%',medium,0
+mars,whiskas,brand_slug LIKE '%whiskas%' OR product_name LIKE 'Whiskas%',medium,0
+mars,cesar,brand_slug LIKE '%cesar%' OR product_name LIKE 'Cesar%',medium,0
+mars,sheba,brand_slug LIKE '%sheba%' OR product_name LIKE 'Sheba%',medium,0
+mars,royal_canin,brand_slug LIKE '%royal_canin%' OR product_name LIKE 'Royal Canin%',medium,0
