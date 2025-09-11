@@ -1,0 +1,29 @@
+{
+  "url": "http://brit-petfood.com/pl/products",
+  "status_code": 200,
+  "headers": {
+    "Date": "Thu, 11 Sep 2025 11:52:14 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "CF-Ray": "97d6f530aa319088-VIE",
+    "CF-Cache-Status": "DYNAMIC",
+    "Cache-Control": "max-age=0, must-revalidate, no-cache, no-store",
+    "Expires": "Wed, 11 Sep 2024 11:52:14 GMT",
+    "Set-Cookie": "amga4_customer=%7B%22customerGroup%22%3A%22NOT%20LOGGED%20IN%22%2C%22customerId%22%3Anull%7D; expires=Fri, 11 Sep 2026 11:52:14 GMT; Max-Age=31536000; path=/; domain=karmybrit.pl; secure; SameSite=Lax",
+    "Vary": "Accept-Encoding",
+    "Pragma": "no-cache",
+    "content-security-policy-report-only": "font-src https://www.googletagmanager.com *.googleapis.com *.gstatic.com https://geowidget.easypack24.net https://fonts.gstatic.com 'self' data: data: 'self' 'unsafe-inline'; form-action www.facebook.com 'self' 'unsafe-inline'; frame-ancestors 'self'; frame-src fast.amc.demdex.net *.adobe.com bid.g.doubleclick.net *.youtube.com *.youtube-nocookie.com player.vimeo.com https://www.google.com/recaptcha/ www.googletagmanager.com consentcdn.cookiebot.com consentcdn.cookiebot.eu *.doubleclick.net https://geowidget-app.inpost.pl/ https://sandbox-easy-geowidget.easypack24.net/ https://sandbox-easy-geowidget-sdk.easypack24.net/ secure.payu.com merch-prod.snd.payu.com 'self' 'unsafe-inline'; img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net *.adobe.com widgets.magentocommerce.com data: www.googleadservices.com www.google-analytics.com googleads.g.doubleclick.net www.google.com bid.g.doubleclick.net analytics.google.com www.googletagmanager.com *.vimeocdn.com i.ytimg.com *.youtube.com validator.swagger.io *.gstatic.com https://images.unsplash.com www.facebook.com connect.facebook.net img.sct.eu1.usercentrics.eu imgsct.cookiebot.com *.clarity.ms *.bing.com www.google.pl https://geowidget.easypack24.net *.easypack24.net *.inpost.pl *.openstreetmap.org static.payu.com *.hsforms.net *.hsforms.com 'self' data: https://media.azan-cdn.pl/ data: 'self' 'unsafe-inline'; script-src assets.adobedtm.com *.adobe.com www.googleadservices.com www.google-analytics.com googleads.g.doubleclick.net analytics.google.com www.googletagmanager.com s.ytimg.com www.googleapis.com vimeo.com www.vimeo.com *.vimeocdn.com *.youtube.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ tagmanager.google.com https://www.googletagmanager.com https://maps.googleapis.com consent.cookiebot.com consent.cookiebot.eu consentcdn.cookiebot.com consentcdn.cookiebot.eu connect.facebook.net www.clarity.ms www.google.pl www.google.com google.com analytics.tiktok.com https://geowidget.easypack24.net *.easypack24.net *.inpost.pl *.openstreetmap.org secure.payu.com secure.snd.payu.com https://www.datadoghq-browser-agent.com *.hsforms.net *.hsforms.com *.google.com *.gstatic.com 'self' 'unsafe-inline' 'unsafe-eval'; style-src *.adobe.com https://www.googletagmanager.com tagmanager.google.com *.googleapis.com https://geowidget.easypack24.net https://geowidget.inpost.pl https://fonts.googleapis.com *.gstatic.com 'self' 'unsafe-inline'; object-src 'self' 'unsafe-inline'; media-src *.adobe.com https://geowidget.easypack24.net 'self' 'unsafe-inline'; manifest-src 'self' 'unsafe-inline'; connect-src dpm.demdex.net amcglobal.sc.omtrdc.net www.google-analytics.com www.googleadservices.com analytics.google.com www.googletagmanager.com vimeo.com https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://maps.googleapis.com https://player.vimeo.com region1.google-analytics.com consentcdn.cookiebot.com consentcdn.cookiebot.eu *.clarity.ms www.facebook.com www.google.pl www.google.com google.com stats.g.doubleclick.net analytics.tiktok.com analytics-ie.tiktokw.eu analytics-ttp2.tiktokw.eu analytics-ipv6.tiktokw.us *.easypack24.net *.inpost.pl *.openstreetmap.org secure.payu.com merch-prod.snd.payu.com https://browser-intake-datadoghq.eu t.elasticsuite.io *.hsforms.net *.hsforms.com *.google-analytics.com 'self' 'unsafe-inline'; child-src http: https: blob: 'self' 'unsafe-inline'; default-src *.googleapis.com 'self' 'unsafe-inline' 'unsafe-eval'; base-uri 'self' 'unsafe-inline';",
+    "x-built-with": "Hyva Themes",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block",
+    "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Bjjbm9y8R1zORi3vJNqGuCSQZHQYFXZAlT70pXFyZ4nhPqCv1QnsjcKP2nOwRT0U3EaCm2RJIF3JHxg9bDQ8DWxlUyOW7wnsU7mKZCITHGT01neGY1BzrYKaIfcm6w%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "Server": "cloudflare",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=30240&min_rtt=27481&rtt_var=10205&sent=6&recv=8&lost=0&retrans=0&sent_bytes=3913&recv_bytes=1821&delivery_rate=158049&cwnd=252&unsent_bytes=0&cid=b000048e3c76d730&ts=511&x=0\""
+  },
+  "fetched_at": "2025-09-11T14:52:14.613091",
+  "content_type": "text/html; charset=UTF-8"
+}

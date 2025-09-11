@@ -1,0 +1,20 @@
+{
+  "url": "https://www.brit-petfood.com/en/products/dogs/5164-brit-training-snack-m",
+  "status_code": 200,
+  "headers": {
+    "Alt-Svc": "h3=\":443\"; ma=2592000",
+    "Cache-Control": "no-store, no-cache, must-revalidate",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Thu, 11 Sep 2025 11:52:55 GMT",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "Pragma": "no-cache",
+    "Server": "Caddy, nginx/1.18.0",
+    "Set-Cookie": "PHPSESSID=6r8cst6vrhltk3c93i59u4r7tu; path=/; HttpOnly; SameSite=Lax",
+    "X-Content-Type-Options": "nosniff",
+    "X-Xss-Protection": "1; mode=block",
+    "Transfer-Encoding": "chunked"
+  },
+  "fetched_at": "2025-09-11T14:52:55.226267",
+  "content_type": "text/html; charset=UTF-8"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://burns.de/produkte/",
+  "status_code": 200,
+  "headers": {
+    "Cache-Control": "no-cache, private",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Thu, 11 Sep 2025 11:50:37 GMT",
+    "Server": "nginx",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6IkY5ZGpoV1FVWDV3SEFFb1hueExpMGc9PSIsInZhbHVlIjoiVUNzWlRpa1RNMGxUaFBJQmVZb2wrSFZNQjRJTzV2NUttMXV6QzkzUnFTelpUN1JPYkp6Rng2bkYwT3hlTmxjelZuOHF4eEw4Z0FOZVlPcDdIbEtxUThDcjJtRnMycGp0UklBeDUrRDFZOHdOLzlFeVR2NkdmWWFqcEZCOUFPeHoiLCJtYWMiOiIxODJkZDZmYjQ5ZDE3ZWIwMTIzOTAwNGEyOTY0YzliYWNhNGI5YmRjMjM3NmU0MzhjYjVhNmIxMWRhYTU1YjE5IiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:37 GMT; Max-Age=3600; path=/; secure; samesite=lax, ayo_session=eyJpdiI6IjU0V0l4a1BQVjlxeUZrVWlPRk5wbUE9PSIsInZhbHVlIjoiUzBHYlBUYTA1T3Q5c2lydFYwYStqTEwrMEtvMmlzNjR0a1FMR2lucWV0ckw4dEZtUjlLRkZVdVUxYm9WNXNxSmU1OU01NzhNeDI3SkxpN3ZNd1RiblVMYnBPeStnU1BxbWlVSkJxYzIzYnBCcFdSUFJrdXdrSWJBMFNWempVTjciLCJtYWMiOiI0NGNmZDlhYTk0YTg1Mjc0N2YwM2Y0YzdhM2RlODczYjg1ZjNhNjQ0NjVhYzY3NmMzN2ViMWZlNjRjZmU5ODM4IiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:37 GMT; Max-Age=3600; path=/; httponly; samesite=lax",
+    "Vary": "Accept-Encoding",
+    "Transfer-Encoding": "chunked"
+  },
+  "fetched_at": "2025-09-11T14:50:37.189297",
+  "content_type": "text/html; charset=UTF-8"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://burns.de/shop/hund/",
+  "status_code": 200,
+  "headers": {
+    "Cache-Control": "no-cache, private",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Thu, 11 Sep 2025 11:50:45 GMT",
+    "Server": "nginx",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6InIzZUZYdmFaWENPcVBLMUVyWC80cnc9PSIsInZhbHVlIjoiWXhLTHNjQVF5Z0Z2MG9Fa2taZm9TWUxGOTFsZHJOQ0pJZlJxay84YnhrNXoxcjBqUWdYeFU4ZnJKTG9SUDJKaDZBcGEwczJqK1d2cE1RSkR5NGFjRHNCcGVucVB0cU1oOGVLYnAvblFrOFNNVW11OWlKSS9vQzBLY0VpMVNMUy8iLCJtYWMiOiIwOGU1OWViNzIwZDE4ZGY1OTZiMWE0OTU1NWE5NjhhNmU1ODI5OGNjNjQxOGI0YThiMjA5ZWUxZTY2MTc4ZGIxIiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:45 GMT; Max-Age=3600; path=/; secure; samesite=lax, ayo_session=eyJpdiI6IkxzNHZHZGdVc2s3RWNpcGR3eVFHcUE9PSIsInZhbHVlIjoiYTk1eVBwWFA1N1FwYkIva3g3VzFJN0Vkc0pITW1pSjBPaEhXaU1vbzU4OHlxM2E0NTVsYXFLNkVWUGpMMGNRa1pBSHp3em90STlNL2RBUlM0TzFlbXVhdGNSZHRLeG5UMG83MlJUb2ZnTjhOYUVwTE1PaWRVSmo5SDgrS0RxZU4iLCJtYWMiOiJjOGQ5ZTA4ZThjZTMwMjM0YmNhYjNlZjc3NmNlZWZlYjUwODIzMmVkZjM5NjBkYTBjODNlNzIyN2IyMTFjODYxIiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:45 GMT; Max-Age=3600; path=/; httponly; samesite=lax",
+    "Vary": "Accept-Encoding",
+    "Transfer-Encoding": "chunked"
+  },
+  "fetched_at": "2025-09-11T14:50:45.058619",
+  "content_type": "text/html; charset=UTF-8"
+}

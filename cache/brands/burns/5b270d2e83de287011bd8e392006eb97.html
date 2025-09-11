@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>burns.de</title>
+    <meta name="description" content="Die Domain burns.de nimmt am AYO Premium Domainparking teil. Parke deine Domains jetzt unter www.ayo.de">
+    <style >[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid], [wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short], [wire\:loading\.delay\.long], [wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest] {display:none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style>
+    <meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5">
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/templates/template-5/apple-icon-57x57.png">
+    <link rel="shortcut icon" href="/images/templates/template-5/favicon.png">
+    <link rel="stylesheet" href="/css/app.css?id=9214f4b1ea137f0ca02e5667d3033a44">
+    <link rel="stylesheet" href="/css/templates/templates.css">
+
+</head>
+<body class="font-sans antialiased bg-white" x-data="{ showModal: false }"
+      x-bind:class="showModal != false ? 'overflow-hidden' : ''" x-init="loadProducts(); checkBotView()">
+
+<div style="position: absolute; top: -250px; left: -250px;">
+    <a href="/?content=admin">admin</a>
+</div>
+
+
+<header class="pt-16 pb-8 relative leading-6 font-semibold">
+    <div class="container mx-auto max-w-screen-xl relative">
+                    <h1 class="text-3xl sm:text-4xl px-5 line-break-always">burns.de</h1>
+                <div class="px-5 mt-5">
+                    </div>
+    </div>
+</header>
+
+<section class="pt-0 pb-10">
+    <div class="container mx-auto max-w-screen-xl">
+        <div class="">
+            <div id="spinner" class="flex justify-center items-center">
+                <svg aria-hidden="true"
+                     class="w-16 h-16 text-gray-200 animate-spin dark:text-gray-600 fill-ayoblue-light"
+                     viewBox="0 0 100 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M100 50.5908C100 78.2051 77.6142 100.591 50 100.591C22.3858 100.591 0 78.2051 0 50.5908C0 22.9766 22.3858 0.59082 50 0.59082C77.6142 0.59082 100 22.9766 100 50.5908ZM9.08144 50.5908C9.08144 73.1895 27.4013 91.5094 50 91.5094C72.5987 91.5094 90.9186 73.1895 90.9186 50.5908C90.9186 27.9921 72.5987 9.67226 50 9.67226C27.4013 9.67226 9.08144 27.9921 9.08144 50.5908Z"
+                          fill="currentColor"/>
+                    <path d="M93.9676 39.0409C96.393 38.4038 97.8624 35.9116 97.0079 33.5539C95.2932 28.8227 92.871 24.3692 89.8167 20.348C85.8452 15.1192 80.8826 10.7238 75.2124 7.41289C69.5422 4.10194 63.2754 1.94025 56.7698 1.05124C51.7666 0.367541 46.6976 0.446843 41.7345 1.27873C39.2613 1.69328 37.813 4.19778 38.4501 6.62326C39.0873 9.04874 41.5694 10.4717 44.0505 10.1071C47.8511 9.54855 51.7191 9.52689 55.5402 10.0491C60.8642 10.7766 65.9928 12.5457 70.6331 15.2552C75.2735 17.9648 79.3347 21.5619 82.5849 25.841C84.9175 28.9121 86.7997 32.2913 88.1811 35.8758C89.083 38.2158 91.5421 39.6781 93.9676 39.0409Z"
+                          fill="currentFill"/>
+                </svg>
+            </div>
+            <div id="product-list"
+                 class="hidden px-5 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+                
+            </div>
+            <div id="no-products-message" class="hidden">
+                Sorry, no products available at the moment.
+            </div>
+            <div class="mt-5 px-5">
+                            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="relative pt-6 pb-16">
+
+    <div class="container mx-auto max-w-screen-xl relative">
+
+        <div class="px-5 text-center">
+                    </div>
+
+                <div class="px-5 text-center mt-5">
+                    </div>
+    </div>
+</footer>
+
+<script src="/livewire/livewire.js?id=90730a3b0e7144480175" data-turbo-eval="false" data-turbolinks-eval="false" ></script><script data-turbo-eval="false" data-turbolinks-eval="false" >window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = '';window.livewire_token = 'EC2vZNftJkH8x3OG6CQO2YRBnNUSZrwwsGneRi5R';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};let started = false;window.addEventListener('alpine:initializing', function () {if (! started) {window.livewire.start();started = true;}});document.addEventListener("DOMContentLoaded", function () {if (! started) {window.livewire.start();started = true;}});</script>
+<script src="/js/template.js?id=36f63937823cb7e48442f2d45f105ce1" defer></script>
+<script type="text/javascript">
+    function loadProducts() {
+
+        let spinner = document.getElementById('spinner');
+        let noProductsMessage = document.getElementById('no-products-message');
+        let url = new URL('/fetch-products/?d=IzMMmRhS%2BCrE4C2LLp0XvbNa7JXYmiwzur1OcoMC4CGwR5DeF1Ewm3p736BJCldPxVrYAVKnKoW1Z8VKbW53GMAouC%2BaNCE%2BIXu2Pp5lZ%2B8IsIaFIpyDn7w2T8%2BRP9a0LMb0%2Bk9xzM2ak7WkMffLBAkU3u7Kdvm713C0NZdyBVd4JHUKNzfCdiaSWhgQmxwW', window.location.origin);
+
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                let productList = document.getElementById('product-list');
+                if (data.products != null && data.products.length > 0) {
+                    data.products.forEach(product => {
+                        let productHtml = `
+                        <a class="parenthover border border-gray-300 rounded-xl bg-white p-6" href="${product.link}" title="${product.name}" target="_blank" rel="nofollow">
+                                <div class="transition-all z-10 flex flex-wrap content-between h-full space-y-4">
+                                    <div class="w-full space-y-3">
+                                        <div class="aspect-w-3 aspect-h-2 md:aspect-w-3 md:aspect-h-2 ${product.image == null ? 'img-placeholder-non-available' : ''}">
+                                            <img class="w-full h-full object-contain" loading="lazy" src="${product.image}" alt="${product.name}" width="200" height="200">
+                                        </div>
+                                        <div>
+                                            <h2 class="text-sm leading-snug">${product.name_short}</h2>
+                                        </div>
+                                    </div>
+                                    <div class="w-full space-y-3">
+                                        <div class="space-y-1">
+                                            <p class="text-xl font-extrabold leading-none whitespace-nowrap">${product.price}</p>
+                                            <p class="text-xs text-blue-600 hover:underline">${product.shop}</p>
+                                        </div>
+                                        <div class="space-y-1">
+                                            ${product.shipping == "0 EUR" ?
+                            '<p class="text-xs text-gray-400">Versandkostenfrei</p>' :
+                            '<p class="text-xs text-gray-400">' + product.shipping + ' Versandkosten</p>'
+                        }
+                                        </div>
+                                    </div>
+                                </div>
+                        </a>`;
+                        productList.insertAdjacentHTML('beforeend', productHtml);
+                    });
+                    productList.classList.remove('hidden');
+                } else {
+                    noProductsMessage.classList.remove('hidden');
+                }
+                spinner.classList.add('hidden');
+            })
+            .catch(error => {
+                console.error('Error fetching products:', error);
+                spinner.classList.add('hidden');
+                noProductsMessage.classList.remove('hidden');
+            });
+    }
+</script>
+<script type="text/javascript">
+    function checkBotView() {
+        let url = new URL('/check-bot-view/?d=jfLqWpZmgvywq3utncAudM82H%2BR9DKBmmA1mHuP9Q1u%7Cv6%7CwiLbTrwIWGau9ap6BgmExydiVW1lGx4KNezV9zkmMdTas9Yp72VGx0b9qI1WKn1ER9yN124gdw2hG1ENU}', window.location.origin);
+        fetch(url)
+            .then(response => response.json())
+            .catch(error => {
+                console.error('Error fetching products:', error);
+            });
+    }
+</script>
+</body>
+</html>

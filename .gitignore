@@ -207,3 +207,7 @@ marimo/_lsp/
 __marimo__/
 out/
 .DS_Store
+secrets/
+
+# Claude Code context and settings
+.claude/

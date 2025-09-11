@@ -1,0 +1,3265 @@
+metadata:
+  generated_at: '2025-09-11T12:17:34.277262'
+  total_brands: 279
+  brands_with_websites: 106
+  brands_crawlable: 78
+  scrapingbee_credits_used: 0
+  discovery_methods:
+    pattern: 31
+brands:
+  alpha:
+    brand_name: Alpha
+    website_url: https://www.alphapetfoods.com
+    domain: www.alphapetfoods.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 47
+      completion_pct: 80.0
+      impact_score: 940.0
+    notes: medium_impact, ready_to_crawl
+  brit:
+    brand_name: Brit
+    website_url: https://www.brit-petfood.com
+    domain: www.brit-petfood.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 65
+      completion_pct: 88.92307692307692
+      impact_score: 720.0000000000002
+    notes: medium_impact, ready_to_crawl
+  arden:
+    brand_name: Arden
+    website_url: https://www.ardengrange.com
+    domain: www.ardengrange.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 31
+      completion_pct: 80.0
+      impact_score: 620.0
+    notes: medium_impact, ready_to_crawl
+  barking:
+    brand_name: Barking
+    website_url: https://www.barkingheads.co.uk
+    domain: www.barkingheads.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 29
+      completion_pct: 79.3103448275862
+      impact_score: 600.0
+    notes: medium_impact, ready_to_crawl
+  burns:
+    brand_name: Burns
+    website_url: https://burns.de/
+    domain: burns.de
+    country: DE
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 38
+      completion_pct: 84.21052631578948
+      impact_score: 599.9999999999998
+    notes: medium_impact, ready_to_crawl
+  borders:
+    brand_name: Borders
+    website_url: https://www.borderspetfood.com
+    domain: www.borderspetfood.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 2.0
+    stats:
+      product_count: 28
+      completion_pct: 80.0
+      impact_score: 560.0
+    notes: medium_impact, ready_to_crawl
+  briantos:
+    brand_name: Briantos
+    website_url: https://www.briantos.de
+    domain: www.briantos.de
+    country: DE
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 42
+      completion_pct: 87.61904761904762
+      impact_score: 520.0
+    notes: medium_impact, ready_to_crawl
+  bozita:
+    brand_name: Bozita
+    website_url: https://www.bozita.com
+    domain: www.bozita.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 32
+      completion_pct: 84.375
+      impact_score: 500.0
+    notes: low_impact, ready_to_crawl
+  benyfit:
+    brand_name: Benyfit
+    website_url: https://www.benyfitnatural.co.uk
+    domain: www.benyfitnatural.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 12
+      completion_pct: 60.0
+      impact_score: 480.0
+    notes: low_impact, ready_to_crawl
+  belcando:
+    brand_name: Belcando
+    website_url: https://www.belcando.de
+    domain: www.belcando.de
+    country: DE
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 32
+      completion_pct: 85.625
+      impact_score: 460.0
+    notes: low_impact, ready_to_crawl
+  bright:
+    brand_name: Bright
+    website_url: https://www.brightpetfood.com
+    domain: www.brightpetfood.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 23
+      completion_pct: 80.0
+      impact_score: 460.0
+    notes: low_impact, ready_to_crawl
+  betty:
+    brand_name: BETTY
+    website_url: https://www.bettypetfood.com
+    domain: www.bettypetfood.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 2.0
+    stats:
+      product_count: 21
+      completion_pct: 80.0
+      impact_score: 420.0
+    notes: low_impact, ready_to_crawl
+  bounce:
+    brand_name: Bounce
+    website_url: https://www.bounceandbella.co.uk
+    domain: www.bounceandbella.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 19
+      completion_pct: 80.0
+      impact_score: 380.0
+    notes: low_impact, ready_to_crawl
+  biofood:
+    brand_name: Biofood
+    website_url: https://www.biofoodpetfood.com
+    domain: www.biofoodpetfood.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 18
+      completion_pct: 80.0
+      impact_score: 360.0
+    notes: low_impact, ready_to_crawl
+  acana:
+    brand_name: Acana
+    website_url: https://www.acana.com
+    domain: www.acana.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 30
+      completion_pct: 88.66666666666666
+      impact_score: 340.0000000000003
+    notes: low_impact, ready_to_crawl
+  ambrosia:
+    brand_name: Ambrosia
+    website_url: https://www.ambrosia.co.uk/
+    domain: www.ambrosia.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 15
+      completion_pct: 80.0
+      impact_score: 300.0
+    notes: low_impact, blocked_by_robots
+  amazon:
+    brand_name: Amazon
+    website_url: https://www.amazon.com/
+    domain: www.amazon.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 14
+      completion_pct: 78.57142857142858
+      impact_score: 299.99999999999983
+    notes: low_impact, ready_to_crawl
+  applaws:
+    brand_name: Applaws
+    website_url: https://www.applaws.com
+    domain: www.applaws.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 29
+      completion_pct: 90.34482758620689
+      impact_score: 280.0000000000002
+    notes: low_impact, ready_to_crawl
+  aldi:
+    brand_name: Aldi
+    website_url: https://www.aldi.com/
+    domain: www.aldi.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 14
+      completion_pct: 80.0
+      impact_score: 280.0
+    notes: low_impact, ready_to_crawl
+  affinity:
+    brand_name: Affinity
+    website_url: https://www.affinity-petcare.com
+    domain: www.affinity-petcare.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 14
+      completion_pct: 80.0
+      impact_score: 280.0
+    notes: low_impact, ready_to_crawl
+  bosch:
+    brand_name: bosch
+    website_url: https://www.bosch-tiernahrung.de
+    domain: www.bosch-tiernahrung.de
+    country: DE
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 31
+      completion_pct: 91.61290322580645
+      impact_score: 260.0000000000001
+    notes: low_impact, ready_to_crawl
+  browns:
+    brand_name: Browns
+    website_url: https://www.brownspetfood.com
+    domain: www.brownspetfood.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 2.0
+    stats:
+      product_count: 13
+      completion_pct: 80.0
+      impact_score: 260.0
+    notes: low_impact, ready_to_crawl
+  calibra:
+    brand_name: Calibra
+    website_url: https://www.facebook.com/help/1388094248345081/
+    domain: www.facebook.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 18
+      completion_pct: 85.55555555555556
+      impact_score: 260.0
+    notes: low_impact, blocked_by_robots
+  butternut:
+    brand_name: Butternut
+    website_url: https://butternutbox.com/?country_code=DE
+    domain: butternutbox.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 11
+      completion_pct: 78.18181818181817
+      impact_score: 240.0000000000001
+    notes: low_impact, ready_to_crawl
+  akela:
+    brand_name: Akela
+    website_url: https://www.akelapetfood.co.uk
+    domain: www.akelapetfood.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 2.0
+    stats:
+      product_count: 12
+      completion_pct: 80.0
+      impact_score: 240.0
+    notes: low_impact, ready_to_crawl
+  ami:
+    brand_name: Ami
+    website_url: https://www.ami.com/
+    domain: www.ami.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 6
+      completion_pct: 60.0
+      impact_score: 240.0
+    notes: low_impact, blocked_by_robots
+  beta:
+    brand_name: Beta
+    website_url: https://www.beta-petfood.co.uk
+    domain: www.beta-petfood.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 2.0
+    stats:
+      product_count: 12
+      completion_pct: 80.0
+      impact_score: 240.0
+    notes: low_impact, ready_to_crawl
+  burgess:
+    brand_name: Burgess
+    website_url: https://www.burgesspetcare.com
+    domain: www.burgesspetcare.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 11
+      completion_pct: 80.0
+      impact_score: 220.0
+    notes: low_impact, blocked_by_robots
+  bakers:
+    brand_name: Bakers
+    website_url: https://www.bakerspetfood.co.uk
+    domain: www.bakerspetfood.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 2.0
+    stats:
+      product_count: 14
+      completion_pct: 84.28571428571429
+      impact_score: 219.99999999999991
+    notes: low_impact, ready_to_crawl
+  arion:
+    brand_name: Arion
+    website_url: https://www.arionpetfood.com
+    domain: www.arionpetfood.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 23
+      completion_pct: 91.30434782608695
+      impact_score: 200.00000000000006
+    notes: low_impact, ready_to_crawl
+  4pawsraw:
+    brand_name: 4PAWSRAW
+    website_url: https://www.4pawsraw.co.uk/
+    domain: www.4pawsraw.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 10
+      completion_pct: 80.0
+      impact_score: 200.0
+    notes: low_impact, ready_to_crawl
+  butchers:
+    brand_name: Butchers
+    website_url: https://diversey.com/en
+    domain: diversey.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 10
+      completion_pct: 80.0
+      impact_score: 200.0
+    notes: low_impact, blocked_by_robots
+  aatu:
+    brand_name: Aatu
+    website_url: https://www.aatu.co.uk
+    domain: www.aatu.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 14
+      completion_pct: 87.14285714285714
+      impact_score: 180.00000000000006
+    notes: low_impact, ready_to_crawl
+  billy:
+    brand_name: Billy
+    website_url: https://www.billy.com/
+    domain: www.billy.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 9
+      completion_pct: 80.0
+      impact_score: 180.0
+    notes: low_impact, ready_to_crawl
+  autarky:
+    brand_name: Autarky
+    website_url: https://www.autarky.co.uk
+    domain: www.autarky.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 16
+      completion_pct: 88.75
+      impact_score: 180.0
+    notes: low_impact, ready_to_crawl
+  aflora:
+    brand_name: Aflora
+    website_url: https://aflora.de/
+    domain: aflora.de
+    country: DE
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 9
+      completion_pct: 80.0
+      impact_score: 180.0
+    notes: low_impact, ready_to_crawl
+  bear:
+    brand_name: Bear
+    website_url: https://www.jpmorgan.com/wealth-management/wealth-partners
+    domain: www.jpmorgan.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 7
+      completion_pct: 77.14285714285714
+      impact_score: 160.00000000000003
+    notes: low_impact, ready_to_crawl
+  brigadiers:
+    brand_name: Brigadiers
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 8
+      completion_pct: 80.0
+      impact_score: 160.0
+    notes: low_impact, needs_website_discovery
+  buddy:
+    brand_name: Buddy
+    website_url: https://enaming.com/domain/buddy-com
+    domain: enaming.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 8
+      completion_pct: 80.0
+      impact_score: 160.0
+    notes: low_impact, ready_to_crawl
+  benevo:
+    brand_name: Benevo
+    website_url: https://www.benevo.com/
+    domain: www.benevo.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 4
+      completion_pct: 60.0
+      impact_score: 160.0
+    notes: low_impact, ready_to_crawl
+  bentleys:
+    brand_name: Bentleys
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 7
+      completion_pct: 80.0
+      impact_score: 140.0
+    notes: low_impact, needs_website_discovery
+  caboodle:
+    brand_name: Caboodle
+    website_url: https://www.caboodle.co.uk/
+    domain: www.caboodle.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 7
+      completion_pct: 80.0
+      impact_score: 140.0
+    notes: low_impact, blocked_by_robots
+  beco:
+    brand_name: Beco
+    website_url: https://www.becopets.com
+    domain: www.becopets.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 7
+      completion_pct: 80.0
+      impact_score: 140.0
+    notes: low_impact, ready_to_crawl
+  boost:
+    brand_name: Boost
+    website_url: https://www.boost.fr/
+    domain: www.boost.fr
+    country: FR
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 6
+      completion_pct: 80.0
+      impact_score: 120.0
+    notes: low_impact, ready_to_crawl
+  bullybillows:
+    brand_name: BULLYBILLOWS
+    website_url: https://www.bullybillows.com/
+    domain: www.bullybillows.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 6
+      completion_pct: 80.0
+      impact_score: 120.0
+    notes: low_impact, ready_to_crawl
+  aniforte:
+    brand_name: AniForte
+    website_url: https://www.aniforte.co.uk/
+    domain: www.aniforte.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 6
+      completion_pct: 80.0
+      impact_score: 120.0
+    notes: low_impact, ready_to_crawl
+  asda:
+    brand_name: ASDA
+    website_url: https://www.asda.com/
+    domain: www.asda.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 11
+      completion_pct: 89.0909090909091
+      impact_score: 119.99999999999997
+    notes: low_impact, blocked_by_robots
+  canagan:
+    brand_name: Canagan
+    website_url: https://canagan.com/uk/
+    domain: canagan.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 7
+      completion_pct: 82.85714285714286
+      impact_score: 119.99999999999997
+    notes: low_impact, ready_to_crawl
+  animonda:
+    brand_name: animonda
+    website_url: https://www.animonda.co.uk/
+    domain: www.animonda.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 12
+      completion_pct: 91.66666666666666
+      impact_score: 100.00000000000011
+    notes: low_impact, ready_to_crawl
+  angell:
+    brand_name: Angell
+    website_url: https://www.angell-montessori.de/
+    domain: www.angell-montessori.de
+    country: DE
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 5
+      completion_pct: 80.0
+      impact_score: 100.0
+    notes: low_impact, ready_to_crawl
+  4paws:
+    brand_name: 4PAWS
+    website_url: https://4paws.co.uk/
+    domain: 4paws.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 5
+      completion_pct: 80.0
+      impact_score: 100.0
+    notes: low_impact, blocked_by_robots
+  big:
+    brand_name: BIG
+    website_url: https://big.com/
+    domain: big.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 5
+      completion_pct: 80.0
+      impact_score: 100.0
+    notes: low_impact, blocked_by_robots
+  bonzo:
+    brand_name: Bonzo
+    website_url: https://www.bonzo.co.uk/
+    domain: www.bonzo.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 120.0
+    stats:
+      product_count: 5
+      completion_pct: 80.0
+      impact_score: 100.0
+    notes: low_impact, ready_to_crawl
+  beanfields:
+    brand_name: Beanfields
+    website_url: https://www.beanfields.com/
+    domain: www.beanfields.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 4
+      completion_pct: 80.0
+      impact_score: 80.0
+    notes: low_impact, ready_to_crawl
+  antelope:
+    brand_name: Antelope
+    website_url: https://www.antelope-shop.com/de/
+    domain: www.antelope-shop.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 4
+      completion_pct: 80.0
+      impact_score: 80.0
+    notes: low_impact, ready_to_crawl
+  bugsforpets:
+    brand_name: BugsForPets
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 3
+      completion_pct: 80.0
+      impact_score: 60.0
+    notes: low_impact, needs_website_discovery
+  barkinbistro:
+    brand_name: barkinBISTRO
+    website_url: https://www.barkinbistro.com/
+    domain: www.barkinbistro.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 3
+      completion_pct: 80.0
+      impact_score: 60.0
+    notes: low_impact, blocked_by_robots
+  arkwrights:
+    brand_name: Arkwrights
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 5
+      completion_pct: 88.0
+      impact_score: 60.0
+    notes: low_impact, needs_website_discovery
+  fur:
+    brand_name: Fur
+    website_url: https://www.fur.com/
+    domain: www.fur.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 60.0
+      impact_score: 40.0
+    notes: low_impact, ready_to_crawl
+  bug:
+    brand_name: Bug
+    website_url: https://www.bug.de/de
+    domain: www.bug.de
+    country: DE
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 2
+      completion_pct: 80.0
+      impact_score: 40.0
+    notes: low_impact, ready_to_crawl
+  bonza:
+    brand_name: Bonza
+    website_url: https://bonza.com/
+    domain: bonza.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 60.0
+      impact_score: 40.0
+    notes: low_impact, ready_to_crawl
+  almo:
+    brand_name: Almo
+    website_url: https://www.almo.com/
+    domain: www.almo.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 2
+      completion_pct: 80.0
+      impact_score: 40.0
+    notes: low_impact, ready_to_crawl
+  amala:
+    brand_name: Amala
+    website_url: https://amala.co.uk/en-gb
+    domain: amala.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 2
+      completion_pct: 80.0
+      impact_score: 40.0
+    notes: low_impact, ready_to_crawl
+  brit_care:
+    brand_name: Brit Care
+    website_url: https://www.atom.com/name/BritCare
+    domain: www.atom.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 60.0
+      impact_score: 40.0
+    notes: low_impact, blocked_by_robots
+  advance:
+    brand_name: Advance
+    website_url: https://www.advance.com/
+    domain: www.advance.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 3
+      completion_pct: 93.33333333333333
+      impact_score: 20.000000000000014
+    notes: low_impact, ready_to_crawl
+  different:
+    brand_name: Different
+    website_url: https://www.different.fr/
+    domain: www.different.fr
+    country: FR
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 80.0
+      impact_score: 20.0
+    notes: low_impact, ready_to_crawl
+  barfgold:
+    brand_name: Barfgold
+    website_url: https://barfgold.com/
+    domain: barfgold.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 80.0
+      impact_score: 20.0
+    notes: low_impact, ready_to_crawl
+  auchan:
+    brand_name: Auchan
+    website_url: https://www.auchan.ro/
+    domain: www.auchan.ro
+    country: INT
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 80.0
+      impact_score: 20.0
+    notes: low_impact, ready_to_crawl
+  cotswold:
+    brand_name: Cotswold
+    website_url: https://www.cotswoldnutrition.com/
+    domain: www.cotswoldnutrition.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 80.0
+      impact_score: 20.0
+    notes: low_impact, ready_to_crawl
+  bob:
+    brand_name: Bob
+    website_url: https://www.bob.fr/
+    domain: www.bob.fr
+    country: FR
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 80.0
+      impact_score: 20.0
+    notes: low_impact, ready_to_crawl
+  dachshund:
+    brand_name: Dachshund
+    website_url: https://www.dachshund.co.uk/
+    domain: www.dachshund.co.uk
+    country: UK
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 80.0
+      impact_score: 20.0
+    notes: low_impact, ready_to_crawl
+  alpha_spirit:
+    brand_name: Alpha Spirit
+    website_url: https://sedo.com/search/details/?domain=www.alphaspirit.com&campaignId=329145&origin=sales_lander_15
+    domain: sedo.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 80.0
+      impact_score: 20.0
+    notes: low_impact, blocked_by_robots
+  aardvark:
+    brand_name: Aardvark
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 2
+      completion_pct: 90.0
+      impact_score: 20.0
+    notes: low_impact, needs_website_discovery
+  algoods:
+    brand_name: Algoods
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 1
+      completion_pct: 80.0
+      impact_score: 20.0
+    notes: low_impact, needs_website_discovery
+  forthglade:
+    brand_name: Forthglade
+    website_url: https://forthglade.com/
+    domain: forthglade.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 80.0
+      impact_score: 20.0
+    notes: low_impact, ready_to_crawl
+  advance_veterinary_diets:
+    brand_name: Advance Veterinary Diets
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 23
+      completion_pct: 99.1304347826087
+      impact_score: 19.999999999999844
+    notes: low_impact, needs_website_discovery
+  beneful:
+    brand_name: Beneful
+    website_url: https://www.purina.de/marken/beneful
+    domain: www.purina.de
+    country: DE
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 3
+      completion_pct: 100.0
+      impact_score: 0.0
+    notes: low_impact, ready_to_crawl
+  brekkies:
+    brand_name: Brekkies
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 2
+      completion_pct: 100.0
+      impact_score: 0.0
+    notes: low_impact, needs_website_discovery
+  almo_nature:
+    brand_name: Almo Nature
+    website_url: https://www.almonature.com/it/
+    domain: www.almonature.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 12
+      completion_pct: 100.0
+      impact_score: 0.0
+    notes: low_impact, ready_to_crawl
+  arden_grange:
+    brand_name: Arden Grange
+    website_url: https://www.ardengrange.com/
+    domain: www.ardengrange.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 14
+      completion_pct: 100.0
+      impact_score: 0.0
+    notes: low_impact, ready_to_crawl
+  arquivet:
+    brand_name: Arquivet
+    website_url: https://arquivet.com/
+    domain: arquivet.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 7
+      completion_pct: 100.0
+      impact_score: 0.0
+    notes: low_impact, blocked_by_robots
+  bugbell:
+    brand_name: BugBell
+    website_url: https://bugbell.de/
+    domain: bugbell.de
+    country: DE
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+    stats:
+      product_count: 6
+      completion_pct: 100.0
+      impact_score: 0.0
+    notes: low_impact, ready_to_crawl
+  doggy_dog:
+    brand_name: DOGGY Dog
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 1
+      completion_pct: 100.0
+      impact_score: 0.0
+    notes: low_impact, needs_website_discovery
+  sm_lke:
+    brand_name: "Sm\xF8lke"
+    website_url: null
+    domain: null
+    country: UNKNOWN
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 2.0
+    stats:
+      product_count: 1
+      completion_pct: 100.0
+      impact_score: 0.0
+    notes: low_impact, needs_website_discovery
+  bewi_dog:
+    brand_name: Bewi Dog
+    website_url: https://sedo.com/search/details/?domain=www.bewidog.com&campaignId=329145&origin=sales_lander_15
+    domain: sedo.com
+    country: US
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    stats:
+      product_count: 1
+      completion_pct: 100.0
+      impact_score: 0.0
+    notes: low_impact, blocked_by_robots
+  able:
+    brand_name: Able
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:17:34.277355'
+    notes: No website found after trying all strategies
+  albion_pet_foods:
+    brand_name: Albion Pet Foods
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:17:48.959178'
+    notes: No website found after trying all strategies
+  angell_petco:
+    brand_name: Angell Petco
+    website_url: https://www.angellpetco.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow:
+      - /wp-content/uploads/wc-logs/
+      - /wp-content/uploads/woocommerce_transient_files/
+      - /wp-content/uploads/woocommerce_uploads/
+      - /wp-admin/
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:00.296934'
+    notes: ''
+    domain: www.angellpetco.com
+    country: US
+  ava:
+    brand_name: Ava
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:18:01.626428'
+    notes: No website found after trying all strategies
+  barkin_bistro:
+    brand_name: Barkin Bistro
+    website_url: https://www.barkinbistro.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:16.546980'
+    notes: ''
+    domain: www.barkinbistro.com
+    country: US
+  barking_heads:
+    brand_name: Barking Heads
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:18:18.272160'
+    notes: No website found after trying all strategies
+  basils_dog_food:
+    brand_name: Basil's Dog Food
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:18:20.849104'
+    notes: No website found after trying all strategies
+  bella_+_duke:
+    brand_name: Bella + Duke
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:18:23.211242'
+    notes: No website found after trying all strategies
+  benyfit_natural:
+    brand_name: Benyfit Natural
+    website_url: https://www.benyfitnatural.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /4116125/checkouts
+      - /4116125/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /checkouts/
+      - /checkout
+      - /carts
+      - /orders
+      - /4116125/checkouts
+      - /4116125/orders
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /cdn/wpm/*.js
+      - /
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /4116125/checkouts
+      - /4116125/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /4116125/checkouts
+      - /4116125/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - ''
+      - ''
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:25.554725'
+    notes: ''
+    domain: www.benyfitnatural.com
+    country: US
+  billy_and_margot:
+    brand_name: Billy & Margot
+    website_url: https://www.billyandmargot.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /80511893813/checkouts
+      - /80511893813/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /checkouts/
+      - /checkout
+      - /carts
+      - /orders
+      - /80511893813/checkouts
+      - /80511893813/orders
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /cdn/wpm/*.js
+      - /sf_private_access_tokens
+      - /
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /80511893813/checkouts
+      - /80511893813/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /80511893813/checkouts
+      - /80511893813/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:27.885903'
+    notes: ''
+    domain: www.billyandmargot.com
+    country: US
+  bob_and_lush:
+    brand_name: Bob & Lush
+    website_url: https://www.bobandlush.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /77765640530/checkouts
+      - /77765640530/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /checkouts/
+      - /checkout
+      - /carts
+      - /orders
+      - /77765640530/checkouts
+      - /77765640530/orders
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /cdn/wpm/*.js
+      - /sf_private_access_tokens
+      - /
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /77765640530/checkouts
+      - /77765640530/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /77765640530/checkouts
+      - /77765640530/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:30.507606'
+    notes: ''
+    domain: www.bobandlush.com
+    country: US
+  bonacibo:
+    brand_name: Bonacibo
+    website_url: https://www.bonacibo.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow:
+      - ''
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:32.718756'
+    notes: ''
+    domain: www.bonacibo.com
+    country: US
+  bounce_and_bella:
+    brand_name: Bounce And Bella
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:18:35.374337'
+    notes: No website found after trying all strategies
+  bug_bakes:
+    brand_name: Bug Bakes
+    website_url: https://www.bugbakes.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /41305964703/checkouts
+      - /41305964703/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /checkouts/
+      - /checkout
+      - /carts
+      - /orders
+      - /41305964703/checkouts
+      - /41305964703/orders
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /cdn/wpm/*.js
+      - /sf_private_access_tokens
+      - /
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /41305964703/checkouts
+      - /41305964703/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /41305964703/checkouts
+      - /41305964703/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:38.097012'
+    notes: ''
+    domain: www.bugbakes.com
+    country: US
+  butternut_box:
+    brand_name: Butternut Box
+    website_url: https://www.butternutbox.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:40.380786'
+    notes: ''
+    domain: www.butternutbox.com
+    country: US
+  canidae:
+    brand_name: Canidae
+    website_url: https://www.canidae.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 10.0
+      disallow:
+      - /account.php
+      - /cart.php
+      - /checkout.php
+      - /checkout
+      - /finishorder.php
+      - /login.php
+      - /orderstatus.php
+      - /postreview.php
+      - /productimage.php
+      - /productupdates.php
+      - /remote.php
+      - /search.php
+      - /viewfile.php
+      - /wishlist.php
+      - /admin/
+      - /__socialshop/
+      - /*?_bc_fsnf=1*
+      - /*&_bc_fsnf=1*
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:45.391072'
+    notes: ''
+    domain: www.canidae.com
+    country: US
+  canine_choice:
+    brand_name: Canine Choice
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:18:47.736814'
+    notes: No website found after trying all strategies
+  canine_corrections:
+    brand_name: Canine Corrections
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:18:51.824136'
+    notes: No website found after trying all strategies
+  carnilove:
+    brand_name: Carnilove
+    website_url: https://www.carnilove.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /
+      - /admin/
+      - /file/google-xml/feed.xml
+      - /file
+      - /tmp
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:54.170057'
+    notes: ''
+    domain: www.carnilove.com
+    country: US
+  celtic_connection:
+    brand_name: Celtic Connection
+    website_url: https://www.celticconnection.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow:
+      - /wp-admin/
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:56.085726'
+    notes: ''
+    domain: www.celticconnection.com
+    country: US
+  cesar:
+    brand_name: Cesar
+    website_url: https://www.cesar.co.uk
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:18:59.328446'
+    notes: ''
+    domain: www.cesar.co.uk
+    country: US
+  champers:
+    brand_name: Champers
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:19:06.850712'
+    notes: No website found after trying all strategies
+  chapel_farm:
+    brand_name: Chapel Farm
+    website_url: https://chapelfarm.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /5225969/checkouts
+      - /5225969/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /checkouts/
+      - /checkout
+      - /carts
+      - /orders
+      - /5225969/checkouts
+      - /5225969/orders
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /cdn/wpm/*.js
+      - /sf_private_access_tokens
+      - /
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /5225969/checkouts
+      - /5225969/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /5225969/checkouts
+      - /5225969/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:19:27.994278'
+    notes: ''
+    domain: chapelfarm.com
+    country: US
+  chappie:
+    brand_name: Chappie
+    website_url: https://www.chappie.co.uk
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 120.0
+      disallow:
+      - /?*
+      - /_zc
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:19:30.117806'
+    notes: ''
+    domain: www.chappie.co.uk
+    country: US
+  chudleys:
+    brand_name: Chudleys
+    website_url: https://www.chudleys.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /48144744611/checkouts
+      - /48144744611/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /checkouts/
+      - /checkout
+      - /carts
+      - /orders
+      - /48144744611/checkouts
+      - /48144744611/orders
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /cdn/wpm/*.js
+      - /sf_private_access_tokens
+      - /
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /48144744611/checkouts
+      - /48144744611/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /48144744611/checkouts
+      - /48144744611/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:20:13.036358'
+    notes: ''
+    domain: www.chudleys.com
+    country: US
+  ci_foods:
+    brand_name: Ci Foods
+    website_url: https://www.cifoods.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 10.0
+      disallow:
+      - '*?lightbox='
+      - /_api/*
+      - /_partials*
+      - /pro-gallery-webapp/v1/galleries/*
+      - /
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:20:15.129015'
+    notes: ''
+    domain: www.cifoods.com
+    country: US
+  clinivet:
+    brand_name: Clinivet
+    website_url: https://www.clinivet.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /60613492959/checkouts
+      - /60613492959/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /checkouts/
+      - /checkout
+      - /carts
+      - /orders
+      - /60613492959/checkouts
+      - /60613492959/orders
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /cdn/wpm/*.js
+      - /sf_private_access_tokens
+      - /
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /60613492959/checkouts
+      - /60613492959/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /60613492959/checkouts
+      - /60613492959/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:20:16.979942'
+    notes: ''
+    domain: www.clinivet.com
+    country: US
+  cobbydog:
+    brand_name: Cobbydog
+    website_url: https://www.cobbydog.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /2144305187/checkouts
+      - /2144305187/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /checkouts/
+      - /checkout
+      - /carts
+      - /orders
+      - /2144305187/checkouts
+      - /2144305187/orders
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /cdn/wpm/*.js
+      - /sf_private_access_tokens
+      - /
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /2144305187/checkouts
+      - /2144305187/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+      - /a/downloads/-/*
+      - /admin
+      - /cart
+      - /orders
+      - /checkouts/
+      - /checkout
+      - /2144305187/checkouts
+      - /2144305187/orders
+      - /carts
+      - /account
+      - /collections/*sort_by*
+      - /*/collections/*sort_by*
+      - /collections/*+*
+      - /collections/*%2B*
+      - /collections/*%2b*
+      - /*/collections/*+*
+      - /*/collections/*%2B*
+      - /*/collections/*%2b*
+      - '*/collections/*filter*&*filter*'
+      - /blogs/*+*
+      - /blogs/*%2B*
+      - /blogs/*%2b*
+      - /*/blogs/*+*
+      - /*/blogs/*%2B*
+      - /*/blogs/*%2b*
+      - /*?*oseid=*
+      - /*preview_theme_id*
+      - /*preview_script_id*
+      - /policies/
+      - /*/policies/
+      - /*/*?*ls=*&ls=*
+      - /*/*?*ls%3D*%3Fls%3D*
+      - /*/*?*ls%3d*%3fls%3d*
+      - /search
+      - /sf_private_access_tokens
+      - /apple-app-site-association
+      - /.well-known/shopify/monorail
+      - /cdn/wpm/*.js
+      - /recommendations/products
+      - /*/recommendations/products
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:20:19.258688'
+    notes: ''
+    domain: www.cobbydog.com
+    country: US
+  collards:
+    brand_name: Collards
+    website_url: https://www.collards.co.uk
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:20:21.498134'
+    notes: ''
+    domain: www.collards.co.uk
+    country: US
+  concept_for_life:
+    brand_name: Concept For Life
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:20:24.857108'
+    notes: No website found after trying all strategies
+  cooper_and_co:
+    brand_name: Cooper & Co
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:20:47.426330'
+    notes: No website found after trying all strategies
+  cotswold_raw:
+    brand_name: Cotswold Raw
+    website_url: https://www.cotswoldraw.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:20:51.554450'
+    notes: ''
+    domain: www.cotswoldraw.com
+    country: US
+  country_dog:
+    brand_name: Country Dog
+    website_url: https://www.countrydog.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:20:53.527156'
+    notes: ''
+    domain: www.countrydog.com
+    country: US
+  country_kibble:
+    brand_name: Country Kibble
+    website_url: https://www.countrykibble.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:20:57.145158'
+    notes: ''
+    domain: www.countrykibble.com
+    country: US
+  country_pursuit:
+    brand_name: Country Pursuit
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:20:59.338003'
+    notes: No website found after trying all strategies
+  country_value:
+    brand_name: Country Value
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:21:02.198778'
+    notes: No website found after trying all strategies
+  coya:
+    brand_name: Coya
+    website_url: https://www.coya.eu
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow:
+      - ''
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:21:06.220078'
+    notes: ''
+    domain: www.coya.eu
+    country: US
+  crave:
+    brand_name: Crave
+    website_url: https://www.cravepetfood.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:21:10.890218'
+    notes: ''
+    domain: www.cravepetfood.com
+    country: US
+  csj:
+    brand_name: CSJ
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:21:13.694820'
+    notes: No website found after trying all strategies
+  dachshund_superfood:
+    brand_name: Dachshund Superfood
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:21:30.293175'
+    notes: No website found after trying all strategies
+  darf:
+    brand_name: Darf
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:21:32.971481'
+    notes: No website found after trying all strategies
+  denes:
+    brand_name: Denes
+    website_url: https://www.denes.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /
+      - /
+      - /lib/
+      - /*.php$
+      - /pkginfo/
+      - /report/
+      - /var/
+      - /catalog/
+      - /customer/
+      - /sendfriend/
+      - /review/
+      - /*SID=
+      - /checkout/
+      - /onestepcheckout/
+      - /customer/
+      - /customer/account/
+      - /customer/account/login/
+      - /catalogsearch/
+      - /catalog/product_compare/
+      - /catalog/category/view/
+      - /catalog/product/view/
+      - /*?dir*
+      - /*?dir=desc
+      - /*?dir=asc
+      - /*?limit=all
+      - /*?mode*
+      - /app/
+      - /bin/
+      - /dev/
+      - /lib/
+      - /phpserver/
+      - /pub/
+      - /tag/
+      - /review/
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:21:39.633316'
+    notes: ''
+    domain: www.denes.com
+    country: US
+  devini:
+    brand_name: Devini
+    website_url: https://www.devinipetfood.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:21:41.302396'
+    notes: ''
+    domain: www.devinipetfood.com
+    country: US
+  different_dog:
+    brand_name: Different Dog
+    website_url: https://www.differentdog.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:21:47.169239'
+    notes: ''
+    domain: www.differentdog.com
+    country: US
+  dr_clauders:
+    brand_name: Dr Clauders
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:21:48.710553'
+    notes: No website found after trying all strategies
+  dr_john:
+    brand_name: Dr John
+    website_url: https://www.drjohn.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:21:52.043716'
+    notes: ''
+    domain: www.drjohn.com
+    country: US
+  dr_veneta:
+    brand_name: Dr Veneta
+    website_url: https://www.drveneta.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 10.0
+      disallow:
+      - '*?lightbox='
+      - /_api/*
+      - /_partials*
+      - /pro-gallery-webapp/v1/galleries/*
+      - /
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:21:56.677566'
+    notes: ''
+    domain: www.drveneta.com
+    country: US
+  earls:
+    brand_name: Earls
+    website_url: https://www.earls.co.uk
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+      disallow:
+      - /App_Browsers/
+      - /App_Code/
+      - /App_Data/
+      - /App_GlobalResources/
+      - /App_LocalResources/
+      - /App_Themes/
+      - /App_WebReferences/
+      - /Bin/
+      - /MMWIP/
+      - /ScriptServices/
+      - /Webservice/
+      - /_baks/
+      - /_mm/
+      - /_notes/
+      - /admin/
+      - /bin/
+      - /catalogue/createreview.aspx
+      - /catalogue/notify.aspx
+      - /catalogue/results.aspx
+      - /checkout/
+      - /cart/
+      - /controls/
+      - /ekashu/
+      - /emails/
+      - /m/admin/
+      - /m/checkout/
+      - /m/retail/account
+      - /m/trade/account
+      - /masters/
+      - /metapack/
+      - /obj/
+      - /paypal/
+      - /protx/
+      - /stream_file.aspx
+      - /stream_image.aspx
+      - /webdav/
+      - /Ajax/
+      - /ajax/
+      - /
+      - /
+      - /
+      - /
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:21:58.188492'
+    notes: ''
+    domain: www.earls.co.uk
+    country: US
+  eden:
+    brand_name: Eden
+    website_url: null
+    website_status: not_found
+    discovery_method: null
+    confidence_score: 0.0
+    has_website: false
+    robots:
+      can_crawl: false
+      crawl_delay: 1.0
+    validation:
+      dns_valid: false
+      ssl_valid: false
+      content_valid: false
+      last_checked: '2025-09-11T12:22:02.034247'
+    notes: No website found after trying all strategies
+  edgard_and_cooper:
+    brand_name: Edgard & Cooper
+    website_url: https://www.edgardandcooper.com
+    website_status: active
+    discovery_method: pattern
+    confidence_score: 0.9
+    has_website: true
+    robots:
+      can_crawl: true
+      crawl_delay: 1.0
+      disallow: []
+    validation:
+      dns_valid: true
+      ssl_valid: true
+      content_valid: true
+      last_checked: '2025-09-11T12:22:24.696791'
+    notes: ''
+    domain: www.edgardandcooper.com
+    country: US

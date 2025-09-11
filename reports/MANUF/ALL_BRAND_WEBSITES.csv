@@ -1,0 +1,86 @@
+brand,brand_slug,product_count,overall_completion,impact_score,website_url,has_website,source,can_crawl,crawl_delay
+Alpha,alpha,47,80.0,940.0,https://www.alphapetfoods.com,True,existing,True,1.0
+Brit,brit,65,88.92307692307692,720.0000000000002,https://www.brit-petfood.com,True,existing,True,1.0
+Arden,arden,31,80.0,620.0,https://www.ardengrange.com,True,existing,True,1.0
+Barking,barking,29,79.3103448275862,600.0,https://www.barkingheads.co.uk,True,existing,True,1.0
+Burns,burns,38,84.21052631578948,599.9999999999998,https://burns.de/,True,pattern_match,True,1.0
+Borders,borders,28,80.0,560.0,https://www.borderspetfood.com,True,existing,True,2.0
+Briantos,briantos,42,87.61904761904762,520.0,https://www.briantos.de,True,existing,True,1.0
+Bozita,bozita,32,84.375,500.0,https://www.bozita.com,True,existing,True,1.0
+Benyfit,benyfit,12,60.0,480.0,https://www.benyfitnatural.co.uk,True,existing,True,1.0
+Belcando,belcando,32,85.625,460.0,https://www.belcando.de,True,existing,True,1.0
+Bright,bright,23,80.0,460.0,https://www.brightpetfood.com,True,existing,True,1.0
+BETTY,betty,21,80.0,420.0,https://www.bettypetfood.com,True,existing,True,2.0
+Bounce,bounce,19,80.0,380.0,https://www.bounceandbella.co.uk,True,existing,True,1.0
+Biofood,biofood,18,80.0,360.0,https://www.biofoodpetfood.com,True,existing,True,1.0
+Acana,acana,30,88.66666666666666,340.0000000000003,https://www.acana.com,True,existing,True,1.0
+Ambrosia,ambrosia,15,80.0,300.0,https://www.ambrosia.co.uk/,True,pattern_match,False,1.0
+Amazon,amazon,14,78.57142857142858,299.99999999999983,https://www.amazon.com/,True,pattern_match,True,1.0
+Applaws,applaws,29,90.34482758620689,280.0000000000002,https://www.applaws.com,True,existing,True,1.0
+Aldi,aldi,14,80.0,280.0,https://www.aldi.com/,True,pattern_match,True,1.0
+Affinity,affinity,14,80.0,280.0,https://www.affinity-petcare.com,True,existing,True,1.0
+bosch,bosch,31,91.61290322580645,260.0000000000001,https://www.bosch-tiernahrung.de,True,existing,True,1.0
+Browns,browns,13,80.0,260.0,https://www.brownspetfood.com,True,existing,True,2.0
+Calibra,calibra,18,85.55555555555556,260.0,https://www.facebook.com/help/1388094248345081/,True,pattern_match,False,1.0
+Butternut,butternut,11,78.18181818181817,240.0000000000001,https://butternutbox.com/?country_code=DE,True,pattern_match,True,1.0
+Akela,akela,12,80.0,240.0,https://www.akelapetfood.co.uk,True,existing,True,2.0
+Ami,ami,6,60.0,240.0,https://www.ami.com/,True,pattern_match,False,1.0
+Beta,beta,12,80.0,240.0,https://www.beta-petfood.co.uk,True,existing,True,2.0
+Burgess,burgess,11,80.0,220.0,https://www.burgesspetcare.com,True,existing,False,1.0
+Bakers,bakers,14,84.28571428571429,219.99999999999991,https://www.bakerspetfood.co.uk,True,existing,True,2.0
+Arion,arion,23,91.30434782608695,200.00000000000006,https://www.arionpetfood.com,True,existing,True,1.0
+Butchers,butchers,10,80.0,200.0,https://diversey.com/en,True,pattern_match,False,1.0
+4PAWSRAW,4pawsraw,10,80.0,200.0,https://www.4pawsraw.co.uk/,True,pattern_match,True,1.0
+Aatu,aatu,14,87.14285714285714,180.00000000000006,https://www.aatu.co.uk,True,existing,True,1.0
+Billy,billy,9,80.0,180.0,https://www.billy.com/,True,pattern_match,True,1.0
+Autarky,autarky,16,88.75,180.0,https://www.autarky.co.uk,True,existing,True,1.0
+Aflora,aflora,9,80.0,180.0,https://aflora.de/,True,pattern_match,True,1.0
+Bear,bear,7,77.14285714285714,160.00000000000003,https://www.jpmorgan.com/wealth-management/wealth-partners,True,pattern_match,True,1.0
+Brigadiers,brigadiers,8,80.0,160.0,,False,,False,2.0
+Buddy,buddy,8,80.0,160.0,https://enaming.com/domain/buddy-com,True,pattern_match,True,1.0
+Benevo,benevo,4,60.0,160.0,https://www.benevo.com/,True,pattern_match,True,1.0
+Beco,beco,7,80.0,140.0,https://www.becopets.com,True,existing,True,1.0
+Bentleys,bentleys,7,80.0,140.0,,False,,False,2.0
+Caboodle,caboodle,7,80.0,140.0,https://www.caboodle.co.uk/,True,pattern_match,False,1.0
+AniForte,aniforte,6,80.0,120.0,https://www.aniforte.co.uk/,True,pattern_match,True,1.0
+Boost,boost,6,80.0,120.0,https://www.boost.fr/,True,pattern_match,True,1.0
+BULLYBILLOWS,bullybillows,6,80.0,120.0,https://www.bullybillows.com/,True,pattern_match,True,1.0
+ASDA,asda,11,89.0909090909091,119.99999999999997,https://www.asda.com/,True,pattern_match,False,1.0
+Canagan,canagan,7,82.85714285714286,119.99999999999997,https://canagan.com/uk/,True,pattern_match,True,1.0
+animonda,animonda,12,91.66666666666666,100.00000000000011,https://www.animonda.co.uk/,True,pattern_match,True,1.0
+Bonzo,bonzo,5,80.0,100.0,https://www.bonzo.co.uk/,True,pattern_match,True,120.0
+BIG,big,5,80.0,100.0,https://big.com/,True,pattern_match,False,1.0
+4PAWS,4paws,5,80.0,100.0,https://4paws.co.uk/,True,pattern_match,False,1.0
+Angell,angell,5,80.0,100.0,https://www.angell-montessori.de/,True,pattern_match,True,1.0
+Beanfields,beanfields,4,80.0,80.0,https://www.beanfields.com/,True,pattern_match,True,1.0
+Antelope,antelope,4,80.0,80.0,https://www.antelope-shop.com/de/,True,pattern_match,True,1.0
+BugsForPets,bugsforpets,3,80.0,60.0,,False,,False,2.0
+barkinBISTRO,barkinbistro,3,80.0,60.0,https://www.barkinbistro.com/,True,pattern_match,False,1.0
+Arkwrights,arkwrights,5,88.0,60.0,,False,,False,2.0
+Amala,amala,2,80.0,40.0,https://amala.co.uk/en-gb,True,pattern_match,True,1.0
+Brit Care,brit_care,1,60.0,40.0,https://www.atom.com/name/BritCare,True,pattern_match,False,1.0
+Almo,almo,2,80.0,40.0,https://www.almo.com/,True,pattern_match,True,1.0
+Fur,fur,1,60.0,40.0,https://www.fur.com/,True,pattern_match,True,1.0
+Bug,bug,2,80.0,40.0,https://www.bug.de/de,True,pattern_match,True,1.0
+Bonza,bonza,1,60.0,40.0,https://bonza.com/,True,pattern_match,True,1.0
+Advance,advance,3,93.33333333333333,20.000000000000014,https://www.advance.com/,True,pattern_match,True,1.0
+Forthglade,forthglade,1,80.0,20.0,https://forthglade.com/,True,pattern_match,True,1.0
+Algoods,algoods,1,80.0,20.0,,False,,False,2.0
+Aardvark,aardvark,2,90.0,20.0,,False,,False,2.0
+Alpha Spirit,alpha_spirit,1,80.0,20.0,https://sedo.com/search/details/?domain=www.alphaspirit.com&campaignId=329145&origin=sales_lander_15,True,pattern_match,False,1.0
+Dachshund,dachshund,1,80.0,20.0,https://www.dachshund.co.uk/,True,pattern_match,True,1.0
+Different,different,1,80.0,20.0,https://www.different.fr/,True,pattern_match,True,1.0
+Cotswold,cotswold,1,80.0,20.0,https://www.cotswoldnutrition.com/,True,pattern_match,True,1.0
+Auchan,auchan,1,80.0,20.0,https://www.auchan.ro/,True,pattern_match,True,1.0
+Bob,bob,1,80.0,20.0,https://www.bob.fr/,True,pattern_match,True,1.0
+Barfgold,barfgold,1,80.0,20.0,https://barfgold.com/,True,pattern_match,True,1.0
+Advance Veterinary Diets,advance_veterinary_diets,23,99.1304347826087,19.999999999999844,,False,,False,2.0
+Beneful,beneful,3,100.0,0.0,https://www.purina.de/marken/beneful,True,pattern_match,True,1.0
+Brekkies,brekkies,2,100.0,0.0,,False,,False,2.0
+Almo Nature,almo_nature,12,100.0,0.0,https://www.almonature.com/it/,True,pattern_match,True,1.0
+Arden Grange,arden_grange,14,100.0,0.0,https://www.ardengrange.com/,True,pattern_match,True,1.0
+Arquivet,arquivet,7,100.0,0.0,https://arquivet.com/,True,pattern_match,False,1.0
+BugBell,bugbell,6,100.0,0.0,https://bugbell.de/,True,pattern_match,True,1.0
+DOGGY Dog,doggy_dog,1,100.0,0.0,,False,,False,2.0
+Smølke,sm_lke,1,100.0,0.0,,False,,False,2.0
+Bewi Dog,bewi_dog,1,100.0,0.0,https://sedo.com/search/details/?domain=www.bewidog.com&campaignId=329145&origin=sales_lander_15,True,pattern_match,False,1.0
