@@ -1,0 +1,315 @@
+product_key,brand,product_name,old_brand_slug,new_brand_slug,reason,provenance,status
+arden|grange_adult_chicken__rice|dry,Arden,Grange Adult Chicken  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_grain_free_duck|unknown,Arden,Grange Adult Grain Free Duck,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_grain_free_lamb|unknown,Arden,Grange Adult Grain Free Lamb,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_grain_free_salmon|unknown,Arden,Grange Adult Grain Free Salmon,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_grain_free_turkey|unknown,Arden,Grange Adult Grain Free Turkey,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_lamb__rice|dry,Arden,Grange Adult Lamb  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_large_breed_sensitive|unknown,Arden,Grange Adult Large Breed Sensitive,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_light_chicken__rice|dry,Arden,Grange Adult Light Chicken  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_mini_lamb__rice|dry,Arden,Grange Adult Mini Lamb  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_pork__rice|unknown,Arden,Grange Adult Pork  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_premium_chicken__rice|dry,Arden,Grange Adult Premium Chicken  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_prestige_chicken|dry,Arden,Grange Adult Prestige Chicken,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_adult_salmon__rice|dry,Arden,Grange Adult Salmon  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_grain_free_adult_duck__superfoods|unknown,Arden,Grange Grain Free Adult Duck  Superfoods,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_grain_free_adult_lamb__superfoods|unknown,Arden,Grange Grain Free Adult Lamb  Superfoods,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_grain_free_adult_turkey__superfoods|unknown,Arden,Grange Grain Free Adult Turkey  Superfoods,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_grain_free_light/senior|unknown,Arden,Grange Grain Free Light/Senior,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_grain_free_puppy|unknown,Arden,Grange Grain Free Puppy,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_large_breed|dry,Arden,Grange Large Breed,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_mini_adult_chicken__rice|unknown,Arden,Grange Mini Adult Chicken  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+"arden|grange_partners_chicken,_rice__veg|wet",Arden,"Grange Partners Chicken, Rice  Veg",arden,arden_grange,Split brand detected,foods_canonical,PENDING
+"arden|grange_partners_lamb,_rice__veg|wet",Arden,"Grange Partners Lamb, Rice  Veg",arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_partners_sensitive_adult|unknown,Arden,Grange Partners Sensitive Adult,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_performance_adult|unknown,Arden,Grange Performance Adult,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_puppy_junior_chicken__rice|dry,Arden,Grange Puppy Junior Chicken  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_puppy_junior_large_breed_chicken__rice|dry,Arden,Grange Puppy Junior Large Breed Chicken  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_senior_chicken__rice|dry,Arden,Grange Senior Chicken  Rice,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_sensitive_adult|dry,Arden,Grange Sensitive Adult,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_sensitive_light/senior|unknown,Arden,Grange Sensitive Light/Senior,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_sensitive_mini_adult|unknown,Arden,Grange Sensitive Mini Adult,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_sensitive_puppy/junior|unknown,Arden,Grange Sensitive Puppy/Junior,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+arden|grange_weaning/puppy|unknown,Arden,Grange Weaning/Puppy,arden,arden_grange,Split brand detected,foods_canonical,PENDING
+barking|heads_all_hounder_bowl_lickin_goodness_chicken|unknown,Barking,Heads All Hounder Bowl Lickin Goodness Chicken,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_all_hounder_bowl_lickin_goodness_lamb|unknown,Barking,Heads All Hounder Bowl Lickin Goodness Lamb,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_all_hounder_fat_dog_slim|unknown,Barking,Heads All Hounder Fat Dog Slim,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_all_hounder_fuss_pot_duck|unknown,Barking,Heads All Hounder Fuss Pot Duck,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_all_hounder_golden_years|unknown,Barking,Heads All Hounder Golden Years,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_all_hounder_hair_necessities|unknown,Barking,Heads All Hounder Hair Necessities,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_all_hounder_puppy_days_turkey|unknown,Barking,Heads All Hounder Puppy Days Turkey,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_all_hounder_tummy_lovin_care_fish|unknown,Barking,Heads All Hounder Tummy Lovin Care Fish,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_beef_waggington_wet|wet,Barking,Heads Beef Waggington Wet,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_big_foot_bowl_lickin_chicken|dry,Barking,Heads Big Foot Bowl Lickin Chicken,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_big_foot_chop_lickin_lamb|dry,Barking,Heads Big Foot Chop Lickin Lamb,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_big_foot_golden_years|unknown,Barking,Heads Big Foot Golden Years,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_big_foot_puppy_days|dry,Barking,Heads Big Foot Puppy Days,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_bowl_lickin_chicken_wet|wet,Barking,Heads Bowl Lickin Chicken Wet,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_bowl_lickin_chicken|dry,Barking,Heads Bowl Lickin Chicken,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_chop_lickin_lamb_wet|wet,Barking,Heads Chop Lickin Lamb Wet,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_chop_lickin_lamb|dry,Barking,Heads Chop Lickin Lamb,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_doggylicious_duck|dry,Barking,Heads Doggylicious Duck,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_fat_dog_slim_wet|wet,Barking,Heads Fat Dog Slim Wet,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_fat_dog_slim|dry,Barking,Heads Fat Dog Slim,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_fish_n_delish|dry,Barking,Heads Fish N Delish,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_golden_years_chicken|dry,Barking,Heads Golden Years Chicken,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_golden_years_wet|wet,Barking,Heads Golden Years Wet,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_little_paws_bowl_lickin_chicken|dry,Barking,Heads Little Paws Bowl Lickin Chicken,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_little_paws_chop_lickin_lamb|dry,Barking,Heads Little Paws Chop Lickin Lamb,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_little_paws_fuss_pot_duck|dry,Barking,Heads Little Paws Fuss Pot Duck,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_little_paws_golden_years|unknown,Barking,Heads Little Paws Golden Years,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_plant_powered_pooches|dry,Barking,Heads Plant Powered Pooches,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_pooched_salmon|dry,Barking,Heads Pooched Salmon,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_puppy_days_wet|wet,Barking,Heads Puppy Days Wet,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_puppy_days|dry,Barking,Heads Puppy Days,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_top_dog_turkey_wet|wet,Barking,Heads Top Dog Turkey Wet,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+barking|heads_top_dog_turkey|dry,Barking,Heads Top Dog Turkey,barking,barking_heads,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_adult_chicken__rice|unknown,James,Wellbeloved Adult Chicken  Rice,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_adult_chicken__turkey_high_protein|unknown,James,Wellbeloved Adult Chicken  Turkey High Protein,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_adult_lamb_with_sweet_potato__chia_superfoods|dry,James,Wellbeloved Adult Lamb with Sweet Potato  Chia Sup,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_adult_large_breed_chicken__rice|unknown,James,Wellbeloved Adult Large Breed Chicken  Rice,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_adult_small_breed_chicken__rice|unknown,James,Wellbeloved Adult Small Breed Chicken  Rice,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_adult_small_breed_turkey_with_rice_pouch|unknown,James,Wellbeloved Adult Small Breed Turkey with Rice Pou,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_adult_turkey_with_kale__quinoa_superfoods|dry,James,Wellbeloved Adult Turkey with Kale  Quinoa Superfo,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_adult_turkey_with_rice|wet,James,Wellbeloved Adult Turkey with Rice,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_chicken__rice_in_loaf_adult|wet,James,Wellbeloved Chicken  Rice in Loaf Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_duck__rice_adult|dry,James,Wellbeloved Duck  Rice Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_duck__rice_large_breed|dry,James,Wellbeloved Duck  Rice Large Breed,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_duck__rice_senior|dry,James,Wellbeloved Duck  Rice Senior,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_duck__rice_small_breed|dry,James,Wellbeloved Duck  Rice Small Breed,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_fish__rice_adult|dry,James,Wellbeloved Fish  Rice Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_fish__rice_large_breed|dry,James,Wellbeloved Fish  Rice Large Breed,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_fish__rice_puppy|dry,James,Wellbeloved Fish  Rice Puppy,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_fish__rice_senior|dry,James,Wellbeloved Fish  Rice Senior,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_adult_lamb__chicken|unknown,James,Wellbeloved Grain Free Adult Lamb  Chicken,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_fish__vegetables|dry,James,Wellbeloved Grain Free Fish  Vegetables,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_lamb__vegetables_senior|dry,James,Wellbeloved Grain Free Lamb  Vegetables Senior,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_lamb__vegetables|dry,James,Wellbeloved Grain Free Lamb  Vegetables,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_senior_lamb__veg|unknown,James,Wellbeloved Grain Free Senior Lamb  Veg,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_senior_turkey__veg|unknown,James,Wellbeloved Grain Free Senior Turkey  Veg,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_turkey__vegetables_puppy/_junior|dry,James,Wellbeloved Grain Free Turkey  Vegetables Puppy/ J,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_turkey__vegetables_small_breed|dry,James,Wellbeloved Grain Free Turkey  Vegetables Small Br,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_turkey__vegetables|dry,James,Wellbeloved Grain Free Turkey  Vegetables,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_grain_free_turkey_in_gravy_adult|wet,James,Wellbeloved Grain Free Turkey in Gravy Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_lamb__rice_adult|dry,James,Wellbeloved Lamb  Rice Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_lamb__rice_junior|dry,James,Wellbeloved Lamb  Rice Junior,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_lamb__rice_large_breed_adult|dry,James,Wellbeloved Lamb  Rice Large Breed Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_lamb__rice_puppy|dry,James,Wellbeloved Lamb  Rice Puppy,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_lamb__rice_senior|dry,James,Wellbeloved Lamb  Rice Senior,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_lamb__rice_small_breed_adult|dry,James,Wellbeloved Lamb  Rice Small Breed Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_light_lamb__rice_adult|dry,James,Wellbeloved Light Lamb  Rice Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_light_turkey__rice_adult|dry,James,Wellbeloved Light Turkey  Rice Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_plant_power_adult_lamb__lentils|unknown,James,Wellbeloved Plant Power Adult Lamb  Lentils,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_puppy_chicken__rice|unknown,James,Wellbeloved Puppy Chicken  Rice,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_puppy/junior_turkey_with_kale__quinoa_superfoods|dry,James,Wellbeloved Puppy/Junior Turkey with Kale  Quinoa ,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_senior_chicken__rice|unknown,James,Wellbeloved Senior Chicken  Rice,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_turkey__rice_adult|dry,James,Wellbeloved Turkey  Rice Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_turkey__rice_in_loaf_adult|wet,James,Wellbeloved Turkey  Rice in Loaf Adult,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_turkey__rice_junior|dry,James,Wellbeloved Turkey  Rice Junior,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_turkey__rice_large_breed|dry,James,Wellbeloved Turkey  Rice Large Breed,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_turkey__rice_puppy|dry,James,Wellbeloved Turkey  Rice Puppy,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_turkey__rice_senior|dry,James,Wellbeloved Turkey  Rice Senior,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_turkey__rice_small_breed_senior|dry,James,Wellbeloved Turkey  Rice Small Breed Senior,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_turkey__rice_small_breed|dry,James,Wellbeloved Turkey  Rice Small Breed,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+james|wellbeloved_turkey_in_gravy_puppy/junior|wet,James,Wellbeloved Turkey in Gravy Puppy/Junior,james,james_wellbeloved,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_an_english_garden_party|unknown,Lilys,Kitchen An English Garden Party,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_beef_goulash|unknown,Lilys,Kitchen Beef Goulash,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_beef_with_ancient_grains|unknown,Lilys,Kitchen Beef with Ancient Grains,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_breakfast_crunch|unknown,Lilys,Kitchen Breakfast Crunch,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_carnival_chicken|unknown,Lilys,Kitchen Carnival Chicken,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_chicken__duck_small_breed|unknown,Lilys,Kitchen Chicken  Duck Small Breed,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_chicken__salmon_puppy|unknown,Lilys,Kitchen Chicken  Salmon Puppy,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_chicken__turkey_casserole|wet,Lilys,Kitchen Chicken  Turkey Casserole,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_chicken_with_ancient_grains|unknown,Lilys,Kitchen Chicken with Ancient Grains,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_coronation_chicken|unknown,Lilys,Kitchen Coronation Chicken,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_cottage_pie|wet,Lilys,Kitchen Cottage Pie,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_countryside_casserole_chicken__duck|dry,Lilys,Kitchen Countryside Casserole Chicken  Duck,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_fish__chips|unknown,Lilys,Kitchen Fish  Chips,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_fishy_fish_pie|wet,Lilys,Kitchen Fishy Fish Pie,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_great_british_breakfast|wet,Lilys,Kitchen Great British Breakfast,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_hocus_pocus_stew|unknown,Lilys,Kitchen Hocus Pocus Stew,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_lamb_hotpot|unknown,Lilys,Kitchen Lamb Hotpot,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_lamb_tagine|unknown,Lilys,Kitchen Lamb Tagine,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_lean_machine|unknown,Lilys,Kitchen Lean Machine,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_love__pride|unknown,Lilys,Kitchen Love  Pride,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_mighty_burrito_bowl_with_jackfruit__red_peppers|unknown,Lilys,Kitchen Mighty Burrito Bowl with Jackfruit  Red Pe,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_organic_beef_supper|wet,Lilys,Kitchen Organic Beef Supper,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_organic_chicken__vegetable|dry,Lilys,Kitchen Organic Chicken  Vegetable,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_organic_chicken_supper|wet,Lilys,Kitchen Organic Chicken Supper,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_organic_lamb_supper|unknown,Lilys,Kitchen Organic Lamb Supper,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_pasta_al_ragu|unknown,Lilys,Kitchen Pasta Al Ragu,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_puppy_chicken_dinner|wet,Lilys,Kitchen Puppy Chicken Dinner,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_puppy_organic_dinner|wet,Lilys,Kitchen Puppy Organic Dinner,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_rest_up_recipe|unknown,Lilys,Kitchen Rest up Recipe,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_senior_recipe|wet,Lilys,Kitchen Senior Recipe,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+"lilys|kitchen_shepherds_pie_with_lamb,_potatoes__parsley|unknown",Lilys,"Kitchen Shepherds Pie with Lamb, Potatoes  Parsley",lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_springtime_stew|unknown,Lilys,Kitchen Springtime Stew,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_sunday_lunch_small_dogs|unknown,Lilys,Kitchen Sunday Lunch Small Dogs,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_sunday_lunch|unknown,Lilys,Kitchen Sunday Lunch,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_surf__turf|unknown,Lilys,Kitchen Surf  Turf,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_three_bird_feast|unknown,Lilys,Kitchen Three Bird Feast,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_turkey__duck_puppy_recipe|unknown,Lilys,Kitchen Turkey  Duck Puppy Recipe,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_turkey__trout_senior|unknown,Lilys,Kitchen Turkey  Trout Senior,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_ultimate_chicken__salmon|unknown,Lilys,Kitchen Ultimate Chicken  Salmon,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_ultimate_chicken_dinner|unknown,Lilys,Kitchen Ultimate Chicken Dinner,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_ultimate_steak_dinner|unknown,Lilys,Kitchen Ultimate Steak Dinner,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_venison__wild_boar_terrine|unknown,Lilys,Kitchen Venison  Wild Boar Terrine,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_vibrant_vegan_rainbow_stew|unknown,Lilys,Kitchen Vibrant Vegan Rainbow Stew,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_wholesome_veggie_feast|wet,Lilys,Kitchen Wholesome Veggie Feast,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+lilys|kitchen_wild_campfire_stew|unknown,Lilys,Kitchen Wild Campfire Stew,lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+"lilys|kitchen_wild_woodland_walk_duck,_salmon__venison|unknown",Lilys,"Kitchen Wild Woodland Walk Duck, Salmon  Venison",lilys,lilys_kitchen,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_60/40_beef_and_chicken|raw,Natures,Menu Complete  Balanced 60/40 Beef and Chicken,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_60/40_chicken_with_salmon|raw,Natures,Menu Complete  Balanced 60/40 Chicken with Salmon,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_60/40_lamb_with_chicken|raw,Natures,Menu Complete  Balanced 60/40 Lamb with Chicken,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_60/40_tripe__chicken|raw,Natures,Menu Complete  Balanced 60/40 Tripe  Chicken,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_60/40_tripe_and_chicken|raw,Natures,Menu Complete  Balanced 60/40 Tripe and Chicken,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_80/20_chicken_with_salmon|unknown,Natures,Menu Complete  Balanced 80/20 Chicken with Salmon,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_80/20_farm_reared_turkey|unknown,Natures,Menu Complete  Balanced 80/20 Farm Reared Turkey,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_80/20_lamb|raw,Natures,Menu Complete  Balanced 80/20 Lamb,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_80/20_tender_beef|raw,Natures,Menu Complete  Balanced 80/20 Tender Beef,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_complete__balanced_puppy_80/20_turkey__fish|unknown,Natures,Menu Complete  Balanced Puppy 80/20 Turkey  Fish,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_chicken_with_superfoods|wet,Natures,Menu Country Hunter Chicken with Superfoods,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_farm_reared_turkey_pouch|wet,Natures,Menu Country Hunter Farm Reared Turkey Pouch,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_farm_reared_turkey_with_superfoods_can|wet,Natures,Menu Country Hunter Farm Reared Turkey with Superf,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_pheasant__goose_with_superfoods|wet,Natures,Menu Country Hunter Pheasant  Goose with Superfood,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_rabbit_with_superfoods_can|wet,Natures,Menu Country Hunter Rabbit with Superfoods Can,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_salmon__chicken_with_superfoods|wet,Natures,Menu Country Hunter Salmon  Chicken with Superfood,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_single_animal_protein_beef_with_superfoods|unknown,Natures,Menu Country Hunter Single Animal Protein Beef wit,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_succulent_duck_pouch|wet,Natures,Menu Country Hunter Succulent Duck Pouch,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_succulent_duck_with_superfoods_can|wet,Natures,Menu Country Hunter Succulent Duck with Superfoods,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_wild_boar_with_superfoods|wet,Natures,Menu Country Hunter Wild Boar with Superfoods,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_country_hunter_wild_venison_with_superfoods_can|wet,Natures,Menu Country Hunter Wild Venison with Superfoods C,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_delicious_pate_chicken_with_duck__vegetables|unknown,Natures,Menu Delicious Pate Chicken with Duck  Vegetables,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_delicious_pate_chicken_with_vegetables|unknown,Natures,Menu Delicious Pate Chicken with Vegetables,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_delicious_pate_puppy_chicken_with_lamb|unknown,Natures,Menu Delicious Pate Puppy Chicken with Lamb,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_delicious_pate_senior_lamb_with_chicken__vegetables|wet,Natures,Menu Delicious Pate Senior Lamb with Chicken  Vege,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_delicious_pate_turkey_with_chicken__vegetables|unknown,Natures,Menu Delicious Pate Turkey with Chicken  Vegetable,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_freshly_cooked_beef_roast|unknown,Natures,Menu Freshly Cooked Beef Roast,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_freshly_cooked_chicken_casserole|unknown,Natures,Menu Freshly Cooked Chicken Casserole,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_freshly_cooked_salmon_fishermans_pie|unknown,Natures,Menu Freshly Cooked Salmon Fishermans Pie,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_freshly_cooked_turkey_and_veggie_pot|unknown,Natures,Menu Freshly Cooked Turkey and Veggie Pot,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_hearty_stew_with_beef__carrots|unknown,Natures,Menu Hearty Stew with Beef  Carrots,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_hearty_stew_with_lamb__vegetables|unknown,Natures,Menu Hearty Stew with Lamb  Vegetables,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_hearty_stew_with_salmon__herbs|unknown,Natures,Menu Hearty Stew with Salmon  Herbs,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_hearty_stew_with_turkey__green_beans|unknown,Natures,Menu Hearty Stew with Turkey  Green Beans,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_lamb_with_chicken_can|wet,Natures,Menu Lamb with Chicken Can,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_light_chicken_with_rabbit_pouch|wet,Natures,Menu Light Chicken with Rabbit Pouch,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_puppy_80%_chicken_with_salmon|raw,Natures,Menu Puppy 80% Chicken with Salmon,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_raw_boost_with_beef|raw,Natures,Menu Raw Boost with Beef,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_raw_boost_with_fresh_chicken|raw,Natures,Menu Raw Boost with Fresh Chicken,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_raw_boost_with_pork__lamb|raw,Natures,Menu Raw Boost with Pork  Lamb,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_raw_boost_with_trout|raw,Natures,Menu Raw Boost with Trout,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_raw_freeze_dried_adult_turkey|raw,Natures,Menu Raw Freeze Dried Adult Turkey,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_raw_freeze_dried_beef|raw,Natures,Menu Raw Freeze Dried Beef,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_raw_freeze_dried_complete_80%_chicken|raw,Natures,Menu Raw Freeze Dried Complete 80% Chicken,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_raw_freeze_dried_complete_lamb|raw,Natures,Menu Raw Freeze Dried Complete Lamb,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+natures|menu_senior_complete__balanced_60/40_chicken_with_fish|raw,Natures,Menu Senior Complete  Balanced 60/40 Chicken with ,natures,natures_menu,Split brand detected,foods_canonical,PENDING
+royal|canin_beagle_adult|dry,Royal,Canin Beagle Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_bulldog_puppy|unknown,Royal,Canin Bulldog Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_cavalier_king_charles|dry,Royal,Canin Cavalier King Charles,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_chihuahua_loaf|unknown,Royal,Canin Chihuahua Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_cocker_spaniel_adult|dry,Royal,Canin Cocker Spaniel Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_cocker_spaniel_puppy|unknown,Royal,Canin Cocker Spaniel Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_dachshund_adult|unknown,Royal,Canin Dachshund Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_dachshund_loaf|unknown,Royal,Canin Dachshund Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_dalmatian_adult|dry,Royal,Canin Dalmatian Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_dermacomfort_care_loaf|unknown,Royal,Canin Dermacomfort Care Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_digestive_care_loaf|unknown,Royal,Canin Digestive Care Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_french_bulldog_adult|dry,Royal,Canin French Bulldog Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_german_shepherd_5|unknown,Royal,Canin German Shepherd 5,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_german_shepherd_adult|dry,Royal,Canin German Shepherd Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_giant_adult|dry,Royal,Canin Giant Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_giant_junior|unknown,Royal,Canin Giant Junior,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_giant_puppy|unknown,Royal,Canin Giant Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_giant_starter_mother__babydog|unknown,Royal,Canin Giant Starter Mother  Babydog,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_golden_retriever_puppy|unknown,Royal,Canin Golden Retriever Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_great_dane_adult|unknown,Royal,Canin Great Dane Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_jack_russell_terrier_adult|dry,Royal,Canin Jack Russell Terrier Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_labrador_retriever_5|unknown,Royal,Canin Labrador Retriever 5,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_labrador_retriever_adult|dry,Royal,Canin Labrador Retriever Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_labrador_retriever_chunks_in_gravy|unknown,Royal,Canin Labrador Retriever Chunks In Gravy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_labrador_retriever_sterilised|unknown,Royal,Canin Labrador Retriever Sterilised,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_light_weight_care_loaf|unknown,Royal,Canin Light Weight Care Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maltese_adult|unknown,Royal,Canin Maltese Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_adult_5|dry,Royal,Canin Maxi Adult 5,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_adult_in_loaf|unknown,Royal,Canin Maxi Adult In Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_adult|dry,Royal,Canin Maxi Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_ageing_8|unknown,Royal,Canin Maxi Ageing 8,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_ageing_in_loaf|unknown,Royal,Canin Maxi Ageing In Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_dental_care|unknown,Royal,Canin Maxi Dental Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_dermacomfort|dry,Royal,Canin Maxi Dermacomfort,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_digestive_care|dry,Royal,Canin Maxi Digestive Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_joint_care|dry,Royal,Canin Maxi Joint Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_light_weight_care|unknown,Royal,Canin Maxi Light Weight Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_puppy_chunks_in_gravy|unknown,Royal,Canin Maxi Puppy Chunks In Gravy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_puppy|dry,Royal,Canin Maxi Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_starter_mother__babydog|unknown,Royal,Canin Maxi Starter Mother  Babydog,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_maxi_sterilised|unknown,Royal,Canin Maxi Sterilised,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_adult_7|unknown,Royal,Canin Medium Adult 7,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_adult_chunks_in_gravy|unknown,Royal,Canin Medium Adult Chunks In Gravy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_adult_in_loaf|unknown,Royal,Canin Medium Adult In Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_adult|dry,Royal,Canin Medium Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_ageing_10|dry,Royal,Canin Medium Ageing 10,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_ageing_chunks_in_gravy|unknown,Royal,Canin Medium Ageing Chunks In gravy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_dental_care|dry,Royal,Canin Medium Dental Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_dermacomfort|dry,Royal,Canin Medium Dermacomfort,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_digestive_care|unknown,Royal,Canin Medium Digestive Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_light_weight_care|unknown,Royal,Canin Medium Light Weight Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_puppy_chunks_in_gravy|unknown,Royal,Canin Medium Puppy Chunks In Gravy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_puppy|unknown,Royal,Canin Medium Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_starter_mother__babydog|unknown,Royal,Canin Medium Starter Mother  Babydog,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_medium_sterilised|unknown,Royal,Canin Medium Sterilised,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_adult_8|dry,Royal,Canin Mini Adult 8,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_adult_in_loaf|unknown,Royal,Canin Mini Adult In Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_adult|dry,Royal,Canin Mini Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_adults_chunks_in_gravy|unknown,Royal,Canin Mini Adults Chunks In Gravy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_ageing_12|unknown,Royal,Canin Mini Ageing 12,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_ageing_chunks_in_gravy|unknown,Royal,Canin Mini Ageing Chunks In Gravy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_ageing_in_loaf|unknown,Royal,Canin Mini Ageing In Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_coat_care|dry,Royal,Canin Mini Coat Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_dental_care|unknown,Royal,Canin Mini Dental Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_dermacomfort|dry,Royal,Canin Mini Dermacomfort,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_digestive_care|dry,Royal,Canin Mini Digestive Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_lightweight_care|dry,Royal,Canin Mini Lightweight Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_puppy_chunks_in_gravy|unknown,Royal,Canin Mini Puppy Chunks In Gravy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_puppy|unknown,Royal,Canin Mini Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_starter_mother__babydog|unknown,Royal,Canin Mini Starter Mother  Babydog,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_sterilised|unknown,Royal,Canin Mini Sterilised,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_mini_urinary_care|unknown,Royal,Canin Mini Urinary Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_miniature_schnauzer|dry,Royal,Canin Miniature Schnauzer,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_pomeranian_adult|unknown,Royal,Canin Pomeranian Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_pomeranian_loaf|unknown,Royal,Canin Pomeranian Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_poodle_loaf|unknown,Royal,Canin Poodle Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_poodle|dry,Royal,Canin Poodle,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_pug_adult|dry,Royal,Canin Pug Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_pug_puppy|unknown,Royal,Canin Pug Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_rottweiler_puppy|unknown,Royal,Canin Rottweiler Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_rottweiler|dry,Royal,Canin Rottweiler,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_sensitivity_control|wet,Royal,Canin Sensitivity Control,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_shih_tzu_adult|dry,Royal,Canin Shih Tzu Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_shih_tzu_loaf|unknown,Royal,Canin Shih Tzu Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_starter_mother__baby_ultra_soft_mousse|unknown,Royal,Canin Starter Mother  Baby Ultra Soft Mousse,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_sterilised_loaf|unknown,Royal,Canin Sterilised Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_urinary_care_loaf|unknown,Royal,Canin Urinary Care Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_west_highland_white_terrier|dry,Royal,Canin West Highland White Terrier,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_x_small_adult_8|unknown,Royal,Canin X Small Adult 8,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_x_small_adult|dry,Royal,Canin X Small Adult,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_x_small_ageing_12|unknown,Royal,Canin X Small Ageing 12,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_x_small_light_weight_care|unknown,Royal,Canin X Small Light Weight Care,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_x_small_puppy|unknown,Royal,Canin X Small Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_x_small_sterilised|unknown,Royal,Canin X Small Sterilised,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_yorkshire_terrier_loaf|unknown,Royal,Canin Yorkshire Terrier Loaf,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_yorkshire_terrier_puppy|unknown,Royal,Canin Yorkshire Terrier Puppy,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+royal|canin_yorkshire_terrier|dry,Royal,Canin Yorkshire Terrier,royal,royal_canin,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_appalachian_valley_small_breed|unknown,Taste,of the Wild Appalachian Valley Small Breed,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_high_prairie|unknown,Taste,of the Wild High Prairie,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_pacific_stream_puppy|unknown,Taste,of the Wild Pacific Stream Puppy,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_pacific_stream_wet|wet,Taste,of the Wild Pacific Stream Wet,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_pacific_stream|unknown,Taste,of the Wild Pacific Stream,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_pine_forest|unknown,Taste,of the Wild Pine Forest,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_sierra_mountain_wet|wet,Taste,of the Wild Sierra Mountain wet,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_sierra_mountain|unknown,Taste,of the Wild Sierra Mountain,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_southwest_canyon_wet|wet,Taste,of the Wild Southwest Canyon Wet,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_southwest_canyon|unknown,Taste,of the Wild Southwest Canyon,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_wetlands_wet|wet,Taste,of the Wild Wetlands Wet,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING
+taste|of_the_wild_wetlands|wet,Taste,of the Wild Wetlands,taste,taste_of_the_wild,Split brand detected,foods_canonical,PENDING

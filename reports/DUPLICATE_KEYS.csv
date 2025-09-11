@@ -1,0 +1,9 @@
+table,product_key,count
+foods_published_v2.csv,4pawsraw|grain_free_angus_beef_with_carrot|dry,11
+foods_published_v2.csv,4paws|supplies_premium_cold_pressed_lovely_lamb|dry,6
+foods_published_v2.csv,aatu|aatu_free_run_chicken|dry,3
+foods_published_v2.csv,acana|acana_adult_dog_recipe_grain_free|dry,4
+foods_published_v2.csv,acana|acana_highest_protein_grasslands|dry,4
+02_foods_published_sample.csv,acana|acana_light_fit_recipe|dry,2
+02_foods_published_sample.csv,applaws|applaws_adult_chicken_lamb|dry,2
+02_foods_published_sample.csv,applaws|applaws_puppy_large_breed_chicken|dry,2

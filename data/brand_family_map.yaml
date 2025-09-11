@@ -1,0 +1,199 @@
+families:
+
+  - family_slug: royal_canin
+    canonical_brand: "Royal Canin"
+    aliases:
+      - "Royal Canin"
+      - "Royal|Canin"         # split-brand artifact
+      - "RC"                  # rare short form; use carefully
+    detect_patterns:
+      - "royal canin"
+      - "royal|canin"
+    series_rules:
+      - series_slug: breed
+        patterns: ["yorkshire terrier","chihuahua","bulldog","poodle","cocker","labrador","german shepherd","dachshund","pomeranian","shi?h? tzu","beagle","retriever","terrier","breed"]
+      - series_slug: size
+        patterns: ["x-?small","mini","small","medium","maxi","giant","starter","ageing","junior","puppy","adult","senior","size"]
+      - series_slug: care
+        patterns: ["dermacomfort","digestive","exigent","light","satiety","urinary care","hypoallergenic","sensitivity","cardiac","renal","mobility","skin care","hair & skin","oral care","neutered"]
+      - series_slug: veterinary
+        patterns: ["veterinary","vet","vhn","veterinary health nutrition","prescription"]
+      - series_slug: expert
+        patterns: ["expert"]
+
+  - family_slug: hills
+    canonical_brand: "Hill's"
+    aliases:
+      - "Hill's"
+      - "Hills"
+      - "Hill’s"
+      - "Hill's Science Plan"
+      - "Hill's Prescription Diet"
+    detect_patterns:
+      - "hill"
+    series_rules:
+      - series_slug: science_plan
+        patterns: ["science plan","vet essentials","bioactive recipe"]
+      - series_slug: prescription_diet
+        patterns: ["prescription diet","i/d","z/d","d/d","r/d","k/d","j/d","u/d","c/d","t/d","w/d","g/d"]  # common PD codes
+
+  - family_slug: purina
+    canonical_brand: "Purina"
+    aliases:
+      - "Purina"
+      - "Purina Pro Plan"
+      - "Purina ONE"
+      - "Purina Dog Chow"
+      - "Purina Veterinary Diets"
+      - "Beta"              # in many markets: "Purina BETA"
+      - "AdVENTuROS"
+    detect_patterns:
+      - "purina"
+      - "beta "              # keep space to avoid false positives
+    series_rules:
+      - series_slug: pro_plan
+        patterns: ["pro plan","sport","performance","sensitive skin","sensitive digestion","large athletic","large robust"]
+      - series_slug: one
+        patterns: ["purina one","one "]
+      - series_slug: dog_chow
+        patterns: ["dog chow"]
+      - series_slug: veterinary
+        patterns: ["veterinary","vd","vet diet","en","ha","om","derm","renal"]
+
+  - family_slug: eukanuba
+    canonical_brand: "Eukanuba"
+    aliases: ["Eukanuba"]
+    detect_patterns: ["eukanuba"]
+    series_rules:
+      - series_slug: daily_care
+        patterns: ["daily care","weight control","sensitive"]
+      - series_slug: breed
+        patterns: ["breed specific"]
+      - series_slug: veterinary
+        patterns: ["veterinary"]
+
+  - family_slug: iams
+    canonical_brand: "Iams"
+    aliases: ["Iams"]
+    detect_patterns: ["iams"]
+    series_rules:
+      - series_slug: core
+        patterns: ["adult","puppy","senior","light","small","large"]
+
+  - family_slug: pedigree
+    canonical_brand: "Pedigree"
+    aliases: ["Pedigree"]
+    detect_patterns: ["pedigree"]
+    series_rules:
+      - series_slug: vital
+        patterns: ["vital protection","vital"]
+      - series_slug: professional
+        patterns: ["professional"]
+
+  - family_slug: cesar
+    canonical_brand: "Cesar"
+    aliases: ["Cesar"]
+    detect_patterns: ["cesar"]
+    series_rules:
+      - series_slug: classics
+        patterns: ["classic","country kitchen","gourmet"]
+
+  - family_slug: advance
+    canonical_brand: "Advance"
+    aliases: ["Advance"]
+    detect_patterns: ["advance"]
+    series_rules:
+      - series_slug: veterinary
+        patterns: ["veterinary","vet"]
+      - series_slug: core
+        patterns: ["adult","puppy","senior"]
+
+  - family_slug: farmina
+    canonical_brand: "Farmina"
+    aliases: ["Farmina","Farmina N&D","N&D"]
+    detect_patterns: ["farmina","n&d","nd "]
+    series_rules:
+      - series_slug: nd
+        patterns: ["n&d","nd ocean","nd ancestral","nd pumpkin","nd quinoa"]
+      - series_slug: vet_life
+        patterns: ["vet life","veterinary"]
+
+  - family_slug: bozita
+    canonical_brand: "Bozita"
+    aliases: ["Bozita","Bozita Robur"]
+    detect_patterns: ["bozita"]
+    series_rules:
+      - series_slug: robur
+        patterns: ["robur"]
+
+  - family_slug: brit
+    canonical_brand: "Brit"
+    aliases: ["Brit","Brit Care","Brit Premium","Brit Fresh"]
+    detect_patterns: ["brit "]
+    series_rules:
+      - series_slug: care
+        patterns: ["brit care"]
+      - series_slug: premium
+        patterns: ["brit premium"]
+      - series_slug: fresh
+        patterns: ["brit fresh"]
+
+  - family_slug: belcando
+    canonical_brand: "Belcando"
+    aliases: ["Belcando","Belcando Mastercraft"]
+    detect_patterns: ["belcando"]
+    series_rules:
+      - series_slug: mastercraft
+        patterns: ["mastercraft"]
+
+  - family_slug: alpha
+    canonical_brand: "Alpha"
+    aliases: ["Alpha","Alpha Spirit"]   # treat Alpha Spirit cautiously if separate; include for normalization review
+    detect_patterns: ["alpha "]
+    series_rules:
+      - series_slug: sensitive
+        patterns: ["sensitive"]
+      - series_slug: working
+        patterns: ["worker","working"]
+
+  - family_slug: acana
+    canonical_brand: "Acana"
+    aliases: ["Acana"]
+    detect_patterns: ["acana"]
+    series_rules:
+      - series_slug: classics
+        patterns: ["classics"]
+      - series_slug: singles
+        patterns: ["singles"]
+      - series_slug: regionals
+        patterns: ["regional","regionals"]
+      - series_slug: high_protein
+        patterns: ["high protein"]
+
+  - family_slug: orijen
+    canonical_brand: "Orijen"
+    aliases: ["Orijen"]
+    detect_patterns: ["orijen"]
+    series_rules:
+      - series_slug: core
+        patterns: ["original","puppy","senior","six fish","tundra"]
+
+  - family_slug: james_wellbeloved
+    canonical_brand: "James Wellbeloved"
+    aliases:
+      - "James Wellbeloved"
+      - "James|Wellbeloved"
+    detect_patterns:
+      - "james wellbeloved"
+      - "james|wellbeloved"
+    series_rules:
+      - series_slug: core
+        patterns: ["adult","puppy","senior","grain free","small breed","large breed"]
+
+  - family_slug: burns
+    canonical_brand: "Burns"
+    aliases: ["Burns"]
+    detect_patterns: ["burns "]
+    series_rules:
+      - series_slug: original
+        patterns: ["original","sensitive","weight control"]

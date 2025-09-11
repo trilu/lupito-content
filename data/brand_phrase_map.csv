@@ -1,0 +1,23 @@
+source_brand,prefix_from_name,canonical_brand,brand_slug,brand_line,strip_prefix_regex,confidence,notes,created_at,version
+Arden,Grange,Arden Grange,arden_grange,,^Grange\s+,very_high,Full brand name,2025-09-11T00:04:19.791322,1.0
+Barking,Heads,Barking Heads,barking_heads,,^Heads\s+,very_high,Full brand name,2025-09-11T00:04:19.791322,1.0
+Farmina,N&D,Farmina,farmina,N&D,^N&D\s+,very_high,Farmina N&D line,2025-09-11T00:04:19.791322,1.0
+Hill's,Science Plan,Hill's,hills,Science Plan,^Science\s+Plan\s+,very_high,Hill's Science Plan line,2025-09-11T00:04:19.791322,1.0
+Hills,Prescription Diet,Hill's,hills,Prescription Diet,^Prescription\s+Diet\s+,very_high,Hill's Prescription Diet line,2025-09-11T00:04:19.791322,1.0
+Hills,Science Plan,Hill's,hills,Science Plan,^Science\s+Plan\s+,very_high,Hill's Science Plan line,2025-09-11T00:04:19.791322,1.0
+James,Wellbeloved,James Wellbeloved,james_wellbeloved,,^Wellbeloved\s+,very_high,Full brand name,2025-09-11T00:04:19.791322,1.0
+Lily's,Kitchen,Lily's Kitchen,lilys_kitchen,,^Kitchen\s+,very_high,Full brand name,2025-09-11T00:04:19.791322,1.0
+Purina,ONE,Purina,purina,ONE,^ONE\s+,very_high,Purina ONE line,2025-09-11T00:04:19.791322,1.0
+Purina,Pro Plan,Purina,purina,Pro Plan,^Pro\s+Plan\s+,very_high,Purina Pro Plan line,2025-09-11T00:04:19.791322,1.0
+Royal,Canin,Royal Canin,royal_canin,,^Canin\s+,very_high,Common split: Royal | Canin ...,2025-09-11T00:04:19.791322,1.0
+Taste,of the Wild,Taste of the Wild,taste_of_the_wild,,^of\s+the\s+Wild\s+,very_high,Full brand name,2025-09-11T00:04:19.791322,1.0
+Concept,for Life,Concept for Life,concept_for_life,,^for\s+Life\s+,high,Zooplus brand,2025-09-11T00:04:19.791322,1.0
+Happy,Dog,Happy Dog,happy_dog,,^Dog\s+,high,Full brand name,2025-09-11T00:04:19.791322,1.0
+Nature's,Variety Instinct,Nature's Variety,natures_variety,Instinct,^Variety\s+Instinct\s+,high,Nature's Variety Instinct line,2025-09-11T00:04:19.791322,1.0
+Purina,Beta,Purina,purina,Beta,^Beta\s+,high,Purina Beta line,2025-09-11T00:04:19.791322,1.0
+Wellness,Core,Wellness,wellness,Core,^Core\s+,high,Wellness Core line,2025-09-11T00:04:19.791322,1.0
+Wild,Freedom,Wild Freedom,wild_freedom,,^Freedom\s+,high,Zooplus brand,2025-09-11T00:04:19.791322,1.0
+Burns,Pet,Burns,burns,,^Pet\s+,medium,Burns Pet Nutrition,2025-09-11T00:04:19.791322,1.0
+*,Canin,Royal Canin,royal_canin,,^Canin\s+,orphan,"Orphaned ""Canin"" fragment",2025-09-11T00:04:19.791322,1.0
+*,Pro Plan,Purina,purina,Pro Plan,^Pro\s+Plan\s+,orphan,"Orphaned ""Pro Plan"" fragment",2025-09-11T00:04:19.791322,1.0
+*,Science Plan,Hill's,hills,Science Plan,^Science\s+Plan\s+,orphan,"Orphaned ""Science Plan"" fragment",2025-09-11T00:04:19.791322,1.0

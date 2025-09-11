@@ -1,0 +1,76 @@
+# Applaws Brand Profile
+brand: applaws
+brand_slug: applaws
+website_url: https://www.applaws.com
+status: active
+last_updated: 2025-09-10
+
+# Rate limits
+rate_limits:
+  delay_seconds: 2
+  jitter_seconds: 1
+  max_concurrent: 1
+  respect_robots: true
+
+# Product discovery
+discovery:
+  method: category_pages  # sitemap, category_pages, or search
+  sitemap_url: https://www.applaws.com/sitemap.xml
+  category_urls:
+    - https://www.applaws.com/uk/dogs/
+    - https://www.applaws.com/uk/product-category/dogs/
+  
+# Product page selectors
+pdp_selectors:
+  product_name:
+    css: "h1.product-title"
+    xpath: "//h1[@class='product-title']"
+  
+  ingredients:
+    css: ".product-ingredients, .composition"
+    xpath: "//div[contains(@class, 'ingredients')]"
+    regex: "Composition:([^.]+)"
+  
+  analytical_constituents:
+    css: ".analytical-constituents, .nutrition-info"
+    xpath: "//div[contains(@class, 'analytical')]"
+    regex: "Crude Protein[: ]+([0-9.]+)%"
+  
+  form:
+    css: ".product-type"
+    keywords: ["dry", "wet", "canned", "pouch", "kibble"]
+  
+  life_stage:
+    css: ".life-stage, .product-subtitle"
+    keywords: ["puppy", "adult", "senior", "all life stages"]
+  
+  pack_size:
+    css: ".pack-size, .weight"
+    regex: "([0-9.]+)\\s*(kg|g|lb)"
+  
+  price:
+    css: ".price, .product-price"
+    xpath: "//span[@class='price']"
+
+# JSON-LD support
+jsonld:
+  enabled: true
+  types:
+    - Product
+    - Offer
+  
+# PDF support
+pdf_support:
+  enabled: true
+  selectors:
+    - "a[href*='specification']"
+    - "a[href*='datasheet']"
+    - "a:contains('Download')"
+  max_pdfs_per_product: 2
+  max_size_mb: 10
+
+# Data mapping
+field_mapping:
+  brand: "Applaws"
+  source: "manufacturer_applaws"
+  confidence: 0.95

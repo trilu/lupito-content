@@ -1,0 +1,75 @@
+brand: Alpha
+brand_slug: alpha
+website_url: https://www.alphapetfoods.com
+status: active
+last_updated: '2025-09-10'
+rate_limits:
+  delay_seconds: 2
+  jitter_seconds: 1
+  max_concurrent: 1
+  respect_robots: true
+discovery:
+  method: category_pages
+  category_urls:
+  - https://www.alphapetfoods.com/products/
+  - https://www.alphapetfoods.com/dog/
+  - https://www.alphapetfoods.com/dogs/
+  - https://www.alphapetfoods.com/dog-food/
+  - https://www.alphapetfoods.com/products/dog/
+  - https://www.alphapetfoods.com/shop/dog/
+pdp_selectors:
+  product_name:
+    css: h1.product-title, h1.product-name, h1[itemprop="name"], .product h1
+    xpath: //h1[@class="product-title" or @class="product-name"]
+  ingredients:
+    css: .ingredients, .composition, .product-ingredients, [itemprop="ingredients"]
+    xpath: //div[contains(@class, "ingredients") or contains(@class, "composition")]
+    regex: (?:Composition|Ingredients|Zutaten):\s*([^.]+)
+  analytical_constituents:
+    css: .analytical, .nutrition, .analysis, .constituents
+    xpath: //div[contains(@class, "analytical") or contains(@class, "nutrition")]
+    regex: (?:Crude\s+)?Protein[:\s]+([0-9.]+)%
+  form:
+    css: .product-type, .food-type
+    keywords:
+    - dry
+    - wet
+    - canned
+    - pouch
+    - kibble
+    - raw
+    - freeze-dried
+  life_stage:
+    css: .life-stage, .age-group, .product-subtitle
+    keywords:
+    - puppy
+    - adult
+    - senior
+    - junior
+    - all life stages
+  pack_size:
+    css: .pack-size, .weight, .size, .product-weight
+    regex: ([0-9.]+)\s*(kg|g|lb|oz)
+  price:
+    css: .price, .product-price, .cost, [itemprop="price"]
+    xpath: //span[@class="price" or @itemprop="price"]
+jsonld:
+  enabled: true
+  types:
+  - Product
+  - Offer
+  - AggregateOffer
+pdf_support:
+  enabled: true
+  selectors:
+  - a[href*="specification"]
+  - a[href*="datasheet"]
+  - a[href*="pdf"]
+  - a:contains("Download")
+  - a:contains("Specification")
+  max_pdfs_per_product: 2
+  max_size_mb: 10
+field_mapping:
+  brand: Alpha
+  source: manufacturer_alpha
+  confidence: 0.95

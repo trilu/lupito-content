@@ -1,0 +1,51 @@
+product_name,form,life_stage,price_per_kg_eur,price_bucket,form_from,life_stage_from,price_bucket_from
+Supplies Premium Cold Pressed Lovely Lamb,dry,,,,enrichment,source,default
+Supplies Premium Cold Pressed Omega Salmon,dry,,,,enrichment,source,default
+Supplies Premium Cold Pressed Tasty Chicken,dry,,,,enrichment,source,default
+Supplies Working Dog Cold Pressed Brilliant Beef,dry,,,,enrichment,source,default
+Supplies Working Dog Cold Pressed Choice Chicken,dry,,,,enrichment,source,default
+Supplies Working Dog Cold Pressed Palatable Pork,dry,,,,enrichment,source,default
+Grain Free Angus Beef with Carrot,raw,,,,source,source,default
+Grain Free Chicken Sweet Potato  Herbs,raw,,,,source,source,default
+"Grain Free Haddock, Sweet Potato With Parsley",raw,,,,source,source,default
+"Grain Free Lamb, Sweet Potato  Mint",raw,,,,source,source,default
+"Grain Free Light Turkey, Sweet Potato  Cranberry",raw,,,,source,source,default
+Grain Free Pork Sweet Potato  Apple,raw,,,,source,source,default
+"Grain Free Puppy Chicken, Turkey, Salmon Sweet Potato  Carrot",raw,puppy,,,source,source,default
+Grain Free Salmon with Trout  Asparagus,raw,,,,source,source,default
+"Grain Free Tuna with Salmon, Sweet Potato and Broccoli",raw,,,,source,source,default
+Grain Free Turkey Sweet Potato  Cranberry,raw,,,,source,source,default
+"Grain Free Venison, Salmon, Sweet Potato  Mulberry",raw,,,,source,source,default
+Aardvark Complete Grain Free Insect Dry Food,dry,all,,High,source,source,source
+Complete Grain Free Insect Dry Food,dry,all,,,source,enrichment,default
+Aatu Free Run Chicken,dry,adult,,High,enrichment,enrichment,source
+Aatu Free Run Duck,dry,adult,,High,enrichment,enrichment,source
+Aatu Free Run Turkey,dry,adult,,High,enrichment,enrichment,source
+Aatu Puppy Salmon,dry,puppy,,High,enrichment,source,source
+Aatu Salmon,dry,adult,,High,enrichment,enrichment,source
+Angus Beef,,,,,source,source,default
+Chicken,,,,,source,source,default
+Duck  Turkey,,,,,source,source,default
+Free Run Chicken,dry,,,,enrichment,source,default
+Free Run Duck,dry,,,,enrichment,source,default
+Free Run Turkey,dry,,,,enrichment,source,default
+Pork  Wild Boar,,,,,source,source,default
+Puppy Salmon,dry,puppy,,,enrichment,source,default
+Salmon,dry,,,,enrichment,source,default
+Shellfish,,,,,source,source,default
+Tuna  Salmon,,,,,source,source,default
+ACANA Adult Dog Recipe (Grain-Free),wet,adult,,,enrichment,source,default
+Acana Free Run Duck,wet,adult,,High,enrichment,enrichment,source
+Acana Grass-Fed Lamb,wet,adult,,High,enrichment,enrichment,source
+Acana Highest Protein Grasslands,wet,adult,,High,enrichment,enrichment,source
+Acana Highest Protein Pacifica,wet,adult,,High,enrichment,enrichment,source
+Acana Light  fit Recipe,wet,adult,,High,enrichment,enrichment,source
+Acana Light & fit Recipe,wet,adult,,High,enrichment,enrichment,source
+Acana Prairie Poultry,wet,adult,,High,enrichment,enrichment,source
+Acana Puppy Large Breed Recipe,wet,puppy,,High,enrichment,source,source
+Acana Puppy Recipe,wet,puppy,,Mid,enrichment,source,source
+Acana Puppy Small Breed Recipe,wet,puppy,,High,enrichment,source,source
+Acana Red Meat,wet,adult,,High,enrichment,enrichment,source
+Acana Senior,wet,senior,,High,enrichment,source,source
+Acana Yorkshire Pork,wet,adult,,High,enrichment,enrichment,source
+Adult Dog Recipe,wet,adult,,,enrichment,source,default

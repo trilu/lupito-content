@@ -1,0 +1,10 @@
+field,populated_count,total_count,coverage_pct
+ingredients_tokens,1000,1000,100.0
+available_countries,1000,1000,100.0
+updated_at,1000,1000,100.0
+fat_percent,993,1000,99.3
+protein_percent,961,1000,96.1
+kcal_per_100g,959,1000,95.9
+life_stage,544,1000,54.4
+form,456,1000,45.6
+price_bucket,271,1000,27.1

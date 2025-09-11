@@ -1,0 +1,78 @@
+brand,brand_slug,product_count,has_form,has_life_stage,has_kcal,has_ingredients,has_price,website_url,robots_txt,robots_allow,has_sitemap,status_code,data_gap_score,priority_score
+Alpha,alpha,53,5,6,53,53,0,,False,False,False,,39.1,46.05
+Brit,brit,73,62,60,72,73,37,,False,False,False,,14.399999999999999,43.7
+Briantos,briantos,46,23,34,43,46,23,,False,False,False,,15.100000000000001,30.55
+Barking,barking,33,23,4,32,33,0,,False,False,False,,18.3,25.65
+Bozita,bozita,34,14,18,34,34,14,,False,False,False,,14.8,24.4
+Belcando,belcando,34,12,22,33,34,11,,False,False,False,,14.8,24.4
+Arden,arden,32,14,29,32,32,0,,False,False,False,,12.7,22.35
+Borders,borders,29,0,29,29,29,0,,False,False,False,,14.5,21.75
+Bright,bright,25,0,7,25,25,0,,False,False,False,,17.9,21.45
+Acana,acana,32,25,20,32,32,13,https://www.acana.com,True,False,False,200.0,9.5,20.75
+BETTY,betty,24,0,8,24,24,0,,False,False,False,,16.8,20.4
+Applaws,applaws,31,30,28,30,31,18,https://www.applaws.com,True,True,True,200.0,3.8,17.4
+Arion,arion,26,16,16,26,26,16,,False,False,False,,8.0,17.0
+Advance Veterinary Diets,advance_veterinary_diets,26,26,8,25,26,26,,False,False,False,,5.3999999999999995,15.7
+Biofood,biofood,18,0,6,18,18,0,,False,False,False,,12.6,15.3
+Bounce,bounce,20,0,19,20,20,0,,False,False,False,,10.3,15.15
+bosch,bosch,26,26,17,23,26,25,,False,False,False,,2.9,14.45
+Ambrosia,ambrosia,18,0,17,18,18,0,,False,False,False,,9.299999999999999,13.649999999999999
+Amazon,amazon,15,0,1,14,15,0,,False,False,False,,11.7,13.35
+Aldi,aldi,15,1,1,15,15,0,,False,False,False,,11.4,13.2
+Affinity,affinity,16,0,10,16,16,0,,False,False,False,,9.8,12.9
+Browns,browns,16,0,15,16,16,0,,False,False,False,,8.3,12.15
+Autarky,autarky,19,14,15,19,19,7,,False,False,False,,5.1000000000000005,12.05
+Akela,akela,14,2,2,14,14,0,,False,False,False,,10.0,12.0
+Aatu,aatu,16,10,6,16,16,5,,False,False,False,,7.0,11.5
+Benyfit,benyfit,14,10,6,0,14,0,,False,False,False,,6.4,10.2
+Burgess,burgess,12,0,10,12,12,0,,,,,,6.6,9.3
+Bakers,bakers,15,14,14,15,15,3,,False,False,False,,3.0000000000000004,9.0
+4PAWSRAW,4pawsraw,11,11,1,11,11,0,,,,,,5.2,8.1
+Beta,beta,12,7,12,12,12,0,,False,False,False,,3.9000000000000004,7.95
+Buddy,buddy,9,0,1,9,9,0,,,,,,6.8999999999999995,7.949999999999999
+Aflora,aflora,9,0,2,9,9,0,,,,,,6.6,7.8
+Billy,billy,10,6,2,10,10,0,,,,,,5.6,7.8
+ASDA,asda,12,10,7,12,12,5,,,,,,3.5,7.75
+Brigadiers,brigadiers,9,0,3,9,9,0,,,,,,6.3,7.65
+Bentleys,bentleys,8,0,0,8,8,0,,,,,,6.4,7.2
+Boost,boost,8,0,1,8,8,0,,,,,,6.1,7.05
+Beco,beco,8,0,1,8,8,0,https://www.becopets.com,,,,,6.1,7.05
+Arden Grange,arden_grange,14,14,14,14,14,14,,False,False,False,,0.0,7.0
+Bosch,bosch,9,1,7,9,9,0,,False,False,False,,4.8,6.9
+Almo Nature,almo_nature,13,13,11,13,13,13,,False,False,False,,0.6,6.8
+Bear,bear,7,0,0,6,7,0,,,,,,5.6000000000000005,6.300000000000001
+AniForte,aniforte,7,0,1,7,7,0,,,,,,5.3,6.15
+Animonda,animonda,9,6,9,9,9,4,,,,,,1.9,5.45
+Ami,ami,6,0,0,0,6,0,,,,,,4.8,5.4
+4PAWS,4paws,6,0,0,6,6,0,,,,,,4.8,5.4
+BIG,big,6,0,1,6,6,0,,,,,,4.5,5.25
+Arkwrights,arkwrights,7,6,3,6,7,3,,,,,,2.3,4.65
+BULLYBILLOWS,bullybillows,6,0,6,6,6,0,,,,,,3.0,4.5
+Beanfields,beanfields,5,0,1,5,5,0,,,,,,3.7,4.35
+Arquivet,arquivet,7,7,2,7,7,7,,,,,,1.5,4.25
+Burns,burns,6,5,3,6,6,0,https://burnspet.co.uk,,,,,2.4000000000000004,4.2
+BugBell,bugbell,6,6,0,6,6,6,,,,,,1.7999999999999998,3.9
+Angell,angell,5,0,4,5,5,0,,,,,,2.8,3.9
+Bonzo,bonzo,5,5,1,4,5,5,,,,,,1.2,3.1
+Antelope,antelope,4,0,4,4,4,0,,,,,,2.0,3.0
+barkinBISTRO,barkinbistro,3,0,0,3,3,0,,,,,,2.4,2.7
+Benevo,benevo,4,4,2,0,4,0,,,,,,1.4,2.7
+Beneful,beneful,4,4,1,4,4,4,,,,,,0.8999999999999999,2.45
+Bug,bug,3,2,0,3,3,0,,,,,,1.8,2.4
+Almo,almo,3,0,3,3,3,0,,,,,,1.5,2.25
+Advance,advance,4,4,3,4,4,3,https://www.advance-pet.com,,,,,0.5,2.25
+BugsForPets,bugsforpets,3,3,0,3,3,0,,,,,,1.5,2.25
+animonda,animonda,4,4,4,3,4,4,,,,,,0.0,2.0
+Amala,amala,2,0,0,2,2,0,,,,,,1.6,1.8
+Brekkies,brekkies,2,2,0,2,2,2,,,,,,0.6,1.3
+Aardvark,aardvark,2,2,1,2,2,1,,,,,,0.5,1.25
+Algoods,algoods,1,0,0,1,1,0,,,,,,0.8,0.9
+Bonza,bonza,1,0,0,0,1,0,,,,,,0.8,0.9
+Bob,bob,1,0,0,1,1,0,,,,,,0.8,0.9
+Bewi Dog,bewi_dog,1,1,0,1,1,1,,,,,,0.3,0.65
+Bozita Naturals,bozita_naturals,1,1,0,1,1,1,,,,,,0.3,0.65
+ACANA,acana,1,1,1,1,1,0,https://www.acana.com,True,False,False,200.0,0.2,0.6
+Brit Care,brit_care,1,1,1,1,1,0,,,,,,0.2,0.6
+Alpha Spirit,alpha_spirit,1,1,1,1,1,0,,,,,,0.2,0.6
+Auchan,auchan,1,1,1,1,1,0,,,,,,0.2,0.6
+Barfgold,barfgold,1,1,1,1,1,0,,,,,,0.2,0.6

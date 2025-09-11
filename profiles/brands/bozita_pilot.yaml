@@ -1,0 +1,118 @@
+brand: Bozita
+brand_slug: bozita
+website_url: https://www.bozita.com
+status: pilot
+pilot_date: '2025-09-10'
+sku_count: 34
+rate_limits:
+  delay_seconds: 3
+  jitter_seconds: 2
+  max_concurrent: 1
+  respect_robots: true
+  use_proxy: false
+  use_headless: true
+discovery:
+  method: multi
+  sitemap_urls:
+  - https://www.bozita.com/sitemap.xml
+  - https://www.bozita.com/sitemap_index.xml
+  - https://www.bozita.com/products-sitemap.xml
+  category_urls:
+  - https://www.bozita.com/products/
+  - https://www.bozita.com/dog/
+  - https://www.bozita.com/dogs/
+  - https://www.bozita.com/dog-food/
+  - https://www.bozita.com/products/dog/
+  - https://www.bozita.com/shop/dog/
+  - https://www.bozita.com/en/dog/
+  - https://www.bozita.com/uk/dog/
+  search_urls:
+  - https://www.bozita.com/search?q=dog
+  - https://www.bozita.com/search?category=dog
+pdp_selectors:
+  product_name:
+    css: h1.product-title, h1.product-name, h1[itemprop="name"], .product h1, h1.page-title,
+      .product-detail h1
+    xpath: //h1[@class="product-title" or @class="product-name" or @itemprop="name"]
+    jsonld_field: name
+  ingredients:
+    css: .ingredients, .composition, .product-ingredients, [itemprop="ingredients"],
+      .product-composition
+    xpath: //div[contains(@class, "ingredients") or contains(@class, "composition")]
+    regex: (?:Composition|Ingredients|Zutaten|Zusammensetzung):\s*([^.]+)
+    jsonld_field: ingredients
+  analytical_constituents:
+    css: .analytical, .nutrition, .analysis, .constituents, .product-nutrition
+    xpath: //div[contains(@class, "analytical") or contains(@class, "nutrition")]
+    regex: (?:Crude\s+)?Protein[:\s]+([0-9.]+)%
+    pdf_section: Analytical Constituents
+  form:
+    css: .product-type, .food-type, .product-form
+    keywords:
+    - dry
+    - wet
+    - canned
+    - pouch
+    - kibble
+    - raw
+    - freeze-dried
+    - semi-moist
+    jsonld_field: category
+  life_stage:
+    css: .life-stage, .age-group, .product-subtitle, .product-age
+    keywords:
+    - puppy
+    - adult
+    - senior
+    - junior
+    - all life stages
+    - mature
+    jsonld_field: audience
+  pack_size:
+    css: .pack-size, .weight, .size, .product-weight, .product-size
+    regex: "([0-9.]+)\\s*[x\xD7]?\\s*([0-9.]+)?\\s*(kg|g|lb|oz|ml|l)"
+    jsonld_field: weight
+  price:
+    css: .price, .product-price, .cost, [itemprop="price"], .price-now
+    xpath: //span[@class="price" or @itemprop="price"]
+    jsonld_field: offers.price
+jsonld:
+  enabled: true
+  types:
+  - Product
+  - Offer
+  - AggregateOffer
+  - BreadcrumbList
+  extract_all: true
+pdf_support:
+  enabled: true
+  selectors:
+  - a[href*="specification"]
+  - a[href*="datasheet"]
+  - a[href*="pdf"]
+  - a[href*=".pdf"]
+  - a:contains("Download")
+  - a:contains("Specification")
+  - a:contains("Data Sheet")
+  - a:contains("Technical")
+  max_pdfs_per_product: 3
+  max_size_mb: 20
+  parse_images: false
+scrapingbee:
+  enabled: false
+  render_js: true
+  premium_proxy: false
+  country_code: gb
+field_mapping:
+  brand: Bozita
+  source: manufacturer_bozita
+  confidence: 0.95
+  pilot: true
+validation:
+  kcal_min: 200
+  kcal_max: 600
+  price_min: 1
+  price_max: 200
+  required_fields:
+  - product_name
+  - brand

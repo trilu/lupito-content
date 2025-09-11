@@ -1,0 +1,20 @@
+{
+  "url": "https://www.brit-petfood.com/dog/",
+  "status_code": 200,
+  "headers": {
+    "Alt-Svc": "h3=\":443\"; ma=2592000",
+    "Cache-Control": "no-store, no-cache, must-revalidate",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Wed, 10 Sep 2025 16:03:49 GMT",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "Pragma": "no-cache",
+    "Server": "Caddy, nginx/1.18.0",
+    "Set-Cookie": "PHPSESSID=6pvo59s20qce7c8uuhb7ne89jd; path=/; HttpOnly; SameSite=Lax",
+    "X-Content-Type-Options": "nosniff",
+    "X-Xss-Protection": "1; mode=block",
+    "Transfer-Encoding": "chunked"
+  },
+  "fetched_at": "2025-09-10T19:03:49.050876",
+  "content_type": "text/html; charset=UTF-8"
+}

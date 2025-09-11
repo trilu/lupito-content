@@ -1,0 +1,116 @@
+{
+  "snapshot_label": "SNAPSHOT_20250911_101939",
+  "timestamp": "2025-09-11T10:19:39.028466",
+  "supabase_host": "https://cibjeqgftuxuezarjsdl.supabase.co",
+  "table_counts": {
+    "foods_canonical": {
+      "exists": true,
+      "row_count": 5151,
+      "status": "\u2705"
+    },
+    "foods_published_preview": {
+      "exists": true,
+      "row_count": 240,
+      "status": "\u2705"
+    },
+    "foods_published_prod": {
+      "exists": true,
+      "row_count": 80,
+      "status": "\u2705"
+    },
+    "brand_allowlist": {
+      "exists": true,
+      "row_count": 5,
+      "status": "\u2705"
+    },
+    "foods_brand_quality_preview_mv": {
+      "exists": true,
+      "row_count": 5,
+      "status": "\u2705"
+    },
+    "foods_brand_quality_prod_mv": {
+      "exists": true,
+      "row_count": 2,
+      "status": "\u2705"
+    }
+  },
+  "truth_rules": [
+    "\u2713 Brand identification uses ONLY brand_slug column",
+    "\u2713 NO substring matching on product_name for brand detection",
+    "\u2713 NO regex patterns on name fields for brand presence",
+    "\u2713 Canonical brand mapping applied to brand_slug only",
+    "\u2713 All brand counts/metrics key on brand_slug",
+    "\u2713 Split-brand fixes update brand_slug, not name parsing"
+  ],
+  "type_audit_results": {
+    "foods_canonical": {
+      "ingredients_tokens": {
+        "exists": true,
+        "jsonb_arrays": 100,
+        "stringified": 0,
+        "null": 0,
+        "percentage_valid": 100.0
+      },
+      "available_countries": {
+        "exists": true,
+        "jsonb_arrays": 100,
+        "stringified": 0,
+        "null": 0,
+        "percentage_valid": 100.0
+      },
+      "sources": {
+        "exists": true,
+        "jsonb_arrays": 100,
+        "stringified": 0,
+        "null": 0,
+        "percentage_valid": 100.0
+      }
+    },
+    "foods_published_preview": {
+      "ingredients_tokens": {
+        "exists": true,
+        "jsonb_arrays": 100,
+        "stringified": 0,
+        "null": 0,
+        "percentage_valid": 100.0
+      },
+      "available_countries": {
+        "exists": true,
+        "jsonb_arrays": 100,
+        "stringified": 0,
+        "null": 0,
+        "percentage_valid": 100.0
+      },
+      "sources": {
+        "exists": true,
+        "jsonb_arrays": 100,
+        "stringified": 0,
+        "null": 0,
+        "percentage_valid": 100.0
+      }
+    },
+    "foods_published_prod": {
+      "ingredients_tokens": {
+        "exists": true,
+        "jsonb_arrays": 80,
+        "stringified": 0,
+        "null": 0,
+        "percentage_valid": 100.0
+      },
+      "available_countries": {
+        "exists": true,
+        "jsonb_arrays": 80,
+        "stringified": 0,
+        "null": 0,
+        "percentage_valid": 100.0
+      },
+      "sources": {
+        "exists": true,
+        "jsonb_arrays": 80,
+        "stringified": 0,
+        "null": 0,
+        "percentage_valid": 100.0
+      }
+    }
+  }
+}

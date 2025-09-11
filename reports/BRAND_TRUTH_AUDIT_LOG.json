@@ -1,0 +1,17 @@
+[
+  {
+    "phase": "grounding_check",
+    "views_found": [
+      "foods_published"
+    ],
+    "total_rows": 1000,
+    "timestamp": "2025-09-11T09:41:41.399056"
+  },
+  {
+    "phase": "brand_truth_audit",
+    "view": "foods_published",
+    "method": "brand_slug_only",
+    "canonical_brands_found": 70,
+    "major_brands_present": 0
+  }
+]
