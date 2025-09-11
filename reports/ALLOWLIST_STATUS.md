@@ -1,19 +1,19 @@
 # ALLOWLIST STATUS REPORT
 
-Generated: 2025-09-10 22:30:00  
-Last Refresh: 2025-09-10 22:30:00  
+Generated: 2025-09-10 23:30:00  
+Last MV Refresh: 2025-09-10 23:30:00 UTC
 Source: `brand_allowlist` table
 
 ## 📋 CURRENT ALLOWLIST
 
 ### ✅ ACTIVE BRANDS (In Production)
 
-| Brand | SKUs | Form | Life Stage | Ingredients | Price | Last Validated | Days Old |
-|-------|------|------|------------|-------------|-------|----------------|----------|
-| **briantos** | 46 | 100.0% | 97.8% | 100.0% | 82.6% | 2025-09-10 20:00 | 0 |
-| **bozita** | 34 | 97.1% | 97.1% | 100.0% | 88.2% | 2025-09-10 20:00 | 0 |
+| Brand | Total SKUs | Food-Ready | Form | Life Stage | Ingredients | Kcal | Last Validated |
+|-------|------------|------------|------|------------|-------------|------|----------------|
+| **briantos** | 46 | **42** (91.3%) ✅ | 100.0% | 100.0% | 100.0% | 91.3% | 2025-09-10 23:16 |
+| **bozita** | 34 | **31** (91.2%) ✅ | 97.1% | 100.0% | 100.0% | 91.2% | 2025-09-10 23:16 |
 
-**Total Active**: 2 brands, 80 SKUs
+**Total Active**: 2 brands, 80 SKUs (**73 Food-Ready** ✅)
 
 ### 🔶 PENDING BRANDS (Awaiting Fixes)
 
@@ -23,7 +23,11 @@ Source: `brand_allowlist` table
 | **alpha** | Form detection | -0.7pp | ✅ Pass | 2025-09-11 | Fix pack applied, re-harvest needed |
 | **belcando** | Life stage detection | ✅ Pass | -0.9pp | 2025-09-11 | Fix pack applied, re-harvest needed |
 
-**Total Pending**: 3 brands, 160 SKUs
+| **brit** | 73 | **58** (79.5%) | Needs kcal fixes |
+| **alpha** | 53 | **45** (84.9%) | Needs kcal fixes |
+| **belcando** | 34 | **31** (91.2%) | Ready when promoted |
+
+**Total Pending**: 3 brands, 160 SKUs (134 Food-Ready when fixed)
 
 ### ⏸️ PAUSED BRANDS
 
@@ -44,14 +48,18 @@ PAUSED   ░░░░░░░░░░░░░░░░ 0% (0 brands)
 REMOVED  ░░░░░░░░░░░░░░░░ 0% (0 brands)
 ```
 
-## 📈 PRODUCTION COVERAGE
+## 🍖 FOOD-READY STATUS
 
-### By Brand
-| Brand | Products in Catalog | Products Enriched | Enrichment Rate |
-|-------|-------------------|-------------------|-----------------|
-| briantos | 46 | 46 | 100% |
-| bozita | 34 | 34 | 100% |
-| **Total** | **80** | **80** | **100%** |
+### What Makes a SKU Food-Ready?
+- ✅ `life_stage` not null (for profile matching)
+- ✅ `kcal_per_100g` between 40-600 (valid range)
+- ✅ `ingredients_tokens` present (for allergen detection)
+
+### Production Readiness
+| Brand | Products in Catalog | Food-Ready | Can Serve Adult Dogs? |
+| briantos | 46 | 42 | ✅ Yes (30+ adult SKUs) |
+| bozita | 34 | 31 | ✅ Yes (20+ adult SKUs) |
+| **Total** | **80** | **73** | ✅ Yes (50+ adult SKUs) |
 
 ### By Field (Active Brands Only)
 | Field | Coverage | Products with Data |
