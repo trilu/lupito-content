@@ -1,0 +1,178 @@
+brand: Forthglade
+brand_slug: forthglade
+website_url: https://forthglade.com
+country: UK
+language: en
+platform: Shopify
+status: active
+last_updated: '2025-09-11'
+rate_limits:
+  delay_seconds: 2
+  jitter_seconds: 1
+  max_concurrent: 1
+  respect_robots: true
+  user_agent: Mozilla/5.0 (compatible; LupitoBot/1.0; +https://lupito.com/bot)
+discovery:
+  method: hybrid
+  sitemap_url: https://forthglade.com/sitemap.xml
+  category_urls:
+  - https://forthglade.com/collections/dog-food
+  - https://forthglade.com/collections/all
+  - https://forthglade.com/products/
+  product_url_patterns:
+  - /product/
+  - /products/
+  - /p/
+  - /shop/
+  exclude_patterns:
+  - /cat/
+  - /cats/
+  - /kitten/
+  - /feline/
+listing_selectors:
+  product_links:
+    css:
+    - a.product-item__link
+    - a.product-link
+    - a.product-item
+    - article a[href*="/product"]
+    - .product-grid a
+    - .products a.woocommerce-loop-product__link
+    - a[href*="/p/"]
+    xpath: //a[contains(@class, "product")]/@href
+  next_page:
+    css:
+    - a.next
+    - a[rel="next"]
+    - .pagination a.next
+    - .nav-next a
+    xpath: //a[@rel="next"]/@href
+pdp_selectors:
+  product_name:
+    css:
+    - h1.product__title
+    - h1.product-title
+    - h1.product-name
+    - h1[itemprop="name"]
+    - .product h1
+    - h1.entry-title
+    xpath: //h1[@class="product-title" or @itemprop="name"]/text()
+    jsonld_path: name
+  variant_pack_size:
+    css:
+    - .pack-size
+    - .product-weight
+    - select.product-options option
+    - .variant-selector option
+    - .size-selector
+    xpath: //select[@name="size" or @name="weight"]/option/text()
+    regex: (\d+(?:\.\d+)?)\s*(kg|g|lb|oz)
+    jsonld_path: offers.properties.weight
+  ingredients:
+    css:
+    - .ingredients
+    - .composition
+    - .product-ingredients
+    - '[itemprop="ingredients"]'
+    - div:contains("Ingredients")
+    - div:contains("Composition")
+    xpath: //div[contains(@class, "ingredients") or contains(text(), "Ingredients")]/following-sibling::*[1]
+    regex: (?:Ingredients|Composition|Zutaten|Zusammensetzung)[:\s]*([^\.]+)
+    jsonld_path: nutrition.ingredients
+  analytical_constituents:
+    css:
+    - .analytical
+    - .nutrition
+    - .analysis
+    - .constituents
+    - table.nutrition-table
+    - div:contains("Analytical")
+    xpath: //table[contains(@class, "nutrition") or contains(@class, "analytical")]
+    patterns:
+      protein: (?:Crude\s+)?(?:Protein|Rohprotein)[:\s]+(\d+(?:\.\d+)?)\s*%
+      fat: (?:Crude\s+)?(?:Fat|Rohfett)[:\s]+(\d+(?:\.\d+)?)\s*%
+      fiber: (?:Crude\s+)?(?:Fib(?:re|er)|Rohfaser)[:\s]+(\d+(?:\.\d+)?)\s*%
+      ash: (?:Crude\s+)?(?:Ash|Rohasche)[:\s]+(\d+(?:\.\d+)?)\s*%
+      moisture: (?:Moisture|Feuchtigkeit)[:\s]+(\d+(?:\.\d+)?)\s*%
+    jsonld_path: nutrition.analyticalConstituents
+  energy_kcal:
+    css:
+    - .energy
+    - .kcal
+    - .calories
+    - td:contains("kcal")
+    - span.energy-value
+    xpath: //td[contains(text(), "kcal")]/following-sibling::td/text()
+    regex: (\d+(?:\.\d+)?)\s*kcal(?:/100\s*g)?
+    jsonld_path: nutrition.calories
+  pdf_links:
+    css:
+    - a[href$=".pdf"]
+    - a:contains("Download")
+    - a:contains("Specification")
+    - a:contains("Datasheet")
+    - a:contains("Label")
+    - a.pdf-download
+    xpath: //a[contains(@href, ".pdf")]/@href
+    types:
+    - specification
+    - label
+    - datasheet
+    - nutritional
+  price:
+    css:
+    - span.price-item--regular
+    - .price
+    - .product-price
+    - '[itemprop="price"]'
+    - span.amount
+    - .price-now
+    xpath: //span[@itemprop="price"]/@content
+    jsonld_path: offers.price
+  form:
+    css:
+    - .product-type
+    - .food-type
+    - span.product-form
+    keywords:
+    - dry
+    - wet
+    - raw
+    - freeze-dried
+    - canned
+    - pouch
+    jsonld_path: properties.form
+  life_stage:
+    css:
+    - .life-stage
+    - .age-group
+    - .product-subtitle
+    keywords:
+    - puppy
+    - adult
+    - senior
+    - junior
+    - all life stages
+    jsonld_path: properties.lifeStage
+jsonld:
+  enabled: true
+  types:
+  - Product
+  - Offer
+  - AggregateOffer
+  extract_all: true
+pdf_support:
+  enabled: true
+  max_pdfs_per_product: 3
+  max_size_mb: 10
+  extract_text: true
+  extract_tables: true
+anti_bot:
+  cloudflare: false
+  recaptcha: false
+  login_required: false
+  notes: ''
+field_mapping:
+  brand: Forthglade
+  source: manufacturer_forthglade
+  confidence: 0.95

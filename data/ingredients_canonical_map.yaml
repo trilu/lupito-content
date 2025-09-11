@@ -1,0 +1,173 @@
+canonical_map:
+  chicken meal: chicken
+  dehydrated chicken: chicken
+  chicken meat meal: chicken
+  dried chicken: chicken
+  fresh chicken: chicken
+  chicken protein: chicken
+  hydrolysed chicken: chicken
+  chicken liver: chicken
+  beef meal: beef
+  dehydrated beef: beef
+  lamb meal: lamb
+  dehydrated lamb: lamb
+  turkey meal: turkey
+  dehydrated turkey: turkey
+  duck meal: duck
+  dehydrated duck: duck
+  pork meal: pork
+  dehydrated pork: pork
+  venison meal: venison
+  rabbit meal: rabbit
+  salmon meal: salmon
+  dehydrated salmon: salmon
+  fresh salmon: salmon
+  salmon oil: fish oil
+  tuna meal: tuna
+  dehydrated tuna: tuna
+  herring meal: herring
+  whitefish meal: whitefish
+  ocean fish: fish
+  fish meal: fish
+  maize: corn
+  corn meal: corn
+  maize flour: corn
+  corn gluten: corn
+  ground corn: corn
+  wheat flour: wheat
+  wheat bran: wheat
+  whole wheat: wheat
+  rice flour: rice
+  brown rice: rice
+  white rice: rice
+  brewers rice: rice
+  oat meal: oats
+  oat flour: oats
+  whole oats: oats
+  barley flour: barley
+  pearl barley: barley
+  sweet potato: sweet potato
+  sweet potatoes: sweet potato
+  potato: potato
+  potatoes: potato
+  pea protein: peas
+  green peas: peas
+  yellow peas: peas
+  pea flour: peas
+  split peas: peas
+  whole peas: peas
+  carrot: carrot
+  carrots: carrot
+  dried carrots: carrot
+  soybean meal: soy
+  soy protein: soy
+  soya: soy
+  lentils: lentils
+  red lentils: lentils
+  green lentils: lentils
+  chickpeas: chickpeas
+  garbanzo beans: chickpeas
+  linseed: flax
+  flaxseed: flax
+  flax seed: flax
+  sunflower oil: sunflower
+  sunflower seeds: sunflower
+  canola oil: canola
+  rapeseed oil: canola
+  beet pulp: beet pulp
+  dried beet pulp: beet pulp
+  sugar beet pulp: beet pulp
+  animal fat: animal fat
+  poultry fat: chicken fat
+  chicken fat: chicken fat
+  egg powder: egg
+  dried egg: egg
+  whole egg: egg
+  milk powder: dairy
+  dried milk: dairy
+  whey: dairy
+  cheese: dairy
+  yogurt: dairy
+  vitamin a: vitamins
+  vitamin d: vitamins
+  vitamin e: vitamins
+  vitamin c: vitamins
+  vitamin mix: vitamins
+  mineral mix: minerals
+  calcium: minerals
+  phosphorus: minerals
+  zinc: minerals
+  iron: minerals
+  yeast extract: yeast
+  brewers yeast: yeast
+  nutritional yeast: yeast
+  cranberry extract: cranberry
+  cranberries: cranberry
+  dried cranberries: cranberry
+  blueberry: blueberry
+  blueberries: blueberry
+  apple: apple
+  apples: apple
+  dried apple: apple
+allergen_taxonomy:
+  poultry:
+  - chicken
+  - turkey
+  - duck
+  - goose
+  - poultry
+  red_meat:
+  - beef
+  - lamb
+  - pork
+  - venison
+  - rabbit
+  - bison
+  fish:
+  - salmon
+  - tuna
+  - herring
+  - whitefish
+  - fish
+  - krill
+  - anchovy
+  - sardine
+  dairy:
+  - dairy
+  - milk
+  - cheese
+  - whey
+  - yogurt
+  - lactose
+  egg:
+  - egg
+  - eggs
+  grains:
+  - wheat
+  - corn
+  - rice
+  - barley
+  - oats
+  - rye
+  - millet
+  - sorghum
+  legumes:
+  - soy
+  - peas
+  - lentils
+  - chickpeas
+  - beans
+  nuts:
+  - peanut
+  - almond
+  - cashew
+  - walnut
+  - pecan
+  seeds:
+  - flax
+  - sunflower
+  - sesame
+  - chia
+  - hemp
+generated: '2025-09-11T14:13:26.336914'
+total_mappings: 110

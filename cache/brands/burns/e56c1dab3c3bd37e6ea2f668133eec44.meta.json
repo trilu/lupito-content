@@ -1,0 +1,16 @@
+{
+  "url": "https://burns.de/hund/",
+  "status_code": 200,
+  "headers": {
+    "Cache-Control": "no-cache, private",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Thu, 11 Sep 2025 11:50:39 GMT",
+    "Server": "nginx",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6InJYNGY1dkZZZU1WVlB0YXo0RUtjQ0E9PSIsInZhbHVlIjoiNk40ek1qVVJ6bGV3cWVJQ1dUTDdQV3F1UWkzNXVqeTl1eUh5dWVHNi9lUHpDaVdNQ09LS0N3Njh4MUhQQ0RsOHNnV1VzV2hVQmx1b2xMV1RwY3Y1c0pBWnlQU3lnTVY3Qm5BMGVrcnlOV2txSnlzdE1LK2FVckxoZjM5cUdWTWUiLCJtYWMiOiI0OGI3NmRjMmNkZWM4ZjlkNDcxMzQwNTc1ZGFlZjIwN2ZmYWQ4OTcyNjE1MzFhMzNjZjVkMzQwODJhOWM3MWE5IiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:39 GMT; Max-Age=3600; path=/; secure; samesite=lax, ayo_session=eyJpdiI6Ii9MdHlwYmVLNm56TFhqU3NyWFpNMGc9PSIsInZhbHVlIjoiaUgremM4M1hhdDVoVkxHWHR1VEtjdk8wUHp3bVVBbmpEenY5VzBpbFJsQzl3NWZnenl0MVRPQ1luMjhvcE1vd0tBWHM1a3BVd3JaSEltVFlvaUtmc2Y0TTRjSFFBNCtZcUQySW9SR1ltVUlOZy9IS2gza3hTdFQwOHBwQkxCcTMiLCJtYWMiOiJkYmNmMWE3ZjhiZGI3OTEzMDJiNjg1ZDZkNGUzY2IzMzNkZWM5NmI4OWI0NGY4NThiNTJlZmE3M2VjYzJkNjU3IiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:39 GMT; Max-Age=3600; path=/; httponly; samesite=lax",
+    "Vary": "Accept-Encoding",
+    "Transfer-Encoding": "chunked"
+  },
+  "fetched_at": "2025-09-11T14:50:39.513710",
+  "content_type": "text/html; charset=UTF-8"
+}

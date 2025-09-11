@@ -1,0 +1,16 @@
+{
+  "url": "https://burns.de/hundefutter/",
+  "status_code": 200,
+  "headers": {
+    "Cache-Control": "no-cache, private",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Thu, 11 Sep 2025 11:50:42 GMT",
+    "Server": "nginx",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6IlNDRVFqUE1HNUhKSVRwS1NUaHVLalE9PSIsInZhbHVlIjoiYW1YZFg3T1RNVWppNXhhdVpQMFJ1QTFpazYrZG12VjRaSGNWSGdWYjZRQTBuaW5TLzhqS3Z5N1pIbytLNGh3MTB4M0xoeXhDWDMxWGtqYTAyMXBjUnRQVHBxUy9QcGt5NVFSd0dFLzYxZ243cWV5VnVHaUtyays3SS83dFl2b0QiLCJtYWMiOiJjMTk0NDViYWUyZThhOTExOTBlMTQ0OTBiOTcwNmQ1NGIzMjM3NzNhNDc4ZTczNDgyNmZhMGZjNTE3NTIyMWE2IiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:42 GMT; Max-Age=3600; path=/; secure; samesite=lax, ayo_session=eyJpdiI6IlY5N0VHaHlzallmVlRFUGw5NURmK3c9PSIsInZhbHVlIjoiM1FZZGwyZlZDWndlMmRIY0t2N2FJaVlxdFhLQWM0V2d5UGcydVZNZzlURUNiKy9VakkyZkRqM2JicGJuMm5IY1hFR3BZZVduaENIVlduNzFoZ0tJOWd2bEhJY2RQZUk0dFl5SnJIK0NXSi9JNXpmUEI1Lzl1SHZWUzJWd2tsWFkiLCJtYWMiOiJiMWMyMGRmMjFiMTNlNjJmZWNlN2E3ZjhhNDYxODhmZTU4ODE2Njc4MjcyM2I0MmYzNjE0MWE0ZWVkNzFjODU0IiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:42 GMT; Max-Age=3600; path=/; httponly; samesite=lax",
+    "Vary": "Accept-Encoding",
+    "Transfer-Encoding": "chunked"
+  },
+  "fetched_at": "2025-09-11T14:50:42.317096",
+  "content_type": "text/html; charset=UTF-8"
+}

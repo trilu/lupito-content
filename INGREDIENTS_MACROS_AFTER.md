@@ -1,6 +1,6 @@
 # Ingredients & Macros Coverage After Parsing
 
-**Generated:** 2025-09-11T18:50:17.540755
+**Generated:** 2025-09-11T19:56:49.950302
 
 ## BURNS
 

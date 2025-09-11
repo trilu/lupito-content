@@ -1,0 +1,20 @@
+{
+  "url": "https://www.brit-petfood.com/en/products/dogs/651284-brit-care-crunchy-cracker-insects-with-rabbit-enriched-with-fennel",
+  "status_code": 200,
+  "headers": {
+    "Alt-Svc": "h3=\":443\"; ma=2592000",
+    "Cache-Control": "no-store, no-cache, must-revalidate",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Thu, 11 Sep 2025 11:49:00 GMT",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "Pragma": "no-cache",
+    "Server": "Caddy, nginx/1.18.0",
+    "Set-Cookie": "PHPSESSID=q7t5acr0k99o1i0mnroq9gio82; path=/; HttpOnly; SameSite=Lax",
+    "X-Content-Type-Options": "nosniff",
+    "X-Xss-Protection": "1; mode=block",
+    "Transfer-Encoding": "chunked"
+  },
+  "fetched_at": "2025-09-11T14:49:00.919531",
+  "content_type": "text/html; charset=UTF-8"
+}

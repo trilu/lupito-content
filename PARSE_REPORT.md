@@ -1,6 +1,6 @@
 # GCS Snapshot Parse Report
 
-**Generated:** 2025-09-11T18:50:17.540279
+**Generated:** 2025-09-11T19:56:49.950072
 **Source:** gs://lupito-content-raw-eu/manufacturers/
 
 ## BURNS

@@ -1,0 +1,77 @@
+brand: Burns
+brand_slug: burns
+website_url: https://burns.de
+status: active
+last_updated: '2025-09-11'
+rate_limits:
+  delay_seconds: 2
+  jitter_seconds: 1
+  max_concurrent: 1
+  respect_robots: true
+discovery:
+  method: category_pages
+  category_urls:
+  - https://burns.de/produkte/
+  - https://burns.de/hund/
+  - https://burns.de/hundefutter/
+  - https://burns.de/shop/hund/
+  - https://burns.de/products/dog/
+pdp_selectors:
+  product_name:
+    css: h1.product-title, h1.product-name, h1[itemprop="name"], .product h1
+    xpath: //h1[@class="product-title" or @class="product-name"]
+  ingredients:
+    css: .ingredients, .composition, .product-ingredients, [itemprop="ingredients"], .zutaten
+    xpath: //div[contains(@class, "ingredients") or contains(@class, "composition") or contains(@class, "zutaten")]
+    regex: (?:Composition|Ingredients|Zutaten|Zusammensetzung):\s*([^.]+)
+  analytical_constituents:
+    css: .analytical, .nutrition, .analysis, .constituents, .analytische
+    xpath: //div[contains(@class, "analytical") or contains(@class, "nutrition")]
+    regex: (?:Crude\s+)?(?:Protein|Rohprotein)[:\s]+([0-9.]+)%
+  form:
+    css: .product-type, .food-type
+    keywords:
+    - dry
+    - wet
+    - canned
+    - pouch
+    - kibble
+    - trocken
+    - nass
+  life_stage:
+    css: .life-stage, .age-group, .product-subtitle
+    keywords:
+    - puppy
+    - adult
+    - senior
+    - junior
+    - welpe
+    - erwachsen
+    - all life stages
+  pack_size:
+    css: .pack-size, .weight, .size, .product-weight
+    regex: ([0-9.]+)\s*(kg|g|lb|oz)
+  price:
+    css: .price, .product-price, .cost, [itemprop="price"], .preis
+    xpath: //span[@class="price" or @itemprop="price" or @class="preis"]
+jsonld:
+  enabled: true
+  types:
+  - Product
+  - Offer
+  - AggregateOffer
+pdf_support:
+  enabled: true
+  selectors:
+  - a[href*="specification"]
+  - a[href*="datasheet"]
+  - a[href*="pdf"]
+  - a:contains("Download")
+  - a:contains("Specification")
+  - a:contains("Datenblatt")
+  max_pdfs_per_product: 2
+  max_size_mb: 10
+field_mapping:
+  brand: Burns
+  source: manufacturer_burns
+  confidence: 0.95

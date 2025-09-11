@@ -1,0 +1,16 @@
+{
+  "url": "https://burns.de/products/dog/",
+  "status_code": 200,
+  "headers": {
+    "Cache-Control": "no-cache, private",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Thu, 11 Sep 2025 11:50:47 GMT",
+    "Server": "nginx",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6Ik1RZkRHSkRMUE1DYStJcGRaZXRjb0E9PSIsInZhbHVlIjoiM3NZS0FoSjM3UE9TYWhCUmluTXVjRGs2V2VaTkY2NVBQaVlwTGhhazZiMjhxbVoySHM0Q3hvUkNOWU9WRVp3cTlueGZHdHV4S0pLdWh1VUVhUWZETVI2VjBsM0Vua0o1LzJQYzBXWHgyU0JQak9qRWM3TjNwTHdQUURNanNaYjEiLCJtYWMiOiI1OGY0MDRiOWYwYzEyMmFlODAwNDQ5MGRjOTY1NDE3NGViMmMxZDIzM2ZiYzQ0OGIyMWFhNDQxNTJlODk4ZmFkIiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:47 GMT; Max-Age=3600; path=/; secure; samesite=lax, ayo_session=eyJpdiI6InFQVFowN1d1VGdneGVmSTkremI0QWc9PSIsInZhbHVlIjoiYXNMVWJhK3QrQndjeHQ3VGcyTm1uZDJQTUo2bnRQcEFvemFTYnJHdlVNR3FLQkxXS1pCdStudDBwUkdNaE9XR2hNWmYxaElvVUprT0szZW1RWTZVMWRWazNlRm5HQmcvNGh1dkExYVBsZkM0Qkx2STYxdnM3RHdYWTVBU2lmeXgiLCJtYWMiOiIxN2VjMTU1MWMxYzc4ZTUyYTJiOGJlODc2Zjg0MmM2ZTY4NjhiYTcxMDg0NTAwZjFmNmQ3ZjhhOWQwYjYxYWNkIiwidGFnIjoiIn0%3D; expires=Thu, 11 Sep 2025 12:50:47 GMT; Max-Age=3600; path=/; httponly; samesite=lax",
+    "Vary": "Accept-Encoding",
+    "Transfer-Encoding": "chunked"
+  },
+  "fetched_at": "2025-09-11T14:50:47.382360",
+  "content_type": "text/html; charset=UTF-8"
+}
