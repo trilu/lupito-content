@@ -1,23 +1,23 @@
 # B1A: Ingredients Coverage Lift Report
 
-**Generated:** 2025-09-11T21:46:06.417523
+**Generated:** 2025-09-12T00:00:31.103305
 **Run ID:** b1a_20250911_214034
 **Method:** Server-side merge from staging
 
 ## Server-Side Merge Results
 
-- **Inserted:** 71 - 71 new products created
-- **Updated:** 5 - 5 existing products updated
+- **Inserted:** 0 - 0 new products created
+- **Updated:** 76 - 76 existing products updated
 - **Skipped:** 0 - 0 products skipped (brand restrictions)
 
 ## Brand-Level Before/After Coverage
 
 | Brand | Before | After | Lift | Products |
 |-------|--------|-------|------|----------|
-| Bozita | 0.0% | 64.4% | **+64.4%** | 87 |
-| Belcando | 2.9% | 35.3% | **+32.4%** | 51 |
-| Briantos | 32.6% | 34.0% | **+1.3999999999999986%** | 47 |
-| **TOTAL** | - | - | **+98.2%** | - |
+| Bozita | 64.4% | 64.4% | **+0.0%** | 87 |
+| Belcando | 35.3% | 35.3% | **+0.0%** | 51 |
+| Briantos | 34.0% | 34.0% | **+0.0%** | 47 |
+| **TOTAL** | - | - | **+0.0%** | - |
 
 ## Sample New Ingredient Extractions (10 examples)
 
