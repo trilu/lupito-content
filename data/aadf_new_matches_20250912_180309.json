@@ -1,0 +1,1311 @@
+{
+  "timestamp": "20250912_180309",
+  "stats": {
+    "total_aadf": 1101,
+    "already_matched": 0,
+    "new_matches_found": 134,
+    "unmatched": 967
+  },
+  "new_matches": [
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_adult_1+_sensitive_stomach_&_skin_small_&_mini_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Adult 1+ Sensitive Stomach & Skin Small & Mini Chicken",
+      "score": 0.6778688524590164,
+      "ingredients": "Brewers' Rice, Chicken and Turkey Meal, Brown Rice, Maize, Maize Gluten Meal, Barley, Oats, Animal Fat, Digest, Vegetable Oil, Dried Beet Pulp, Flaxseed, Minerals.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0428/hills-science-plan-adult-1-sensitive-stomach-and-skin-small-and-mini"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_adult_1-6_small_&_mini_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Adult 1-6 Small & Mini with Chicken",
+      "score": 0.6654362416107383,
+      "ingredients": "Chicken and Turkey Meal, Maize, Wheat, Brewers' Rice, Animal Fat, Digest, Vegetable Oil, Minerals, Flaxseed, Dried Tomato Pomace, Dried Citrus Pulp, Spinach Powder.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0131/hills-science-plan-adult-1-6-small-and-mini-with-chicken"
+    },
+    {
+      "product_key": "natures-menu|way_grain_free_puppy__small_dog|unknown",
+      "brand": "Nature's Menu",
+      "name": "Way Grain Free Puppy  Small Dog",
+      "score": 0.6459016393442623,
+      "ingredients": "65% Chicken (Chicken 31%, Dried Chicken 29%, Chicken Fat 3%, Chicken Liver 2%), Sweet Potato (19%), Potato (19%), Beet Fibre, Linseed, Sunflower Oil, Salmon Oil, Minerals, Vitamins, Glucosamine (0.017%), MSM (0.017%), Chondroitin (0.0125%), Yucca Schidigera Extract, Mixed Herbs (Thyme, Marjoram, Sage, Basil, Parsley, Oregano), Prebiotic MOS, Prebiotic FOS.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2372/natures-way-grain-free-puppy-and-small-dog"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_mature_adult_7+_small_&_mini_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Mature Adult 7+ Small & Mini with Chicken",
+      "score": 0.6413907284768212,
+      "ingredients": "Chicken and Turkey Meal, Wheat, Brewers' Rice, Brown Rice, Maize, Animal Fat, Digest, Barley, Oats, Dried Beet Pulp, Vegetable Oil, Flaxseed, Minerals, Dried Tomato Pomace, Dried Citrus Pulp, Spinach Powder.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2182/hills-science-plan-mature-adult-7-small-and-mini"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_mature_adult_7+_light_small_&_mini_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Mature Adult 7+ Light Small & Mini with Chicken",
+      "score": 0.6242857142857143,
+      "ingredients": "Maize, Brewers' Rice (24%), Chicken (8%) and Turkey Meal (Total Poultry 13%), Barley, Oats, Dried Whole Egg, Digest, Vegetable Oil, Animal Fat, Dried Beet Pulp, Flaxseed, Minerals, Dried Carrots, Dried Tomato Pomace, Dried Citrus Pulp, Fish Oil, Dried Spinach.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0431/hills-science-plan-mature-adult-7-youthful-vitality-small-and-mini"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_puppy_<1_small_&_mini_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Puppy <1 Small & Mini with Chicken",
+      "score": 0.62007299270073,
+      "ingredients": "Chicken and Turkey Meal, Maize, Wheat, Animal Fat, Digest, Brewers' Rice, Maize Gluten Meal, Dried Beet Pulp, Minerals, Fish Oil, Flaxseed, Dried Tomato Pomace, Dried Citrus Pulp, Dried Spinach.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0135/hills-science-plan-puppy-1-small-and-mini"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_mature_adult_6+_large_breed_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Mature Adult 6+ Large Breed with Chicken",
+      "score": 0.6153061224489796,
+      "ingredients": "Maize, Wheat, Chicken and Turkey Meal, Animal Fat, Digest, Maize Gluten Meal, Flaxseed, Pea Bran Meal, Vegetable Oil, Minerals, Pork Cartilage, Crustacean Shell Hydrolysate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2180/hills-science-plan-mature-adult-6-large"
+    },
+    {
+      "product_key": "pro-plan|purina_pro_plan_small_&_mini_adult_sensitive_skin|dry",
+      "brand": "Pro Plan",
+      "name": "PURINA PRO PLAN Small & Mini Adult Sensitive Skin",
+      "score": 0.5847682119205299,
+      "ingredients": "Salmon (20%), Rice (18%), Maize Gluten Meal, Dehydrated Salmon Protein, Maize, Animal Fat, Soya Meal, Dried Beet Pulp, Maize Starch, Minerals, Cellulose, Soybean Oil, Maize Grits, Digest, Yeast, Dried Egg, Fish Oil, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0153/pro-plan-small-and-mini-adult-sensitive-skin-optiderma"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_adult_1-6_small_&_mini_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Adult 1-6 Small & Mini with Chicken",
+      "score": 0.5847682119205299,
+      "ingredients": "Maize, Brown Rice, Brewers' Rice, Wheat, Maize Gluten Meal, Lamb Meal, Barley, Oats, Animal Fat, Digest, Soybean Meal, Vegetable Oil, Flaxseed, Dried Tomato Pomace, Dried Citrus Pulp, Spinach Powder.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2178/hills-science-plan-adult-1-6-small-and-mini-with-lamb-and-rice"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_puppy_<1_large_breed_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Puppy <1 Large Breed with Chicken",
+      "score": 0.5790076335877863,
+      "ingredients": "Maize, Chicken and Turkey Meal, Brewers' Rice, Digest, Animal Fat, Dried Whole Egg, Cellulose, Dried Beet Pulp, Minerals, Flaxseed, Fish Oil, Vegetable Oil.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0136/hills-science-plan-puppy-large"
+    },
+    {
+      "product_key": "purizon|purizon_chicken_with_fish_adult_\u2013_grain-free|dry",
+      "brand": "Purizon",
+      "name": "Chicken with Fish Adult \u2013 Grain-free",
+      "score": 0.5742990654205608,
+      "ingredients": "23% Fresh Chicken Meat, 17% Chicken Meat (Dried), 17% Fresh Salmon, 8% Fish (Dried Herring, Plaice, Cod, Saithe), Dried Potatoes, Dried Sweet Potatoes, 5% Poultry Fat, 4% Turkey (Dried), 2% Duck (Dried), 2% Hydrolysed Poultry Protein, Peas, 1% Egg (Dried), 1% Salmon Oil, Linseed, Psyllium Husks, Apples (Dried), Carrots (Dried), Cranberries (Dried), Dried Herbs (Spinach, Thyme, Oregano, Sage, Parsley, Marjoram, Chamomile, Aniseed, Fenugreek, Marigold, Peppermint), Chicory Inulin.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0669/purizon-adult-grain-free"
+    },
+    {
+      "product_key": "carnilove|true_fresh_chicken_junior_large_breed|unknown",
+      "brand": "Carnilove",
+      "name": "True Fresh Chicken Junior Large Breed",
+      "score": 0.5730769230769232,
+      "ingredients": "Fresh Chicken (60%), Peas, Buckwheat (6%), Dried Apples, Pumpkin (4%), Red Lentils, Chicken Fat, Salmon Oil (2.5%), Natural Flavours, Dried Kelp (Ascophyllum Nodosum 1%), Dried Eggshells (0.5%), Lemna Protein (0.5%), Dried Sea Buckthorn (0.2%), Dried Ginger Root (0.1%), Dried Blueberries (0.1%), Dried Rosemary (0.1%), Dried Cranberries (0.1%), Dried Thyme (0.1%), Glucosamine (0.026%), Green-Lipped MusselS (0.025%), Chondroitin Sulfate (0.016%), Brewer's Yeast (0.015%), Chicory Root (0.01%), Mojave Yucca (0.01%)",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2666/carnilove-true-fresh-junior-large-breed"
+    },
+    {
+      "product_key": "carnilove|salmon__turkey_large_breed_puppy|unknown",
+      "brand": "Carnilove",
+      "name": "Salmon  Turkey Large Breed Puppy",
+      "score": 0.5724137931034484,
+      "ingredients": "Salmon Meal (25%), Turkey Meal (20%), Yellow Peas (18%), Chicken Fat (9%), Salmon Deboned (6%), Chicken Protein Hydrolyzed (5%), Tapioca Starch (5%), Apples (3%), Chicken Liver (3%), Salmon Oil (2%), Carrots (1%), Flaxseed (1%), Chickpeas (1%), Hydrolyzed Crustacean Shells (0.031%), Cartilage Extract (0.019%), Brewer's Yeast (0.018%), Chicory Root (0.012%), Yucca Schidigera (0.011%), Algae (0.01%), Psyllium (0.01%), Thyme (0.01%), Rosemary (0.01%), Oregano (0.01%), Cranberries (0.0008%), Blueberries (0.0008%), Raspberries (0.0008%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1510/carnilove-dry-puppy-large-breed"
+    },
+    {
+      "product_key": "wainwrights|proper_tasty_grain_free_adult_small_breed_chicken__potato|unknown",
+      "brand": "Wainwright's",
+      "name": "Proper Tasty Grain Free Adult Small Breed Chicken  Potato",
+      "score": 0.5688311688311688,
+      "ingredients": "Lamb Meat Meal (40%), Sweet Potato (25%), Potato (9.6%), Rapeseed Oil (5.1%), Pea Starch (4%), Potato Protein (3.5%), Linseed (3%), Beet Pulp (2%), Lamb Digest (2%), Yeasts (1%), Alfalfa (1%), Carrot (1%), Minerals, Tomato Powder (0.5%), Seaweed Meal (0.5%), Herbs (Marjoram 167 mg/kg, Oregano 167mg/kg, Sage 167 mg/kg, Parsley 167 mg/kg, Rosemary 167 mg/kg), Yucca (200 mg/kg), Cranberry (100 mg/kg), Marigold (50 mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1034/wainwrights-dry-adult-grain-free-small-breed"
+    },
+    {
+      "product_key": "pro-plan|purina_pro_plan_large_robust_puppy_healthy_start|dry",
+      "brand": "Pro Plan",
+      "name": "PURINA PRO PLAN Large Robust Puppy Healthy Start",
+      "score": 0.5661870503597123,
+      "ingredients": "High Quality Chicken 18% (Including Back and Chest), Dried Poultry Protein, Rice (15%), Wheat, Soya Meal, Corn, Animal Fats, Wheat Middlings, Digest, Dried Beet Pulp, Corn Protein Meal, Wheat Gluten, Minerals, Dried Egg, Fish Oil, Dried Colostrum (0.10%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0159/pro-plan-large-robust-puppy-optistart"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_developing_junior_large_&_giant_breed_-_chicken|dry",
+      "brand": "Eukanuba",
+      "name": "Developing Junior Large & Giant Breed - Chicken",
+      "score": 0.5648148148148149,
+      "ingredients": "Fresh Chicken (20%), Dried Chicken & Turkey 14% (Including Chicken 8%), Maize Grits, Maize, Wheat, Fish Meal, Oats, Rice, Poultry Fat, Barley, Sorghum, Chicken Gravy, Dried Beet Pulp (2.5%), Minerals (Including Sodium Hexametaphosphate 0.33%), Dried Whole Egg, Fish Oil, Fish Digest, Fructooligosaccharides (0.24%), Brewer's Dried Yeast, Mannanoligosaccharides.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1897/eukanuba-developing-junior-large-breed"
+    },
+    {
+      "product_key": "eukanuba|grain_free_adult_large_breed_chicken|unknown",
+      "brand": "Eukanuba",
+      "name": "Grain Free Adult Large Breed Chicken",
+      "score": 0.5642857142857143,
+      "ingredients": "Dried Chicken and Turkey, Lamb (14%), Rice (14%), Maize, Sorghum, Barley, Dried Whole Egg, Dried Beet Pulp (2.6%), Animal Fat (from Chicken and Pork), Hydrolysed Animal Proteins (from Chicken), Potassium Chloride, Sodium Chloride, Sodium Hexametaphosphate, Fructooligosaccharides (0.26%), Calcium Carbonate, Fish Oil.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0097/eukanuba-adult-large-breed-rich-in-lamb"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_caring_senior_small_breed_chicken|dry",
+      "brand": "Eukanuba",
+      "name": "Caring Senior Small Breed Chicken",
+      "score": 0.556611570247934,
+      "ingredients": "Dried Chicken & Turkey 26% (Including Chicken 15%), Fresh Chicken (15%), Maize, Wheat, Poultry Fat, Oats, Fish Meal, Rice, Barley, Chicken Gravy, Dried Beet Pulp (3.5%), Dried Whole Egg, Minerals (Including Sodium Hexametaphosphate 0.35%), Fructooligosaccharides (0.51%), Fish Oil, Mannanoligosaccharides, Glucosamine (0.04%), Chondroitin Sulphate (0.004%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1903/eukanuba-caring-senior-small-breed"
+    },
+    {
+      "product_key": "pro-plan|purina_pro_plan_large_robust_adult_sensitive_skin_salmon|dry",
+      "brand": "Pro Plan",
+      "name": "PURINA PRO PLAN Large Robust Adult Sensitive Skin Salmon",
+      "score": 0.5552980132450331,
+      "ingredients": "Chicken (19%), Wheat, Dehydrated Poultry Protein, Maize, Rice (8%), Animal Fat, Soya Meal, Dried Beet Pulp, Digest, Maize Gluten Meal, Maize Grits, Wheat Gluten Meal, Dehydrated Salmon Protein, Minerals, Dried Egg, Fish Oil, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1820/pro-plan-large-athletic-adult-optibalance"
+    },
+    {
+      "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_healthy_mobility_large_breed_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Adult 1+ Healthy Mobility Large Breed with Chicken",
+      "score": 0.5540816326530613,
+      "ingredients": "Maize, Wheat, Chicken and Turkey Meal, Digest, Animal Fat, Maize Gluten Meal, Flaxseed, Fish Oil, Vegetable Oil, Minerals, Pea Bran Meal.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0421/hills-science-plan-adult-1-healthy-mobility-large"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_premium_nutrition_adult_small_breed_chicken|dry",
+      "brand": "Eukanuba",
+      "name": "Premium Nutrition Adult Small Breed Chicken",
+      "score": 0.55,
+      "ingredients": "Dried Chicken & Turkey 28% (Including Chicken 17%), Fresh Chicken (15%), Maize, Wheat, Poultry Fat, Oats, Barley, Sorghum, Dried Beet Pulp (3.5%), Chicken Gravy, Fish Meal, Minerals (Including Sodium Hexametaphosphate 0.35%), Dried Whole Egg, Fructooligosaccharides (0.38%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0093/eukanuba-active-adult-small-breed"
+    },
+    {
+      "product_key": "pro-plan|purina_pro_plan_large_athletic_puppy_healthy_start|dry",
+      "brand": "Pro Plan",
+      "name": "PURINA PRO PLAN Large Athletic Puppy Healthy Start",
+      "score": 0.5481751824817518,
+      "ingredients": "Chicken (19%), Wheat, Dehydrated Poultry Protein, Rice (9%), Soya Meal, Animal Fat, Digest, Maize Gluten Meal, Wheat Gluten Meal, Maize, Dried Beet Pulp, Minerals, Dried Egg, Fish Oil, Dried Colostrum (0.1%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/3210/pro-plan-large-athletic-puppy-dry"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_mature_adult_7+_light_medium_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Mature Adult 7+ Light Medium with Chicken",
+      "score": 0.5467741935483871,
+      "ingredients": "Maize, Wheat, Chicken and Turkey Meal, Cellulose, Pea Bran Meal, Digest, Animal Fat, Dried Beet Pulp, Flaxseed, Minerals, Vegetable Oil, Pork Cartilage, Crustacean Shell Hydrolysate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0432/hills-science-plan-mature-adult-7-light-medium"
+    },
+    {
+      "product_key": "eukanuba|grain_free_adult_large_breed_chicken|unknown",
+      "brand": "Eukanuba",
+      "name": "Grain Free Adult Large Breed Chicken",
+      "score": 0.5451219512195122,
+      "ingredients": "Fresh Chicken (18%), Dried Chicken & Turkey 18% (Including Chicken 11%), Maize, Wheat, Oats, Barley, Poultry Fat, Sorghum, Chicken Gravy, Dried Beet Pulp (2.5%), Minerals (Including Sodium Hexametaphosphate 0.34%), Fish Meal, Maize Grits, Dried Whole Egg, Fructooligosaccharides (0.25%), Brewer's Dried Yeast, Glucosamine (0.04%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0095/eukanuba-active-adult-large-breed"
+    },
+    {
+      "product_key": "natures-menu|deli_adult_small_breed_turkey|unknown",
+      "brand": "Nature's Menu",
+      "name": "Deli Adult Small Breed Turkey",
+      "score": 0.5446902654867257,
+      "ingredients": "Turkey 30% (Turkey Meal 22.5%, Turkey 5.6%, Turkey Gravy 1.9%), Brown Rice (29%), White Rice (18.5%), Dried Beet Pulp, Dried Sweet Potato (2.8%), Turkey Fat (1.9%), Dried Peas (1.9%), Dried Chick Peas (1.9%), Dried Pumpkin (1.9%), Minerals, Brewers Yeast, Vegetable Stock, Linseed Oil, Dried Carrot (0.5%), Yeast (0.14%), Chicory Root Extract (0.14%), Dried Rosemary, Yucca Schidigera (0.023%), Glucosamine (0.012%), Dried Cranberry, Dried Dandelion Root, Dried Pomegranate, Chondroitin Sulphate (0.005%)",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2677/natures-deli-adult-small-breed"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_grain_free_puppy_large_breed_-_chicken|dry",
+      "brand": "Eukanuba",
+      "name": "Grain Free Puppy Large Breed - Chicken",
+      "score": 0.5435483870967742,
+      "ingredients": "Fresh Chicken (20%), Dried Chicken & Turkey 15% (Including Chicken 9%), Maize Grits, Maize, Wheat, Fish Meal, Rice, Barley, Poultry Fat, Chicken Gravy, Dried Whole Egg, Dried Beet Pulp (2.3%), Minerals, Fish Oil, Fish Digest, Brewer's Dried Yeast, Fructooligosaccharides (0.24%), Mannanoligosaccharides.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0100/eukanuba-growing-puppy-large-breed"
+    },
+    {
+      "product_key": "pro-plan|purina_pro_plan_large_robust_adult_sensitive_skin_salmon|dry",
+      "brand": "Pro Plan",
+      "name": "PURINA PRO PLAN Large Robust Adult Sensitive Skin Salmon",
+      "score": 0.5416107382550336,
+      "ingredients": "Chicken (19%), Wheat, Dehydrated Poultry Protein, Maize, Rice (7%), Wheat Fibre, Digest, Dried Beet Pulp, Soya Meal, Wheat Gluten Meal, Animal Fat, Maize Gluten Meal, Minerals, Dried Egg, Fish Oil, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0155/pro-plan-large-robust-adult-optibalance"
+    },
+    {
+      "product_key": "harringtons|superfoods_grain_free_adult_chicken_with_vegetables|unknown",
+      "brand": "Harrington's",
+      "name": "Superfoods Grain Free Adult Chicken with Vegetables",
+      "score": 0.5397810218978103,
+      "ingredients": "65% Chicken (Including 26% Freshly Prepared Chicken), Vegetables (Including 3% Green Beans, 2% Carrots), Minerals, Salmon Oil (0.1%), Inulin (0.1%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1708/harringtons-grain-free-wet-adult-tins"
+    },
+    {
+      "product_key": "trophy|petfoods_super_premium_grain_free_puppy|unknown",
+      "brand": "Trophy",
+      "name": "Petfoods Super Premium Grain Free Puppy",
+      "score": 0.5384615384615384,
+      "ingredients": "44% Total Chicken (Chicken Meal, Freshly Prepared Chicken), Peas, Potatoes, Chicken Fat, Sweet Potatoes, Unmolassed Beet Pulp, Full Fat Linseed, Lucerne, Dried Egg, Minerals, Salmon Oil, Yeast, Mannan Oligosaccharides, Fructose Oligosaccharides, Marine Algae, Yucca Schidigera, Rosemary, Blackcurrant, Pomegranate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/3357/trophy-super-premium-puppy-grain-free"
+    },
+    {
+      "product_key": "natures-menu|deli_adult_grain_free_salmon__sweet_potato|unknown",
+      "brand": "Nature's Menu",
+      "name": "Deli Adult Grain Free Salmon  Sweet Potato",
+      "score": 0.5379699248120301,
+      "ingredients": "Salmon (36%), White Fish (35%), Dried Sweet Potato (1%), Dried Carrot (0.5%), Dried Peas (0.3%), Minerals, Dried Broccoli (0.2%), Dried Mixed Herbs, Sunflower Oil (0.1%), Prebiotic Mannan-Oligosaccharides (0.1%), Chicory Root Extract (0.1%), Dried Seaweed (0.06%), Yucca Extract (0.02%), Cranberry Extract (0.02%), Yeast Extract (0.01%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2700/natures-deli-grain-free-adult-wet-food"
+    },
+    {
+      "product_key": "arden_grange|arden_grange_puppy_junior_large_breed_chicken_&_rice|dry",
+      "brand": "Arden Grange",
+      "name": "Puppy Junior Large Breed Chicken & Rice",
+      "score": 0.5375000000000001,
+      "ingredients": "Chicken (Chicken Meat Meal 30%, Fresh Chicken 5%), Rice (19%), Maize, Refined Chicken Oil, Beet Pulp, Chicken Digest, Krill, Minerals, Yeast, Whole Dried Egg, Whole Linseed. Prebiotic FOS, Prebiotic MOS, Glucosamine (370 mg/kg), MSM (370mg/kg), Chondroitin (260mg/kg), Yucca Extract, Cranberries, Nucleotides.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0028/arden-grange-puppy-junior-large-breed"
+    },
+    {
+      "product_key": "natures-menu|deli_adult_large_breed_turkey__rice|unknown",
+      "brand": "Nature's Menu",
+      "name": "Deli Adult Large Breed Turkey  Rice",
+      "score": 0.5364406779661017,
+      "ingredients": "Turkey 32.7% (Turkey Meal 25.1%, Turkey 5.7%, Turkey Gravy 1.9%), Brown Rice (30%), Dried Beet Pulp, White Rice, Turkey Fat, Dried Peas (3.8%), Dried Chick Peas (2.8%), Dried Sweet Potato (2.8%), Brewers Yeast, Dried Pumpkin (1.9%), Minerals, Linseed Oil, Vegetable Stock, Dried Carrot (0.5%), Yeast (0.14%), Chicory Root Extract (0.14%), Glucosamine (0.033%), Dried Rosemary, Yucca Schidigera (0.024%), Chondroitin Sulphate (0.019%), Dried Cranberry, Dried Dandelion Root, Dried Pomegranate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2678/natures-deli-adult-large-breed"
+    },
+    {
+      "product_key": "pro-plan|purina_pro_plan_small_&_mini_adult_sensitive_skin|dry",
+      "brand": "Pro Plan",
+      "name": "PURINA PRO PLAN Small & Mini Adult Sensitive Skin",
+      "score": 0.5352941176470588,
+      "ingredients": "Chicken (15%), Dehydrated Poultry Protein, Wheat, Rice (12%), Maize, Maize Gluten Meal, Vegetable Oil Fractions, Dried Beet Pulp, Soya Meal, Wheat Gluten Meal, Minerals, Animal Fat, Fish Oil, Digest, Yeast, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1821/pro-plan-small-and-mini-adult-9-optiage"
+    },
+    {
+      "product_key": "wainwrights|adult_small_breed_light_turkey__rice|dry",
+      "brand": "Wainwright's",
+      "name": "Adult Small Breed Light Turkey  Rice",
+      "score": 0.5296875000000001,
+      "ingredients": "Turkey 33% (Dried Turkey 28%, Freshly Prepared Turkey 5%), Brown Rice (26%), Whole Grain Barley (23%), Beet Pulp (8.5%), Whole Ground Oats (4.5%), Rapeseed Oil, Linseed (2%), Seaweed (0.2%), Glucosamine (0.05%), Yucca Extract (0.02%), Chondroitin (0.015%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1031/wainwrights-dry-adult-small-breed-light"
+    },
+    {
+      "product_key": "pro-plan|pro_plan_age_defence_medium__large_adult_7|unknown",
+      "brand": "Pro Plan",
+      "name": "Age Defence Medium  Large Adult 7",
+      "score": 0.5276422764227642,
+      "ingredients": "Chicken (15%), Dehydrated Poultry Protein, Wheat, Rice (12%), Maize, Maize Gluten Meal, Vegetable Oil Fractions, Dried Beet Pulp, Soya Meal, Wheat Gluten Meal, Minerals, Animal Fat, Fish Oil, Digest, Yeast, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0160/pro-plan-medium-and-large-adult-7-optiage"
+    },
+    {
+      "product_key": "brit|natural_dog_hub_grain_free_adult_superfood_free_range_british_chicken|unknown",
+      "brand": "Brit",
+      "name": "Natural Dog Hub Grain Free Adult Superfood Free Range British Chicken",
+      "score": 0.5244966442953021,
+      "ingredients": "Salmon 50% (Dehydrated Salmon, Hydrolysed Salmon), Potatoes (26%), Dried Apple Pulp, Chicken Fat, Salmon Oil (3%), Natural Flavour, Pea Flour, Glucosamine (260 mg/kg), Fructo-Oligosaccharides (200 mg/kg), Chondroitin Sulphate (200 mg/kg), Mannan-Oligosaccharides (150 mg/kg), Mojave Yucca (150 mg/kg), Milk Thistle Seed (90 mg/kg), Beta-Glucans (50 mg/kg), Dried Sea Buckthorn (50 mg/kg), Probiotic Lactobacillus Helveticus Ha &Ndash; 122 Inactivated (15x109 Cells/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2999/brit-care-grain-free-adult"
+    },
+    {
+      "product_key": "harringtons|superfoods_grain_free_adult_chicken_with_vegetables|unknown",
+      "brand": "Harrington's",
+      "name": "Superfoods Grain Free Adult Chicken with Vegetables",
+      "score": 0.5242424242424243,
+      "ingredients": "Turkey 30% (Dried Turkey 26%, Freshly Prepared Turkey 4%), Sweet Potato (26%), Potato, Peas, Chicken Fat, Beet Pulp (4%), Linseed, Chicken Gravy (2%), Minerals, Dried Chicory (0.1%), Seaweed (0.1%), Yucca (0.015%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1704/harringtons-grain-free-dry-adult"
+    },
+    {
+      "product_key": "lukullus|lukullus_adult_poultry_&_lamb_-_grain-free|wet",
+      "brand": "Lukullus",
+      "name": "Adult Poultry & Lamb - Grain-Free",
+      "score": 0.5224137931034484,
+      "ingredients": "33% Poultry (Heart, Meat, Liver, Gizzards, Neck), 32% Lamb (Heart, Meat, Liver, Lung, Tripe), 27.8% Stock, 5% Sweet Potato, 1% Minerals, 0.1% Dandelion, 0.1% GRapeseed Oil.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2377/lukullus-adult-pouches-grain-free"
+    },
+    {
+      "product_key": "acana|acana_puppy_small_breed_recipe|dry",
+      "brand": "Acana",
+      "name": "Puppy Small Breed Recipe",
+      "score": 0.5222222222222223,
+      "ingredients": "Fresh Chicken (18%), Chicken Meal (18%), Whole Red Lentils, Whole Green Peas, Fresh Chicken Giblets 7% (Liver, Heart), Chicken Fat (7%), Turkey Meal (4%), Eggs (4%), Raw Flounder (4%), Herring Meal (4%), Fish Oil (3%), Whole Green Lentils, Whole Chickpeas, Whole Yellow Peas, Pea Fibre, Pea Starch, Raw Turkey Livers (1%), Salt, Dried Kelp, Fresh Whole Pumpkin, Fresh Whole Butternut Squash, Fresh Whole Carrots, Fresh Whole Apples, Fresh Whole Pears, Fresh Whole Zucchini, Dried Chicory Root, Fresh Kale, Fresh Spinach, Fresh Turnip Greens, Fresh Beet Greens, Fresh Whole Cranberries, Fresh Whole Blueberries, Fresh Whole Saskatoon Berries, Turmeric, Milk Thistle, Burdock Root, Lavender, Marshmallow Root, Rosehips.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0754/acana-puppy-small-breed-recipe"
+    },
+    {
+      "product_key": "arden|grange_grain_free_adult_lamb__superfoods|unknown",
+      "brand": "Arden Grange",
+      "name": "Grain Free Adult Lamb  Superfoods",
+      "score": 0.5166666666666667,
+      "ingredients": "Lamb 43% (Fresh Lamb 23%, Lamb Meat Meal 20%), Sweet Potato (13%), Tapioca, Peas, Beet Pulp, Pumpkin, Refined Chicken Oil, Yeast, Linseed, Chicken Digest, Krill, Whole Egg, Coconut Oil (1%), Minerals, Prebiotic FOS, Prebiotic MOS, Spirulina (0.1%), Chia Seeds (0.1%), Cranberry Extract (500mg/kg), Pomegranate Extract (500mg/kg), Dried Blueberries (500 mg/kg), Dried Mulberries (500mg/kg), Dried Lingonberries (500mg/kg), Dried Rosehips (500mg/kg), Yucca Extract, Glucosamine, MSM, Chondroitin, Nucleotides.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/3162/arden-grange-adult-grain-free-superfoods"
+    },
+    {
+      "product_key": "james-wellbeloved|wellbeloved_lamb__rice_small_breed_adult|dry",
+      "brand": "James Wellbeloved",
+      "name": "Lamb  Rice Small Breed Adult",
+      "score": 0.5166666666666667,
+      "ingredients": "Lamb Meal (26%), White Rice (23.6%), Barley, Brown Rice (5.5%), Lamb Fat (5.5%), Pea Protein, Whole Linseed, Sugar Beet Pulp, Lamb Gravy (2.9%), Alfalfa Meal, Tomato Pomace, Sunflower Oil, Carrots, Seaweed, Dried Vegetarian Stock, Sodium Chloride, Fish Oil, Potassium Chloride, Chicory Extract (0.1%), Calcium Carbonate, Cranberry Extract (0.05%), Yucca Extract.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0111/james-wellbeloved-adult-small-breed-dry"
+    },
+    {
+      "product_key": "hill's_science_plan|hill's_science_plan_adult_1-5_light_large_breed_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Adult 1-5 Light Large Breed with Chicken",
+      "score": 0.5127906976744186,
+      "ingredients": "Maize, Pea Bran Meal, Chicken and Turkey Meal, Maize Gluten Meal, Digest, Dried Beet Pulp, Animal Fat, Cellulose, Vegetable Oil, Minerals, Flaxseed, Cartilage Hydrolysate, Crustacean Shell Hydrolysate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0424/hills-science-plan-adult-1-5-light-large"
+    },
+    {
+      "product_key": "royal-canin|royal_canin_expert_-_neutered_adult_small_dog|dry",
+      "brand": "Royal Canin",
+      "name": "Expert - Neutered Adult Small Dog",
+      "score": 0.5116788321167883,
+      "ingredients": "Barley, Maize, Dehydrated Pork Protein, Dehydrated Poultry Protein, Wheat Flour, Vegetable Fibres, Wheat Gluten, Hydrolysed Animal Proteins, Animal Fats, Minerals, Chicory Pulp, Soya Oil, Fish Oil, Psyllium Husks and Seeds, Fructo-Oligo-Saccharides, Marigold Extract, Pentasodium Triphosphate, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0664/royal-canin-veterinary-diet-neutered-adult-small-dog"
+    },
+    {
+      "product_key": "lukullus|lukullus_adult_poultry_&_lamb_-_grain-free|wet",
+      "brand": "Lukullus",
+      "name": "Adult Poultry & Lamb - Grain-Free",
+      "score": 0.5092920353982301,
+      "ingredients": "33% Poultry (Hearts, Meat, Liver, Stomachs, Necks), 33% Lamb (Hearts, Meat, Liver, Lung, Tripe), 28.4% Meat Stock, 4% Potatoes, 1% Minerals, 0.1% Dandelion, 0.5% Linseed Oil.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2376/lukullus-adult-tins-grain-free"
+    },
+    {
+      "product_key": "wainwrights|superfoods_senior_small_breed_free_range_turkey|unknown",
+      "brand": "Wainwright's",
+      "name": "Superfoods Senior Small Breed Free Range Turkey",
+      "score": 0.5055555555555556,
+      "ingredients": "Turkey 33% (Dried Turkey 28%, Freshly Prepared Turkey 5%), Brown Rice (26%), Whole Grain Barley (25%), Beet Pulp (6.5%), Whole Ground Oats (4.5%), Rapeseed Oil, Linseed (2%), Seaweed (0.2%), Glucosamine (0.05%), Yucca Extract (0.02%), Chondroitin (0.015%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1033/wainwrights-dry-mature-small-breed"
+    },
+    {
+      "product_key": "brit|brit_care_dog_sustainable_adult_small_breed_chicken_&_insects|dry",
+      "brand": "Brit",
+      "name": "Care Dog Sustainable Adult Small Breed Chicken & Insects",
+      "score": 0.5049295774647887,
+      "ingredients": "Chicken 50% (Dehydrated 30%, Deboned 20%), Oats, Wheat, Chicken Fat, Corn, Apples Dried, Salmon Oil (2%), Hydrolysed Chicken Liver, Brewers Yeast, Collagen, Crustacean Shells (210 mg/kg), Cartilage (150 mg/kg), Herbs &Amp; Fruit (Cloves, Citrus, Rosemary, Curcuma, 120 mg/kg), Mannan-Oligosaccharides (120 mg/kg), Fructo- Oligosaccharides (90 mg/kg), Mojave Yucca (90 mg/kg), Chamomile Dried (80 mg/kg), Green-Lipped MusselS (50 mg/kg), Blueberries Dried (50 mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/3001/brit-premium-by-nature-adult-small-"
+    },
+    {
+      "product_key": "natures-menu|deli_adult_grain_free_chicken__duck|unknown",
+      "brand": "Nature's Menu",
+      "name": "Deli Adult Grain Free Chicken  Duck",
+      "score": 0.5038461538461539,
+      "ingredients": "Duck 40.3% (Duck Meal 28.4%, Duck 10.1%, Duck Gravy 1.8%), Dried Sweet Potato (36.5%), Dried Beet Pulp, Duck Fat, Dried Peas (3.7%), Dried Chick Peas (2.8%), Brewers Yeast, Dried Pumpkin (1.8%), Minerals, Linseed Oil, Vegetable Stock, Dried Carrot (0.5%), Yeast (0.23%), Chicory Root Extract (0.23%), Dried Ginger, Dried Rosemary, Yucca Schidigera (0.023%), Glucosamine (0.011%), Dried Cranberry, Dried Dandelion Root, Dried Pomegranate, Chondroitin Sulphate (0.005%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2682/natures-deli-grain-free-adult"
+    },
+    {
+      "product_key": "naturo|puppy_grain_free_chicken__sweet_potato_with_vegetables|unknown",
+      "brand": "Naturo",
+      "name": "Puppy Grain Free Chicken  Sweet Potato with Vegetables",
+      "score": 0.5026717557251908,
+      "ingredients": "Chicken 65% (Including 5% Chicken Broth), Vegetables 20% (Potato, Carrots, Peas), Minerals, Sunflower Oil 0.75%, Salmon Oil 0.3%, Tomato Powder 0.15%, Dried Kelp 0.08%, Dried Cranberry 0.05%, Dried Blueberry 0.05%, Dried Chicory Root 0.04%, Yeast 0.04%, Dried Basil 0.016%, Yucca Powder 0.01%.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1049/naturo-puppy-grain-free-trays"
+    },
+    {
+      "product_key": "wainwrights|mature_large_breed_turkey__rice|dry",
+      "brand": "Wainwright's",
+      "name": "Mature Large Breed Turkey  Rice",
+      "score": 0.502542372881356,
+      "ingredients": "Brown Rice (35%), Turkey 30% (Turkey Meat Meal, Turkey Gravy), Barley (18%), Sugar Beet Pulp (4%), Rapeseed Oil (4%), Whole Linseed (4%), Alfalfa (2%), Potato Protein (2%), Minerals (Includes Yucca Extract 200mg/kg, Marigold Meal 50mg/kg, Rosemary Extract 5mg/kg), Seaweed (0.5%), Glucosamine (0.1%), Chondroitin Sulphate (0.1%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0049/wainwrights-dry-mature-large-breed"
+    },
+    {
+      "product_key": "heights|farm_premium_pet_foods_large_breed_puppy_salmon__potato_country_classics|unknown",
+      "brand": "Heights",
+      "name": "Farm Premium Pet Foods Large Breed Puppy Salmon  Potato Country Classics",
+      "score": 0.5011627906976744,
+      "ingredients": "31% Chicken (Chicken Meal, Freshly Prepared Chicken, Chicken Fat), Dried Peas, Dried Potatoes, Sweet Potatoes, Beet Pulp, Full Fat Linseed, Lucerne, Dried Egg, Minerals, Salmon Oil, Yeast, Mannan and Fructo Oligosaccharides, Marine Algae, Yucca Schidigera, Blackcurrant, Rosehip, Pomegranate, Kale, Beetroot. Total 49% Vegetables.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1529/heights-farm-puppy-large-breed-extra-joint-care"
+    },
+    {
+      "product_key": "natures-menu|deli_adult_grain_free_chicken__duck|unknown",
+      "brand": "Nature's Menu",
+      "name": "Deli Adult Grain Free Chicken  Duck",
+      "score": 0.49999999999999994,
+      "ingredients": "Chicken (65%), Dried Peas (1.25%), Dried Sweet Potato (1%), Dried Carrot (1%), Dried Broccoli (1%), Minerals, Salmon Oil, Sunflower Oil, Omega 6 (0.79%), FOS, Couch Grass, Green Tea, Omega 3 (0.02%), Glucosamine (0.004%), Chondroitin (0.002%), Yucca Extract (0.002%), Cranberry Extract (0.002%), Yeast Extract (0.001%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2261/natures-harvest-grain-free-adult"
+    },
+    {
+      "product_key": "harringtons|grain_free_puppy_chicken_superfoods|unknown",
+      "brand": "Harrington's",
+      "name": "Grain Free Puppy Chicken Superfoods",
+      "score": 0.4996062992125984,
+      "ingredients": "Freshly Prepared Chicken (70%), Vegetables 14% (Potato, Peas, Carrot), Vitamins, Minerals, Salmon Oil (0.4%), Dried Tomato (0.15%), Seaweed (0.08%), Green Lipped Mussel (0.05%), Chicory (0.05%), Parsley (0.05%), Basil (0.05%), Green Tea (0.01%), Rosemary (0.01%), Rosehip (0.01%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2614/harringtons-grain-free-wet-puppy-trays"
+    },
+    {
+      "product_key": "brit|care_puppy_grain_free_salmon__potato|dry",
+      "brand": "Brit",
+      "name": "Care Puppy Grain Free Salmon  Potato",
+      "score": 0.4978260869565217,
+      "ingredients": "Salmon (55%) (Dehydrated Salmon, Hydrolysed Salmon), Potatoes (26%), Chicken Fat, Salmon Oil (3%), Dried Apple Pulp, Natural Flavour, Brewers Yeast, Hydrolysed Yeast (0.5%), Pea Flour, Glucosamine (300 mg/kg), Fructo-Oligosaccharides (230 mg/kg), Chondroitin Sulphate (230 mg/kg), Mannan-Oligosaccharides (180 mg/kg), Mojave Yucca (180 mg/kg), Milk Thistle Seed (110 mg/kg), Beta Glucans (60 mg/kg), Dried Sea Buckthorn (60 mg/kg), Probiotic Lactobacillus Helveticus Ha &Ndash; 122 Inactivated (15x109 Cells/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2997/brit-care-grain-free-puppy"
+    },
+    {
+      "product_key": "nourish|grain_free_salmon_with_trout_senior/light|unknown",
+      "brand": "Nourish",
+      "name": "Grain Free Salmon with Trout Senior/Light",
+      "score": 0.4978260869565217,
+      "ingredients": "Trout & Salmon 50% (Freshly Prepared Trout 30%, Dried Salmon 11%, Freshly Prepared Salmon 4%, Salmon Oil 3%, Salmon Stock 2%), Sweet Potato (24%), Potato, Peas (6%), Beet Pulp, Pea Protein, Linseed, Potato Protein, Minerals, Vitamins, Vegetable Stock, Asparagus (0.3%), Glucosamine (170 mg/kg), Methylsulfonylmethane (170 mg/kg), Chondroitin Sulphate (125 mg/kg), FOS (96 mg/kg), MOS (24 mg/kg)",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2545/nourish-grain-free-senior"
+    },
+    {
+      "product_key": "wainwrights|adult_large_breed_turkey__rice|dry",
+      "brand": "Wainwright's",
+      "name": "Adult Large Breed Turkey  Rice",
+      "score": 0.49655172413793097,
+      "ingredients": "Brown Rice (37%), Turkey 30% (Turkey Meat Meal, Turkey Gravy), Barley Meal (10%), Potato Protein (7%), Rapeseed Oil (7%), Linseed (4%), Sugar Beet Pulp (2%), Alfalfa (0.8%), Minerals, Seaweed (0.5%), Glucosamine (0.1%), Chondroitin Sulphate (0.1%), Yucca Extract 200mg/kg, Marigold Meal 50mg/kg, Rosemary Extract 5mg/kg.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0044/wainwrights-dry-adult-large-breed"
+    },
+    {
+      "product_key": "wainwrights|puppy_large_breed_turkey__rice|dry",
+      "brand": "Wainwright's",
+      "name": "Puppy Large Breed Turkey  Rice",
+      "score": 0.49655172413793097,
+      "ingredients": "Turkey 36% (Dried Turkey 31%, Freshly Prepared Turkey 5%), Brown Rice (26%), Whole Grain Barley (15%), Rapeseed Oil, Maize Protein, Beet Pulp (4.5%), Whole Ground Oats (4.5%), Linseed (2%), Seaweed (0.2%), Glucosamine (0.05%), Yucca Extract (0.02%), Chondroitin (0.015%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0050/wainwrights-dry-puppy-large-breed"
+    },
+    {
+      "product_key": "wainwrights|adult_grain_free_lamb__veg|dry",
+      "brand": "Wainwright's",
+      "name": "Adult Grain Free Lamb  Veg",
+      "score": 0.49414414414414415,
+      "ingredients": "Lamb 34% (Lamb Meal 24.5%, Freshly Prepared Lamb 5%, Lamb Fat 4.5%), Potato, Sweet Potato (20%), Potato Protein, Peas (5%), Minerals, Beet Pulp (2%), Linseed (2%), Dried Carrot (0.5%), Seaweed Meal (0.5%), Chicory Root Extract (0.1%), Dried Broccoli (0.05%), Dried Rosehip, Dried Parsley, Dried Thyme, Yucca Extract (0.02%), Dried Spearmint.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0875/wainwrights-dry-adult-grain-free"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_mature_adult_7+_medium_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Mature Adult 7+ Medium with Chicken",
+      "score": 0.4926470588235294,
+      "ingredients": "Chicken, Barley, Maize, Pork Liver, Whey Powder, Dried Beet Pulp, Vegetable Oil, Maize Gluten Meal, Digest, Minerals.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0419/hills-science-plan-mature-adult-7"
+    },
+    {
+      "product_key": "wainwrights|adult_grain_free_lamb__veg|dry",
+      "brand": "Wainwright's",
+      "name": "Adult Grain Free Lamb  Veg",
+      "score": 0.49159292035398233,
+      "ingredients": "Lamb (70%), Sweet Potato (4%), Dried Peas (2.5%), Dried Carrots (1%), Butternut Squash (1%), Minerals, Dried Alfalfa, Apple, Dried Seaweed (0.12%), Dried Herbs (Parsley, Rosemary, Fennel, Marigold Flowers), Flaxseed Oil (0.08%), Chicory Root Powder (0.05%), Yucca Extract (0.005%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0877/wainwrights-trays-adult-grain-free"
+    },
+    {
+      "product_key": "pro-plan|purina_pro_plan_all_sizes_adult_light/sterilised_with_fish|dry",
+      "brand": "Pro Plan",
+      "name": "PURINA PRO PLAN All Sizes Adult Light/Sterilised with Fish",
+      "score": 0.4911392405063291,
+      "ingredients": "Chicken (15%), Wheat, Dehydrated Poultry Protein, Maize, Rice (9%), Dried Beet Pulp, Soya Meal, Digest, Maize Gluten Meal, Maize Grits, Wheat Gluten Meal, Minerals, Fish Oil, Animal Fat, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0154/pro-plan-all-size-adult-light--sterilised-optiweight"
+    },
+    {
+      "product_key": "wainwrights|grain_free_mature_turkey__vegetables|dry",
+      "brand": "Wainwright's",
+      "name": "Grain Free Mature Turkey  Vegetables",
+      "score": 0.48934426229508193,
+      "ingredients": "Turkey 33% (Turkey Meal 24.5%, Freshly Prepared Turkey 5%, Turkey Fat 3.5%), Sweet Potato (33%), Potato, Peas (5%), Beet Pulp (4%), Potato Protein, Minerals, Linseed (2%), Dried Carrot (0.5%), Seaweed Meal (0.5%), Chicory Root Extract (0.1%), Dried Broccoli (0.05%), Dried Rosehip, Dried Parsley, Dried Thyme, Yucca Extract (0.02%), Glucosamine (0.02%), Chondroitin (0.015%), Dried Spearmint.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1036/wainwrights-dry-grain-free-mature"
+    },
+    {
+      "product_key": "wainwrights|puppy_grain_free_turkey__veg|dry",
+      "brand": "Wainwright's",
+      "name": "Puppy Grain Free Turkey  Veg",
+      "score": 0.4891304347826087,
+      "ingredients": "Turkey Meat Meal (26%), Sweet Potato (20%), Potato (14.8%), Rapeseed Oil (8.2%), Pea Protein (10%), Pea Starch (4%), Beet Pulp (4%), Linseed (3%), Alfalfa (2%), Turkey Digest (2%), Minerals, Yeasts (1%), Carrot (1%), Tomato Powder (0.5%), Seaweed Meal (0.5%), Herbs (Marjoram 167 mg/kg, Oregano 167mg/kg, Sage 167 mg/kg, Parsley 167 mg/kg, Rosemary 167 mg/kg), Yucca (200 mg/kg), Cranberry (100 mg/kg), Marigold (50 mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1039/wainwrights-trays-puppy-grain-free"
+    },
+    {
+      "product_key": "natures-menu|deli_puppy_junior_grain_free_duck|unknown",
+      "brand": "Nature's Menu",
+      "name": "Deli Puppy Junior Grain Free Duck",
+      "score": 0.48821138211382115,
+      "ingredients": "Duck 35.2% (Duck Meal 22.2%, Duck 11.1%, Duck Gravy 1.9%), Dried Sweet Potato (28%), Duck Fat, Pea Protein, Dried Peas (5.6%), Dried Beet Pulp, Dried Chick Peas (2.8%), Brewers Yeast, Dried Pumpkin (1.9%), Minerals, Linseed Oil, Vegetable Stock, Dried Carrot (0.5%), Yeast (0.23%), Chicory Root Extract (0.23%), Dried Ginger, Dried Rosemary, Yucca Schidigera (0.023%), Glucosamine (0.012%), Dried Ginger, Dried Rosemary, Yucca Schidigera (0.023%), Glucosamine (0.012%), Dried Cranberry, Dried Dandelion Root, Dried Pomegranate, Chondroitin Sulphate (0.005%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2680/natures-deli-grain-free-puppy-junior"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_grain-free_large_breed_puppy_with_salmon|dry",
+      "brand": "Eukanuba",
+      "name": "Grain-Free Large Breed Puppy with Salmon",
+      "score": 0.4863636363636364,
+      "ingredients": "Dried Chicken and Turkey, Pea Flour, Potato Flour, Animal Fat, Freshly Frozen Atlantic Salmon (9.5%), Ocean Fish Meal (4%), Beet Pulp Flour (3.2%), Minerals, Fish Gravy (2%), Brewer's Dried Yeast, Dried Apple Pulp (0.5%), Dried Carrots (0.5%), Dried Green Peas (0.4%), FOS (0.28%), Dried Spinach (0.2%), Dried Tomatoes (0.2%), Fish Oil, Linseed.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1733/eukanuba-natureplus-grain-free-puppy-and-junior"
+    },
+    {
+      "product_key": "carnilove|true_fresh_chicken_senior__healthy_weight|unknown",
+      "brand": "Carnilove",
+      "name": "True Fresh Chicken Senior  Healthy Weight",
+      "score": 0.4852941176470588,
+      "ingredients": "Fresh Chicken (60%), Buckwheat (14%), Dried Apples, Lignocellulose, Red Lentils (4%), Chickpeas, Pumpkin, Salmon Oil (2%), Natural Flavours, Chicken Fat, Carrots, Psyllium Husk & Seeds (0.5%), Lemna Protein (0.5%), Dried Eggshells (0.4%), Spirulina (0.3%), Dried Sea Buckthorn (0.2%), Dried Ginger Root (0.1%), Dried Blueberries (0.1%), Dried Rosemary (0.1%), Dried Cranberries (0.1%), Dried Thyme (0.1%), Glucosamine (0.03%), Green-Lipped MusselS (0.025%), Chondroitin Sulfate (0.023%), Brewer's Yeast (0.017%), Chicory Root (0.015%), Mojave Yucca (0.011%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2665/carnilove-true-fresh-senior-and-healthy-weight"
+    },
+    {
+      "product_key": "gelert|country_choice_performance_chicken__rice_adult|unknown",
+      "brand": "Gelert",
+      "name": "Country Choice Performance Chicken  Rice Adult",
+      "score": 0.48188405797101447,
+      "ingredients": "Chicken Meat Meal (30%), White Rice (26%), Barley, Poultry Fat (8%), Sugar Beet Pulp (8%), Fresh Chicken (6%), Potato Starch, Dried Brewer's Yeast (2.5%), Linseed (2.5%), Chicken Liver Digest (1.1%), Minerals, Seaweed Meal, Prebiotic MOS (Mannan-Oligosaccharide), Yucca Extract (500 mg/kg), Glucosamine (400 mg/kg), Chondroitin (285 mg/kg), Cranberry (100 mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1353/gelert-country-choice-performance-adult"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_adult_1-6_small_&_mini_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Adult 1-6 Small & Mini with Chicken",
+      "score": 0.4807692307692308,
+      "ingredients": "Maize, Chicken and Turkey Meal, Pea Bran Meal, Maize Gluten Meal, Digest, Cellulose, Animal Fat, Dried Beet Pulp, Vegetable Oil, Minerals, Flaxseed.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0423/hills-science-plan-adult-1-6-light-medium"
+    },
+    {
+      "product_key": "natures-menu|way_grain_free_puppy__small_dog|unknown",
+      "brand": "Nature's Menu",
+      "name": "Way Grain Free Puppy  Small Dog",
+      "score": 0.48032786885245904,
+      "ingredients": "Turkey (71%), Dried Sweet Potato (1%), Dried Carrot (0.5%), Dried Peas (0.3%), Minerals, Dried Broccoli (0.2%), Dried Mixed Herbs, Sunflower Oil (0.1%), Prebiotic Mannan-Oligosaccharides (0.1%), Chicory Root Extract (0.1%), Dried Seaweed (0.06%), Yucca Extract (0.02%), Cranberry Extract (0.02%), Yeast Extract (0.01%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2706/natures-deli-grain-free-puppy-wet-food"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_adult_1-6_small_&_mini_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Adult 1-6 Small & Mini with Chicken",
+      "score": 0.4785714285714286,
+      "ingredients": "Corn, Poultry Meal (min. Chicken 35%), Animal Fats, Beet Pulp, Digest, Vegetable Oil, Dried Whole Egg, Potassium Chloride, Sodium Chloride.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0426/hills-science-plan-adult-1-performance"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_grain-free_large_breed_adult_with_salmon|dry",
+      "brand": "Eukanuba",
+      "name": "Grain-Free Large Breed Adult with Salmon",
+      "score": 0.47800000000000004,
+      "ingredients": "Dried Chicken and Turkey, Pea Flour, Potato Flour, Freshly Frozen Atlantic Salmon (10%), Animal Fat, Beet Pulp Flour (3.4%), Fish Gravy (2%), Ocean Fish Meal (2%), Minerals (Including Sodium Hexametaphosphate), Dried Apple Pulp (0.5%), Dried Carrots (0.5%), Dried Green Peas (0.4%), Brewer's Dried Yeast, Fructooligosaccharides (0.28%), Dried Spinach (0.2%), Dried Tomatoes (0.2%), Linseed.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1734/eukanuba-natureplus-grain-free-adult"
+    },
+    {
+      "product_key": "autarky|autarky_tantalising_turkey_&_potato_grain_free|dry",
+      "brand": "Autarky",
+      "name": "Tantalising Turkey & Potato Grain Free",
+      "score": 0.47796610169491527,
+      "ingredients": "Freshly Prepared Chicken (66%), Potato Meal (5%), Dried Peas (0.9%), Dried Carrots (0.4%), Dried Potato (0.5%), Minerals, Dried Broccoli, Dried Tomato, Dried Apple, Rosemary (0.1%), Parsley (0.1%), Oregano (0.1%), Thyme (0.1%), Fish Oil, Sunflower Oil, Dried Seaweed, FOS, Glucosamine (0.004%), Chondroitin (0.002%), Cranberry, Yucca Extract, Yeast Extract.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2479/autarky-adult-grain-free-wet"
+    },
+    {
+      "product_key": "autarky|autarky_tantalising_turkey_&_potato_grain_free|dry",
+      "brand": "Autarky",
+      "name": "Tantalising Turkey & Potato Grain Free",
+      "score": 0.47796610169491527,
+      "ingredients": "Fish (min 25% White Fish Meal, 8% Freshly Prepared Fish), Potato (min 24%), Pea Starch, Sweet Potato, Rapeseed Oil, Fish Oil, Unmolassed Beet Pulp, Peas, Yeast (0.1%), Alfalfa, Seaweed, Carrots, Minerals, Milk Thistle, Parsley, Marine Algae, Glucosamine, Nettle, Marigold, Olive Extract, Mint, Green Lipped Mussel, Yucca Schidigera, Fenugreek, Blackcurrant, Thyme, Oregano, Carob Pod Meal, Aniseed, Pomegranate, Turmeric, Dandelion, Ginger, Rosemary.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1633/autarky-adult-grain-free-dry"
+    },
+    {
+      "product_key": "harringtons|grain_free_puppy_chicken_superfoods|unknown",
+      "brand": "Harrington's",
+      "name": "Grain Free Puppy Chicken Superfoods",
+      "score": 0.47598425196850397,
+      "ingredients": "35% Chicken (26% Dried Chicken, 5% Chicken Fat, min 4% Freshly Prepared Chicken), Sweet Potato (26%), Potato, Peas, Beans (8%), Linseed (4%), Beet Pulp (4%), Salmon Oil (2%), Minerals, Rosemary, Spinach, Pomegranate, Blueberries (1500mg/kg), FOS (1000mg/kg), Yeasts (1000mg/kg), Seaweed (1000mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/3312/harringtons-superfood-grain-free-puppy"
+    },
+    {
+      "product_key": "natures-menu|deli_senior_grain_free_duck__sweet_potato|unknown",
+      "brand": "Nature's Menu",
+      "name": "Deli Senior Grain Free Duck  Sweet Potato",
+      "score": 0.47293233082706765,
+      "ingredients": "Beef (40%), Chicken (31%), Dried Sweet Potato (1%), Dried Carrot (0.5%), Dried Peas (0.3%), Minerals, Dried Broccoli (0.2%), Dried Mixed Herbs, Sunflower Oil (0.1%), Prebiotic Mannan-Oligosaccharides (0.1%), Chicory Root Extract (0.1%), Dried Seaweed (0.06%), Glucosamine (0.04%), Chondroitin (0.02%), Yucca Extract (0.02%), Cranberry Extract (0.02%), Methylsulfonylmethane (0.02%), Yeast Extract (0.01%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2704/natures-deli-grain-free-senior-wet-food"
+    },
+    {
+      "product_key": "hill's_science_plan|hill's_science_plan_adult_1-5_light_large_breed_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Adult 1-5 Light Large Breed with Chicken",
+      "score": 0.47195121951219515,
+      "ingredients": "Maize, Wheat, Chicken and Turkey Meal, Soybean Meal, Animal Fat, Digest, Maize Gluten Meal, Vegetable Oil, Dried Beet Pulp, Minerals, Flaxseed, Pork Cartilage, Crustacean Shell Hydrolysate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2179/hills-science-plan-adult-1-5-large"
+    },
+    {
+      "product_key": "cooper|co_grain_free_vitality|unknown",
+      "brand": "Cooper",
+      "name": "Co Grain Free Vitality",
+      "score": 0.4666666666666667,
+      "ingredients": "50.5% Turkey (Freshly Prepared Turkey 27.5%, Dried Turkey 17%, Turkey Fat 4.5%, Turkey Gravy 1.5%), Sweet Potato (25%), Lentils, Pea Protein, Beet Pulp, Salmon Oil (1%), Brewers Yeast, Minerals, Dried Carrot, Chondroitin Sulphate (0.04%), Glucosamine (0.04%), Fructo-Oligosaccharides, Mannan-Oligosaccharides.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/3381/cooper-and-co-grain-free-adult"
+    },
+    {
+      "product_key": "wainwrights|proper_tasty_grain_free_adult_salmon__potato|unknown",
+      "brand": "Wainwright's",
+      "name": "Proper Tasty Grain Free Adult Salmon  Potato",
+      "score": 0.4664179104477612,
+      "ingredients": "Salmon (76%), Potato Powder (4%), Minerals, Dried Seaweed (0.46%), Chicory Root Powder (0.06%), Yucca Extract (0.005%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1037/wainwrights-trays-adult-salmon-and-potato"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_puppy_<1_medium_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Puppy <1 Medium with Chicken",
+      "score": 0.4631147540983606,
+      "ingredients": "Chicken, Maize, Barley, Soybean Meal, Pork Liver, Minerals, Fish Oil.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0138/hills-science-plan-puppy-1"
+    },
+    {
+      "product_key": "brit|brit_care_dog_hypoallergenic_puppy_lamb_&_rice|dry",
+      "brand": "Brit",
+      "name": "Care Dog Hypoallergenic Puppy Lamb & Rice",
+      "score": 0.4613821138211382,
+      "ingredients": "Dehydrated Lamb (46%), Rice (30%), Chicken Fat, Salmon Oil (3%), Brewers Yeast, Natural Flavour, Dried Apple Pulp, Hydrolysed Yeast (0.5%), Pea Flour, Glucosamine (300 mg/kg), Fructo-Oligosaccharides (230 mg/kg), Chondroitin Sulphate (230 mg/kg), Mannan-Oligosaccharides (180 mg/kg), Mojave Yucca (180 mg/kg), Milk Thistle Seed (110 mg/kg), Beta-Glucans, Dried Sea Buckthorn (60mg/kg), Probiotic Lactobacillus Helveticus.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2995/brit-care-hypoallergenic-puppy"
+    },
+    {
+      "product_key": "royal-canin|canin_x_small_adult_8|unknown",
+      "brand": "Royal Canin",
+      "name": "X Small Adult 8",
+      "score": 0.45625000000000004,
+      "ingredients": "Rice, Maize Flour, Dehydrated Poultry Protein, Animal Fats, Maize, Maize Gluten, Hydrolysed Animal Proteins, Vegetable Protein Isolate, Chicory Pulp, Minerals, Soya Oil, Fish Oil, Yeasts and Parts Thereof, Psyllium Husks and Seeds (1%), Fructo-Oligo-Saccharides, Borage Oil, Marigold Extract, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0389/royal-canin-x-small-adult-8"
+    },
+    {
+      "product_key": "gelert|country_choice_maintenance_chicken__rice|unknown",
+      "brand": "Gelert",
+      "name": "Country Choice Maintenance Chicken  Rice",
+      "score": 0.45454545454545453,
+      "ingredients": "White Rice (30%), Chicken Meat Meal (20%), Maize, Barley, Dried Maize Protein (5%), Dried Brewer's Yeast, Chicken Fat (5%), Flaxseed Oil (1.5%), Chicken Digest (1%), Minerals, Prebiotic MOS (Mannan-Oligosaccharide), Glucosamine (175 mg/kg), Chondroitin (125 mg/kg), Yucca Extract (500 mg/kg), Cranberry (100 mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0380/gelert-country-choice-maintenance-adult"
+    },
+    {
+      "product_key": "canine|choice_small_adult_salmon|unknown",
+      "brand": "Canine",
+      "name": "Choice Small Adult Salmon",
+      "score": 0.4538461538461539,
+      "ingredients": "Fresh Chicken (36%), Dehydrated Chicken (19.5%), Sweet Potato (18%), Peas (7%), Hydrolyzed Chicken Liver (5%), Apple Pulp (4%), Dehydrated Carrot (0.32% Equivalent To 3% of Carrots), Dehydrated Cranberries (0.08% Equivalent To 0.75% Cranberries), Chicken Fat, Brewer's Yeast, Fish Oil, Minerals, Chicory (Source of FOS), Mannan-Oligosaccharides (MOS), Camomile, Parsley, Rosehips, Sea Algae, Rosemary, Cloves, Cartilage (a Source of Chondroitin 200 mg/kg), Glucosamine (300 mg/kg), Yucca Schidigera.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1807/canine-choice-adult-small"
+    },
+    {
+      "product_key": "carnilove|salmon__turkey_large_breed_puppy|unknown",
+      "brand": "Carnilove",
+      "name": "Salmon  Turkey Large Breed Puppy",
+      "score": 0.45384615384615384,
+      "ingredients": "Salmon Meal (25%), Turkey Meal (20%), Yellow Peas (19%), Chicken Fat (10%), Salmon Deboned (5%), Chicken Protein Hydrolyzed (5%), Tapioca Starch (5%), Chicken Liver (3%), Apples (2%), Salmon Oil (2%), Carrots (1%), Flaxseed (1%), Chickpeas (1%), Hydrolyzed Crustacean Shells (0.031%), Cartilage Extract (0.019%), Brewer's Yeast (0.018%), Chicory Root (0.012%), Yucca Schidigera (0.011%), Algae (0.01%), Psyllium (0.01%), Thyme (0.01%), Rosemary (0.01%), Oregano (0.01%), Cranberries (0.0008%), Blueberries (0.0008%), Raspberries (0.0008%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1509/carnilove-dry-puppy"
+    },
+    {
+      "product_key": "wainwrights|nutritious_insects_with_superfoods_adult|dry",
+      "brand": "Wainwright's",
+      "name": "Nutritious Insects with Superfoods Adult",
+      "score": 0.45,
+      "ingredients": "Insect 33% (Insect Meal 26%, Insect Oil 7%), Sweet Potato (30%), Potato, Potato Protein, Vegetable Stock, Minerals, Dried Carrot, Alfalfa, Beet Pulp (0.5%), Linseed (0.5%), Seaweed Meal (0.5%), Chicory Root Extract (0.1%), Dried Spinach (0.05%), Dried Blueberry (0.05%, Dried Nettle, Dried Parsley, Dried Rosemary, Yucca Extract (0.02%), Glucosamine (0.02%), Chondroitin (0.015%), Turmeric, Dried Spearmint.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2564/wainwrights-nutritious-insects-with-superfoods-dry-adult"
+    },
+    {
+      "product_key": "james-wellbeloved|wellbeloved_lamb__rice_small_breed_adult|dry",
+      "brand": "James Wellbeloved",
+      "name": "Lamb  Rice Small Breed Adult",
+      "score": 0.44999999999999996,
+      "ingredients": "Turkey Meal 27.5%, White Rice 21%, Naked Oats, Brown Rice 11.2%, Turkey Fat 5%, Sugar Beet Pulp, Whole Linseed, Turkey Gravy 2.9%, Kale 2%, Quinoa 2%, Alfalfa Meal, Tomato Pomace, Carrots, Dried Vegetable Stock, Seaweed, Sodium Chloride, Fish Oil, Potassium Chloride, Chicory Extract 0.1%, Calcium Carbonate, Cranberry Extract, Yucca Extract 0.02%.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/3726/james-wellbeloved-small-adult-superfood"
+    },
+    {
+      "product_key": "royal-canin|royal_canin_veterinary_dog_-_gastrointestinal_puppy|dry",
+      "brand": "Royal Canin",
+      "name": "Veterinary Dog - Gastrointestinal Puppy",
+      "score": 0.4482269503546099,
+      "ingredients": "Rice, Dehydrated Poultry Protein, Animal Fats, Maize, Dehydrated Pork Protein, Wheat Gluten, Beet Pulp, Hydrolysed Animal Proteins, Minerals, Egg Powder, Soya Oil, Fish Oil, Yeasts Products, Psyllium Husks and Seeds, Fructo-Oligosaccharides (0.5%), Hydrolysed Yeast, Marigold Extract, Preservatives.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2499/royal-canin-veterinary-diet-gastrointestinal-puppy"
+    },
+    {
+      "product_key": "vetspec|working_dog_puppy__junior_formula|unknown",
+      "brand": "Vetspec",
+      "name": "Working Dog Puppy  Junior Formula",
+      "score": 0.4456140350877193,
+      "ingredients": "Chicken (26.2%), Chicken Meat Meal (26.2%), Potato (24.2%), Chicken Fat (6.2%), Peas (4.6%), Whole Linseeds, Sugar Beet Pulp, Chicken Digest as Gravy (1.6%), Fish Oil, Calcium Carbonate, Sodium Chloride, Culinary Herbs Blend (Dried Seaweed 0.2%, Chicory Extract 0.31%, Yeast Extract 0.08%, Alfalfa, Yucca Extract, Rosemary, Fennel, Basil, Thyme, Oregano, Parsley, Aniseed), Taurine, Dl-Methionine, Lysine Hcl.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2117/vetspec-puppy-and-junior-formula"
+    },
+    {
+      "product_key": "carnilove|salmon__turkey_large_breed_puppy|unknown",
+      "brand": "Carnilove",
+      "name": "Salmon  Turkey Large Breed Puppy",
+      "score": 0.4442307692307692,
+      "ingredients": "Turkey (47%), Salmon (20%), Blueberries (2%), Cranberries (2%), Raspberries (2%), Minerals (1%), Salmon Oil (0.3%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1513/carnilove-wet-puppy"
+    },
+    {
+      "product_key": "wilsons|cold_pressed_puppy_chicken__salmon|unknown",
+      "brand": "Wilsons",
+      "name": "Cold Pressed Puppy Chicken  Salmon",
+      "score": 0.44414414414414416,
+      "ingredients": "Chicken (Meat 29%, Heart 10%, Liver 10%), Cod (16%), Sweet Potato (12%), Carrot (6%), Quinoa (6%), Peas (5%), Spinach (2%), Salmon Oil (2%), Egg Shells (1%), Seaweed (0.5%), Minerals (1%), Chicory (0.16%), Dl Methionine (0.025%), Mannanoligosaccharides (0.025%), Inulin (0.025%), Glucosamine (0.02%), Chondroitin Sulphate (0.015%), Yucca Schidigera (0.012%), Rosemary and Tocopherol Extracts (0.012%), Selenium Yeast (0.01%), Thyme (0.005%), Carnitine (0.0025%), Cranberry (0.0025%), Dandelion Root (0.0025%), Marigold Yellow (0.0025%), Ginger (0.0025%), Turmeric (0.0025%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/4486/wilsons-puppy-fresh-food"
+    },
+    {
+      "product_key": "royal-canin|royal_canin_x-small_adult|dry",
+      "brand": "Royal Canin",
+      "name": "X-Small Adult",
+      "score": 0.44130434782608696,
+      "ingredients": "Rice, Dehydrated Poultry Meat, Maize, Animal Fats, Maize Flour, Maize Gluten, Hydrolysed Animal Proteins, Vegetable Protein Isolate, Chicory Pulp, Minerals, Soya Oil, Psyllium Husks and Seeds (1%), Yeasts, Fish Oil, Fructo-Oligosaccharides, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0387/royal-canin-x-small-adult"
+    },
+    {
+      "product_key": "natures-menu|deli_senior_grain_free_duck__sweet_potato|unknown",
+      "brand": "Nature's Menu",
+      "name": "Deli Senior Grain Free Duck  Sweet Potato",
+      "score": 0.43821138211382116,
+      "ingredients": "60% Chicken (Chicken 31%, Dried Chicken 24%, Chicken Fat 3%, Chicken Liver 2%), Sweet Potato (19%), Potato (13%), Beet Fibre, Linseed, Sunflower Oil, Salmon Oil, Minerals, Vitamins, Glucosamine (1.4%), MSM (1.4%), Chondroitin (1%), Taurine (1%), Yucca Schidigera Extract, Mixed Herbs (Thyme, Marjoram, Sage, Basil, Parsley, Oregano), L-Carnitine, Prebiotic MOS, Prebiotic FOS.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2371/natures-way-grain-free-mature"
+    },
+    {
+      "product_key": "farmina|natural__delicious_spirulina_adult_mini|unknown",
+      "brand": "Farmina",
+      "name": "Natural  Delicious Spirulina Adult Mini",
+      "score": 0.4361111111111111,
+      "ingredients": "Fresh Boneless Chicken (20%), Dehydrated Chicken Meat (18%), Spelt (10%), Oats (10%), Chicken Fat, Dehydrated Whole Eggs, Fresh Herring, Dehydrated Herring, Dried Beet Pulp, Fish Oil, Fibre Vegetable of Peas, Dried Carrots, Dried Alfalfa, Inulin, Fructooligosaccharides, Mannan-Oligosaccharides, Pomegranate Powder (0.5%), Dehydrated Apple, Spinach Powder, Psyllium (0.3%), Powdered Blackcurrant, Dehydrated Sweet Orange, Powdered Blueberries, Sodium Chloride, Dried Brewer's Yeast, Turmeric Root (0.2%), Glucosamine, Chondroitin Sulphate, Marigold Extract (Source of Lutein).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1536/farmina-natural-and-delicious-ancestral-grain-adult-mini"
+    },
+    {
+      "product_key": "virbac|senior_medium__large_breed|unknown",
+      "brand": "Virbac",
+      "name": "Senior Medium  Large Breed",
+      "score": 0.4353383458646617,
+      "ingredients": "Dehydrated Pork and Poultry Protein, Rice (min 7%), Field Bean Hulls, Hydrolysed Animal Protein, Whole Pea, Lignocellulose, Potato Starch (min. 4%), Animal Fat, Mineral Salts, Fish Oil, Linseed, Beet Pulp, Fructo-Oligosaccharides, Psyllium Fibre, Pasteurised Lactobacillus Acidophilus, Chondroitin Sulphate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2141/virbac-veterinary-hpm-senior-neutered-dog-large-and-medium"
+    },
+    {
+      "product_key": "hill's_science_plan|hill\u2019s_science_plan_adult_1-6_small_&_mini_with_chicken|dry",
+      "brand": "Hill's Science Plan",
+      "name": "Hill\u2019s Science Plan Adult 1-6 Small & Mini with Chicken",
+      "score": 0.43529411764705883,
+      "ingredients": "Pork, Maize, Soybean Mill, Pea Protein, Maize Gluten Meal, Cellulose, Digest, Vegetable Oil, Minerals, Coloured with Ferrous Oxide.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0418/hills-science-plan-adult-1-6-light"
+    },
+    {
+      "product_key": "carnilove|salmon_&_turkey_for_large_breed_adult|dry",
+      "brand": "Carnilove",
+      "name": "Salmon & Turkey for Large Breed Adult",
+      "score": 0.43513513513513513,
+      "ingredients": "Fresh Turkey (60%), Peas, Chicken Fat, Chickpeas, Dried Apples, Red Lentils (4%), Pumpkin, Natural Flavours, Salmon Oil (2%), Carrots, Dried Eggs Shells, Lemna Protein (0.5%), Spirulina (0.3%), Dried Sea Buckthorn (0.2%), Dried Ginger Root (0.1%), Dried Blueberries (0.1%), Dried Rosemary (0.1%), Dried Cranberries (0.1%), Dried Thyme (0.1%), Glucosamine (0.026%), Green Lipped Mussels (0.025%), Chondroitin Sulfate (0.016%), Brewers Yeast (Mannanoligosaccharides 0.015%), Chicory Root (Fructooligosaccharides 0.01%), Mojave Yucca (0.01%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2642/carnilove-true-fresh-adult"
+    },
+    {
+      "product_key": "wainwrights|proper_tasty_grain_free_senior_chicken__potato|unknown",
+      "brand": "Wainwright's",
+      "name": "Proper Tasty Grain Free Senior Chicken  Potato",
+      "score": 0.4343283582089552,
+      "ingredients": "Turkey (72%), Peas (5%), Carrots (2%), Sweet Potato, Seaweed, Vitamins, Minerals, Alfalfa, Flaxseed, Chicory Root, Yucca, Parsley, Rosemary, Garlic, Glucosamine (0.1%), Chondroitin 0.1%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1038/wainwrights-trays-mature-grain-free"
+    },
+    {
+      "product_key": "harringtons|adult_large_breed_rich_in_chicken__rice|unknown",
+      "brand": "Harrington's",
+      "name": "Adult Large Breed Rich in Chicken  Rice",
+      "score": 0.432089552238806,
+      "ingredients": "Chicken 30% (26% Dried Chicken, 4% Freshly Prepared Chicken), Maize, Barley, Rice (14%), Chicken Fat, Linseed, Beet Pulp, Salmon Oil, Hydrolysed Poultry Protein, Minerals, Yeasts (0.1%), Dried Chicory (1000mg/kg), MOS (1000mg/kg), Glucosamine (500mg/kg), Yucca Extract (150mg/kg), Chondroitin Sulphate (100mg/kg), Pomegranate Extract (100mg/kg)",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2560/harringtons-advanced-science-diet-large-adult"
+    },
+    {
+      "product_key": "europa|60/40_grain_free_large_breed_puppy,_salmon__sweet_potato|unknown",
+      "brand": "Europa",
+      "name": "60/40 Grain Free Large Breed Puppy, Salmon  Sweet Potato",
+      "score": 0.4318181818181818,
+      "ingredients": "Salmon and Trout 50% (Freshly Prepared Salmon & Freshly Prepared Trout 33%, Dried Salmon 15%, Salmon Stock 2%), Sweet Potato (24%), Peas (9%), Potato, Beet Pulp, Linseed, Omega 3 Supplement, Minerals, Vitamins, Vegetable Stock, Asparagus (0.3%), Glucosamine (170 mg/kg), Methylsulfonylmethane (170 mg/kg), Chondroitin Sulphate (125 mg/kg), FOS (96 mg/kg), MOS (24 mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1971/europa-50-50-grain-free-large-breed"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_premium_nutrition_adult_small_breed_chicken|dry",
+      "brand": "Eukanuba",
+      "name": "Premium Nutrition Adult Small Breed Chicken",
+      "score": 0.43032786885245905,
+      "ingredients": "Dried Chicken and Turkey, Salmon (14%), Rice (14%), Maize, Sorghum, Barley, Dried Whole Egg, Dried Beet Pulp (2.6%), Maize Oil, Hydrolysed Animal Proteins (from Chicken), Animal Fat (from Chicken and Pork), Potassium Chloride, Sodium Chloride, Sodium Hexametaphosphate, Fructooligosaccharides (0.26%), Calcium Carbonate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1626/eukanuba-adult-all-breeds"
+    },
+    {
+      "product_key": "concept|for_life_large_light|unknown",
+      "brand": "Concept",
+      "name": "for Life Large Light",
+      "score": 0.43000000000000005,
+      "ingredients": "23% Poultry Protein (Rich in Chicken, Partly Dried and Hydrolysed), 20% Fresh Chicken Meat, Rice, Maize, Poultry Fat, Dried Beet Pulp (Desugared), Maize Protein, Linseed, Lignocellulose, Monocalcium Phosphate, Sodium Chloride, Brewer's Yeast (Dried), Egg (Dried), 0.3% Salmon Oil, 0.3% Sunflower Oil, 0.1% Chicory Inulin, 0.04% Glucosamine, 0.02% Chondroitin Sulphate, Antioxidants.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1699/concept-for-life-large-breed-adult"
+    },
+    {
+      "product_key": "webbox|naturals_adult_salmon_pate|unknown",
+      "brand": "Webbox",
+      "name": "Naturals Adult Salmon Pate",
+      "score": 0.42924528301886794,
+      "ingredients": "Meat and Animal Derivatives, Fish and Fish Derivatives (Salmon 5%), Minerals, Various Sugars.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1647/webbox-naturals-adult-pate"
+    },
+    {
+      "product_key": "canagan|petite_free_range_chicken__scottish_salmon|unknown",
+      "brand": "Canagan",
+      "name": "Petite Free Range Chicken  Scottish Salmon",
+      "score": 0.4287878787878788,
+      "ingredients": "Freshly Prepared Free Range Chicken (26%), Dried Chicken (24.5%), Sweet Potato, Peas, Potato, Chicken Fat (4%), Alfalfa, Dried Egg (3%), Chicken Gravy (1.5%), Salmon Oil (1%), Minerals, Glucosamine (1700 mg/kg), MSM (1700 mg/kg), Chondroitin Sulphate (1200 mg/kg), Apple, Carrot, Spinach, Psyllium, Seaweed, Fructo-Oligosaccharides, Camomile, Peppermint, Marigold, Cranberry, Aniseed, Fenugreek",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2885/canagan-large-breed-dry-puppies-adult"
+    },
+    {
+      "product_key": "farmina|natural__delicious_spirulina_adult_mini|unknown",
+      "brand": "Farmina",
+      "name": "Natural  Delicious Spirulina Adult Mini",
+      "score": 0.4237762237762238,
+      "ingredients": "Fresh Boneless Chicken (24%), Dehydrated Chicken Meat (22%), Pea Starch (20%), Chicken Fat, Dehydrated Pumpkin (5%), Dehydrated Whole Eggs, Fresh Herring, Dehydrated Herring, Fish Oil, Pea Vegetable Fibre, Dried Carrots, Dried Alfalfa, Inulin, Fructooligosaccharides, Mannanoligosaccharides, Pomegranate Powder (0.5%), Dehydrated Apple, Spinach Powder, Psyllium (0.3%), Powdered Blackcurrant, Dehydrated Sweet Orange, Powdered Blueberries, Sodium Chloride, Dried Brewer's Yeast, Turmeric Root (0.2%), Glucosamine, Chondroitin Sulphate, Marigold Extract (Source of Lutein).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1631/farmina-natural-and-delicious-pumpkin-adult-medium-and-maxi"
+    },
+    {
+      "product_key": "wilko|natures_best_rich_chicken_and_veg_puppy|unknown",
+      "brand": "Wilko",
+      "name": "Natures Best Rich Chicken and Veg Puppy",
+      "score": 0.42094017094017094,
+      "ingredients": "Cereals (Wholegrain Barley 30%, Wholegrain Wheat 15%), Meat and Animal Derivatives (Chicken 14%), Derivatives of Vegetable Origin (Chicory Extract 0.1%), Vegetables (Peas 5%), Minerals, Oils and Fats (Poultry Fat 3%), Fish and Fish Derivatives, Yeasts (Brewers Yeast 0.5%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2723/wilko-natures-best-dry-puppy"
+    },
+    {
+      "product_key": "farmina|natural__delicious_spirulina_adult_mini|unknown",
+      "brand": "Farmina",
+      "name": "Natural  Delicious Spirulina Adult Mini",
+      "score": 0.4191780821917808,
+      "ingredients": "Fresh Boneless Chicken (20%), Dehydrated Chicken Meat (18%), Spelt (10%), Oats (10%), Chicken Fat, Dehydrated Whole Eggs, Fresh Herring, Dehydrated Herring, Dried Beet Pulp, Fish Oil, Fibre Vegetable of Peas, Dried Carrots, Dried Alfalfa, Inulin, Fructooligosaccharides, Mannanoligosaccharides, Pomegranate Powder (0.5%), Dehydrated Apple, Spinach Powder, Psyllium (0.3%), Powdered Blackcurrant, Dehydrated Sweet Orange, Powdered Blueberries, Sodium Chloride, Dried Brewer's Yeast, Turmeric Root (0.2%), Glucosamine, Chondroitin Sulphate, Marigold Extract (Source of Lutein).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1537/farmina-natural-and-delicious-ancestral-grain-adult-medium"
+    },
+    {
+      "product_key": "farmina|natural__delicious_spirulina_adult_mini|unknown",
+      "brand": "Farmina",
+      "name": "Natural  Delicious Spirulina Adult Mini",
+      "score": 0.41875,
+      "ingredients": "Fresh Boneless Chicken (26%), Dehydrated Chicken Meat (25%), Potatoes, Chicken Fat, Dehydrated Whole Eggs, Fresh Herring, Dehydrated Herring, Fish Oil, Fibre Vegetable of Peas, Dried Carrots, Dried Alfalfa, Inulin, Fructooligosaccharides, Mannanoligosaccharides, Pomegranate Powder (0.5%), Dehydrated Apple, Spinach Powder, Psyllium (0.3%), Powdered Blackcurrant, Dehydrated Sweet Orange, Powdered Blueberries, Sodium Chloride, Dried Brewer's Yeast, Turmeric Root (0.2%), Glucosamine, Chondroitin Sulphate, Marigold Extract (Source of Lutein).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1526/farmina-natural-and-delicious-adult-mini"
+    },
+    {
+      "product_key": "nourish|grain_free_large_breed_salmon_with_sweet_potato|unknown",
+      "brand": "Nourish",
+      "name": "Grain Free Large Breed Salmon with Sweet Potato",
+      "score": 0.4166666666666667,
+      "ingredients": "Salmon and Trout 50% (Freshly Prepared Salmon & Freshly Prepared Trout 33%, Dried Salmon 15%, Salmon Stock 2%), Sweet Potato (24%), Peas (9%), Potato, Beet Pulp, Linseed, Omega 3 Supplement, Minerals, Vitamins, Vegetable Stock, Asparagus (0.3%), Glucosamine (170 mg/kg), Methylsulfonylmethane (170 mg/kg), Chondroitin Sulphate (125 mg/kg), FOS (96 mg/kg), MOS (24 mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2541/nourish-grain-free-adult-large-breed"
+    },
+    {
+      "product_key": "tribal|fresh_pressed_complete_cold_pressed_puppy_chicken|dry",
+      "brand": "Tribal",
+      "name": "Fresh Pressed Complete Cold Pressed Puppy Chicken",
+      "score": 0.41541353383458646,
+      "ingredients": "Chicken Meal (28%), Whole Maize, Rice, Poultry Oil (6%), Sugar Beet Pellets (4%), Maize Gluten Meal, Chicken Digest (2%), Salmon Oil (1.5%), Chicory Extract (0.2%), Mannan Oligosaccharides (0.1%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/4180/nutribalance-large-breed-puppy"
+    },
+    {
+      "product_key": "nourish|grain_free_small_breed_chicken_with_sweet_potato|unknown",
+      "brand": "Nourish",
+      "name": "Grain Free Small Breed Chicken with Sweet Potato",
+      "score": 0.4154135338345864,
+      "ingredients": "Chicken 55% (Freshly Prepared Chicken 27%, Dried Chicken 26%, Chicken Stock 2%), Sweet Potato (26%), Peas (7%), Beet Pulp, Potato, Linseed, Omega 3 Supplement, Minerals, Vitamins, Vegetable Stock, Marjoram, Basil, Oregano, Sage, Thyme, Parsley, FOS (96 mg/kg), MOS (24 mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2542/nourish-grain-free-adult-small-breed"
+    },
+    {
+      "product_key": "tribal|fresh_pressed_complete_cold_pressed_puppy_chicken|dry",
+      "brand": "Tribal",
+      "name": "Fresh Pressed Complete Cold Pressed Puppy Chicken",
+      "score": 0.4142857142857143,
+      "ingredients": "Chicken Meal (30%), Whole Maize, Rice, Poultry Oil (8%), Maize Gluten Meal, Sugar Beet Pellets (4%), Chicken Digest (2%), Salmon Oil (1.5%), Chicory Extract (0.2%), Mannan Oligosaccharides (0.1%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/4178/nutribalance-small-and-medium-breed-puppy"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_premium_nutrition_senior_small_&_medium_breed_lamb_&_rice|dry",
+      "brand": "Eukanuba",
+      "name": "Premium Nutrition Senior Small & Medium Breed Lamb & Rice",
+      "score": 0.4142857142857143,
+      "ingredients": "Dried Chicken and Turkey, Lamb (19%), Rice (19%), Sorghum, Barley, Maize, Dried Beet Pulp (2.5%), Hydrolysed Animal Proteins (from Chicken), Animal Fat (from Chicken and Pork), Dried Whole Egg, Brewer's Dried Yeast, Potassium Chloride, Fructooligosaccharides (0.47%), Sodium Chloride, Sodium Hexametaphosphate, Fish Oil, Calcium Carbonate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0104/eukanuba-mature-and-senior-all-breeds"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_premium_nutrition_adult_small_breed_chicken|dry",
+      "brand": "Eukanuba",
+      "name": "Premium Nutrition Adult Small Breed Chicken",
+      "score": 0.4140625,
+      "ingredients": "Dried Chicken & Turkey 29% (Including Chicken 17%), Fresh Chicken (15%), Maize, Poultry Fat, Wheat, Oats, Barley, Sorghum, Chicken Gravy, Dried Beet Pulp (3.5%), Fish Meal, Minerals (Including Sodium Hexametaphosphate 0.35%), Fructooligosaccharides (0.64%), Dried Whole Egg, Brewer's Dried Yeast.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1898/eukanuba-active-adult-toy-breed"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_grain_free_puppy_large_breed_-_lamb|dry",
+      "brand": "Eukanuba",
+      "name": "Grain Free Puppy Large Breed - Lamb",
+      "score": 0.41379310344827586,
+      "ingredients": "Dried Chicken and Turkey, Lamb (14%), Rice (14%), Maize, Sorghum, Dried Whole Egg, Fish Meal, Dried Beet Pulp (2.6%), Hydrolysed Animal Proteins (from Chicken), Animal Fat (from Chicken and Pork), Fish Oil, Brewer's Dried Yeast, Potassium Chloride, Sodium Chloride, Dicalcium Phosphate, Fructooligosaccharides (0.26%), Calcium Carbonate.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0102/eukanuba-puppy-rich-in-lamb-and-rice"
+    },
+    {
+      "product_key": "lilys-kitchen|kitchen_chicken__salmon_puppy|unknown",
+      "brand": "Lily's Kitchen",
+      "name": "Chicken  Salmon Puppy",
+      "score": 0.4134020618556701,
+      "ingredients": "44% Chicken & Salmon (Fresh Chicken 27%, Freshly Prepared Salmon 10%, Chicken Liver 7%), Sweet Potato, Pea Protein, Potato Protein, Whole Lentils, Whole Peas (4%), Chicken Fat, Egg, Chicken Gravy, Flaxseed, Minerals, Botanicals & Herbs 1% (Alfalfa, Chickweed, Cleavers, Golden Rod, Nettles, Seaweed, Dandelion Root, Celery Seeds, Milk Thistle, Burdock Root, Marigold Flowers, Rosehips), Salmon Oil, Joint Care Mix (Methylsulfonylmethane 1600mg/kg, Glucosamine 1500mg/kg, Chondroitin Sulphate 1500mg/kg), Prebiotics (Mannan Oligosaccharides 2.5g/kg, Fructooligosaccharides 1.5g/kg), Carrots, Apples, Cranberries, Spinach.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0943/lilys-kitchen-dry-puppy"
+    },
+    {
+      "product_key": "natural|choice_pet_foods_lamb_and_sweet_potato_grain_free_adult|unknown",
+      "brand": "Natural",
+      "name": "Choice Pet Foods Lamb and Sweet Potato Grain Free Adult",
+      "score": 0.41312056737588654,
+      "ingredients": "Lamb 65% (Lean Meat, Heart, Liver, Lungs), Broth 28.8%, Papaya 3%, Cranberries 2%, Minerals 1%, Rosemary 0.1%, Salmon Oil 0.1%.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/4328/natural-greatness-complete-wet-adult"
+    },
+    {
+      "product_key": "natures-menu|way_light_mature_recipe|unknown",
+      "brand": "Nature's Menu",
+      "name": "Way Light Mature Recipe",
+      "score": 0.412962962962963,
+      "ingredients": "39% Chicken (21% Dried Chicken, 13% Fresh Chicken, 3% Chicken Fat, 2% Chicken Liver), Brown Rice (20%), Potato, Harvest Oats, Beet Pulp, Brewer's Yeast, Minerals, Vitamins, Seaweed, Salmon Oil, Glucosamine (0.07%), MSM (0.07%), Chondroitin (0.05%), Prebiotic MOS, Yucca Schidigera Extract, Mixed Herbs (Peppermint, Marigold, Dandelion), Prebiotic MOS, Prebiotic FOS, Potassium Chloride, Taurine.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0835/natures-way-light-mature-recipe"
+    },
+    {
+      "product_key": "natures-menu|deli_senior_turkey__chicken_with_sage__brown_rice|unknown",
+      "brand": "Nature's Menu",
+      "name": "Deli Senior Turkey  Chicken with Sage  Brown Rice",
+      "score": 0.4129032258064516,
+      "ingredients": "Turkey (30%), Chicken (30%), Carrots, Peas, Brown Rice (3%), Salmon Oil, Pea Fibre, Minerals, Chicory Root (0.2%), Sage (0.1%), Glucosamine (600mg/ Kg), Chondroitin Sulphate (600mg/kg), MSM (600mg/kg).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2709/natures-deli-senior-wet-food"
+    },
+    {
+      "product_key": "natural|choice_pet_foods_salmon,_trout_and_sweet_potato_grain_free_adult|unknown",
+      "brand": "Natural",
+      "name": "Choice Pet Foods Salmon, Trout and Sweet Potato Grain Free Adult",
+      "score": 0.4114906832298137,
+      "ingredients": "Dehydrated Salmon 20%, Potato Protein 18.5%, Potato 18%, Fresh Salmon 10%, Chicken Oil 9.5%, Yeast 7.35%, Beet Pulp 7%, Linseed 5%, Salmon Hydrolysate 2%, Salmon Oil 1.5%, Mineral Substances 0.9%, Glucosamine 0.065%, Chicory (FOS) 0.05%, Mannan Oligosaccharides (MOS) 0.05%, Citrus Extract 0.05%, Chondroitin 0.015%, Yucca 0.02%.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/3202/natural-greatness-ultra-premium-adult-mini-breed"
+    },
+    {
+      "product_key": "wainwrights|superfoods_senior_small_breed_free_range_turkey|unknown",
+      "brand": "Wainwright's",
+      "name": "Superfoods Senior Small Breed Free Range Turkey",
+      "score": 0.41,
+      "ingredients": "Turkey (min.65%), Turkey Liver (min.5%), Brown Rice (min. 5%), Minerals, Seaweed, Chicory Root, Glucosamine, Chondroitin.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0474/wainwrights-trays-mature"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_caring_senior_medium_breed_chicken|dry",
+      "brand": "Eukanuba",
+      "name": "Caring Senior Medium Breed Chicken",
+      "score": 0.41,
+      "ingredients": "Dried Chicken & Turkey 19% (Including Chicken 11%), Fresh Chicken (17%), Maize, Wheat, Oats, Barley, Sorghum, Dried Beet Pulp (3.0%), Poultry Fat, Fish Meal, Chicken Gravy, Minerals (Including Sodium Hexametaphosphate 0.34%), Dried Whole Egg, Fructooligosaccharides (0.25%), Glucosamine (0.04%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1627/eukanuba-thriving-mature-medium-breed"
+    },
+    {
+      "product_key": "natures-menu|menu_raw_freeze_dried_adult_turkey|raw",
+      "brand": "Nature's Menu",
+      "name": "Raw Freeze Dried Adult Turkey",
+      "score": 0.40887850467289716,
+      "ingredients": "Turkey 30% (Turkey Meal 22.5%, Turkey 5.6%, Turkey Gravy 1.9%), Brown Rice (29%), White Rice (18.5%), Dried Beet Pulp, Dried Sweet Potato (2.8%), Turkey Fat (1.9%), Dried Peas (1.9%), Dried Chick Peas (1.9%), Dried Pumpkin (1.9%), Minerals, Brewers Yeast, Vegetable Stock, Linseed Oil, Dried Carrot (0.5%), Yeast (0.14%), Chicory Root Extract (0.14%), Dried Rosemary, Yucca Schidigera (0.023%), Glucosamine (0.012%), Dried Cranberry, Dried Dandelion Root, Dried Pomegranate, Chondroitin Sulphate (0.005%)",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2695/natures-deli-adult-light"
+    },
+    {
+      "product_key": "purizon|purizon_chicken_with_fish_adult_\u2013_grain-free|dry",
+      "brand": "Purizon",
+      "name": "Chicken with Fish Adult \u2013 Grain-free",
+      "score": 0.4084158415841584,
+      "ingredients": "45% Chicken Fillet, 28.8% Broth, 10% Turkey Liver and Gizzards, 5% Black Angus Lung and Heart, 5% Chicken Fat, 3% Sweet Potato, 2% Cranberry, 1% Minerals, 0.2% Salmon Oil.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/3786/purizon-adult-cans"
+    },
+    {
+      "product_key": "wagg|meaty_goodness_complete_adult_chicken_dinner|dry",
+      "brand": "Wagg",
+      "name": "Meaty Goodness Complete Adult Chicken Dinner",
+      "score": 0.4074074074074074,
+      "ingredients": "26% Meat Meal & Gravy (with min 5% Chicken), Whole Grain Wheat, Whole Grain Barley, Vegetable Fibre, Maize, 2% Chicken Fat, Whole Linseed, 2.3% Dried Whole Green Peas & Beet, Minerals & Vitamins, Chicory Root (1000 mg/kg), Yucca (150 mg/kg), Antioxidant, Preservative.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0014/wagg-adult"
+    },
+    {
+      "product_key": "james-wellbeloved|wellbeloved_lamb__rice_large_breed_adult|dry",
+      "brand": "James Wellbeloved",
+      "name": "Lamb  Rice Large Breed Adult",
+      "score": 0.4074074074074074,
+      "ingredients": "Dried Lamb Protein (19%), Barley, Naked Oats, Brown Rice (13%), White Rice (13%), Poultry Fat, Whole Linseed (3.9%), Pea Protein, Lamb Gravy, Sugar Beet Pulp, Alfalfa Meal, Minerals, Seaweed (0.5%), Fish Oil, Chicory Extract (0.1%), Yucca Extract (0.02%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0006/james-wellbeloved-adult-dry"
+    },
+    {
+      "product_key": "royal-canin|royal_canin_labrador_retriever_adult_5+|dry",
+      "brand": "Royal Canin",
+      "name": "Labrador Retriever Adult 5+",
+      "score": 0.40689655172413797,
+      "ingredients": "Maize, Rice, Dehydrated Beef and Pork Protein, Dehydrated Poultry Protein, Hydrolysed Animal Proteins, Animal Fats, Vegetable Fibres, Beet Pulp, Maize Gluten, Wheat, Yeasts and Parts Thereof, Fish Oil, Minerals, Soya Oil, Psyllium Husks and Seeds, Fructo-Oligo-Saccharides, Hydrolysed Crustaceans, Borage Oil (0.1%), Marigold Extract, Hydrolysed Cartilage.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2766/royal-canin-labrador-retriever-adult"
+    },
+    {
+      "product_key": "wainwrights|proper_tasty_wheat_free_adult_turkey__rice|unknown",
+      "brand": "Wainwright's",
+      "name": "Proper Tasty Wheat Free Adult Turkey  Rice",
+      "score": 0.4057377049180328,
+      "ingredients": "Turkey 33% (Dried Turkey 28%, Freshly Prepared Turkey 5%), Rice (26%), Whole Grain Barley (21%), Beet Pulp (8.5%), Whole Ground Oats (4.5%), Dried Peas (3%), Linseed (2%), Rapeseed Oil, Dried Carrots (1%), Seaweed (0.2%), Glucosamine (0.05%), Yucca Extract (0.02%), Chondroitin (0.015%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0052/wainwrights-dry-adult-light"
+    },
+    {
+      "product_key": "royal-canin|royal_canin_yorkshire_terrier_puppy|dry",
+      "brand": "Royal Canin",
+      "name": "Yorkshire Terrier Puppy",
+      "score": 0.40535714285714286,
+      "ingredients": "Dehydrated Poultry Protein, Rice, Maize Flour, Animal Fats, Vegetable Protein Isolate, Beet Pulp, Hydrolysed Animal Proteins, Fish Oil, Minerals, Soya Oil, Yeasts and Parts Thereof, Fructo-Oligo-Saccharides (0.34%), Hydrolysed Yeast, Borage Oil (0.1%), Yeasts Extracts, Marigold Extract.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2857/royal-canin-yorkshire-terrier-puppy"
+    },
+    {
+      "product_key": "natures-menu|menu_raw_freeze_dried_adult_turkey|raw",
+      "brand": "Nature's Menu",
+      "name": "Raw Freeze Dried Adult Turkey",
+      "score": 0.40454545454545454,
+      "ingredients": "Turkey (30%), Chicken (30%), Carrots, Peas, Brown Rice (3%), Salmon Oil, Pea Fibre, Minerals, Chicory Root (0.2%), Sage (0.1%), Glucosamine (600mg/ Kg), Chondroitin Sulphate (600mg/kg), MSM (600mg/kg)",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2707/natures-deli-adult-wet-food"
+    },
+    {
+      "product_key": "carnilove|salmon_&_turkey_for_large_breed_adult|dry",
+      "brand": "Carnilove",
+      "name": "Salmon & Turkey for Large Breed Adult",
+      "score": 0.40384615384615385,
+      "ingredients": "Duck Meal (30%), Pheasant Meal (22%), Yellow Peas (20%), Chicken Fat (8%), Duck Deboned (5%), Chicken Liver (3%), Apples (3%), Tapioca Starch (3%), Salmon Oil (2%), Carrots (1%), Flaxseed (1%), Chickpeas (1%), Hydrolyzed Crustacean Shells (0.026%), Cartilage Extract (0.016%), Brewer's Yeast (0.015%), Chicory Root (0.01%), Yucca Schidigera (0.01%), Algae (0.01%), Psyllium (0.01%), Thyme (0.01%), Rosemary (0.01%), Oregano (0.01%), Cranberries (0.0008%), Blueberries (0.0008%), Raspberries (0.0008%).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1507/carnilove-dry-adult"
+    },
+    {
+      "product_key": "wainwrights|proper_tasty_wheat_free_adult_turkey__rice|unknown",
+      "brand": "Wainwright's",
+      "name": "Proper Tasty Wheat Free Adult Turkey  Rice",
+      "score": 0.40322580645161293,
+      "ingredients": "Turkey (min 60%), Brown Rice (min. 10%), Turkey Liver (min. 5%), Minerals, Seaweed, Chicory Root.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0473/wainwrights-trays-adult-light"
+    },
+    {
+      "product_key": "farmina|natural__delicious_tropical_selection_mini_puppy|unknown",
+      "brand": "Farmina",
+      "name": "Natural  Delicious Tropical Selection Mini Puppy",
+      "score": 0.40261437908496733,
+      "ingredients": "Fresh Boneless Chicken (20%), Dehydrated Chicken Meat (20%), Spelt (10%), Oats (10%), Chicken Fat, Dehydrated Whole Eggs, Fresh Herring, Dehydrated Herring, Hydrolyzed Fish Proteins, Dried Beet Pulp, Fish Oil, Fiber Vegetable of Peas, Dried Carrots, Dried Alfalfa, Inulin, Fructooligosaccharides, Mannan-Oligosaccharides, Pomegranate Powder (0.5%), Dehydrated Apple, Spinach Powder, Psyllium (0.3%), Powdered Blackcurrant, Dehydrated Sweet Orange, Powdered Blueberries, Sodium Chloride, Dried Brewer's Yeast, Turmeric Root (0.2%), Glucosamine, Chondroitin Sulfate, Marigold Extract (Source of Lutein).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1541/farmina-natural-and-delicious-ancestral-grain-puppy-mini"
+    },
+    {
+      "product_key": "autarky|autarky_succululent_salmon|dry",
+      "brand": "Autarky",
+      "name": "Succululent Salmon",
+      "score": 0.4009433962264151,
+      "ingredients": "Salmon (min 35%), Rice (min 33%), Whole Oats, Maize, Chicken Fat, Poultry Meal, Linseed, Yeast, Maize Gluten, Alfalfa, Minerals, Peas, Unmolassed Sugar Beet, Seaweed, Milk Thistle, Marigold, Carrot, Mint, Nettle, Yucca Schidigera, Fenugreek, Rosemary, Carob Pod Meal, Thyme, Blackcurrant, Pomegranate, Rosehip, Spinach, Beetroot, Dandelion, Turmeric, Aniseed, Ginger, Oregano.",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2477/autarky-adult-dry-succulent-salmon"
+    },
+    {
+      "product_key": "farmina|natural__delicious_tropical_selection_mini_puppy|unknown",
+      "brand": "Farmina",
+      "name": "Natural  Delicious Tropical Selection Mini Puppy",
+      "score": 0.4,
+      "ingredients": "Fresh Boneless Chicken (20%), Dehydrated Chicken Meat (20%), Spelt (10%), Oats (10%), Chicken Fat, Dehydrated Whole Eggs, Fresh Herring, Dehydrated Herring, Hydrolyzed Fish Proteins, Dried Beet Pulp, Fish Oil, Fiber Vegetable of Peas, Dried Carrots, Dried Alfalfa, Inulin, Fructooligosaccharides, Mannan-Oligosaccharides, Pomegranate Powder (0.5%), Dehydrated Apple, Spinach Powder, Psyllium (0.3%), Powdered Blackcurrant, Dehydrated Sweet Orange, Powdered Blueberries, Sodium Chloride, Dried Brewer's Yeast, Turmeric Root (0.2%), Glucosamine, Chondroitin Sulfate, Marigold Extract (Source of Lutein).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/1542/farmina-natural-and-delicious-ancestral-grain-puppy-medium"
+    },
+    {
+      "product_key": "applaws|applaws_adult_chicken,_salmon_&_vegetables|wet",
+      "brand": "Applaws",
+      "name": "Adult Chicken, Salmon & Vegetables",
+      "score": 0.4,
+      "ingredients": "Chicken 66% (Dried Chicken Meal), Chicken (8%), Potato Starch (6%), Dried Peas (8%), Poultry Oil (2.5%), Beet Pulp, Poultry Gravy, Whole Egg (Dried Eggs), Cellulose Plant Fibres, Minerals, Vitamins, Salmon Oil, Dried Tomato, Dried Carrot, Chicory Extract, Alfalfa Meal, Seaweed (Kelp), Yeast Extract (0.1%), Glucosamine, Dimethyl Sulphone, Chondroitin, Carrot, Peppermint, Paprika Powder, Turmeric, Thyme Extract, Citrus Extract, Taurine (1000mg/kg), Yucca Extract, Cranberry, Fennel Extract, Carob Bean Extract, Ginger, Rosehip Extract, Dandelion Extract, Rosemary Oil Extract, Oregano, E1705 Enterococcus Faecium Cernelle 68 Sf68 Ncimb 10415 (1, 000, 000 Kbe).",
+      "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0478/applaws-adult-large-breed"
+    }
+  ],
+  "brands_not_in_db": [
+    "AVA",
+    "Aatu",
+    "Able",
+    "Acana",
+    "Akela",
+    "Albion",
+    "Almo",
+    "Alpha",
+    "Amala",
+    "Amazon",
+    "Angell",
+    "Animonda",
+    "Applaws",
+    "Arden Grange",
+    "Arkwrights",
+    "Asda",
+    "Autarky",
+    "Bakers",
+    "Barkin",
+    "Barking Heads",
+    "Beco",
+    "Belcando",
+    "Bella",
+    "Benevo",
+    "Bentleys",
+    "Benyfit",
+    "Beta",
+    "Billy",
+    "Bob",
+    "Bonacibo",
+    "Boost",
+    "Bosch",
+    "Bounce",
+    "Briantos",
+    "Buddy",
+    "Bug",
+    "Burgess",
+    "Burns",
+    "Butcher's",
+    "Caboodle",
+    "Calibra",
+    "Canagan",
+    "Canine",
+    "Carnilove",
+    "Cesar",
+    "Champers",
+    "Chapel",
+    "Chappie",
+    "Chudleys",
+    "Ci",
+    "Clinivet",
+    "Cobbydog",
+    "Collards",
+    "Concept",
+    "Cooper",
+    "Cotswold",
+    "Country",
+    "Coya",
+    "Crave",
+    "Csj",
+    "Dachshund",
+    "Darf",
+    "Denes",
+    "Devini",
+    "Different",
+    "Dr",
+    "Earls",
+    "Eden",
+    "Edgard",
+    "Edmondsons",
+    "Encore",
+    "Engage",
+    "Essential",
+    "Eukanuba",
+    "Europa",
+    "Exe",
+    "Farm",
+    "Farmina",
+    "Feelwells",
+    "Fish4Dogs",
+    "Fleischeslust",
+    "Flourish",
+    "Forthglade",
+    "Forza10",
+    "Freshpet",
+    "Gain",
+    "Gelert",
+    "Gentle",
+    "Go",
+    "Golden",
+    "Grace",
+    "Green",
+    "Greenacres",
+    "Growling",
+    "Grub",
+    "Guru",
+    "Gusto",
+    "Harrington's",
+    "Healthy",
+    "Heights",
+    "Hill's Science Plan",
+    "Honeys",
+    "Hownd",
+    "Hug",
+    "Huntland",
+    "Husse",
+    "IAMS",
+    "Jack",
+    "James Wellbeloved",
+    "Josera",
+    "Josidog",
+    "K9",
+    "Kronch",
+    "Langhams",
+    "Laughing",
+    "Leader",
+    "Lecker",
+    "Lifelong",
+    "Lifestage",
+    "Lily's Kitchen",
+    "Little",
+    "Lovejoys",
+    "Lovel",
+    "Lukullus",
+    "Luna",
+    "Lupo",
+    "Markus",
+    "Mcadams",
+    "Mcintyres",
+    "Michies",
+    "Millie's Wolfheart",
+    "More",
+    "Morrisons",
+    "Mypetsays",
+    "Naked",
+    "Natural",
+    "Naturaw",
+    "Nature Diet",
+    "Nature's Menu",
+    "Naturea",
+    "Naturo",
+    "Noochy",
+    "Nood",
+    "Nose2Tail",
+    "Nourish",
+    "Nutriment",
+    "Nutrivet",
+    "Nutriwolds",
+    "Nutro",
+    "Omni",
+    "Orijen",
+    "Orlando",
+    "Orygo",
+    "Paleo",
+    "Paws",
+    "Pedigree",
+    "Percuro",
+    "Pero",
+    "Pets",
+    "Piccolo",
+    "Pitpat",
+    "Platinum",
+    "Pooch",
+    "Poppys",
+    "Primal",
+    "Pro Plan",
+    "Prodog",
+    "Pure",
+    "Raaw",
+    "Rawgeous",
+    "Rinti",
+    "Rocco",
+    "Ror",
+    "Rosies",
+    "Royal Canin",
+    "Rude",
+    "Sainsburys",
+    "Salters",
+    "Salubrious",
+    "Sausage",
+    "Scrumbles",
+    "Seven",
+    "Simpsons",
+    "Skinners",
+    "Skippers",
+    "Southend",
+    "Step Up",
+    "Symply",
+    "Tails",
+    "Taste of the Wild",
+    "Techni",
+    "Terra Canis",
+    "Tesco",
+    "The",
+    "Thrive",
+    "Tilly",
+    "Tribal",
+    "Trophy",
+    "Tuggs",
+    "Vet's Kitchen",
+    "Vetspec",
+    "Virbac",
+    "Vitalin",
+    "Wagg",
+    "Wainwright's",
+    "Waitrose",
+    "Walker",
+    "Webbox",
+    "Wellness",
+    "Wild",
+    "Wildpack",
+    "Wildways",
+    "Wilko",
+    "Wilsons",
+    "Winalot",
+    "Winner",
+    "Wolf Of Wilderness",
+    "Wolfworthy",
+    "Wonderdog",
+    "Workinghprs",
+    "Yarrah",
+    "Ydolo",
+    "Years",
+    "Yora",
+    "Zenoo",
+    "Ziwi"
+  ]
+}

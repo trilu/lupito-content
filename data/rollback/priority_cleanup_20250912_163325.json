@@ -1,0 +1,303 @@
+[
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_duck_with_sweet_potato__orange|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Duck with Sweet Potato  Orange",
+    "cleaned_name": "Grain-Free Duck with Sweet Potato  Orange",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_puppy_-_chicken_with_turkey,_salmon,_sweet_potato__carrot|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Puppy - Chicken with Turkey, Salmon, Sweet Potato  Carrot",
+    "cleaned_name": "Grain-Free Puppy - Chicken with Turkey, Salmon, Sweet Potato  Carrot",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_puppy_-_salmon_with_haddock,_blue_whiting,_sweet_potato__asparagus|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Puppy - Salmon with Haddock, Blue Whiting, Sweet Potato  Asparagus",
+    "cleaned_name": "Grain-Free Puppy - Salmon with Haddock, Blue Whiting, Sweet Potato  Asparagus",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Superfood Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin",
+    "cleaned_name": "Superfood Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_chicken__rice|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Chicken  Rice",
+    "cleaned_name": "Chicken  Rice",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_chicken_with_sweet_potato__herbs|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Chicken with Sweet Potato  Herbs",
+    "cleaned_name": "Grain-Free Chicken with Sweet Potato  Herbs",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_haddock_with_sweet_potato__parsley|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Haddock with Sweet Potato  Parsley",
+    "cleaned_name": "Grain-Free Haddock with Sweet Potato  Parsley",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_lamb_with_sweet_potato__mint|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Lamb with Sweet Potato  Mint",
+    "cleaned_name": "Grain-Free Lamb with Sweet Potato  Mint",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_light_trout_with_salmon,_sweet_potato__asparagus|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Light Trout with Salmon, Sweet Potato  Asparagus",
+    "cleaned_name": "Grain-Free Light Trout with Salmon, Sweet Potato  Asparagus",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_light_turkey_with_sweet_potato__cranberry|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Light Turkey with Sweet Potato  Cranberry",
+    "cleaned_name": "Grain-Free Light Turkey with Sweet Potato  Cranberry",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_pork_with_sweet_potato__apple|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Pork with Sweet Potato  Apple",
+    "cleaned_name": "Grain-Free Pork with Sweet Potato  Apple",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_puppy_duck_with_turkey,_sweet_potato,_dill__camomile|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Puppy Duck with Turkey, Sweet Potato, Dill  Camomile",
+    "cleaned_name": "Grain-Free Puppy Duck with Turkey, Sweet Potato, Dill  Camomile",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_rabbit_with_sweet_potato__blackberry|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Rabbit with Sweet Potato  Blackberry",
+    "cleaned_name": "Grain-Free Rabbit with Sweet Potato  Blackberry",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_salmon_with_trout,_sweet_potato__asparagus|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Salmon with Trout, Sweet Potato  Asparagus",
+    "cleaned_name": "Grain-Free Salmon with Trout, Sweet Potato  Asparagus",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_tuna_with_sweet_potato__broccoli|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Tuna with Sweet Potato  Broccoli",
+    "cleaned_name": "Grain-Free Tuna with Sweet Potato  Broccoli",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_venison_with_mulberry__sweet_potato|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Grain-Free Venison with Mulberry  Sweet Potato",
+    "cleaned_name": "Grain-Free Venison with Mulberry  Sweet Potato",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_puppy_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Puppy - Superfood Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin",
+    "cleaned_name": "Puppy - Superfood Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_puppy_-_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Puppy - Superfood Scottish Salmon with Dill, Spinach, Fennel, Asparagus  Tomato",
+    "cleaned_name": "Puppy - Superfood Scottish Salmon with Dill, Spinach, Fennel, Asparagus  Tomato",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_puppy_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Puppy Superfood Angus Beef with Carrot, Green Beans, Cauliflower, Tomato  Courgette",
+    "cleaned_name": "Puppy Superfood Angus Beef with Carrot, Green Beans, Cauliflower, Tomato  Courgette",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_senior_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Senior - Superfood Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin",
+    "cleaned_name": "Senior - Superfood Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Superfood Angus Beef with Carrot, Green Beans, Cauliflower, Tomato  Courgette",
+    "cleaned_name": "Superfood Angus Beef with Carrot, Green Beans, Cauliflower, Tomato  Courgette",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_english_country_duck_with_parsnip,_beetroot,_orange,_asparagus__pumpkin|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Superfood English Country Duck with Parsnip, Beetroot, Orange, Asparagus  Pumpkin",
+    "cleaned_name": "Superfood English Country Duck with Parsnip, Beetroot, Orange, Asparagus  Pumpkin",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_italian_buffalo_with_basil,_blackberry,_turmeric,_flaxseed__apple|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Superfood Italian Buffalo with Basil, Blackberry, Turmeric, Flaxseed  Apple",
+    "cleaned_name": "Superfood Italian Buffalo with Basil, Blackberry, Turmeric, Flaxseed  Apple",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_light_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Superfood Light Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin",
+    "cleaned_name": "Superfood Light Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+    "brand": "Sausage Dog Sanctuary Food",
+    "original_name": "Dog Sanctuary Superfood Scottish Salmon with Dill, Spinach, Fennel, Asparagus  Tomato",
+    "cleaned_name": "Superfood Scottish Salmon with Dill, Spinach, Fennel, Asparagus  Tomato",
+    "prefix_removed": "Dog Sanctuary "
+  },
+  {
+    "product_key": "natural-instinct|instinct_beef_tripe|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Beef Tripe",
+    "cleaned_name": "Beef Tripe",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_chicken__lamb|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Natural Chicken  Lamb",
+    "cleaned_name": "Natural Chicken  Lamb",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_country_banquet_organic_chicken|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Country Banquet Organic Chicken",
+    "cleaned_name": "Country Banquet Organic Chicken",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_country_banquet_organic_turkey|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Country Banquet Organic Turkey",
+    "cleaned_name": "Country Banquet Organic Turkey",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_dog_feast_turkey_dinner|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Dog Feast Turkey Dinner",
+    "cleaned_name": "Dog Feast Turkey Dinner",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_chicken|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Natural Chicken",
+    "cleaned_name": "Natural Chicken",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_lamb|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Natural Lamb",
+    "cleaned_name": "Natural Lamb",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_senior|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Natural Senior",
+    "cleaned_name": "Natural Senior",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_special_diet|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Natural Special Diet",
+    "cleaned_name": "Natural Special Diet",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_tripe__turkey|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Natural Tripe  Turkey",
+    "cleaned_name": "Natural Tripe  Turkey",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_puppy|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Puppy",
+    "cleaned_name": "Puppy",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_working_dog_beef__chicken|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Working Dog Beef  Chicken",
+    "cleaned_name": "Working Dog Beef  Chicken",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_working_dog_chicken__salmon|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Working Dog Chicken  Salmon",
+    "cleaned_name": "Working Dog Chicken  Salmon",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_working_dog_chicken__tripe|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Working Dog Chicken  Tripe",
+    "cleaned_name": "Working Dog Chicken  Tripe",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_working_dog_chicken|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Working Dog Chicken",
+    "cleaned_name": "Working Dog Chicken",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_working_dog_duck|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Working Dog Duck",
+    "cleaned_name": "Working Dog Duck",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_working_dog_turkey|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Working Dog Turkey",
+    "cleaned_name": "Working Dog Turkey",
+    "prefix_removed": "Instinct "
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_puppy_chicken|raw",
+    "brand": "Natural Instinct",
+    "original_name": "Instinct Natural Puppy Chicken",
+    "cleaned_name": "Natural Puppy Chicken",
+    "prefix_removed": "Instinct "
+  }
+]

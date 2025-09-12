@@ -1,0 +1,437 @@
+{
+  "timestamp": "20250912_173633",
+  "total_suspicious": 60,
+  "validation_results": {
+    "total_suspicious": 60,
+    "to_delete": 6,
+    "to_review": 2,
+    "decisions": [
+      {
+        "brand": "Bozita",
+        "name": "Bozita",
+        "key": "bozita_115a8f55",
+        "action": "delete",
+        "reason": "Invalid product name: name_equals_brand",
+        "confidence": 0.95
+      },
+      {
+        "brand": "Almo Nature",
+        "name": "HFC",
+        "key": "almo_nature|almo_nature_hfc|wet",
+        "action": "delete",
+        "reason": "Invalid product name: name_too_short",
+        "confidence": 0.95
+      },
+      {
+        "brand": "Gentle",
+        "name": "Fish",
+        "key": "gentle|fish|dry",
+        "action": "delete",
+        "reason": "Invalid product name: name_too_short",
+        "confidence": 0.95
+      },
+      {
+        "brand": "Gentle",
+        "name": "Goat",
+        "key": "gentle|goat|unknown",
+        "action": "delete",
+        "reason": "Invalid product name: name_too_short",
+        "confidence": 0.95
+      },
+      {
+        "brand": "Feedwell",
+        "name": "Mini",
+        "key": "feedwell|mini|unknown",
+        "action": "delete",
+        "reason": "Invalid product name: name_too_short",
+        "confidence": 0.95
+      },
+      {
+        "brand": "Arkwrights",
+        "name": "Beef",
+        "key": "arkwrights|arkwrights_beef|dry",
+        "action": "delete",
+        "reason": "Invalid product name: name_too_short",
+        "confidence": 0.95
+      },
+      {
+        "brand": "Aatu",
+        "name": "Chicken",
+        "key": "aatu|chicken|unknown",
+        "action": "review",
+        "reason": "Needs manual review: generic_name",
+        "confidence": 0.5
+      },
+      {
+        "brand": "Acana",
+        "name": "Senior",
+        "key": "acana|acana_senior|dry",
+        "action": "review",
+        "reason": "Needs manual review: generic_name",
+        "confidence": 0.5
+      }
+    ]
+  },
+  "all_suspicious": [
+    {
+      "brand": "Aatu",
+      "name": "Chicken",
+      "key": "aatu|chicken|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Acana",
+      "name": "Senior",
+      "key": "acana|acana_senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Almo Nature",
+      "name": "HFC",
+      "key": "almo_nature|almo_nature_hfc|wet",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Arkwrights",
+      "name": "Chicken",
+      "key": "arkwrights|arkwrights_chicken|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Arkwrights",
+      "name": "Beef",
+      "key": "arkwrights|arkwrights_beef|dry",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Benevo",
+      "name": "Puppy",
+      "key": "benevo|puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Biofood",
+      "name": "Puppy",
+      "key": "biofood|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Biofood",
+      "name": "Senior",
+      "key": "biofood|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Bosch",
+      "name": "Senior",
+      "key": "bosch|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Canagan",
+      "name": "Puppy",
+      "key": "canagan|puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Chudleys",
+      "name": "Senior",
+      "key": "chudleys|senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Clinivet",
+      "name": "Puppy",
+      "key": "clinivet|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Cobbydog",
+      "name": "Adult",
+      "key": "cobbydog|adult|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Crave",
+      "name": "Adult",
+      "key": "crave|crave_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Feedwell",
+      "name": "Puppy",
+      "key": "feedwell|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Feedwell",
+      "name": "Mini",
+      "key": "feedwell|mini|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Fitmin For Life",
+      "name": "Adult",
+      "key": "fitmin_for_life|fitmin_for_life_adult|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Gentle",
+      "name": "Fish",
+      "key": "gentle|fish|dry",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Gentle",
+      "name": "Goat",
+      "key": "gentle|goat|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Happy Dog NaturCroq",
+      "name": "Puppy",
+      "key": "happy_dog_naturcroq|happy_dog_naturcroq_puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Happy Dog NaturCroq",
+      "name": "Senior",
+      "key": "happy_dog_naturcroq|happy_dog_naturcroq_senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Happy Dog NaturCroq",
+      "name": "XXL",
+      "key": "happy_dog_naturcroq|happy_dog_naturcroq_xxl|dry",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Bozita",
+      "name": "CHICKEN",
+      "key": "bozita_978cff7c",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Bozita",
+      "name": "LAMB",
+      "key": "bozita_dab1dc48",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Josera",
+      "name": "Kids",
+      "key": "josera|kids|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Kronch",
+      "name": "Main",
+      "key": "kronch|main|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Mac's",
+      "name": "Adult",
+      "key": "macs|mac's_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Natural Instinct",
+      "name": "Lamb",
+      "key": "natural-instinct|instinct_natural_lamb|raw",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Natural Instinct",
+      "name": "Senior",
+      "key": "natural-instinct|instinct_natural_senior|raw",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Natural Instinct",
+      "name": "Puppy",
+      "key": "natural-instinct|instinct_puppy|raw",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Natural Instinct",
+      "name": "Chicken",
+      "key": "natural-instinct|instinct_natural_chicken|raw",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Omni",
+      "name": "Adult",
+      "key": "omni|adult|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Omni",
+      "name": "Puppy",
+      "key": "omni|puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Omni",
+      "name": "Senior",
+      "key": "omni|senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Orijen",
+      "name": "Senior",
+      "key": "orijen|senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "PitPat",
+      "name": "Adult",
+      "key": "pitpat|adult|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "PitPat",
+      "name": "Puppy",
+      "key": "pitpat|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "PitPat",
+      "name": "Senior",
+      "key": "pitpat|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "PoochMutt",
+      "name": "Puppy",
+      "key": "poochmutt|puppy|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Pure",
+      "name": "Chicken",
+      "key": "pure|chicken|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Pure",
+      "name": "Duck",
+      "key": "pure|duck|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Pure",
+      "name": "Game",
+      "key": "pure|game|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Pure",
+      "name": "Lamb",
+      "key": "pure|lamb|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Purizon",
+      "name": "Adult",
+      "key": "purizon|purizon_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Rinti",
+      "name": "Adult",
+      "key": "rinti|rinti_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Rocco",
+      "name": "Senior",
+      "key": "rocco|rocco_senior|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Bozita",
+      "name": "Bozita",
+      "key": "bozita_115a8f55",
+      "reason": "name_equals_brand"
+    },
+    {
+      "brand": "SANIMED",
+      "name": "Adult",
+      "key": "sanimed|adult|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "SANIMED",
+      "name": "Puppy",
+      "key": "sanimed|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "SANIMED",
+      "name": "Senior",
+      "key": "sanimed|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Thrive",
+      "name": "Chicken",
+      "key": "thrive|chicken|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Thrive",
+      "name": "Lamb",
+      "key": "thrive|lamb|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Tomojo",
+      "name": "Senior",
+      "key": "tomojo|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Wolf Of Wilderness",
+      "name": "Adult",
+      "key": "wolf-of-wilderness|wolf_of_wilderness_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Wolf Of Wilderness",
+      "name": "Senior",
+      "key": "wolf-of-wilderness|wolf_of_wilderness_senior|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Yarrah Organic",
+      "name": "P\u00e2t\u00e9",
+      "key": "yarrah_organic|yarrah_organic_p\u00e2t\u00e9|wet",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Yarrah Organic",
+      "name": "Puppy",
+      "key": "yarrah_organic|yarrah_organic_puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Hill's Science Plan",
+      "name": "Adult",
+      "key": "hill's_science_plan|hill's_science_plan_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Rosie's Farm",
+      "name": "Mini",
+      "key": "rosie's_farm|rosie's_farm_mini|wet",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Bozita Naturals",
+      "name": "Pat\u00e9",
+      "key": "bozita_naturals|bozita_naturals_pat\u00e9|wet",
+      "reason": "name_too_short"
+    }
+  ]
+}

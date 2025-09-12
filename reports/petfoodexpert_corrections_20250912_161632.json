@@ -1,0 +1,883 @@
+{
+  "summary": {
+    "BETTY \u2192 Betty & Butch": {
+      "count": 23,
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0
+    },
+    "Sausage \u2192 Sausage Dog Sanctuary Food": {
+      "count": 25,
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0
+    },
+    "Bright \u2192 Bright Eyes Bushy Tails": {
+      "count": 25,
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0
+    },
+    "Bounce \u2192 Bounce and Bella": {
+      "count": 20,
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0
+    },
+    "Edgard \u2192 Edgard & Cooper": {
+      "count": 26,
+      "website": "https://www.edgardcooper.com/",
+      "confidence": 1.0
+    },
+    "Growling \u2192 Growling Tums": {
+      "count": 27,
+      "website": "https://growlingtums.co.uk/",
+      "confidence": 1.0
+    },
+    "Dragonfly \u2192 Dragonfly Products": {
+      "count": 20,
+      "website": "https://dragonflyproducts.co.uk/",
+      "confidence": 1.0
+    },
+    "Borders \u2192 Borders Pet Foods": {
+      "count": 28,
+      "website": null,
+      "confidence": 0.95
+    },
+    "Harrier \u2192 Harrier Pro Pet Foods": {
+      "count": 28,
+      "website": "https://www.harrierpropetfoods.co.uk/",
+      "confidence": 1.0
+    },
+    "Wolf \u2192 Wolf Of Wilderness": {
+      "count": 14,
+      "website": null,
+      "confidence": 1.0
+    },
+    "Country \u2192 Country Dog": {
+      "count": 14,
+      "website": "https://www.countrydogfood.co.uk/",
+      "confidence": 0.95
+    },
+    "Country \u2192 Country Pursuit": {
+      "count": 7,
+      "website": "https://countrypursuit.co.uk/",
+      "confidence": 0.95
+    },
+    "Natural \u2192 Natural Instinct": {
+      "count": 18,
+      "website": "",
+      "confidence": 0.95
+    },
+    "Cotswold \u2192 Cotswold Raw": {
+      "count": 19,
+      "website": "",
+      "confidence": 0.95
+    },
+    "Jollyes \u2192 K9 Optimum": {
+      "count": 8,
+      "website": "",
+      "confidence": 0.95
+    }
+  },
+  "total_corrections": 302,
+  "timestamp": "2025-09-12T16:16:32.098497",
+  "corrections": [
+    {
+      "product_key": "betty|butch_insect,_sweet_potato_and_cranberry_adult|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Insect, Sweet Potato and Cranberry Adult"
+    },
+    {
+      "product_key": "betty|butch_duck,_rice_and_veg|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Duck, Rice and Veg"
+    },
+    {
+      "product_key": "betty|butch_lamb,_rice_and_veg|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Lamb, Rice and Veg"
+    },
+    {
+      "product_key": "betty|butch_grain-free_natural_chicken_small_breed|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Grain-Free Natural Chicken Small Breed"
+    },
+    {
+      "product_key": "betty|butch_grain-free_natural_duck|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Grain-Free Natural Duck"
+    },
+    {
+      "product_key": "betty|butch_grain-free_natural_lamb_sweet_potato_and_veg|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Grain-Free Natural Lamb Sweet Potato And Veg"
+    },
+    {
+      "product_key": "betty|butch_grain-free_natural_turkey_sweet_potato_and_veg_senior|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Grain-Free Natural Turkey Sweet Potato And Veg Senior"
+    },
+    {
+      "product_key": "betty|butch_grain-free_natural_turkey_sweet_potato_and_veg|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Grain-Free Natural Turkey Sweet Potato And Veg"
+    },
+    {
+      "product_key": "betty|butch_grain-free_natural_venison_sweet_potato_and_veg|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Grain-Free Natural Venison Sweet Potato And Veg"
+    },
+    {
+      "product_key": "betty|butch_low-fat_natural_turkey_sweet_potato_and_veg|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Low-Fat Natural Turkey Sweet Potato And Veg"
+    },
+    {
+      "product_key": "betty|butch_superfood_adult_angus_beef_with_vegetables|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Superfood Adult Angus Beef With Vegetables"
+    },
+    {
+      "product_key": "betty|butch_superfood_adult_chicken_with_vegetables|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Superfood Adult Chicken With Vegetables"
+    },
+    {
+      "product_key": "betty|butch_superfood_adult_duck_with_vegetables|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Superfood Adult Duck With Vegetables"
+    },
+    {
+      "product_key": "betty|butch_superfood_adult_lamb_with_vegetables|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Superfood Adult Lamb With Vegetables"
+    },
+    {
+      "product_key": "betty|butch_superfood_adult_small_breed_low_fat|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Superfood Adult Small Breed Low Fat"
+    },
+    {
+      "product_key": "betty|butch_superfood_adult_turkey_with_vegetables|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Superfood Adult Turkey With Vegetables"
+    },
+    {
+      "product_key": "betty|butch_ocean_fish_and_sweet_potato|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Ocean Fish and Sweet Potato"
+    },
+    {
+      "product_key": "betty|butch_peptide_weight_control__joint_care_hypoallergenic|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Peptide Weight Control  Joint Care Hypoallergenic"
+    },
+    {
+      "product_key": "betty|butch_natural_ocean_salmon__trout|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Natural Ocean Salmon  Trout"
+    },
+    {
+      "product_key": "betty|butch_natural_salmon_large_breed|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Natural Salmon Large Breed"
+    },
+    {
+      "product_key": "betty|butch_turkey_and_sweet_potato|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Turkey and Sweet Potato"
+    },
+    {
+      "product_key": "betty|butch_chicken_and_sweet_potato|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Chicken and Sweet Potato"
+    },
+    {
+      "product_key": "betty|butch_natural_ocean_haddock|unknown",
+      "old_brand": "BETTY",
+      "new_brand": "Betty & Butch",
+      "website": "https://www.bettyandbutch.co.uk/",
+      "confidence": 1.0,
+      "product_name": "BUTCH Natural Ocean Haddock"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_chicken__rice|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Chicken  Rice"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_chicken_with_sweet_potato__herbs|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Chicken with Sweet Potato  Herbs"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_duck_with_sweet_potato__orange|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Duck with Sweet Potato  Orange"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_haddock_with_sweet_potato__parsley|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Haddock with Sweet Potato  Parsley"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_lamb_with_sweet_potato__mint|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Lamb with Sweet Potato  Mint"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_light_trout_with_salmon,_sweet_potato__asparagus|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Light Trout with Salmon, Sweet Potato  Asparagus"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_light_turkey_with_sweet_potato__cranberry|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Light Turkey with Sweet Potato  Cranberry"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_pork_with_sweet_potato__apple|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Pork with Sweet Potato  Apple"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_puppy_-_chicken_with_turkey,_salmon,_sweet_potato__carrot|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Puppy - Chicken with Turkey, Salmon, Sweet Potato  Carrot"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_puppy_-_salmon_with_haddock,_blue_whiting,_sweet_potato__asparagus|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Puppy - Salmon with Haddock, Blue Whiting, Sweet Potato  Asparagus"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_puppy_duck_with_turkey,_sweet_potato,_dill__camomile|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Puppy Duck with Turkey, Sweet Potato, Dill  Camomile"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_rabbit_with_sweet_potato__blackberry|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Rabbit with Sweet Potato  Blackberry"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_salmon_with_trout,_sweet_potato__asparagus|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Salmon with Trout, Sweet Potato  Asparagus"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_tuna_with_sweet_potato__broccoli|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Tuna with Sweet Potato  Broccoli"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_grain-free_venison_with_mulberry__sweet_potato|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Grain-Free Venison with Mulberry  Sweet Potato"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_puppy_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Puppy - Superfood Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_puppy_-_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Puppy - Superfood Scottish Salmon with Dill, Spinach, Fennel, Asparagus  Tomato"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_puppy_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Puppy Superfood Angus Beef with Carrot, Green Beans, Cauliflower, Tomato  Courgette"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_senior_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Senior - Superfood Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Superfood Angus Beef with Carrot, Green Beans, Cauliflower, Tomato  Courgette"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_superfood_english_country_duck_with_parsnip,_beetroot,_orange,_asparagus__pumpkin|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Superfood English Country Duck with Parsnip, Beetroot, Orange, Asparagus  Pumpkin"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Superfood Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_superfood_italian_buffalo_with_basil,_blackberry,_turmeric,_flaxseed__apple|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Superfood Italian Buffalo with Basil, Blackberry, Turmeric, Flaxseed  Apple"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_superfood_light_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Superfood Light Free Range Turkey with Parsley, Papaya, Nettle, Zucchini  Pumpkin"
+    },
+    {
+      "product_key": "sausage|dog_sanctuary_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+      "old_brand": "Sausage",
+      "new_brand": "Sausage Dog Sanctuary Food",
+      "website": "https://sausagedogsanctuaryfood.com/",
+      "confidence": 1.0,
+      "product_name": "Dog Sanctuary Superfood Scottish Salmon with Dill, Spinach, Fennel, Asparagus  Tomato"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_puppy_junior_super_premium_chicken_and_rice_wheat_free_working_puppy_dog_food_for_small_to_medium_breeds|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Puppy Junior Super Premium Chicken and Rice Wheat Free Working Puppy Dog Food for small to medium breeds"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_chicken_with_rice_super_premium_wheat_free_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Chicken with Rice Super Premium Wheat Free Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_duck_with_potato_super_premium_wheat__grain_free_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Duck with Potato Super Premium Wheat  Grain Free Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_canine_best_65%_beef_with_sweet_potato__superfoods|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Canine Best 65% Beef With Sweet Potato  Superfoods"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_canine_best_65%_duck_with_sweet_potato__superfoods|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Canine Best 65% Duck With Sweet Potato  Superfoods"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_canine_best_65%_salmon_with_sweet_potato__superfoods_puppy__junior|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Canine Best 65% Salmon with Sweet Potato  Superfoods Puppy  Junior"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_canine_best_65%_salmon_with_sweet_potato__superfoods|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Canine Best 65% Salmon With Sweet Potato  Superfoods"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_puppy_junior_chicken_turkey_salmon_sweet_potato_with_carrots_and_peas_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Puppy Junior Chicken Turkey Salmon Sweet Potato with Carrots and Peas Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_chicken_sweet_potato_and_herbs_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Chicken Sweet Potato and Herbs Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_duck_alorange_with_sweet_potato_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Duck aLOrange with Sweet Potato Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_haddock_sweet_potato_and_parsley_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Haddock Sweet Potato and Parsley Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_lamb_sweet_potato_and_mint_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Lamb Sweet Potato and Mint Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_pork_sweet_potato_and_apple_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Pork Sweet Potato and Apple Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_salmon_trout_sweet_potato_and_asparagus_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Salmon Trout Sweet Potato and Asparagus Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_turkey_sweet_potato_and_cranberry_large_breed_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Turkey Sweet Potato and Cranberry Large Breed Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_turkey_sweet_potato_and_cranberry_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Turkey Sweet Potato and Cranberry Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_large_breed_puppy_junior_super_premium_salmon_with_potato_working_puppy|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Large Breed Puppy Junior Super Premium Salmon with Potato Working Puppy"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_senior_light_grain_free_trout_salmon_sweet_potato_and_asparagus_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Senior Light Grain Free Trout Salmon Sweet Potato and Asparagus Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_senior_light_grain_free_turkey_sweet_potato_and_cranberry_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Senior Light Grain Free Turkey Sweet Potato and Cranberry Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_senior_light_white_fish__rice_super_premium_wheat_free_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Senior Light White Fish  Rice Super Premium Wheat Free Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_lamb_with_rice_super_premium_wheat_free_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Lamb with Rice Super Premium Wheat Free Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_salmon_with_potato_super_premium_wheat_free_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Salmon with Potato Super Premium Wheat Free Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_turkey_with_rice_super_premium_wheat_free_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Turkey with Rice Super Premium Wheat Free Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_angus_beef_sweet_potato_and_carrot_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Angus Beef Sweet Potato and Carrot Working Dog"
+    },
+    {
+      "product_key": "bright|eyes_bushy_tails_grain_free_venison_with_sweet_potato_and_mulberry_working_dog|unknown",
+      "old_brand": "Bright",
+      "new_brand": "Bright Eyes Bushy Tails",
+      "website": "https://brighteyes-bushytails.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Eyes Bushy Tails Grain Free Venison with Sweet Potato and Mulberry Working Dog"
+    },
+    {
+      "product_key": "bounce|bella_aromatic_chicken__veg_small_breed_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Aromatic Chicken  Veg Small Breed Adult"
+    },
+    {
+      "product_key": "bounce|bella_aromatic_chicken__veg_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Aromatic Chicken  Veg Adult"
+    },
+    {
+      "product_key": "bounce|bella_chicken_with_turkey__salmon_puppy|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Chicken with Turkey  Salmon Puppy"
+    },
+    {
+      "product_key": "bounce|bella_gourmet_duck__orange_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Gourmet Duck  Orange Adult"
+    },
+    {
+      "product_key": "bounce|bella_hearty_lamb,_mint__veg_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Hearty Lamb, Mint  Veg Adult"
+    },
+    {
+      "product_key": "bounce|bella_irresistible_angus_beef_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Irresistible Angus Beef Adult"
+    },
+    {
+      "product_key": "bounce|bella_luxury_aberdeen_angus_beef_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Luxury Aberdeen Angus Beef Adult"
+    },
+    {
+      "product_key": "bounce|bella_luxury_free_range_chicken_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Luxury Free Range Chicken Adult"
+    },
+    {
+      "product_key": "bounce|bella_luxury_free_range_turkey_puppy|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Luxury Free Range Turkey Puppy"
+    },
+    {
+      "product_key": "bounce|bella_luxury_free_range_turkey_small_breed_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Luxury Free Range Turkey Small Breed Adult"
+    },
+    {
+      "product_key": "bounce|bella_luxury_grass_fed_lamb_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Luxury Grass Fed Lamb Adult"
+    },
+    {
+      "product_key": "bounce|bella_luxury_scottish_salmon_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Luxury Scottish Salmon Adult"
+    },
+    {
+      "product_key": "bounce|bella_luxury_scottish_salmon_puppy|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Luxury Scottish Salmon Puppy"
+    },
+    {
+      "product_key": "bounce|bella_luxury_scottish_salmon_senior|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Luxury Scottish Salmon Senior"
+    },
+    {
+      "product_key": "bounce|bella_luxury_scottish_salmon_small_breed_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Luxury Scottish salmon Small Breed Adult"
+    },
+    {
+      "product_key": "bounce|bella_salmon_large_breed_puppy|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Salmon Large Breed Puppy"
+    },
+    {
+      "product_key": "bounce|bella_steamed_cooked_salmon__trout_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Steamed Cooked Salmon  Trout Adult"
+    },
+    {
+      "product_key": "bounce|bella_tasty_trout__salmon_senior|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Tasty Trout  Salmon Senior"
+    },
+    {
+      "product_key": "bounce|bella_turkey__cranberry_large_breed_adult|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Turkey  Cranberry Large Breed Adult"
+    },
+    {
+      "product_key": "bounce|bella_delicious_venison,_salmon__mulberry|unknown",
+      "old_brand": "Bounce",
+      "new_brand": "Bounce and Bella",
+      "website": "https://shop.bounceandbella.co.uk/",
+      "confidence": 1.0,
+      "product_name": "Bella Delicious Venison, Salmon  Mulberry"
+    },
+    {
+      "product_key": "edgard|cooper_chicken__salmon_for_seniors|unknown",
+      "old_brand": "Edgard",
+      "new_brand": "Edgard & Cooper",
+      "website": "https://www.edgardcooper.com/",
+      "confidence": 1.0,
+      "product_name": "Cooper Chicken  Salmon For Seniors"
+    },
+    {
+      "product_key": "edgard|cooper_asc_salmon__turkey|unknown",
+      "old_brand": "Edgard",
+      "new_brand": "Edgard & Cooper",
+      "website": "https://www.edgardcooper.com/",
+      "confidence": 1.0,
+      "product_name": "Cooper ASC Salmon  Turkey"
+    },
+    {
+      "product_key": "edgard|cooper_chicken__turkey|unknown",
+      "old_brand": "Edgard",
+      "new_brand": "Edgard & Cooper",
+      "website": "https://www.edgardcooper.com/",
+      "confidence": 1.0,
+      "product_name": "Cooper Chicken  Turkey"
+    },
+    {
+      "product_key": "edgard|cooper_crispy_carrot__courgette|unknown",
+      "old_brand": "Edgard",
+      "new_brand": "Edgard & Cooper",
+      "website": "https://www.edgardcooper.com/",
+      "confidence": 1.0,
+      "product_name": "Cooper Crispy Carrot  Courgette"
+    },
+    {
+      "product_key": "edgard|cooper_delicious_game__duck|unknown",
+      "old_brand": "Edgard",
+      "new_brand": "Edgard & Cooper",
+      "website": "https://www.edgardcooper.com/",
+      "confidence": 1.0,
+      "product_name": "Cooper Delicious Game  Duck"
+    },
+    {
+      "product_key": "edgard|cooper_delightful_beef__duck|unknown",
+      "old_brand": "Edgard",
+      "new_brand": "Edgard & Cooper",
+      "website": "https://www.edgardcooper.com/",
+      "confidence": 1.0,
+      "product_name": "Cooper Delightful Beef  Duck"
+    },
+    {
+      "product_key": "edgard|cooper_delightful_beef|unknown",
+      "old_brand": "Edgard",
+      "new_brand": "Edgard & Cooper",
+      "website": "https://www.edgardcooper.com/",
+      "confidence": 1.0,
+      "product_name": "Cooper Delightful Beef"
+    }
+  ]
+}

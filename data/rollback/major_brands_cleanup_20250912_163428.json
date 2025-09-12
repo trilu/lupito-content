@@ -1,0 +1,863 @@
+[
+  {
+    "product_key": "royal-canin|canin_poodle|dry",
+    "brand": "Royal Canin",
+    "original_name": "Canin Poodle",
+    "cleaned_name": "Poodle",
+    "prefix_removed": "Canin "
+  },
+  {
+    "product_key": "wolf-of-wilderness|wolf_of_wilderness_adult|wet",
+    "brand": "Wolf Of Wilderness",
+    "original_name": "Wolf of Wilderness Adult",
+    "cleaned_name": "Adult",
+    "prefix_removed": "Wolf of Wilderness "
+  },
+  {
+    "product_key": "wolf-of-wilderness|wolf_of_wilderness_junior|wet",
+    "brand": "Wolf Of Wilderness",
+    "original_name": "Wolf of Wilderness Junior",
+    "cleaned_name": "Junior",
+    "prefix_removed": "Wolf of Wilderness "
+  },
+  {
+    "product_key": "wolf-of-wilderness|wolf_of_wilderness_senior|wet",
+    "brand": "Wolf Of Wilderness",
+    "original_name": "Wolf of Wilderness Senior",
+    "cleaned_name": "Senior",
+    "prefix_removed": "Wolf of Wilderness "
+  },
+  {
+    "product_key": "happy-dog|dog_adult_maxi|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Adult Maxi",
+    "cleaned_name": "Adult Maxi",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_adult|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini Adult",
+    "cleaned_name": "Mini Adult",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_lamb_new_zealand|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Lamb New Zealand",
+    "cleaned_name": "Pure Lamb New Zealand",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_sensitive_junior_lamb__rice|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Sensitive Junior Lamb  Rice",
+    "cleaned_name": "Sensitive Junior Lamb  Rice",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_africa|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Africa",
+    "cleaned_name": "Africa",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_andalucia|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Andalucia",
+    "cleaned_name": "Andalucia",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_canada|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Canada",
+    "cleaned_name": "Canada",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_carribbean|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Carribbean",
+    "cleaned_name": "Carribbean",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_flocken_vollkost_classic_flakes|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Flocken Vollkost Classic Flakes",
+    "cleaned_name": "Flocken Vollkost Classic Flakes",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_france|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog France",
+    "cleaned_name": "France",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_giant_baby_lamb__rice|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Giant Baby Lamb  Rice",
+    "cleaned_name": "Giant Baby Lamb  Rice",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_giant_junior_lamb__rice|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Giant Junior Lamb  Rice",
+    "cleaned_name": "Giant Junior Lamb  Rice",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_greece|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Greece",
+    "cleaned_name": "Greece",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_ireland|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Ireland",
+    "cleaned_name": "Ireland",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_light_calorie_control|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Light Calorie Control",
+    "cleaned_name": "Light Calorie Control",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_medium_adult|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Medium Adult",
+    "cleaned_name": "Medium Adult",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_africa|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini Africa",
+    "cleaned_name": "Mini Africa",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_canada|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini Canada",
+    "cleaned_name": "Mini Canada",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_france|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini France",
+    "cleaned_name": "Mini France",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_ireland|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini Ireland",
+    "cleaned_name": "Mini Ireland",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_light|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini Light",
+    "cleaned_name": "Mini Light",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_montana|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini Montana",
+    "cleaned_name": "Mini Montana",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_new_zealand|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini New Zealand",
+    "cleaned_name": "Mini New Zealand",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_senior|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini Senior",
+    "cleaned_name": "Mini Senior",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_toscana|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini Toscana",
+    "cleaned_name": "Mini Toscana",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_mini_xs_japan|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Mini Xs Japan",
+    "cleaned_name": "Mini Xs Japan",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_montana|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Montana",
+    "cleaned_name": "Montana",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_naturcroq_lamb__rice|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Naturcroq Lamb  Rice",
+    "cleaned_name": "Naturcroq Lamb  Rice",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_new_zealand|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog New Zealand",
+    "cleaned_name": "New Zealand",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_piemonte|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Piemonte",
+    "cleaned_name": "Piemonte",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_puppy/junior_lamb|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Puppy/Junior Lamb",
+    "cleaned_name": "Puppy/Junior Lamb",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_beef_germany|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Beef Germany",
+    "cleaned_name": "Pure Beef Germany",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_buffalo_italy|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Buffalo Italy",
+    "cleaned_name": "Pure Buffalo Italy",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_duck_france|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Duck France",
+    "cleaned_name": "Pure Duck France",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_game_sweden|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Game Sweden",
+    "cleaned_name": "Pure Game Sweden",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_goat_sardinia|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Goat Sardinia",
+    "cleaned_name": "Pure Goat Sardinia",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_horse_montana|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Horse Montana",
+    "cleaned_name": "Pure Horse Montana",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_kangaroo_australia|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Kangaroo Australia",
+    "cleaned_name": "Pure Kangaroo Australia",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_toscana|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Toscana",
+    "cleaned_name": "Toscana",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_ostrich_africa|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Ostrich Africa",
+    "cleaned_name": "Pure Ostrich Africa",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_sea_fish_norway|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Sea Fish Norway",
+    "cleaned_name": "Pure Sea Fish Norway",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_pure_turkey_texas|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Pure Turkey Texas",
+    "cleaned_name": "Pure Turkey Texas",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_sano_n_kidney_diet|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Sano N Kidney Diet",
+    "cleaned_name": "Sano N Kidney Diet",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_sensitive_baby_lamb__rice|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Sensitive Baby Lamb  Rice",
+    "cleaned_name": "Sensitive Baby Lamb  Rice",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_sensitive_baby_salmon__potato|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Sensitive Baby Salmon  Potato",
+    "cleaned_name": "Sensitive Baby Salmon  Potato",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_sensitive_junior_salmon__potato|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Sensitive Junior Salmon  Potato",
+    "cleaned_name": "Sensitive Junior Salmon  Potato",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_sensitive_mini_puppy|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Sensitive Mini Puppy",
+    "cleaned_name": "Sensitive Mini Puppy",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_sport_adult|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Sport Adult",
+    "cleaned_name": "Sport Adult",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "happy-dog|dog_sport_nordic|unknown",
+    "brand": "Happy Dog",
+    "original_name": "Dog Sport Nordic",
+    "cleaned_name": "Sport Nordic",
+    "prefix_removed": "Dog "
+  },
+  {
+    "product_key": "hills-science-plan|science_plan_puppy_medium_breed_lamb__rice|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Science Plan Puppy Medium Breed Lamb  Rice",
+    "cleaned_name": "Puppy Medium Breed Lamb  Rice",
+    "prefix_removed": "Science Plan "
+  },
+  {
+    "product_key": "hills-science-plan|science_plan_sensitive_small__mini_adult_chicken|unknown",
+    "brand": "Hill's Science Plan",
+    "original_name": "Science Plan Sensitive Small  Mini Adult Chicken",
+    "cleaned_name": "Sensitive Small  Mini Adult Chicken",
+    "prefix_removed": "Science Plan "
+  },
+  {
+    "product_key": "hills-science-plan|science_plan_small__miniature_breed_puppy_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Science Plan Small  Miniature Breed Puppy Chicken",
+    "cleaned_name": "Small  Miniature Breed Puppy Chicken",
+    "prefix_removed": "Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_perfect_digestion_small_&_mini_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Perfect Digestion Small & Mini with Chicken",
+    "cleaned_name": "Adult 1+ Perfect Digestion Small & Mini with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_perfect_weight_large_breed_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Perfect Weight Large Breed with Chicken",
+    "cleaned_name": "Adult 1+ Perfect Weight Large Breed with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_perfect_weight_small_&_mini_mousse|wet",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Perfect Weight Small & Mini Mousse",
+    "cleaned_name": "Adult 1+ Perfect Weight Small & Mini Mousse",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_sensitive_stomach_&_skin_medium_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Sensitive Stomach & Skin Medium with Chicken",
+    "cleaned_name": "Adult 1+ Sensitive Stomach & Skin Medium with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1-5_light_large_breed_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1-5 Light Large Breed with Chicken",
+    "cleaned_name": "Adult 1-5 Light Large Breed with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1-6_light_medium_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1-6 Light Medium with Chicken",
+    "cleaned_name": "Adult 1-6 Light Medium with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1-6_light_with_chicken|wet",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1-6 Light with Chicken",
+    "cleaned_name": "Adult 1-6 Light with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1-6_medium_with_lamb_&_rice|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1-6 Medium with Lamb & Rice",
+    "cleaned_name": "Adult 1-6 Medium with Lamb & Rice",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1-6_perfect_weight_medium_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1-6 Perfect Weight Medium with Chicken",
+    "cleaned_name": "Adult 1-6 Perfect Weight Medium with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1-6_performance_medium_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1-6 Performance Medium with Chicken",
+    "cleaned_name": "Adult 1-6 Performance Medium with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_healthy_mobility_large_breed_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Healthy Mobility Large Breed with Chicken",
+    "cleaned_name": "Adult 1+ Healthy Mobility Large Breed with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_healthy_mobility_medium_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Healthy Mobility Medium with Chicken",
+    "cleaned_name": "Adult 1+ Healthy Mobility Medium with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_hypoallergenic_large_breed_salmon|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Hypoallergenic Large Breed Salmon",
+    "cleaned_name": "Adult 1+ Hypoallergenic Large Breed Salmon",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_hypoallergenic_medium_salmon|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Hypoallergenic Medium Salmon",
+    "cleaned_name": "Adult 1+ Hypoallergenic Medium Salmon",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_hypoallergenic_small_&_mini_salmon|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Hypoallergenic Small & Mini Salmon",
+    "cleaned_name": "Adult 1+ Hypoallergenic Small & Mini Salmon",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult_1+_perfect_digestion_medium_breed_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult 1+ Perfect Digestion Medium Breed with Chicken",
+    "cleaned_name": "Adult 1+ Perfect Digestion Medium Breed with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_adult|wet",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Adult",
+    "cleaned_name": "Adult",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_mature_adult_7+|wet",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Mature Adult 7+",
+    "cleaned_name": "Mature Adult 7+",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_mature_adult_senior_vitality_7+_small_&_mini_with_chicken|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Mature Adult Senior Vitality 7+ Small & Mini with Chicken",
+    "cleaned_name": "Mature Adult Senior Vitality 7+ Small & Mini with Chicken",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_puppy_&_mother_tender_mousse|wet",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Puppy & Mother Tender Mousse",
+    "cleaned_name": "Puppy & Mother Tender Mousse",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_puppy_<1_medium_with_lamb_&_rice|dry",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Puppy <1 Medium with Lamb & Rice",
+    "cleaned_name": "Puppy <1 Medium with Lamb & Rice",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_science_plan|hill's_science_plan_puppy_<1|wet",
+    "brand": "Hill's Science Plan",
+    "original_name": "Hill's Science Plan Puppy <1",
+    "cleaned_name": "Puppy <1",
+    "prefix_removed": "Hill's Science Plan "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_c/d_multicare_urinary_care_with_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet c/d Multicare Urinary Care with chicken",
+    "cleaned_name": "c/d Multicare Urinary Care with chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_c/d_multicare_urinary_care_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine c/d Multicare Urinary Care - Chicken",
+    "cleaned_name": "Canine c/d Multicare Urinary Care - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_c/d_multicare_urinary_care|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine c/d Multicare Urinary Care",
+    "cleaned_name": "Canine c/d Multicare Urinary Care",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_derm_defense_skin_care_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine Derm Defense Skin Care - Chicken",
+    "cleaned_name": "Canine Derm Defense Skin Care - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_dry_dog_food_+|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine Dry Dog Food +",
+    "cleaned_name": "Canine Dry Dog Food +",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_gastrointestinal_biome_-_chicken|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine Gastrointestinal Biome - Chicken",
+    "cleaned_name": "Canine Gastrointestinal Biome - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_i/d_digestive_care_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine i/d Digestive Care - Chicken",
+    "cleaned_name": "Canine i/d Digestive Care - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_i/d_digestive_care_-_turkey|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine i/d Digestive Care - Turkey",
+    "cleaned_name": "Canine i/d Digestive Care - Turkey",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_i/d_low_fat_digestive_care|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine i/d Low Fat Digestive Care",
+    "cleaned_name": "Canine i/d Low Fat Digestive Care",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_i/d_stress_mini_digestive_care_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine i/d Stress Mini Digestive Care - Chicken",
+    "cleaned_name": "Canine i/d Stress Mini Digestive Care - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_j/d_joint_care_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine j/d Joint Care - Chicken",
+    "cleaned_name": "Canine j/d Joint Care - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_j/d_mini_metabolic_+_mobility_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine j/d Mini Metabolic + Mobility - Chicken",
+    "cleaned_name": "Canine j/d Mini Metabolic + Mobility - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_j/d_reduced_calorie_joint_care_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine j/d Reduced Calorie Joint Care - Chicken",
+    "cleaned_name": "Canine j/d Reduced Calorie Joint Care - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_k/d_kidney_care_-_original|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine k/d Kidney Care - Original",
+    "cleaned_name": "Canine k/d Kidney Care - Original",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_k/d_kidney_care|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine k/d Kidney Care",
+    "cleaned_name": "Canine k/d Kidney Care",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_l/d_liver_care|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine l/d Liver Care",
+    "cleaned_name": "Canine l/d Liver Care",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_metabolic_+_mobility|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine Metabolic + Mobility",
+    "cleaned_name": "Canine Metabolic + Mobility",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_metabolic_mini_dog_food|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine Metabolic Mini Dog Food",
+    "cleaned_name": "Canine Metabolic Mini Dog Food",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_metabolic_weight_management_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine Metabolic Weight Management - Chicken",
+    "cleaned_name": "Canine Metabolic Weight Management - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_metabolic_weight_management_-_lamb_&_rice|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine Metabolic Weight Management - Lamb & Rice",
+    "cleaned_name": "Canine Metabolic Weight Management - Lamb & Rice",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_metabolic+mobility_weight+joint_care_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine Metabolic+Mobility Weight+Joint Care Chicken",
+    "cleaned_name": "Canine Metabolic+Mobility Weight+Joint Care Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_puppy_derm_complete_dry_dog_food|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine Puppy Derm Complete Dry Dog Food",
+    "cleaned_name": "Canine Puppy Derm Complete Dry Dog Food",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_r/d_weight_loss|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine r/d Weight Loss",
+    "cleaned_name": "Canine r/d Weight Loss",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_r/d_weight_reduction_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine r/d Weight Reduction - Chicken",
+    "cleaned_name": "Canine r/d Weight Reduction - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_t/d_dental_care_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine t/d Dental Care - Chicken",
+    "cleaned_name": "Canine t/d Dental Care - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_t/d_mini_dental_care|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine t/d Mini Dental Care",
+    "cleaned_name": "Canine t/d Mini Dental Care",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_u/d_urinary_care|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine u/d Urinary Care",
+    "cleaned_name": "Canine u/d Urinary Care",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_w/d_diabetes_care_-_chicken|wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine w/d Diabetes Care - Chicken",
+    "cleaned_name": "Canine w/d Diabetes Care - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_canine_z/d_food_sensitivities|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Canine z/d Food Sensitivities",
+    "cleaned_name": "Canine z/d Food Sensitivities",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_derm_complete_mini|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Derm Complete Mini",
+    "cleaned_name": "Derm Complete Mini",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_derm_complete_with_rice_&_egg|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Derm Complete with Rice & Egg",
+    "cleaned_name": "Derm Complete with Rice & Egg",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_gastrointestinal_biome_mini_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Gastrointestinal Biome Mini - Chicken",
+    "cleaned_name": "Gastrointestinal Biome Mini - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_gastrointestinal_biome_mini_with_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Gastrointestinal Biome Mini with chicken",
+    "cleaned_name": "Gastrointestinal Biome Mini with chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_gastrointestinal_biome_with_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Gastrointestinal Biome with chicken",
+    "cleaned_name": "Gastrointestinal Biome with chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_i/d_digestive_care_turkey_canned_dog_food|vet-prescribed wet",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet i/d Digestive Care Turkey Canned Dog Food",
+    "cleaned_name": "i/d Digestive Care Turkey Canned Dog Food",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_i/d_stress_mini_digestive_care_with_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet i/d Stress Mini Digestive Care with chicken",
+    "cleaned_name": "i/d Stress Mini Digestive Care with chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_k/d_+_mobility|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet k/d + Mobility",
+    "cleaned_name": "k/d + Mobility",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_k/d_kidney_care|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet k/d Kidney Care",
+    "cleaned_name": "k/d Kidney Care",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_metabolic_weight_management_with_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Metabolic Weight Management with chicken",
+    "cleaned_name": "Metabolic Weight Management with chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_metabolic_weight_management_with_lamb_&_rice|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet Metabolic Weight Management with Lamb & Rice",
+    "cleaned_name": "Metabolic Weight Management with Lamb & Rice",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_on-care_with_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet On-Care with Chicken",
+    "cleaned_name": "On-Care with Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_w/d_diabetes_care_-_chicken|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet w/d Diabetes Care - Chicken",
+    "cleaned_name": "w/d Diabetes Care - Chicken",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_z/d_food_sensitivities_low_fat_hydrolysed_soya|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet z/d Food Sensitivities Low Fat Hydrolysed Soya",
+    "cleaned_name": "z/d Food Sensitivities Low Fat Hydrolysed Soya",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_z/d_food_sensitivities_mini|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet z/d Food Sensitivities Mini",
+    "cleaned_name": "z/d Food Sensitivities Mini",
+    "prefix_removed": "Hill's Prescription Diet "
+  },
+  {
+    "product_key": "hill's_prescription_diet|hill's_prescription_diet_z/d_food_sensitivities|dry",
+    "brand": "Hill's Prescription Diet",
+    "original_name": "Hill's Prescription Diet z/d Food Sensitivities",
+    "cleaned_name": "z/d Food Sensitivities",
+    "prefix_removed": "Hill's Prescription Diet "
+  }
+]

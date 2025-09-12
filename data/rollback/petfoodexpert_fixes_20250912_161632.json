@@ -1,0 +1,2720 @@
+[
+  {
+    "product_key": "betty|butch_insect,_sweet_potato_and_cranberry_adult|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_insect,_sweet_potato_and_cranberry_adult|unknown",
+    "new_product_key": "betty-and-butch|butch_insect,_sweet_potato_and_cranberry_adult|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_duck,_rice_and_veg|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_duck,_rice_and_veg|unknown",
+    "new_product_key": "betty-and-butch|butch_duck,_rice_and_veg|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_lamb,_rice_and_veg|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_lamb,_rice_and_veg|unknown",
+    "new_product_key": "betty-and-butch|butch_lamb,_rice_and_veg|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_grain-free_natural_chicken_small_breed|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_grain-free_natural_chicken_small_breed|unknown",
+    "new_product_key": "betty-and-butch|butch_grain-free_natural_chicken_small_breed|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_grain-free_natural_duck|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_grain-free_natural_duck|unknown",
+    "new_product_key": "betty-and-butch|butch_grain-free_natural_duck|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_grain-free_natural_lamb_sweet_potato_and_veg|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_grain-free_natural_lamb_sweet_potato_and_veg|unknown",
+    "new_product_key": "betty-and-butch|butch_grain-free_natural_lamb_sweet_potato_and_veg|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_grain-free_natural_turkey_sweet_potato_and_veg_senior|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_grain-free_natural_turkey_sweet_potato_and_veg_senior|unknown",
+    "new_product_key": "betty-and-butch|butch_grain-free_natural_turkey_sweet_potato_and_veg_senior|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_grain-free_natural_turkey_sweet_potato_and_veg|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_grain-free_natural_turkey_sweet_potato_and_veg|unknown",
+    "new_product_key": "betty-and-butch|butch_grain-free_natural_turkey_sweet_potato_and_veg|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_grain-free_natural_venison_sweet_potato_and_veg|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_grain-free_natural_venison_sweet_potato_and_veg|unknown",
+    "new_product_key": "betty-and-butch|butch_grain-free_natural_venison_sweet_potato_and_veg|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_low-fat_natural_turkey_sweet_potato_and_veg|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_low-fat_natural_turkey_sweet_potato_and_veg|unknown",
+    "new_product_key": "betty-and-butch|butch_low-fat_natural_turkey_sweet_potato_and_veg|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_superfood_adult_angus_beef_with_vegetables|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_superfood_adult_angus_beef_with_vegetables|unknown",
+    "new_product_key": "betty-and-butch|butch_superfood_adult_angus_beef_with_vegetables|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_superfood_adult_chicken_with_vegetables|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_superfood_adult_chicken_with_vegetables|unknown",
+    "new_product_key": "betty-and-butch|butch_superfood_adult_chicken_with_vegetables|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_superfood_adult_duck_with_vegetables|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_superfood_adult_duck_with_vegetables|unknown",
+    "new_product_key": "betty-and-butch|butch_superfood_adult_duck_with_vegetables|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_superfood_adult_lamb_with_vegetables|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_superfood_adult_lamb_with_vegetables|unknown",
+    "new_product_key": "betty-and-butch|butch_superfood_adult_lamb_with_vegetables|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_superfood_adult_small_breed_low_fat|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_superfood_adult_small_breed_low_fat|unknown",
+    "new_product_key": "betty-and-butch|butch_superfood_adult_small_breed_low_fat|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_superfood_adult_turkey_with_vegetables|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_superfood_adult_turkey_with_vegetables|unknown",
+    "new_product_key": "betty-and-butch|butch_superfood_adult_turkey_with_vegetables|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_ocean_fish_and_sweet_potato|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_ocean_fish_and_sweet_potato|unknown",
+    "new_product_key": "betty-and-butch|butch_ocean_fish_and_sweet_potato|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_peptide_weight_control__joint_care_hypoallergenic|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_peptide_weight_control__joint_care_hypoallergenic|unknown",
+    "new_product_key": "betty-and-butch|butch_peptide_weight_control__joint_care_hypoallergenic|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_natural_ocean_salmon__trout|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_natural_ocean_salmon__trout|unknown",
+    "new_product_key": "betty-and-butch|butch_natural_ocean_salmon__trout|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_natural_salmon_large_breed|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_natural_salmon_large_breed|unknown",
+    "new_product_key": "betty-and-butch|butch_natural_salmon_large_breed|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_turkey_and_sweet_potato|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_turkey_and_sweet_potato|unknown",
+    "new_product_key": "betty-and-butch|butch_turkey_and_sweet_potato|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_chicken_and_sweet_potato|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_chicken_and_sweet_potato|unknown",
+    "new_product_key": "betty-and-butch|butch_chicken_and_sweet_potato|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "betty|butch_natural_ocean_haddock|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Betty & Butch",
+    "old_product_key": "betty|butch_natural_ocean_haddock|unknown",
+    "new_product_key": "betty-and-butch|butch_natural_ocean_haddock|unknown",
+    "website": "https://www.bettyandbutch.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_chicken__rice|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_chicken__rice|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_chicken__rice|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_chicken_with_sweet_potato__herbs|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_chicken_with_sweet_potato__herbs|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_chicken_with_sweet_potato__herbs|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_duck_with_sweet_potato__orange|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_duck_with_sweet_potato__orange|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_duck_with_sweet_potato__orange|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_haddock_with_sweet_potato__parsley|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_haddock_with_sweet_potato__parsley|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_haddock_with_sweet_potato__parsley|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_lamb_with_sweet_potato__mint|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_lamb_with_sweet_potato__mint|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_lamb_with_sweet_potato__mint|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_light_trout_with_salmon,_sweet_potato__asparagus|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_light_trout_with_salmon,_sweet_potato__asparagus|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_light_trout_with_salmon,_sweet_potato__asparagus|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_light_turkey_with_sweet_potato__cranberry|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_light_turkey_with_sweet_potato__cranberry|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_light_turkey_with_sweet_potato__cranberry|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_pork_with_sweet_potato__apple|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_pork_with_sweet_potato__apple|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_pork_with_sweet_potato__apple|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_puppy_-_chicken_with_turkey,_salmon,_sweet_potato__carrot|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_puppy_-_chicken_with_turkey,_salmon,_sweet_potato__carrot|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_puppy_-_chicken_with_turkey,_salmon,_sweet_potato__carrot|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_puppy_-_salmon_with_haddock,_blue_whiting,_sweet_potato__asparagus|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_puppy_-_salmon_with_haddock,_blue_whiting,_sweet_potato__asparagus|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_puppy_-_salmon_with_haddock,_blue_whiting,_sweet_potato__asparagus|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_puppy_duck_with_turkey,_sweet_potato,_dill__camomile|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_puppy_duck_with_turkey,_sweet_potato,_dill__camomile|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_puppy_duck_with_turkey,_sweet_potato,_dill__camomile|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_rabbit_with_sweet_potato__blackberry|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_rabbit_with_sweet_potato__blackberry|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_rabbit_with_sweet_potato__blackberry|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_salmon_with_trout,_sweet_potato__asparagus|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_salmon_with_trout,_sweet_potato__asparagus|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_salmon_with_trout,_sweet_potato__asparagus|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_tuna_with_sweet_potato__broccoli|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_tuna_with_sweet_potato__broccoli|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_tuna_with_sweet_potato__broccoli|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_grain-free_venison_with_mulberry__sweet_potato|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_grain-free_venison_with_mulberry__sweet_potato|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_grain-free_venison_with_mulberry__sweet_potato|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_puppy_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_puppy_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_puppy_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_puppy_-_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_puppy_-_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_puppy_-_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_puppy_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_puppy_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_puppy_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_senior_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_senior_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_senior_-_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_angus_beef_with_carrot,_green_beans,_cauliflower,_tomato__courgette|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_superfood_english_country_duck_with_parsnip,_beetroot,_orange,_asparagus__pumpkin|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_superfood_english_country_duck_with_parsnip,_beetroot,_orange,_asparagus__pumpkin|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_english_country_duck_with_parsnip,_beetroot,_orange,_asparagus__pumpkin|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_superfood_italian_buffalo_with_basil,_blackberry,_turmeric,_flaxseed__apple|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_superfood_italian_buffalo_with_basil,_blackberry,_turmeric,_flaxseed__apple|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_italian_buffalo_with_basil,_blackberry,_turmeric,_flaxseed__apple|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_superfood_light_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_superfood_light_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_light_free_range_turkey_with_parsley,_papaya,_nettle,_zucchini__pumpkin|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Sausage Dog Sanctuary Food",
+    "old_product_key": "sausage|dog_sanctuary_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+    "new_product_key": "sausage-dog-sanctuary-food|dog_sanctuary_superfood_scottish_salmon_with_dill,_spinach,_fennel,_asparagus__tomato|unknown",
+    "website": "https://sausagedogsanctuaryfood.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_puppy_junior_super_premium_chicken_and_rice_wheat_free_working_puppy_dog_food_for_small_to_medium_breeds|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_puppy_junior_super_premium_chicken_and_rice_wheat_free_working_puppy_dog_food_for_small_to_medium_breeds|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_puppy_junior_super_premium_chicken_and_rice_wheat_free_working_puppy_dog_food_for_small_to_medium_breeds|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_chicken_with_rice_super_premium_wheat_free_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_chicken_with_rice_super_premium_wheat_free_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_chicken_with_rice_super_premium_wheat_free_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_duck_with_potato_super_premium_wheat__grain_free_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_duck_with_potato_super_premium_wheat__grain_free_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_duck_with_potato_super_premium_wheat__grain_free_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_canine_best_65%_beef_with_sweet_potato__superfoods|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_canine_best_65%_beef_with_sweet_potato__superfoods|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_canine_best_65%_beef_with_sweet_potato__superfoods|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_canine_best_65%_duck_with_sweet_potato__superfoods|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_canine_best_65%_duck_with_sweet_potato__superfoods|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_canine_best_65%_duck_with_sweet_potato__superfoods|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_canine_best_65%_salmon_with_sweet_potato__superfoods_puppy__junior|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_canine_best_65%_salmon_with_sweet_potato__superfoods_puppy__junior|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_canine_best_65%_salmon_with_sweet_potato__superfoods_puppy__junior|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_canine_best_65%_salmon_with_sweet_potato__superfoods|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_canine_best_65%_salmon_with_sweet_potato__superfoods|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_canine_best_65%_salmon_with_sweet_potato__superfoods|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_puppy_junior_chicken_turkey_salmon_sweet_potato_with_carrots_and_peas_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_puppy_junior_chicken_turkey_salmon_sweet_potato_with_carrots_and_peas_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_puppy_junior_chicken_turkey_salmon_sweet_potato_with_carrots_and_peas_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_chicken_sweet_potato_and_herbs_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_chicken_sweet_potato_and_herbs_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_chicken_sweet_potato_and_herbs_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_duck_alorange_with_sweet_potato_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_duck_alorange_with_sweet_potato_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_duck_alorange_with_sweet_potato_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_haddock_sweet_potato_and_parsley_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_haddock_sweet_potato_and_parsley_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_haddock_sweet_potato_and_parsley_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_lamb_sweet_potato_and_mint_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_lamb_sweet_potato_and_mint_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_lamb_sweet_potato_and_mint_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_pork_sweet_potato_and_apple_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_pork_sweet_potato_and_apple_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_pork_sweet_potato_and_apple_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_salmon_trout_sweet_potato_and_asparagus_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_salmon_trout_sweet_potato_and_asparagus_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_salmon_trout_sweet_potato_and_asparagus_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_turkey_sweet_potato_and_cranberry_large_breed_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_turkey_sweet_potato_and_cranberry_large_breed_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_turkey_sweet_potato_and_cranberry_large_breed_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_turkey_sweet_potato_and_cranberry_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_turkey_sweet_potato_and_cranberry_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_turkey_sweet_potato_and_cranberry_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_large_breed_puppy_junior_super_premium_salmon_with_potato_working_puppy|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_large_breed_puppy_junior_super_premium_salmon_with_potato_working_puppy|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_large_breed_puppy_junior_super_premium_salmon_with_potato_working_puppy|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_senior_light_grain_free_trout_salmon_sweet_potato_and_asparagus_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_senior_light_grain_free_trout_salmon_sweet_potato_and_asparagus_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_senior_light_grain_free_trout_salmon_sweet_potato_and_asparagus_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_senior_light_grain_free_turkey_sweet_potato_and_cranberry_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_senior_light_grain_free_turkey_sweet_potato_and_cranberry_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_senior_light_grain_free_turkey_sweet_potato_and_cranberry_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_senior_light_white_fish__rice_super_premium_wheat_free_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_senior_light_white_fish__rice_super_premium_wheat_free_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_senior_light_white_fish__rice_super_premium_wheat_free_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_lamb_with_rice_super_premium_wheat_free_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_lamb_with_rice_super_premium_wheat_free_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_lamb_with_rice_super_premium_wheat_free_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_salmon_with_potato_super_premium_wheat_free_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_salmon_with_potato_super_premium_wheat_free_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_salmon_with_potato_super_premium_wheat_free_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_turkey_with_rice_super_premium_wheat_free_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_turkey_with_rice_super_premium_wheat_free_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_turkey_with_rice_super_premium_wheat_free_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_angus_beef_sweet_potato_and_carrot_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_angus_beef_sweet_potato_and_carrot_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_angus_beef_sweet_potato_and_carrot_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bright|eyes_bushy_tails_grain_free_venison_with_sweet_potato_and_mulberry_working_dog|unknown",
+    "old_brand": "Bright",
+    "new_brand": "Bright Eyes Bushy Tails",
+    "old_product_key": "bright|eyes_bushy_tails_grain_free_venison_with_sweet_potato_and_mulberry_working_dog|unknown",
+    "new_product_key": "bright-eyes-bushy-tails|eyes_bushy_tails_grain_free_venison_with_sweet_potato_and_mulberry_working_dog|unknown",
+    "website": "https://brighteyes-bushytails.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_aromatic_chicken__veg_small_breed_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_aromatic_chicken__veg_small_breed_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_aromatic_chicken__veg_small_breed_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_aromatic_chicken__veg_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_aromatic_chicken__veg_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_aromatic_chicken__veg_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_chicken_with_turkey__salmon_puppy|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_chicken_with_turkey__salmon_puppy|unknown",
+    "new_product_key": "bounce-and-bella|bella_chicken_with_turkey__salmon_puppy|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_gourmet_duck__orange_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_gourmet_duck__orange_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_gourmet_duck__orange_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_hearty_lamb,_mint__veg_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_hearty_lamb,_mint__veg_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_hearty_lamb,_mint__veg_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_irresistible_angus_beef_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_irresistible_angus_beef_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_irresistible_angus_beef_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_luxury_aberdeen_angus_beef_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_luxury_aberdeen_angus_beef_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_luxury_aberdeen_angus_beef_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_luxury_free_range_chicken_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_luxury_free_range_chicken_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_luxury_free_range_chicken_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_luxury_free_range_turkey_puppy|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_luxury_free_range_turkey_puppy|unknown",
+    "new_product_key": "bounce-and-bella|bella_luxury_free_range_turkey_puppy|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_luxury_free_range_turkey_small_breed_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_luxury_free_range_turkey_small_breed_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_luxury_free_range_turkey_small_breed_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_luxury_grass_fed_lamb_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_luxury_grass_fed_lamb_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_luxury_grass_fed_lamb_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_luxury_scottish_salmon_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_luxury_scottish_salmon_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_luxury_scottish_salmon_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_luxury_scottish_salmon_puppy|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_luxury_scottish_salmon_puppy|unknown",
+    "new_product_key": "bounce-and-bella|bella_luxury_scottish_salmon_puppy|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_luxury_scottish_salmon_senior|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_luxury_scottish_salmon_senior|unknown",
+    "new_product_key": "bounce-and-bella|bella_luxury_scottish_salmon_senior|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_luxury_scottish_salmon_small_breed_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_luxury_scottish_salmon_small_breed_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_luxury_scottish_salmon_small_breed_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_salmon_large_breed_puppy|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_salmon_large_breed_puppy|unknown",
+    "new_product_key": "bounce-and-bella|bella_salmon_large_breed_puppy|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_steamed_cooked_salmon__trout_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_steamed_cooked_salmon__trout_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_steamed_cooked_salmon__trout_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_tasty_trout__salmon_senior|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_tasty_trout__salmon_senior|unknown",
+    "new_product_key": "bounce-and-bella|bella_tasty_trout__salmon_senior|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_turkey__cranberry_large_breed_adult|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_turkey__cranberry_large_breed_adult|unknown",
+    "new_product_key": "bounce-and-bella|bella_turkey__cranberry_large_breed_adult|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "bounce|bella_delicious_venison,_salmon__mulberry|unknown",
+    "old_brand": "Bounce",
+    "new_brand": "Bounce and Bella",
+    "old_product_key": "bounce|bella_delicious_venison,_salmon__mulberry|unknown",
+    "new_product_key": "bounce-and-bella|bella_delicious_venison,_salmon__mulberry|unknown",
+    "website": "https://shop.bounceandbella.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_chicken__salmon_for_seniors|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_chicken__salmon_for_seniors|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_chicken__salmon_for_seniors|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_asc_salmon__turkey|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_asc_salmon__turkey|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_asc_salmon__turkey|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_chicken__turkey|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_chicken__turkey|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_chicken__turkey|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_crispy_carrot__courgette|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_crispy_carrot__courgette|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_crispy_carrot__courgette|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_delicious_game__duck|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_delicious_game__duck|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_delicious_game__duck|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_delightful_beef__duck|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_delightful_beef__duck|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_delightful_beef__duck|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_delightful_beef|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_delightful_beef|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_delightful_beef|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_game__duck|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_game__duck|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_game__duck|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_irresistable_lamb__beef|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_irresistable_lamb__beef|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_irresistable_lamb__beef|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_lamb__beef|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_lamb__beef|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_lamb__beef|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_magnificent_chicken__asc_salmon|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_magnificent_chicken__asc_salmon|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_magnificent_chicken__asc_salmon|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_fresh_atlantic_salmon__free_run_turkey_for_puppies|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_fresh_atlantic_salmon__free_run_turkey_for_puppies|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_fresh_atlantic_salmon__free_run_turkey_for_puppies|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_fresh_free_run_chicken__norwegian_salmon|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_fresh_free_run_chicken__norwegian_salmon|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_fresh_free_run_chicken__norwegian_salmon|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_fresh_free_run_duck__chicken_for_puppies|dry",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_fresh_free_run_duck__chicken_for_puppies|dry",
+    "new_product_key": "edgard-and-cooper|cooper_fresh_free_run_duck__chicken_for_puppies|dry",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_fresh_free-run_chicken|dry",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_fresh_free-run_chicken|dry",
+    "new_product_key": "edgard-and-cooper|cooper_fresh_free-run_chicken|dry",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_fresh_grass_fed_lamb|dry",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_fresh_grass_fed_lamb|dry",
+    "new_product_key": "edgard-and-cooper|cooper_fresh_grass_fed_lamb|dry",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_fresh_norwegian_salmon|dry",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_fresh_norwegian_salmon|dry",
+    "new_product_key": "edgard-and-cooper|cooper_fresh_norwegian_salmon|dry",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_fresh_organic_beef__free_range_chicken|dry",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_fresh_organic_beef__free_range_chicken|dry",
+    "new_product_key": "edgard-and-cooper|cooper_fresh_organic_beef__free_range_chicken|dry",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_fresh_organic_free_range_turkey__chicken|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_fresh_organic_free_range_turkey__chicken|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_fresh_organic_free_range_turkey__chicken|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_fresh_venison__free_run_duck|dry",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_fresh_venison__free_run_duck|dry",
+    "new_product_key": "edgard-and-cooper|cooper_fresh_venison__free_run_duck|dry",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_organic_chicken__fish_for_puppies|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_organic_chicken__fish_for_puppies|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_organic_chicken__fish_for_puppies|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_organic_fish|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_organic_fish|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_organic_fish|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_organic_turkey|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_organic_turkey|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_organic_turkey|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_succulent_chicken_and_turkey|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_succulent_chicken_and_turkey|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_succulent_chicken_and_turkey|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_duck__chicken_for_puppies|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_duck__chicken_for_puppies|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_duck__chicken_for_puppies|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "edgard|cooper_organic_beef|unknown",
+    "old_brand": "Edgard",
+    "new_brand": "Edgard & Cooper",
+    "old_product_key": "edgard|cooper_organic_beef|unknown",
+    "new_product_key": "edgard-and-cooper|cooper_organic_beef|unknown",
+    "website": "https://www.edgardcooper.com/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_lamb|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_lamb|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_lamb|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_puppy_chicken,_turkey__salmon|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_puppy_chicken,_turkey__salmon|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_puppy_chicken,_turkey__salmon|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_tantalising_chicken__rice_small_breed|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_tantalising_chicken__rice_small_breed|unknown",
+    "new_product_key": "growling-tums|tums_tantalising_chicken__rice_small_breed|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_comforting_chicken__rice|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_comforting_chicken__rice|unknown",
+    "new_product_key": "growling-tums|tums_comforting_chicken__rice|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_delicate_duck__potato|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_delicate_duck__potato|unknown",
+    "new_product_key": "growling-tums|tums_delicate_duck__potato|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_flavoursome_salmon__potato_small_breed|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_flavoursome_salmon__potato_small_breed|unknown",
+    "new_product_key": "growling-tums|tums_flavoursome_salmon__potato_small_breed|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_golden_oldies_senior/light|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_golden_oldies_senior/light|unknown",
+    "new_product_key": "growling-tums|tums_golden_oldies_senior/light|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_angus_beef|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_angus_beef|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_angus_beef|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_chicken|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_chicken|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_chicken|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_haddock|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_haddock|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_haddock|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_large_breed_salmon|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_large_breed_salmon|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_large_breed_salmon|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_pork|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_pork|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_pork|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_rabbit|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_rabbit|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_rabbit|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_salmon__trout|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_salmon__trout|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_salmon__trout|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_turkey|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_turkey|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_turkey|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_adult_venison|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_adult_venison|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_adult_venison|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_senior/light_salmon__trout|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_senior/light_salmon__trout|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_senior/light_salmon__trout|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_gourmet_senior/light_turkey|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_gourmet_senior/light_turkey|unknown",
+    "new_product_key": "growling-tums|tums_gourmet_senior/light_turkey|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_luscious_lamb__rice|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_luscious_lamb__rice|unknown",
+    "new_product_key": "growling-tums|tums_luscious_lamb__rice|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_scrumptious_salmon__potato|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_scrumptious_salmon__potato|unknown",
+    "new_product_key": "growling-tums|tums_scrumptious_salmon__potato|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_start_them_strong_puppy|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_start_them_strong_puppy|unknown",
+    "new_product_key": "growling-tums|tums_start_them_strong_puppy|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_succulent_salmon__potato_large_breed_puppy|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_succulent_salmon__potato_large_breed_puppy|unknown",
+    "new_product_key": "growling-tums|tums_succulent_salmon__potato_large_breed_puppy|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_superfood_buffalo|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_superfood_buffalo|unknown",
+    "new_product_key": "growling-tums|tums_superfood_buffalo|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_superfood_chicken|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_superfood_chicken|unknown",
+    "new_product_key": "growling-tums|tums_superfood_chicken|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_superfood_duck|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_superfood_duck|unknown",
+    "new_product_key": "growling-tums|tums_superfood_duck|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_superfood_salmon|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_superfood_salmon|unknown",
+    "new_product_key": "growling-tums|tums_superfood_salmon|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "growling|tums_tempting_chicken__rice_large_breed|unknown",
+    "old_brand": "Growling",
+    "new_brand": "Growling Tums",
+    "old_product_key": "growling|tums_tempting_chicken__rice_large_breed|unknown",
+    "new_product_key": "growling-tums|tums_tempting_chicken__rice_large_breed|unknown",
+    "website": "https://growlingtums.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_salmon_with_trout_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_salmon_with_trout_adult|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_salmon_with_trout_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_trout_senior|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_trout_senior|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_trout_senior|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_tuna_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_tuna_adult|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_tuna_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_angus_beef_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_angus_beef_adult|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_angus_beef_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_chicken_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_chicken_adult|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_chicken_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_chicken_feast_puppy|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_chicken_feast_puppy|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_chicken_feast_puppy|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_duck_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_duck_adult|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_duck_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_fishy_feast_puppy|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_fishy_feast_puppy|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_fishy_feast_puppy|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_lamb_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_lamb_adult|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_lamb_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_pork_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_pork_adult|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_pork_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_salmon_feast_giant_breed_puppy|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_salmon_feast_giant_breed_puppy|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_salmon_feast_giant_breed_puppy|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_turkey_adult_light|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_turkey_adult_light|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_turkey_adult_light|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_turkey_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_turkey_adult|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_turkey_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_turkey_feast_small_breed_puppy|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_turkey_feast_small_breed_puppy|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_turkey_feast_small_breed_puppy|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_gourmet_angus_beef_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_gourmet_angus_beef_adult|unknown",
+    "new_product_key": "dragonfly-products|products_gourmet_angus_beef_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_gourmet_english_country_duck_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_gourmet_english_country_duck_adult|unknown",
+    "new_product_key": "dragonfly-products|products_gourmet_english_country_duck_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_gourmet_free_range_turkey_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_gourmet_free_range_turkey_adult|unknown",
+    "new_product_key": "dragonfly-products|products_gourmet_free_range_turkey_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_gourmet_free_range_turkey_feast_puppy|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_gourmet_free_range_turkey_feast_puppy|unknown",
+    "new_product_key": "dragonfly-products|products_gourmet_free_range_turkey_feast_puppy|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_gourmet_salmon_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_gourmet_salmon_adult|unknown",
+    "new_product_key": "dragonfly-products|products_gourmet_salmon_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "dragonfly|products_freshly_prepared_venison_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Dragonfly Products",
+    "old_product_key": "dragonfly|products_freshly_prepared_venison_adult|unknown",
+    "new_product_key": "dragonfly-products|products_freshly_prepared_venison_adult|unknown",
+    "website": "https://dragonflyproducts.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_adult_duck,_sweet_potato__orange|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_adult_duck,_sweet_potato__orange|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_adult_duck,_sweet_potato__orange|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_adult_lamb,_sweet_potato__mint|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_adult_lamb,_sweet_potato__mint|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_adult_lamb,_sweet_potato__mint|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_adult_light_with_trout,_salmon,_sweet_potato__asparagus|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_adult_light_with_trout,_salmon,_sweet_potato__asparagus|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_adult_light_with_trout,_salmon,_sweet_potato__asparagus|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_adult_pork,_sweet_potato__apple|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_adult_pork,_sweet_potato__apple|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_adult_pork,_sweet_potato__apple|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_adult_salmon,_trout,_sweet_potato__asparagus|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_adult_salmon,_trout,_sweet_potato__asparagus|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_adult_salmon,_trout,_sweet_potato__asparagus|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_adult_small_breed_duck_with_sweet_potato__orange|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_adult_small_breed_duck_with_sweet_potato__orange|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_adult_small_breed_duck_with_sweet_potato__orange|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_adult_turkey,_sweet_potato__cranberry|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_adult_turkey,_sweet_potato__cranberry|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_adult_turkey,_sweet_potato__cranberry|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_adult_venison,_sweet_potato__mulberry|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_adult_venison,_sweet_potato__mulberry|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_adult_venison,_sweet_potato__mulberry|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_large_breed_puppy_junior_salmon__sweet_potato|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_large_breed_puppy_junior_salmon__sweet_potato|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_large_breed_puppy_junior_salmon__sweet_potato|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_light_adult_turkey,_sweet_potato__cranberry|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_light_adult_turkey,_sweet_potato__cranberry|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_light_adult_turkey,_sweet_potato__cranberry|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_puppy_chicken_with_turkey__salmon|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_puppy_chicken_with_turkey__salmon|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_puppy_chicken_with_turkey__salmon|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_small_breed_adult_chicken,_sweet_potato__herb|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_small_breed_adult_chicken,_sweet_potato__herb|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_small_breed_adult_chicken,_sweet_potato__herb|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_grain_free_small_breed_adult_salmon,_trout,_sweet_potato__asparagus|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_grain_free_small_breed_adult_salmon,_trout,_sweet_potato__asparagus|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_grain_free_small_breed_adult_salmon,_trout,_sweet_potato__asparagus|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_naturals_puppy_junior_turkey__rice|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_naturals_puppy_junior_turkey__rice|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_naturals_puppy_junior_turkey__rice|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_naturals_senior_light_turkey__rice|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_naturals_senior_light_turkey__rice|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_naturals_senior_light_turkey__rice|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_large_breed_adult_turkey,_sweet_potato__cranberry|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_large_breed_adult_turkey,_sweet_potato__cranberry|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_large_breed_adult_turkey,_sweet_potato__cranberry|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_super_premium_adult_lamb__rice|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_super_premium_adult_lamb__rice|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_super_premium_adult_lamb__rice|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_super_premium_adult_large_breed_chicken__rice|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_super_premium_adult_large_breed_chicken__rice|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_super_premium_adult_large_breed_chicken__rice|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_super_premium_working_adult_turkey__rice|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_super_premium_working_adult_turkey__rice|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_super_premium_working_adult_turkey__rice|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_superior_adult_angus_beef|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_superior_adult_angus_beef|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_superior_adult_angus_beef|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_superior_adult_english_country_duck|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_superior_adult_english_country_duck|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_superior_adult_english_country_duck|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_superior_adult_free_range_turkey|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_superior_adult_free_range_turkey|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_superior_adult_free_range_turkey|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_superior_adult_scottish_salmon|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_superior_adult_scottish_salmon|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_superior_adult_scottish_salmon|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_superior_adult_small_breed_angus_beef|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_superior_adult_small_breed_angus_beef|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_superior_adult_small_breed_angus_beef|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_superior_puppy_free_range_turkey|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_superior_puppy_free_range_turkey|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_superior_puppy_free_range_turkey|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_superior_puppy_scottish_salmon|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_superior_puppy_scottish_salmon|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_superior_puppy_scottish_salmon|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_superior_senior_scottish_salmon|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_superior_senior_scottish_salmon|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_superior_senior_scottish_salmon|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "borders|pet_foods_naturals_adult_fish__rice|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Borders Pet Foods",
+    "old_product_key": "borders|pet_foods_naturals_adult_fish__rice|unknown",
+    "new_product_key": "borders-pet-foods|pet_foods_naturals_adult_fish__rice|unknown",
+    "website": null,
+    "confidence": 0.95
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_angus_beef,_sweet_potato__carrot_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_angus_beef,_sweet_potato__carrot_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_angus_beef,_sweet_potato__carrot_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_chicken,_sweet_potato_and_herb_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_chicken,_sweet_potato_and_herb_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_chicken,_sweet_potato_and_herb_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_chicken,_sweet_potato_and_herb_small_breed_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_chicken,_sweet_potato_and_herb_small_breed_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_chicken,_sweet_potato_and_herb_small_breed_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_chicken,_sweet_potato,_carrots_and_peas_puppy|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_chicken,_sweet_potato,_carrots_and_peas_puppy|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_chicken,_sweet_potato,_carrots_and_peas_puppy|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_duck,_sweet_potato_and_orange_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_duck,_sweet_potato_and_orange_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_duck,_sweet_potato_and_orange_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_lamb,_sweet_potato_and_mint_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_lamb,_sweet_potato_and_mint_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_lamb,_sweet_potato_and_mint_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_pork,_sweet_potato_and_apple_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_pork,_sweet_potato_and_apple_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_pork,_sweet_potato_and_apple_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_salmon,_sweet_potato_and_vegetables_large_breed_puppy|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_salmon,_sweet_potato_and_vegetables_large_breed_puppy|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_salmon,_sweet_potato_and_vegetables_large_breed_puppy|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_salmon,_trout,_sweet_potato_and_asparagus_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_salmon,_trout,_sweet_potato_and_asparagus_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_salmon,_trout,_sweet_potato_and_asparagus_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_salmon,_trout,_sweet_potato_and_asparagus_senior|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_salmon,_trout,_sweet_potato_and_asparagus_senior|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_salmon,_trout,_sweet_potato_and_asparagus_senior|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_turkey,_sweet_potato__cranberry_light_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_turkey,_sweet_potato__cranberry_light_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_turkey,_sweet_potato__cranberry_light_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_turkey,_sweet_potato_and_cranberry_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_turkey,_sweet_potato_and_cranberry_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_turkey,_sweet_potato_and_cranberry_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_gourmet_grain_free_turkey,_sweet_potato_and_cranberry_large_breed_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_gourmet_grain_free_turkey,_sweet_potato_and_cranberry_large_breed_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_gourmet_grain_free_turkey,_sweet_potato_and_cranberry_large_breed_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_hypoallergenic_chicken_and_rice_large_breed_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_hypoallergenic_chicken_and_rice_large_breed_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_hypoallergenic_chicken_and_rice_large_breed_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_hypoallergenic_chicken_and_rice_small_breed_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_hypoallergenic_chicken_and_rice_small_breed_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_hypoallergenic_chicken_and_rice_small_breed_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_hypoallergenic_duck_and_potato_grain_free_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_hypoallergenic_duck_and_potato_grain_free_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_hypoallergenic_duck_and_potato_grain_free_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_hypoallergenic_fish_and_potato_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_hypoallergenic_fish_and_potato_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_hypoallergenic_fish_and_potato_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_hypoallergenic_lamb_and_rice_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_hypoallergenic_lamb_and_rice_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_hypoallergenic_lamb_and_rice_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_hypoallergenic_puppy|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_hypoallergenic_puppy|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_hypoallergenic_puppy|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_hypoallergenic_salmon_and_potato_large_breed_puppy|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_hypoallergenic_salmon_and_potato_large_breed_puppy|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_hypoallergenic_salmon_and_potato_large_breed_puppy|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_hypoallergenic_senior_light|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_hypoallergenic_senior_light|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_hypoallergenic_senior_light|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_hypoallergenic_turkey_and_rice_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_hypoallergenic_turkey_and_rice_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_hypoallergenic_turkey_and_rice_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_natural_fish_and_rice_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_natural_fish_and_rice_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_natural_fish_and_rice_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_natural_lamb_and_rice_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_natural_lamb_and_rice_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_natural_lamb_and_rice_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_natural_turkey_and_rice_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_natural_turkey_and_rice_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_natural_turkey_and_rice_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_natural_turkey_and_rice_puppy|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_natural_turkey_and_rice_puppy|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_natural_turkey_and_rice_puppy|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_natural_turkey_and_rice_senior_light|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_natural_turkey_and_rice_senior_light|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_natural_turkey_and_rice_senior_light|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "harrier|pro_pet_foods_natural_turkey_and_rice_small_breed_adult|unknown",
+    "old_brand": "Harrier",
+    "new_brand": "Harrier Pro Pet Foods",
+    "old_product_key": "harrier|pro_pet_foods_natural_turkey_and_rice_small_breed_adult|unknown",
+    "new_product_key": "harrier-pro-pet-foods|pro_pet_foods_natural_turkey_and_rice_small_breed_adult|unknown",
+    "website": "https://www.harrierpropetfoods.co.uk/",
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_adult_green_fields|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_adult_green_fields|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_adult_green_fields|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_blue_river|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_blue_river|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_blue_river|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_canadian_woodlands_beef,_cod__turkey|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_canadian_woodlands_beef,_cod__turkey|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_canadian_woodlands_beef,_cod__turkey|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_explore_the_endless_terrain_mobility|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_explore_the_endless_terrain_mobility|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_explore_the_endless_terrain_mobility|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_explore_the_vast_forests_weight_management|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_explore_the_vast_forests_weight_management|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_explore_the_vast_forests_weight_management|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_junior_wild_hills|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_junior_wild_hills|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_junior_wild_hills|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_senior_green_fields_lamb|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_senior_green_fields_lamb|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_senior_green_fields_lamb|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_sensitive_fiery_volcanoes|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_sensitive_fiery_volcanoes|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_sensitive_fiery_volcanoes|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_soft_high_valley_beef|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_soft_high_valley_beef|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_soft_high_valley_beef|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_soft_wide_acres|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_soft_wide_acres|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_soft_wide_acres|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_the_taste_of_canada|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_the_taste_of_canada|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_the_taste_of_canada|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_the_taste_of_the_mediterranean|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_the_taste_of_the_mediterranean|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_the_taste_of_the_mediterranean|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_the_taste_of_the_savannah|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_the_taste_of_the_savannah|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_the_taste_of_the_savannah|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "wolf|of_wilderness_wild_hills|unknown",
+    "old_brand": "Wolf",
+    "new_brand": "Wolf Of Wilderness",
+    "old_product_key": "wolf|of_wilderness_wild_hills|unknown",
+    "new_product_key": "wolf-of-wilderness|of_wilderness_wild_hills|unknown",
+    "website": null,
+    "confidence": 1.0
+  },
+  {
+    "product_key": "country|dog_grain_free_adult_salmon_and_sweet_potato|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_grain_free_adult_salmon_and_sweet_potato|unknown",
+    "new_product_key": "country-dog|dog_grain_free_adult_salmon_and_sweet_potato|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_original_adult_with_beef|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_original_adult_with_beef|unknown",
+    "new_product_key": "country-dog|dog_original_adult_with_beef|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_adult_7_chicken__rice|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_adult_7_chicken__rice|unknown",
+    "new_product_key": "country-dog|dog_premium_adult_7_chicken__rice|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_adult_7chicken__rice|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_adult_7chicken__rice|unknown",
+    "new_product_key": "country-dog|dog_premium_adult_7chicken__rice|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_adult_chicken__rice|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_adult_chicken__rice|unknown",
+    "new_product_key": "country-dog|dog_premium_adult_chicken__rice|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_adult_lamb_and_rice|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_adult_lamb_and_rice|unknown",
+    "new_product_key": "country-dog|dog_premium_adult_lamb_and_rice|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_grain_free_adult_salmon|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_grain_free_adult_salmon|unknown",
+    "new_product_key": "country-dog|dog_premium_grain_free_adult_salmon|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_puppy_chicken__rice|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_puppy_chicken__rice|unknown",
+    "new_product_key": "country-dog|dog_premium_puppy_chicken__rice|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|pursuit_maintenance_working_dog|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|pursuit_maintenance_working_dog|unknown",
+    "new_product_key": "country-dog|pursuit_maintenance_working_dog|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_grain_free_chicken_and_potato|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_grain_free_chicken_and_potato|unknown",
+    "new_product_key": "country-dog|dog_premium_grain_free_chicken_and_potato|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_grain_free_chicken_with_vegetables|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_grain_free_chicken_with_vegetables|unknown",
+    "new_product_key": "country-dog|dog_premium_grain_free_chicken_with_vegetables|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_lamb_and_rice|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_lamb_and_rice|unknown",
+    "new_product_key": "country-dog|dog_premium_lamb_and_rice|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_light_chicken__rice|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_light_chicken__rice|unknown",
+    "new_product_key": "country-dog|dog_premium_light_chicken__rice|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|dog_premium_chicken_and_rice|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Dog",
+    "old_product_key": "country|dog_premium_chicken_and_rice|unknown",
+    "new_product_key": "country-dog|dog_premium_chicken_and_rice|unknown",
+    "website": "https://www.countrydogfood.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|pursuit_muesli_moist_adult_mix|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Pursuit",
+    "old_product_key": "country|pursuit_muesli_moist_adult_mix|unknown",
+    "new_product_key": "country-pursuit|pursuit_muesli_moist_adult_mix|unknown",
+    "website": "https://countrypursuit.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|pursuit_original_working_adult|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Pursuit",
+    "old_product_key": "country|pursuit_original_working_adult|unknown",
+    "new_product_key": "country-pursuit|pursuit_original_working_adult|unknown",
+    "website": "https://countrypursuit.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|pursuit_premium_chicken__rice_adult|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Pursuit",
+    "old_product_key": "country|pursuit_premium_chicken__rice_adult|unknown",
+    "new_product_key": "country-pursuit|pursuit_premium_chicken__rice_adult|unknown",
+    "website": "https://countrypursuit.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|pursuit_cold_pressed_chicken__sweet_potato|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Pursuit",
+    "old_product_key": "country|pursuit_cold_pressed_chicken__sweet_potato|unknown",
+    "new_product_key": "country-pursuit|pursuit_cold_pressed_chicken__sweet_potato|unknown",
+    "website": "https://countrypursuit.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|pursuit_cold_pressed_ocean_fish__sweet_potato|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Pursuit",
+    "old_product_key": "country|pursuit_cold_pressed_ocean_fish__sweet_potato|unknown",
+    "new_product_key": "country-pursuit|pursuit_cold_pressed_ocean_fish__sweet_potato|unknown",
+    "website": "https://countrypursuit.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|pursuit_premium_puppy|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Pursuit",
+    "old_product_key": "country|pursuit_premium_puppy|unknown",
+    "new_product_key": "country-pursuit|pursuit_premium_puppy|unknown",
+    "website": "https://countrypursuit.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "country|pursuit_premium_lamb,_rice__tripe|unknown",
+    "old_brand": "Country",
+    "new_brand": "Country Pursuit",
+    "old_product_key": "country|pursuit_premium_lamb,_rice__tripe|unknown",
+    "new_product_key": "country-pursuit|pursuit_premium_lamb,_rice__tripe|unknown",
+    "website": "https://countrypursuit.co.uk/",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_beef_tripe|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_beef_tripe|raw",
+    "new_product_key": "natural-instinct|instinct_beef_tripe|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_country_banquet_organic_chicken|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_country_banquet_organic_chicken|raw",
+    "new_product_key": "natural-instinct|instinct_country_banquet_organic_chicken|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_country_banquet_organic_turkey|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_country_banquet_organic_turkey|raw",
+    "new_product_key": "natural-instinct|instinct_country_banquet_organic_turkey|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_dog_feast_turkey_dinner|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_dog_feast_turkey_dinner|raw",
+    "new_product_key": "natural-instinct|instinct_dog_feast_turkey_dinner|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_natural_chicken__lamb|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_natural_chicken__lamb|raw",
+    "new_product_key": "natural-instinct|instinct_natural_chicken__lamb|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_natural_chicken|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_natural_chicken|raw",
+    "new_product_key": "natural-instinct|instinct_natural_chicken|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_natural_lamb|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_natural_lamb|raw",
+    "new_product_key": "natural-instinct|instinct_natural_lamb|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_natural_puppy_chicken|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_natural_puppy_chicken|raw",
+    "new_product_key": "natural-instinct|instinct_natural_puppy_chicken|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_natural_senior|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_natural_senior|raw",
+    "new_product_key": "natural-instinct|instinct_natural_senior|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_natural_special_diet|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_natural_special_diet|raw",
+    "new_product_key": "natural-instinct|instinct_natural_special_diet|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_natural_tripe__turkey|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_natural_tripe__turkey|raw",
+    "new_product_key": "natural-instinct|instinct_natural_tripe__turkey|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_puppy|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_puppy|raw",
+    "new_product_key": "natural-instinct|instinct_puppy|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_working_dog_beef__chicken|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_working_dog_beef__chicken|raw",
+    "new_product_key": "natural-instinct|instinct_working_dog_beef__chicken|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_working_dog_chicken__salmon|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_working_dog_chicken__salmon|raw",
+    "new_product_key": "natural-instinct|instinct_working_dog_chicken__salmon|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_working_dog_chicken__tripe|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_working_dog_chicken__tripe|raw",
+    "new_product_key": "natural-instinct|instinct_working_dog_chicken__tripe|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_working_dog_chicken|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_working_dog_chicken|raw",
+    "new_product_key": "natural-instinct|instinct_working_dog_chicken|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_working_dog_duck|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_working_dog_duck|raw",
+    "new_product_key": "natural-instinct|instinct_working_dog_duck|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "natural|instinct_working_dog_turkey|raw",
+    "old_brand": "Natural",
+    "new_brand": "Natural Instinct",
+    "old_product_key": "natural|instinct_working_dog_turkey|raw",
+    "new_product_key": "natural-instinct|instinct_working_dog_turkey|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_active_beef__tripe_mince_80/20|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_active_beef__tripe_mince_80/20|raw",
+    "new_product_key": "cotswold-raw|raw_active_beef__tripe_mince_80/20|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_active_beef_mince_80/20|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_active_beef_mince_80/20|raw",
+    "new_product_key": "cotswold-raw|raw_active_beef_mince_80/20|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_active_beef_sausages|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_active_beef_sausages|raw",
+    "new_product_key": "cotswold-raw|raw_active_beef_sausages|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_active_chicken_mince_80/20|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_active_chicken_mince_80/20|raw",
+    "new_product_key": "cotswold-raw|raw_active_chicken_mince_80/20|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_active_chicken_sausages|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_active_chicken_sausages|raw",
+    "new_product_key": "cotswold-raw|raw_active_chicken_sausages|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_active_lamb_mince_80/20|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_active_lamb_mince_80/20|raw",
+    "new_product_key": "cotswold-raw|raw_active_lamb_mince_80/20|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_active_lamb_sausages|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_active_lamb_sausages|raw",
+    "new_product_key": "cotswold-raw|raw_active_lamb_sausages|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_active_turkey_mince|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_active_turkey_mince|raw",
+    "new_product_key": "cotswold-raw|raw_active_turkey_mince|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_active_turkey_sausages|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_active_turkey_sausages|raw",
+    "new_product_key": "cotswold-raw|raw_active_turkey_sausages|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_beef_mince_70/30_enhanced|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_beef_mince_70/30_enhanced|raw",
+    "new_product_key": "cotswold-raw|raw_beef_mince_70/30_enhanced|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_beef_mince_for_puppies|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_beef_mince_for_puppies|raw",
+    "new_product_key": "cotswold-raw|raw_beef_mince_for_puppies|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_chicken_mince_70/30_enhanced|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_chicken_mince_70/30_enhanced|raw",
+    "new_product_key": "cotswold-raw|raw_chicken_mince_70/30_enhanced|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_chicken_mince_for_puppies|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_chicken_mince_for_puppies|raw",
+    "new_product_key": "cotswold-raw|raw_chicken_mince_for_puppies|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_lamb_mince_70/30_enhanced|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_lamb_mince_70/30_enhanced|raw",
+    "new_product_key": "cotswold-raw|raw_lamb_mince_70/30_enhanced|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_wild_range_pheasant__duck_mince_80/20|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_wild_range_pheasant__duck_mince_80/20|raw",
+    "new_product_key": "cotswold-raw|raw_wild_range_pheasant__duck_mince_80/20|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_wild_range_rabbit__venison_mince_80/20|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_wild_range_rabbit__venison_mince_80/20|raw",
+    "new_product_key": "cotswold-raw|raw_wild_range_rabbit__venison_mince_80/20|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_wild_range_wild_boar__duck_mince_80/20|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_wild_range_wild_boar__duck_mince_80/20|raw",
+    "new_product_key": "cotswold-raw|raw_wild_range_wild_boar__duck_mince_80/20|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_beef__tripe_mince_for_puppies|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_beef__tripe_mince_for_puppies|raw",
+    "new_product_key": "cotswold-raw|raw_beef__tripe_mince_for_puppies|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "cotswold|raw_wild_range_duck__venison_mince_80/20|raw",
+    "old_brand": "Cotswold",
+    "new_brand": "Cotswold Raw",
+    "old_product_key": "cotswold|raw_wild_range_duck__venison_mince_80/20|raw",
+    "new_product_key": "cotswold-raw|raw_wild_range_duck__venison_mince_80/20|raw",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "jollyes|k9_optimum_adult_chicken|unknown",
+    "old_brand": "Jollyes",
+    "new_brand": "K9 Optimum",
+    "old_product_key": "jollyes|k9_optimum_adult_chicken|unknown",
+    "new_product_key": "k9-optimum|k9_optimum_adult_chicken|unknown",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "jollyes|k9_optimum_adult_medium_chicken|unknown",
+    "old_brand": "Jollyes",
+    "new_brand": "K9 Optimum",
+    "old_product_key": "jollyes|k9_optimum_adult_medium_chicken|unknown",
+    "new_product_key": "k9-optimum|k9_optimum_adult_medium_chicken|unknown",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "jollyes|k9_optimum_maxi_adult_chicken|unknown",
+    "old_brand": "Jollyes",
+    "new_brand": "K9 Optimum",
+    "old_product_key": "jollyes|k9_optimum_maxi_adult_chicken|unknown",
+    "new_product_key": "k9-optimum|k9_optimum_maxi_adult_chicken|unknown",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "jollyes|k9_optimum_maxi_puppy_chicken|unknown",
+    "old_brand": "Jollyes",
+    "new_brand": "K9 Optimum",
+    "old_product_key": "jollyes|k9_optimum_maxi_puppy_chicken|unknown",
+    "new_product_key": "k9-optimum|k9_optimum_maxi_puppy_chicken|unknown",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "jollyes|k9_optimum_mini_chicken|unknown",
+    "old_brand": "Jollyes",
+    "new_brand": "K9 Optimum",
+    "old_product_key": "jollyes|k9_optimum_mini_chicken|unknown",
+    "new_product_key": "k9-optimum|k9_optimum_mini_chicken|unknown",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "jollyes|k9_optimum_puppy_chicken_can|unknown",
+    "old_brand": "Jollyes",
+    "new_brand": "K9 Optimum",
+    "old_product_key": "jollyes|k9_optimum_puppy_chicken_can|unknown",
+    "new_product_key": "k9-optimum|k9_optimum_puppy_chicken_can|unknown",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "jollyes|k9_optimum_puppy_mini/medium_chicken|unknown",
+    "old_brand": "Jollyes",
+    "new_brand": "K9 Optimum",
+    "old_product_key": "jollyes|k9_optimum_puppy_mini/medium_chicken|unknown",
+    "new_product_key": "k9-optimum|k9_optimum_puppy_mini/medium_chicken|unknown",
+    "website": "",
+    "confidence": 0.95
+  },
+  {
+    "product_key": "jollyes|k9_optimum_senior_med/maxi_chicken|unknown",
+    "old_brand": "Jollyes",
+    "new_brand": "K9 Optimum",
+    "old_product_key": "jollyes|k9_optimum_senior_med/maxi_chicken|unknown",
+    "new_product_key": "k9-optimum|k9_optimum_senior_med/maxi_chicken|unknown",
+    "website": "",
+    "confidence": 0.95
+  }
+]
