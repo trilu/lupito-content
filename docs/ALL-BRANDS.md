@@ -28,14 +28,17 @@ Benevo
 Bentley's
 Benyfit Natural
 Beta
+Betty & Butch
 Billy & Margot
 Bob & Lush
 Bonacibo
 Bonza
 Boost
+Borders Pet Foods
 Bosch
-Bounce And Bella
+Bounce and Bella
 Briantos
+Bright Eyes Bushy Tails
 Brit
 Buddy
 Bug Bakes
@@ -67,6 +70,7 @@ Cotswold Raw
 Country Dog
 Country Kibble
 Country Pursuit
+Country Pursuit
 Country Value
 Coya
 Crave
@@ -79,6 +83,7 @@ Different Dog
 Dr Clauders
 Dr John
 Dr Veneta
+Dragonfly Products
 Earls
 Eden
 Edgard & Cooper
@@ -116,6 +121,7 @@ Grub Club
 Guru
 Gusto
 Happy Dog
+Harrier Pro Pet Foods
 Harringtons
 Healthy Paws
 Heights Farm
@@ -135,11 +141,13 @@ Jack Wolf
 James & Ella
 James Wellbeloved
 Josera
+Jollyes Lifestage
 JR
 K9 Optimum
 Kirkland
 Kronch
 Lakes Collection
+Lakes Heritage
 Langham's
 Laughing Dog
 Leader
@@ -275,5 +283,6 @@ Yarrah
 Ydolo
 Years
 Yora
+Yorkshire Valley Farms
 Zenoo
 Ziwi Peak

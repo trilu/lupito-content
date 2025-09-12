@@ -1,0 +1,2402 @@
+[
+  {
+    "product_key": "aardvark|aardvark_complete_grain_free_insect_dry_food|dry",
+    "brand": "Aardvark",
+    "original": "Aardvark Complete Grain Free Insect Dry Food",
+    "cleaned": "Complete Grain Free Insect Dry Food"
+  },
+  {
+    "product_key": "aatu|aatu_free_run_chicken|dry",
+    "brand": "Aatu",
+    "original": "Aatu Free Run Chicken",
+    "cleaned": "Free Run Chicken"
+  },
+  {
+    "product_key": "aatu|aatu_free_run_duck|dry",
+    "brand": "Aatu",
+    "original": "Aatu Free Run Duck",
+    "cleaned": "Free Run Duck"
+  },
+  {
+    "product_key": "aatu|aatu_free_run_turkey|dry",
+    "brand": "Aatu",
+    "original": "Aatu Free Run Turkey",
+    "cleaned": "Free Run Turkey"
+  },
+  {
+    "product_key": "aatu|aatu_puppy_salmon|dry",
+    "brand": "Aatu",
+    "original": "Aatu Puppy Salmon",
+    "cleaned": "Puppy Salmon"
+  },
+  {
+    "product_key": "aatu|aatu_salmon|dry",
+    "brand": "Aatu",
+    "original": "Aatu Salmon",
+    "cleaned": "Salmon"
+  },
+  {
+    "product_key": "alpha_spirit|alpha_spirit_7_days_formula_(semi-moist)|dry",
+    "brand": "Alpha Spirit",
+    "original": "Alpha Spirit 7 Days Formula (Semi-Moist)",
+    "cleaned": "7 Days Formula (Semi-Moist)"
+  },
+  {
+    "product_key": "arkwrights|arkwrights_beef|dry",
+    "brand": "Arkwrights",
+    "original": "Arkwrights Beef",
+    "cleaned": "Beef"
+  },
+  {
+    "product_key": "arkwrights|arkwrights_chicken|dry",
+    "brand": "Arkwrights",
+    "original": "Arkwrights Chicken",
+    "cleaned": "Chicken"
+  },
+  {
+    "product_key": "arkwrights|arkwrights_sporting_complete_with_extra_beef|dry",
+    "brand": "Arkwrights",
+    "original": "Arkwrights Sporting Complete with Extra Beef",
+    "cleaned": "Sporting Complete with Extra Beef"
+  },
+  {
+    "product_key": "arquivet|arquivet_fresh_farm_poultry|dry",
+    "brand": "Arquivet",
+    "original": "Arquivet Fresh Farm Poultry",
+    "cleaned": "Fresh Farm Poultry"
+  },
+  {
+    "product_key": "arquivet|arquivet_fresh_free-range_duck|dry",
+    "brand": "Arquivet",
+    "original": "Arquivet Fresh Free-Range Duck",
+    "cleaned": "Fresh Free-Range Duck"
+  },
+  {
+    "product_key": "arquivet|arquivet_fresh_free-range_turkey|dry",
+    "brand": "Arquivet",
+    "original": "Arquivet Fresh Free-Range Turkey",
+    "cleaned": "Fresh Free-Range Turkey"
+  },
+  {
+    "product_key": "arquivet|arquivet_fresh_iberian_pork|dry",
+    "brand": "Arquivet",
+    "original": "Arquivet Fresh Iberian Pork",
+    "cleaned": "Fresh Iberian Pork"
+  },
+  {
+    "product_key": "arquivet|arquivet_grain-free_turkey|dry",
+    "brand": "Arquivet",
+    "original": "Arquivet Grain-Free Turkey",
+    "cleaned": "Grain-Free Turkey"
+  },
+  {
+    "product_key": "arquivet|arquivet_original_adult_lamb_&_rice|dry",
+    "brand": "Arquivet",
+    "original": "Arquivet Original Adult Lamb & Rice",
+    "cleaned": "Original Adult Lamb & Rice"
+  },
+  {
+    "product_key": "arquivet|arquivet_original_senior_&_light_chicken|dry",
+    "brand": "Arquivet",
+    "original": "Arquivet Original Senior & Light Chicken",
+    "cleaned": "Original Senior & Light Chicken"
+  },
+  {
+    "product_key": "auchan|auchan_complete_dry_dog_food_beef|dry",
+    "brand": "Auchan",
+    "original": "Auchan Complete Dry Dog Food Beef",
+    "cleaned": "Complete Dry Dog Food Beef"
+  },
+  {
+    "product_key": "autarky|autarky_delicious_chicken|dry",
+    "brand": "Autarky",
+    "original": "Autarky Delicious Chicken",
+    "cleaned": "Delicious Chicken"
+  },
+  {
+    "product_key": "autarky|autarky_grain_free_tasty_white_fish|dry",
+    "brand": "Autarky",
+    "original": "Autarky Grain Free Tasty White Fish",
+    "cleaned": "Grain Free Tasty White Fish"
+  },
+  {
+    "product_key": "autarky|autarky_mature_lite_delicious_chicken|dry",
+    "brand": "Autarky",
+    "original": "Autarky Mature Lite Delicious Chicken",
+    "cleaned": "Mature Lite Delicious Chicken"
+  },
+  {
+    "product_key": "autarky|autarky_mature_lite_succulent_salmon|dry",
+    "brand": "Autarky",
+    "original": "Autarky Mature Lite Succulent Salmon",
+    "cleaned": "Mature Lite Succulent Salmon"
+  },
+  {
+    "product_key": "autarky|autarky_puppy/junior_delicious_chicken|dry",
+    "brand": "Autarky",
+    "original": "Autarky Puppy/Junior Delicious Chicken",
+    "cleaned": "Puppy/Junior Delicious Chicken"
+  },
+  {
+    "product_key": "autarky|autarky_succululent_salmon|dry",
+    "brand": "Autarky",
+    "original": "Autarky Succululent Salmon",
+    "cleaned": "Succululent Salmon"
+  },
+  {
+    "product_key": "autarky|autarky_tantalising_turkey_&_potato_grain_free|dry",
+    "brand": "Autarky",
+    "original": "Autarky Tantalising Turkey & Potato Grain Free",
+    "cleaned": "Tantalising Turkey & Potato Grain Free"
+  },
+  {
+    "product_key": "bakers|bakers_adult_beef_&_vegetable|dry",
+    "brand": "Bakers",
+    "original": "Bakers Adult Beef & Vegetable",
+    "cleaned": "Adult Beef & Vegetable"
+  },
+  {
+    "product_key": "bakers|bakers_adult_chicken_&_vegetable|dry",
+    "brand": "Bakers",
+    "original": "Bakers Adult Chicken & Vegetable",
+    "cleaned": "Adult Chicken & Vegetable"
+  },
+  {
+    "product_key": "bakers|bakers_adult_meaty_meals_beef|dry",
+    "brand": "Bakers",
+    "original": "Bakers Adult Meaty Meals Beef",
+    "cleaned": "Adult Meaty Meals Beef"
+  },
+  {
+    "product_key": "beneful|beneful_feel-good_weight|dry",
+    "brand": "Beneful",
+    "original": "Beneful Feel-Good Weight",
+    "cleaned": "Feel-Good Weight"
+  },
+  {
+    "product_key": "beneful|beneful_happy_years_7+|dry",
+    "brand": "Beneful",
+    "original": "Beneful Happy Years 7+",
+    "cleaned": "Happy Years 7+"
+  },
+  {
+    "product_key": "bewi_dog|bewi_dog_basic|dry",
+    "brand": "Bewi Dog",
+    "original": "Bewi Dog Basic",
+    "cleaned": "Basic"
+  },
+  {
+    "product_key": "bonzo|bonzo_vitafit_junior|dry",
+    "brand": "Bonzo",
+    "original": "Bonzo Vitafit Junior",
+    "cleaned": "Vitafit Junior"
+  },
+  {
+    "product_key": "bonzo|bonzo_mini_menu_beef_&_lamb|dry",
+    "brand": "Bonzo",
+    "original": "Bonzo Mini Menu Beef & Lamb",
+    "cleaned": "Mini Menu Beef & Lamb"
+  },
+  {
+    "product_key": "bonzo|bonzo_mini_menu_chicken_&_vegetables|dry",
+    "brand": "Bonzo",
+    "original": "Bonzo Mini Menu Chicken & Vegetables",
+    "cleaned": "Mini Menu Chicken & Vegetables"
+  },
+  {
+    "product_key": "bonzo|bonzo_vitafit_maxi|dry",
+    "brand": "Bonzo",
+    "original": "Bonzo Vitafit Maxi",
+    "cleaned": "Vitafit Maxi"
+  },
+  {
+    "product_key": "bonzo|bonzo_vitafit_selection_menu|dry",
+    "brand": "Bonzo",
+    "original": "Bonzo Vitafit Selection Menu",
+    "cleaned": "Vitafit Selection Menu"
+  },
+  {
+    "product_key": "brekkies|brekkies_complete_chicken|dry",
+    "brand": "Brekkies",
+    "original": "Brekkies Complete Chicken",
+    "cleaned": "Complete Chicken"
+  },
+  {
+    "product_key": "brekkies|brekkies_delicious_beef|dry",
+    "brand": "Brekkies",
+    "original": "Brekkies Delicious Beef",
+    "cleaned": "Delicious Beef"
+  },
+  {
+    "product_key": "brit_care|brit_care_adult_lamb_&_rice|dry",
+    "brand": "Brit Care",
+    "original": "Brit Care Adult Lamb & Rice",
+    "cleaned": "Adult Lamb & Rice"
+  },
+  {
+    "product_key": "bugbell|bugbell_belly_vital_digestion_&_intestinal_flora|dry",
+    "brand": "BugBell",
+    "original": "BugBell Belly Vital Digestion & Intestinal Flora",
+    "cleaned": "Belly Vital Digestion & Intestinal Flora"
+  },
+  {
+    "product_key": "bugbell|bugbell_bone_power|dry",
+    "brand": "BugBell",
+    "original": "BugBell Bone Power",
+    "cleaned": "Bone Power"
+  },
+  {
+    "product_key": "bugbell|bugbell_energy_wonder|dry",
+    "brand": "BugBell",
+    "original": "BugBell Energy Wonder",
+    "cleaned": "Energy Wonder"
+  },
+  {
+    "product_key": "bugbell|bugbell_happy_mood|dry",
+    "brand": "BugBell",
+    "original": "BugBell Happy Mood",
+    "cleaned": "Happy Mood"
+  },
+  {
+    "product_key": "bugbell|bugbell_high_sensitive|dry",
+    "brand": "BugBell",
+    "original": "BugBell High Sensitive",
+    "cleaned": "High Sensitive"
+  },
+  {
+    "product_key": "bugbell|bugbell_magic_relax|dry",
+    "brand": "BugBell",
+    "original": "BugBell Magic Relax",
+    "cleaned": "Magic Relax"
+  },
+  {
+    "product_key": "calibra|calibra_dog_premium_line_adult_chicken|dry",
+    "brand": "Calibra",
+    "original": "Calibra Dog Premium Line Adult Chicken",
+    "cleaned": "Dog Premium Line Adult Chicken"
+  },
+  {
+    "product_key": "calibra|calibra_life_adult_large_fresh_beef|dry",
+    "brand": "Calibra",
+    "original": "Calibra Life Adult Large Fresh Beef",
+    "cleaned": "Life Adult Large Fresh Beef"
+  },
+  {
+    "product_key": "calibra|calibra_life_adult_medium_fresh_beef|dry",
+    "brand": "Calibra",
+    "original": "Calibra Life Adult Medium Fresh Beef",
+    "cleaned": "Life Adult Medium Fresh Beef"
+  },
+  {
+    "product_key": "calibra|calibra_life_junior_small_&_medium_breed_fresh_beef|dry",
+    "brand": "Calibra",
+    "original": "Calibra Life Junior Small & Medium Breed Fresh Beef",
+    "cleaned": "Life Junior Small & Medium Breed Fresh Beef"
+  },
+  {
+    "product_key": "calibra|calibra_life_senior_large_breed_fresh_beef|dry",
+    "brand": "Calibra",
+    "original": "Calibra Life Senior Large Breed Fresh Beef",
+    "cleaned": "Life Senior Large Breed Fresh Beef"
+  },
+  {
+    "product_key": "calibra|calibra_veterinary_diet_diabetes_&_obesity_poultry|dry",
+    "brand": "Calibra",
+    "original": "Calibra Veterinary Diet Diabetes & Obesity Poultry",
+    "cleaned": "Veterinary Diet Diabetes & Obesity Poultry"
+  },
+  {
+    "product_key": "calibra|calibra_veterinary_diet_hepatic_salmon|dry",
+    "brand": "Calibra",
+    "original": "Calibra Veterinary Diet Hepatic Salmon",
+    "cleaned": "Veterinary Diet Hepatic Salmon"
+  },
+  {
+    "product_key": "canagan|canagan_insect|dry",
+    "brand": "Canagan",
+    "original": "Canagan Insect",
+    "cleaned": "Insect"
+  },
+  {
+    "product_key": "canagan|canagan_free-run_chicken|dry",
+    "brand": "Canagan",
+    "original": "Canagan Free-Run Chicken",
+    "cleaned": "Free-Run Chicken"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_large_light|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Large Light",
+    "cleaned": "for Life Large Light"
+  },
+  {
+    "product_key": "carnilove|carnilove_adult_duck_and_pheasant|dry",
+    "brand": "Carnilove",
+    "original": "Carnilove Adult Duck and Pheasant",
+    "cleaned": "Adult Duck and Pheasant"
+  },
+  {
+    "product_key": "carnilove|carnilove_adult_lamb_&_wild_boar|dry (grain-free, potato-free)",
+    "brand": "Carnilove",
+    "original": "Carnilove Adult Lamb & Wild Boar",
+    "cleaned": "Adult Lamb & Wild Boar"
+  },
+  {
+    "product_key": "carnilove|carnilove_adult_lamb_wild_boar|dry",
+    "brand": "Carnilove",
+    "original": "Carnilove Adult Lamb Wild Boar",
+    "cleaned": "Adult Lamb Wild Boar"
+  },
+  {
+    "product_key": "carnilove|carnilove_adult_large_breed_salmon_and_turkey|dry",
+    "brand": "Carnilove",
+    "original": "Carnilove Adult Large Breed Salmon and Turkey",
+    "cleaned": "Adult Large Breed Salmon and Turkey"
+  },
+  {
+    "product_key": "carnilove|carnilove_dog_food_set|dry",
+    "brand": "Carnilove",
+    "original": "Carnilove dog food set",
+    "cleaned": "dog food set"
+  },
+  {
+    "product_key": "carnilove|carnilove_fresh_adult_carp,_trout_for_dogs|dry",
+    "brand": "Carnilove",
+    "original": "Carnilove Fresh Adult carp, trout for dogs",
+    "cleaned": "Fresh Adult carp, trout for dogs"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_large_puppy_&_junior|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Large Puppy & Junior",
+    "cleaned": "for Life Large Puppy & Junior"
+  },
+  {
+    "product_key": "carnilove|carnilove_puppy_salmon_and_turkey|dry",
+    "brand": "Carnilove",
+    "original": "Carnilove Puppy Salmon and Turkey",
+    "cleaned": "Puppy Salmon and Turkey"
+  },
+  {
+    "product_key": "carnilove|carnilove_true_fresh_large_breed_with_duck|dry",
+    "brand": "Carnilove",
+    "original": "Carnilove True Fresh Large Breed with duck",
+    "cleaned": "True Fresh Large Breed with duck"
+  },
+  {
+    "product_key": "carrefour|carrefour_classic_dry_dog_food_beef_&_vegetables|dry",
+    "brand": "Carrefour",
+    "original": "Carrefour Classic Dry Dog Food Beef & Vegetables",
+    "cleaned": "Classic Dry Dog Food Beef & Vegetables"
+  },
+  {
+    "product_key": "cavom|cavom_complete_senior|dry",
+    "brand": "Cavom",
+    "original": "Cavom Complete Senior",
+    "cleaned": "Complete Senior"
+  },
+  {
+    "product_key": "cesar|cesar_classic_trays|wet",
+    "brand": "Cesar",
+    "original": "Cesar Classic Trays",
+    "cleaned": "Classic Trays"
+  },
+  {
+    "product_key": "cesar|cesar_natural_goodness_grain-free_with_superfoods|wet",
+    "brand": "Cesar",
+    "original": "Cesar Natural Goodness Grain-Free with Superfoods",
+    "cleaned": "Natural Goodness Grain-Free with Superfoods"
+  },
+  {
+    "product_key": "cesar|cesar_selection_meat_&_vegetables_in_sauce|wet",
+    "brand": "Cesar",
+    "original": "Cesar Selection Meat & Vegetables in Sauce",
+    "cleaned": "Selection Meat & Vegetables in Sauce"
+  },
+  {
+    "product_key": "cesar|cesar_trays_multipacks|wet",
+    "brand": "Cesar",
+    "original": "Cesar Trays Multipacks",
+    "cleaned": "Trays Multipacks"
+  },
+  {
+    "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_dog_renal|dry",
+    "brand": "Concept for Life Veterinary Diet",
+    "original": "Concept for Life Veterinary Diet Dog Renal",
+    "cleaned": "Dog Renal"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_golden_retriever_adult|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Golden Retriever Adult",
+    "cleaned": "for Life Golden Retriever Adult"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_labrador_retriever_adult|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Labrador Retriever Adult",
+    "cleaned": "for Life Labrador Retriever Adult"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_boxer_adult|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Boxer Adult",
+    "cleaned": "for Life Boxer Adult"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_economy_packs|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Economy Packs",
+    "cleaned": "for Life Economy Packs"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_french_bulldog_adult|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life French Bulldog Adult",
+    "cleaned": "for Life French Bulldog Adult"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_large_adult|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Large Adult",
+    "cleaned": "for Life Large Adult"
+  },
+  {
+    "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_gastrointestinal|wet",
+    "brand": "Concept for Life Veterinary Diet",
+    "original": "Concept for Life Veterinary Diet Gastrointestinal",
+    "cleaned": "Gastrointestinal"
+  },
+  {
+    "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_hypoallergenic_-_kangaroo|wet",
+    "brand": "Concept for Life Veterinary Diet",
+    "original": "Concept for Life Veterinary Diet Hypoallergenic - Kangaroo",
+    "cleaned": "Hypoallergenic - Kangaroo"
+  },
+  {
+    "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_hypoallergenic_insect|dry",
+    "brand": "Concept for Life Veterinary Diet",
+    "original": "Concept for Life Veterinary Diet Hypoallergenic Insect",
+    "cleaned": "Hypoallergenic Insect"
+  },
+  {
+    "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_renal|wet",
+    "brand": "Concept for Life Veterinary Diet",
+    "original": "Concept for Life Veterinary Diet Renal",
+    "cleaned": "Renal"
+  },
+  {
+    "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_weight_control|dry",
+    "brand": "Concept for Life Veterinary Diet",
+    "original": "Concept for Life Veterinary Diet Weight Control",
+    "cleaned": "Weight Control"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_mini_sensitive|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Mini Sensitive",
+    "cleaned": "for Life Mini Sensitive"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_large_senior|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Large Senior",
+    "cleaned": "for Life Large Senior"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_medium_puppy_&_junior|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Medium Puppy & Junior",
+    "cleaned": "for Life Medium Puppy & Junior"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_mini_adult|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Mini Adult",
+    "cleaned": "for Life Mini Adult"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_mini_senior|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Mini Senior",
+    "cleaned": "for Life Mini Senior"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_medium_light|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Medium Light",
+    "cleaned": "for Life Medium Light"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_medium_sensitive|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Medium Sensitive",
+    "cleaned": "for Life Medium Sensitive"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_x-large_adult|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life X-Large Adult",
+    "cleaned": "for Life X-Large Adult"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_large_sensitive|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Large Sensitive",
+    "cleaned": "for Life Large Sensitive"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_medium_adult|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Medium Adult",
+    "cleaned": "for Life Medium Adult"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_medium_senior|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Medium Senior",
+    "cleaned": "for Life Medium Senior"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_mini_puppy_&_junior|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life Mini Puppy & Junior",
+    "cleaned": "for Life Mini Puppy & Junior"
+  },
+  {
+    "product_key": "concept-for-life|concept_for_life_x-small_adult|dry",
+    "brand": "Concept For Life",
+    "original": "Concept for Life X-Small Adult",
+    "cleaned": "for Life X-Small Adult"
+  },
+  {
+    "product_key": "coya|coya_adult_dog_food|dry",
+    "brand": "Coya",
+    "original": "Coya Adult Dog Food",
+    "cleaned": "Adult Dog Food"
+  },
+  {
+    "product_key": "coya|coya_kibble_plus_with_beef|dry",
+    "brand": "Coya",
+    "original": "Coya Kibble Plus with Beef",
+    "cleaned": "Kibble Plus with Beef"
+  },
+  {
+    "product_key": "coya|coya_kibble_plus_with_chicken|dry",
+    "brand": "Coya",
+    "original": "Coya Kibble Plus with Chicken",
+    "cleaned": "Kibble Plus with Chicken"
+  },
+  {
+    "product_key": "crave|crave_adult_lamb_&_beef_dry_dog_food|dry",
+    "brand": "Crave",
+    "original": "Crave Adult Lamb & Beef Dry Dog Food",
+    "cleaned": "Adult Lamb & Beef Dry Dog Food"
+  },
+  {
+    "product_key": "crave|crave_adult_pat\u00e9_wet_dog_food|wet",
+    "brand": "Crave",
+    "original": "Crave Adult Pat\u00e9 Wet Dog Food",
+    "cleaned": "Adult Pat\u00e9 Wet Dog Food"
+  },
+  {
+    "product_key": "crave|crave_adult_turkey_&_chicken_dry_dog_food|dry",
+    "brand": "Crave",
+    "original": "Crave Adult Turkey & Chicken Dry Dog Food",
+    "cleaned": "Adult Turkey & Chicken Dry Dog Food"
+  },
+  {
+    "product_key": "crave|crave_adult|wet",
+    "brand": "Crave",
+    "original": "Crave Adult",
+    "cleaned": "Adult"
+  },
+  {
+    "product_key": "cricksydog|cricksydog_ted_beef_dry|dry",
+    "brand": "CricksyDog",
+    "original": "CricksyDog Ted Beef Dry",
+    "cleaned": "Ted Beef Dry"
+  },
+  {
+    "product_key": "dogs'n_tiger|dogs'n_tiger_adult_fisherman_fritz_salmon_&_herring|dry",
+    "brand": "Dogs'n Tiger",
+    "original": "Dogs'n Tiger Adult Fisherman Fritz Salmon & Herring",
+    "cleaned": "Adult Fisherman Fritz Salmon & Herring"
+  },
+  {
+    "product_key": "dogs'n_tiger|dogs'n_tiger_adult_innocent_lamb|dry",
+    "brand": "Dogs'n Tiger",
+    "original": "Dogs'n Tiger Adult Innocent Lamb",
+    "cleaned": "Adult Innocent Lamb"
+  },
+  {
+    "product_key": "dr-john|john_puppy_chicken_recipe|unknown",
+    "brand": "Dr John",
+    "original": "John Puppy chicken recipe",
+    "cleaned": "Puppy chicken recipe"
+  },
+  {
+    "product_key": "dr-john|john_flake_with_chicken|unknown",
+    "brand": "Dr John",
+    "original": "John Flake with Chicken",
+    "cleaned": "Flake with Chicken"
+  },
+  {
+    "product_key": "dr-john|john_hypoallergenic_activ|unknown",
+    "brand": "Dr John",
+    "original": "John Hypoallergenic Activ",
+    "cleaned": "Hypoallergenic Activ"
+  },
+  {
+    "product_key": "dr-john|john_hypoallergenic_chicken_with_oats|unknown",
+    "brand": "Dr John",
+    "original": "John Hypoallergenic Chicken with Oats",
+    "cleaned": "Hypoallergenic Chicken with Oats"
+  },
+  {
+    "product_key": "dr-john|john_hypoallergenic_duck_and_salmon|unknown",
+    "brand": "Dr John",
+    "original": "John Hypoallergenic Duck and Salmon",
+    "cleaned": "Hypoallergenic Duck and Salmon"
+  },
+  {
+    "product_key": "dr-john|john_hypoallergenic_lamb_with_rice_and_vegetables|unknown",
+    "brand": "Dr John",
+    "original": "John Hypoallergenic lamb with rice and vegetables",
+    "cleaned": "Hypoallergenic lamb with rice and vegetables"
+  },
+  {
+    "product_key": "dr-john|john_silver_chicken_with_vegetables|unknown",
+    "brand": "Dr John",
+    "original": "John Silver Chicken with Vegetables",
+    "cleaned": "Silver Chicken with Vegetables"
+  },
+  {
+    "product_key": "dr-john|john_grain-free_chicken_and_potato_with_vegetables_and_gravy|unknown",
+    "brand": "Dr John",
+    "original": "John Grain-Free chicken and potato with vegetables and gravy",
+    "cleaned": "Grain-Free chicken and potato with vegetables and gravy"
+  },
+  {
+    "product_key": "encore|encore_dog_gravy_pouch_mix|wet",
+    "brand": "Encore",
+    "original": "Encore Dog Gravy Pouch Mix",
+    "cleaned": "Dog Gravy Pouch Mix"
+  },
+  {
+    "product_key": "encore|encore_dog_jelly_pouch_multipack|wet",
+    "brand": "Encore",
+    "original": "Encore Dog Jelly Pouch Multipack",
+    "cleaned": "Dog Jelly Pouch Multipack"
+  },
+  {
+    "product_key": "encore|encore_dog_p\u00e2t\u00e9_multipack_fresh_selection|wet",
+    "brand": "Encore",
+    "original": "Encore Dog P\u00e2t\u00e9 Multipack Fresh Selection",
+    "cleaned": "Dog P\u00e2t\u00e9 Multipack Fresh Selection"
+  },
+  {
+    "product_key": "encore|encore_dog_tin_chicken_selection|wet",
+    "brand": "Encore",
+    "original": "Encore Dog Tin Chicken Selection",
+    "cleaned": "Dog Tin Chicken Selection"
+  },
+  {
+    "product_key": "eukanuba_veterinary_diet|eukanuba_veterinary_diet_adult_intestinal|dry",
+    "brand": "Eukanuba Veterinary Diet",
+    "original": "Eukanuba Veterinary Diet Adult Intestinal",
+    "cleaned": "Adult Intestinal"
+  },
+  {
+    "product_key": "eukanuba_veterinary_diet|eukanuba_veterinary_diet_restricted_calorie|dry",
+    "brand": "Eukanuba Veterinary Diet",
+    "original": "Eukanuba Veterinary Diet Restricted Calorie",
+    "cleaned": "Restricted Calorie"
+  },
+  {
+    "product_key": "eukanuba_veterinary_diet|eukanuba_veterinary_diet_dermatosis|dry",
+    "brand": "Eukanuba Veterinary Diet",
+    "original": "Eukanuba Veterinary Diet Dermatosis",
+    "cleaned": "Dermatosis"
+  },
+  {
+    "product_key": "fitactive|fitactive_croq_premium_lamb_&_rice|dry",
+    "brand": "FitActive",
+    "original": "FitActive CROQ Premium Lamb & Rice",
+    "cleaned": "CROQ Premium Lamb & Rice"
+  },
+  {
+    "product_key": "fitactive|fitactive_pure_hypoallergenic_beef_&_rosehip|dry",
+    "brand": "FitActive",
+    "original": "FitActive Pure Hypoallergenic Beef & Rosehip",
+    "cleaned": "Pure Hypoallergenic Beef & Rosehip"
+  },
+  {
+    "product_key": "fitactive|fitactive_pure_hypoallergenic_salmon_&_rosehip|dry",
+    "brand": "FitActive",
+    "original": "FitActive Pure Hypoallergenic Salmon & Rosehip",
+    "cleaned": "Pure Hypoallergenic Salmon & Rosehip"
+  },
+  {
+    "product_key": "fitactive|fitactive_originals_adult_regular_beef|dry",
+    "brand": "FitActive",
+    "original": "FitActive Originals Adult Regular Beef",
+    "cleaned": "Originals Adult Regular Beef"
+  },
+  {
+    "product_key": "fitmin_for_life|fitmin_for_life_adult|dry",
+    "brand": "Fitmin For Life",
+    "original": "Fitmin For Life Adult",
+    "cleaned": "Adult"
+  },
+  {
+    "product_key": "fitmin|fitmin_programme_maxi_junior|dry",
+    "brand": "Fitmin",
+    "original": "Fitmin Programme Maxi Junior",
+    "cleaned": "Programme Maxi Junior"
+  },
+  {
+    "product_key": "fitactive|fitactive_next_hypoallergenic_mono-protein_lamb|dry",
+    "brand": "FitActive",
+    "original": "FitActive Next Hypoallergenic Mono-Protein Lamb",
+    "cleaned": "Next Hypoallergenic Mono-Protein Lamb"
+  },
+  {
+    "product_key": "fitactive|fitactive_originals_adult_hypoallergenic_lamb_&_spring_veggies|dry",
+    "brand": "FitActive",
+    "original": "FitActive Originals Adult Hypoallergenic Lamb & Spring Veggies",
+    "cleaned": "Originals Adult Hypoallergenic Lamb & Spring Veggies"
+  },
+  {
+    "product_key": "fitactive|fitactive_originals_puppy_hypoallergenic_lamb_&_spring_veggies|dry",
+    "brand": "FitActive",
+    "original": "FitActive Originals Puppy Hypoallergenic Lamb & Spring Veggies",
+    "cleaned": "Originals Puppy Hypoallergenic Lamb & Spring Veggies"
+  },
+  {
+    "product_key": "fitactive|fitactive_originals_senior_hypoallergenic_lamb|dry",
+    "brand": "FitActive",
+    "original": "FitActive Originals Senior Hypoallergenic Lamb",
+    "cleaned": "Originals Senior Hypoallergenic Lamb"
+  },
+  {
+    "product_key": "fitactive|fitactive_pure_hypoallergenic_wild_boar_&_rosehip|dry",
+    "brand": "FitActive",
+    "original": "FitActive Pure Hypoallergenic Wild Boar & Rosehip",
+    "cleaned": "Pure Hypoallergenic Wild Boar & Rosehip"
+  },
+  {
+    "product_key": "fitmin|fitmin_nutritional_programme_performance_maxi_-_original|dry",
+    "brand": "Fitmin",
+    "original": "Fitmin Nutritional Programme Performance Maxi - Original",
+    "cleaned": "Nutritional Programme Performance Maxi - Original"
+  },
+  {
+    "product_key": "fitmin|fitmin_program_medium_performance|dry",
+    "brand": "Fitmin",
+    "original": "Fitmin Program Medium Performance",
+    "cleaned": "Program Medium Performance"
+  },
+  {
+    "product_key": "fokker|fokker_dog_fish_fit|dry",
+    "brand": "Fokker",
+    "original": "Fokker Dog Fish Fit",
+    "cleaned": "Dog Fish Fit"
+  },
+  {
+    "product_key": "fokker|fokker_prima_quality|dry",
+    "brand": "Fokker",
+    "original": "Fokker Prima Quality",
+    "cleaned": "Prima Quality"
+  },
+  {
+    "product_key": "fressnapf_multifit|multifit_adult_chicken_dry|dry",
+    "brand": "Fressnapf MultiFit",
+    "original": "MultiFit Adult Chicken Dry",
+    "cleaned": "Adult Chicken Dry"
+  },
+  {
+    "product_key": "friskies|friskies_mini_menu_with_chicken_&_vegetables|dry",
+    "brand": "Friskies",
+    "original": "Friskies Mini Menu with Chicken & Vegetables",
+    "cleaned": "Mini Menu with Chicken & Vegetables"
+  },
+  {
+    "product_key": "frolic|frolic_complete_with_beef|dry",
+    "brand": "Frolic",
+    "original": "Frolic Complete with Beef",
+    "cleaned": "Complete with Beef"
+  },
+  {
+    "product_key": "frolic|frolic_complete_with_poultry|dry",
+    "brand": "Frolic",
+    "original": "Frolic Complete with Poultry",
+    "cleaned": "Complete with Poultry"
+  },
+  {
+    "product_key": "frolic|frolic_mini_with_beef|dry",
+    "brand": "Frolic",
+    "original": "Frolic Mini with Beef",
+    "cleaned": "Mini with Beef"
+  },
+  {
+    "product_key": "frolic|frolic_mini_with_poultry|dry",
+    "brand": "Frolic",
+    "original": "Frolic Mini with Poultry",
+    "cleaned": "Mini with Poultry"
+  },
+  {
+    "product_key": "go-native|native_puppy_with_organic_salmon_spinach__ginger|dry",
+    "brand": "Go Native",
+    "original": "Native Puppy With Organic Salmon Spinach  Ginger",
+    "cleaned": "Puppy With Organic Salmon Spinach  Ginger"
+  },
+  {
+    "product_key": "go-native|native_small_kibble_duck_with_apple__cranberry|dry",
+    "brand": "Go Native",
+    "original": "Native Small Kibble Duck with Apple  Cranberry",
+    "cleaned": "Small Kibble Duck with Apple  Cranberry"
+  },
+  {
+    "product_key": "go-native|native_small_kibble_organic_herring_with_carrot__kale|dry",
+    "brand": "Go Native",
+    "original": "Native Small Kibble Organic Herring with Carrot  Kale",
+    "cleaned": "Small Kibble Organic Herring with Carrot  Kale"
+  },
+  {
+    "product_key": "go-native|native_small_kibble_salmon_with_spinach__ginger|dry",
+    "brand": "Go Native",
+    "original": "Native Small Kibble Salmon with Spinach  Ginger",
+    "cleaned": "Small Kibble Salmon with Spinach  Ginger"
+  },
+  {
+    "product_key": "go-native|native_duck_with_apple__cranberry|unknown",
+    "brand": "Go Native",
+    "original": "Native Duck with Apple  Cranberry",
+    "cleaned": "Duck with Apple  Cranberry"
+  },
+  {
+    "product_key": "go-native|native_organic_salmon_with_spinach__ginger|unknown",
+    "brand": "Go Native",
+    "original": "Native Organic Salmon with Spinach  Ginger",
+    "cleaned": "Organic Salmon with Spinach  Ginger"
+  },
+  {
+    "product_key": "granatapet|granatapet_liebling's_mahlzeit_adult_sensitive_fish|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Liebling's Mahlzeit Adult Sensitive Fish",
+    "cleaned": "Liebling's Mahlzeit Adult Sensitive Fish"
+  },
+  {
+    "product_key": "granatapet|granatapet_liebling's_mahlzeit_economy_packs|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Liebling's Mahlzeit Economy Packs",
+    "cleaned": "Liebling's Mahlzeit Economy Packs"
+  },
+  {
+    "product_key": "granatapet|granatapet_liebling's_mahlzeit_junior_poultry|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Liebling's Mahlzeit Junior Poultry",
+    "cleaned": "Liebling's Mahlzeit Junior Poultry"
+  },
+  {
+    "product_key": "granatapet|granatapet_liebling's_mahlzeit_senior_turkey|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Liebling's Mahlzeit Senior Turkey",
+    "cleaned": "Liebling's Mahlzeit Senior Turkey"
+  },
+  {
+    "product_key": "granatapet|granatapet_liebling's_meal_time_adult_lamb|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Liebling's meal time Adult lamb",
+    "cleaned": "Liebling's meal time Adult lamb"
+  },
+  {
+    "product_key": "granatapet|granatapet_liebling's_meal_time_adult_sensitive_duck|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Liebling's meal time Adult Sensitive Duck",
+    "cleaned": "Liebling's meal time Adult Sensitive Duck"
+  },
+  {
+    "product_key": "granatapet|granatapet_liebling's_meal_time_mix_pack_6_x|wet",
+    "brand": "GranataPet",
+    "original": "GranataPet Liebling's meal time mix pack 6 x",
+    "cleaned": "Liebling's meal time mix pack 6 x"
+  },
+  {
+    "product_key": "granatapet|granatapet_natural_taste_dry_food_duck_&_trout|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Natural Taste dry food duck & trout",
+    "cleaned": "Natural Taste dry food duck & trout"
+  },
+  {
+    "product_key": "granatapet|granatapet_natural_taste_dry_food_game_&_buffalo|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Natural Taste dry food Game & Buffalo",
+    "cleaned": "Natural Taste dry food Game & Buffalo"
+  },
+  {
+    "product_key": "granatapet|granatapet_natural_taste_dry_food_lamb|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Natural Taste dry food lamb",
+    "cleaned": "Natural Taste dry food lamb"
+  },
+  {
+    "product_key": "granatapet|granatapet_natural_taste_dry_food_poultry|dry",
+    "brand": "GranataPet",
+    "original": "GranataPet Natural Taste dry food poultry",
+    "cleaned": "Natural Taste dry food poultry"
+  },
+  {
+    "product_key": "green_petfood|green_petfood_insectdog_balance_insects_&_chicken|dry",
+    "brand": "Green Petfood",
+    "original": "Green Petfood InsectDog Balance Insects & Chicken",
+    "cleaned": "InsectDog Balance Insects & Chicken"
+  },
+  {
+    "product_key": "green_petfood|green_petfood_insectdog_high_protein_insects_&_salmon|dry",
+    "brand": "Green Petfood",
+    "original": "Green Petfood InsectDog High Protein Insects & Salmon",
+    "cleaned": "InsectDog High Protein Insects & Salmon"
+  },
+  {
+    "product_key": "green_petfood|green_petfood_veggie_dog_with_red_lentil|dry",
+    "brand": "Green Petfood",
+    "original": "Green Petfood Veggie Dog with Red Lentil",
+    "cleaned": "Veggie Dog with Red Lentil"
+  },
+  {
+    "product_key": "greenwoods|greenwoods_economy_pack|dry",
+    "brand": "Greenwoods",
+    "original": "Greenwoods Economy Pack",
+    "cleaned": "Economy Pack"
+  },
+  {
+    "product_key": "greenwoods|greenwoods_insects_with_potatoes_&_carrots|wet",
+    "brand": "Greenwoods",
+    "original": "Greenwoods Insects with Potatoes & Carrots",
+    "cleaned": "Insects with Potatoes & Carrots"
+  },
+  {
+    "product_key": "greenwoods|greenwoods_lamb_with_potatoes,_spinach_&_cranberries|dry",
+    "brand": "Greenwoods",
+    "original": "Greenwoods Lamb with Potatoes, Spinach & Cranberries",
+    "cleaned": "Lamb with Potatoes, Spinach & Cranberries"
+  },
+  {
+    "product_key": "greenwoods|greenwoods_veggie_(sweet)_potatoes_with_peas,_carrots_&_spinach|dry",
+    "brand": "Greenwoods",
+    "original": "Greenwoods Veggie (Sweet) Potatoes with Peas, Carrots & Spinach",
+    "cleaned": "Veggie (Sweet) Potatoes with Peas, Carrots & Spinach"
+  },
+  {
+    "product_key": "greenwoods|greenwoods_veggie_with_cottage_cheese,_egg,_apple_&_broccoli|wet",
+    "brand": "Greenwoods",
+    "original": "Greenwoods Veggie with Cottage Cheese, Egg, Apple & Broccoli",
+    "cleaned": "Veggie with Cottage Cheese, Egg, Apple & Broccoli"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_active|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Active",
+    "cleaned": "Active"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_balance|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Balance",
+    "cleaned": "Balance"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_beef_&_rice|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Beef & Rice",
+    "cleaned": "Beef & Rice"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_economy_packs|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Economy Packs",
+    "cleaned": "Economy Packs"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_lamb_&_rice|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Lamb & Rice",
+    "cleaned": "Lamb & Rice"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_mini_adult_lamb_&_rice|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Mini Adult Lamb & Rice",
+    "cleaned": "Mini Adult Lamb & Rice"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_mini_adult_salmon_&_rice|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Mini Adult Salmon & Rice",
+    "cleaned": "Mini Adult Salmon & Rice"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_mini_puppy_poultry|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Mini Puppy Poultry",
+    "cleaned": "Mini Puppy Poultry"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_puppy|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Puppy",
+    "cleaned": "Puppy"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_senior|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq Senior",
+    "cleaned": "Senior"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_naturcroq_xxl|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog NaturCroq XXL",
+    "cleaned": "XXL"
+  },
+  {
+    "product_key": "happy_dog_naturcroq|happy_dog_premium_naturcroq_classic_flakes|dry",
+    "brand": "Happy Dog NaturCroq",
+    "original": "Happy Dog Premium NaturCroq Classic Flakes",
+    "cleaned": "Dog Premium NaturCroq Classic Flakes"
+  },
+  {
+    "product_key": "dr-john|john_titanium_chicken_with_vegetables|unknown",
+    "brand": "Dr John",
+    "original": "John Titanium Chicken with vegetables",
+    "cleaned": "Titanium Chicken with vegetables"
+  },
+  {
+    "product_key": "go-native|native_organic_herring_with_carrot_and_kale|unknown",
+    "brand": "Go Native",
+    "original": "Native Organic Herring with Carrot and Kale",
+    "cleaned": "Organic Herring with Carrot and Kale"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_chicken__sweet_potato_grain_free|dry",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Chicken  Sweet Potato Grain Free",
+    "cleaned": "to Naturals Chicken  Sweet Potato Grain Free"
+  },
+  {
+    "product_key": "go-native|native_chicken_with_potato__broccoli|dry",
+    "brand": "Go Native",
+    "original": "Native Chicken with Potato  Broccoli",
+    "cleaned": "Chicken with Potato  Broccoli"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_sensitive_care_turkey__sweet_potato_senior|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Sensitive Care Turkey  Sweet Potato Senior",
+    "cleaned": "Sensitive Care Turkey  Sweet Potato Senior"
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_80/20_rabbit_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Pet Food 80/20 Rabbit Cold-Pressed",
+    "cleaned": "Food 80/20 Rabbit Cold-Pressed"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_adult_beef__lamb|unknown",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Adult Beef  Lamb",
+    "cleaned": "to Naturals Adult Beef  Lamb"
+  },
+  {
+    "product_key": "hill\u2019s_science_plan|hill\u2019s_science_plan_adult_1\u20136_medium_dog_chicken|dry",
+    "brand": "Hill\u2019s Science Plan",
+    "original": "Hill\u2019s Science Plan Adult 1\u20136 Medium Dog Chicken",
+    "cleaned": "Adult 1\u20136 Medium Dog Chicken"
+  },
+  {
+    "product_key": "k9-optimum|k9_optimum_puppy_mini/medium_chicken|unknown",
+    "brand": "K9 Optimum",
+    "original": "K9 Optimum Puppy Mini/Medium Chicken",
+    "cleaned": "Puppy Mini/Medium Chicken"
+  },
+  {
+    "product_key": "jack_super_premium|jack_premium_hypoallergenic_alucup_with_beef_&_sweet_potatoes|wet",
+    "brand": "Jack Super Premium",
+    "original": "Jack Premium Hypoallergenic Alucup with Beef & Sweet Potatoes",
+    "cleaned": "Premium Hypoallergenic Alucup with Beef & Sweet Potatoes"
+  },
+  {
+    "product_key": "k9-optimum|k9_optimum_adult_chicken|unknown",
+    "brand": "K9 Optimum",
+    "original": "K9 Optimum Adult Chicken",
+    "cleaned": "Adult Chicken"
+  },
+  {
+    "product_key": "k9-optimum|k9_optimum_adult_medium_chicken|unknown",
+    "brand": "K9 Optimum",
+    "original": "K9 Optimum Adult Medium Chicken",
+    "cleaned": "Adult Medium Chicken"
+  },
+  {
+    "product_key": "k9-optimum|k9_optimum_maxi_adult_chicken|unknown",
+    "brand": "K9 Optimum",
+    "original": "K9 Optimum Maxi Adult Chicken",
+    "cleaned": "Maxi Adult Chicken"
+  },
+  {
+    "product_key": "k9-optimum|k9_optimum_maxi_puppy_chicken|unknown",
+    "brand": "K9 Optimum",
+    "original": "K9 Optimum Maxi Puppy Chicken",
+    "cleaned": "Maxi Puppy Chicken"
+  },
+  {
+    "product_key": "k9-optimum|k9_optimum_mini_chicken|unknown",
+    "brand": "K9 Optimum",
+    "original": "K9 Optimum Mini Chicken",
+    "cleaned": "Mini Chicken"
+  },
+  {
+    "product_key": "k9-optimum|k9_optimum_puppy_chicken_can|unknown",
+    "brand": "K9 Optimum",
+    "original": "K9 Optimum Puppy Chicken Can",
+    "cleaned": "Puppy Chicken Can"
+  },
+  {
+    "product_key": "k9-optimum|k9_optimum_senior_med/maxi_chicken|unknown",
+    "brand": "K9 Optimum",
+    "original": "K9 Optimum Senior Med/Maxi Chicken",
+    "cleaned": "Senior Med/Maxi Chicken"
+  },
+  {
+    "product_key": "libra|libra_adult_mini_dog_-_chicken|dry",
+    "brand": "Libra",
+    "original": "Libra Adult Mini Dog - Chicken",
+    "cleaned": "Adult Mini Dog - Chicken"
+  },
+  {
+    "product_key": "libra|libra_dog_adult_lamb|dry",
+    "brand": "Libra",
+    "original": "Libra Dog Adult Lamb",
+    "cleaned": "Dog Adult Lamb"
+  },
+  {
+    "product_key": "libra|libra_dog_adult_salmon|dry",
+    "brand": "Libra",
+    "original": "Libra Dog Adult Salmon",
+    "cleaned": "Dog Adult Salmon"
+  },
+  {
+    "product_key": "libra|libra_dog_light_turkey|dry",
+    "brand": "Libra",
+    "original": "Libra Dog Light Turkey",
+    "cleaned": "Dog Light Turkey"
+  },
+  {
+    "product_key": "libra|libra_dog_puppy_chicken|dry",
+    "brand": "Libra",
+    "original": "Libra Dog Puppy Chicken",
+    "cleaned": "Dog Puppy Chicken"
+  },
+  {
+    "product_key": "lidl_orlando|orlando_complete_dry_with_beef_&_vegetables|dry",
+    "brand": "Lidl Orlando",
+    "original": "Orlando Complete Dry with Beef & Vegetables",
+    "cleaned": "Complete Dry with Beef & Vegetables"
+  },
+  {
+    "product_key": "lupo|lupo_sensitive_24/10_dog_food|dry",
+    "brand": "Lupo",
+    "original": "Lupo Sensitive 24/10 Dog Food",
+    "cleaned": "Sensitive 24/10 Dog Food"
+  },
+  {
+    "product_key": "mcadams|mcadams_freeze_dried_free_range_turkey|dry",
+    "brand": "McAdams",
+    "original": "McAdams Freeze Dried Free Range Turkey",
+    "cleaned": "Freeze Dried Free Range Turkey"
+  },
+  {
+    "product_key": "mera|mera_care_adult_salmon|dry",
+    "brand": "mera",
+    "original": "mera Care Adult Salmon",
+    "cleaned": "Care Adult Salmon"
+  },
+  {
+    "product_key": "mera|mera_care_junior_chicken|dry",
+    "brand": "mera",
+    "original": "mera Care Junior Chicken",
+    "cleaned": "Care Junior Chicken"
+  },
+  {
+    "product_key": "mera|mera_essential_adult_with_beef|dry",
+    "brand": "mera",
+    "original": "mera essential Adult with Beef",
+    "cleaned": "essential Adult with Beef"
+  },
+  {
+    "product_key": "mera|mera_essential_adult_with_poultry|dry",
+    "brand": "mera",
+    "original": "mera essential Adult with Poultry",
+    "cleaned": "essential Adult with Poultry"
+  },
+  {
+    "product_key": "mera|mera_pure_green_adult_vegan_oats,_millet_&_fava_bean|dry",
+    "brand": "mera",
+    "original": "mera Pure Green Adult Vegan Oats, Millet & Fava Bean",
+    "cleaned": "Pure Green Adult Vegan Oats, Millet & Fava Bean"
+  },
+  {
+    "product_key": "mera|mera_pure_sensitive_adult_beef_&_potato|dry",
+    "brand": "mera",
+    "original": "mera Pure Sensitive Adult Beef & Potato",
+    "cleaned": "Pure Sensitive Adult Beef & Potato"
+  },
+  {
+    "product_key": "mera|mera_pure_sensitive_adult_turkey_&_potato|dry",
+    "brand": "mera",
+    "original": "mera Pure Sensitive Adult Turkey & Potato",
+    "cleaned": "Pure Sensitive Adult Turkey & Potato"
+  },
+  {
+    "product_key": "mera|mera_pure_sensitive_junior_turkey_&_rice|dry",
+    "brand": "mera",
+    "original": "mera Pure Sensitive Junior Turkey & Rice",
+    "cleaned": "Pure Sensitive Junior Turkey & Rice"
+  },
+  {
+    "product_key": "mera|mera_pure_sensitive_mini_lamb_&_rice|dry",
+    "brand": "mera",
+    "original": "mera Pure Sensitive Mini Lamb & Rice",
+    "cleaned": "Pure Sensitive Mini Lamb & Rice"
+  },
+  {
+    "product_key": "mera|mera_pure_sensitive_mini_turkey_&_rice|dry",
+    "brand": "mera",
+    "original": "mera Pure Sensitive Mini Turkey & Rice",
+    "cleaned": "Pure Sensitive Mini Turkey & Rice"
+  },
+  {
+    "product_key": "mera|mera_pure_sensitive_senior_turkey_&_rice|dry",
+    "brand": "mera",
+    "original": "mera Pure Sensitive Senior Turkey & Rice",
+    "cleaned": "Pure Sensitive Senior Turkey & Rice"
+  },
+  {
+    "product_key": "natura_diet|natura_diet_adult_iberico_and_rice|dry",
+    "brand": "Natura Diet",
+    "original": "Natura Diet Adult Iberico and Rice",
+    "cleaned": "Adult Iberico and Rice"
+  },
+  {
+    "product_key": "natura_diet|natura_diet_daily_food_chicken|dry",
+    "brand": "Natura Diet",
+    "original": "Natura Diet Daily Food Chicken",
+    "cleaned": "Daily Food Chicken"
+  },
+  {
+    "product_key": "natura_diet|natura_diet_senior_7+_chicken|dry",
+    "brand": "Natura Diet",
+    "original": "Natura Diet Senior 7+ Chicken",
+    "cleaned": "Senior 7+ Chicken"
+  },
+  {
+    "product_key": "natural_greatness|natural_greatness_salmon|dry",
+    "brand": "Natural Greatness",
+    "original": "Natural Greatness Salmon",
+    "cleaned": "Salmon"
+  },
+  {
+    "product_key": "natural_greatness|natural_greatness_turkey|dry",
+    "brand": "Natural Greatness",
+    "original": "Natural Greatness Turkey",
+    "cleaned": "Turkey"
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_chicken|raw",
+    "brand": "Natural Instinct",
+    "original": "Natural Chicken",
+    "cleaned": "Chicken"
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_lamb|raw",
+    "brand": "Natural Instinct",
+    "original": "Natural Lamb",
+    "cleaned": "Lamb"
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_senior|raw",
+    "brand": "Natural Instinct",
+    "original": "Natural Senior",
+    "cleaned": "Senior"
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_special_diet|raw",
+    "brand": "Natural Instinct",
+    "original": "Natural Special Diet",
+    "cleaned": "Special Diet"
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_tripe__turkey|raw",
+    "brand": "Natural Instinct",
+    "original": "Natural Tripe  Turkey",
+    "cleaned": "Tripe  Turkey"
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_puppy_chicken|raw",
+    "brand": "Natural Instinct",
+    "original": "Natural Puppy Chicken",
+    "cleaned": "Puppy Chicken"
+  },
+  {
+    "product_key": "nutriplus|nutriplus_adult_dog_with_chicken|dry",
+    "brand": "Nutriplus",
+    "original": "Nutriplus Adult Dog with Chicken",
+    "cleaned": "Adult Dog with Chicken"
+  },
+  {
+    "product_key": "nutriplus|nutriplus_adult_dog_with_lamb|dry",
+    "brand": "Nutriplus",
+    "original": "Nutriplus Adult Dog with Lamb",
+    "cleaned": "Adult Dog with Lamb"
+  },
+  {
+    "product_key": "nutriplus|nutriplus_adult_dog_with_salmon|dry",
+    "brand": "Nutriplus",
+    "original": "Nutriplus Adult Dog with Salmon",
+    "cleaned": "Adult Dog with Salmon"
+  },
+  {
+    "product_key": "nutrivet|nutrivet_inne_dog_atlantic|dry",
+    "brand": "Nutrivet",
+    "original": "Nutrivet Inne Dog Atlantic",
+    "cleaned": "Inne Dog Atlantic"
+  },
+  {
+    "product_key": "nutrivet|nutrivet_inne_dog_growth|dry",
+    "brand": "Nutrivet",
+    "original": "Nutrivet Inne Dog Growth",
+    "cleaned": "Inne Dog Growth"
+  },
+  {
+    "product_key": "nutrivet|nutrivet_inne_dog_nutritive|dry",
+    "brand": "Nutrivet",
+    "original": "Nutrivet Inne Dog Nutritive",
+    "cleaned": "Inne Dog Nutritive"
+  },
+  {
+    "product_key": "nutrivet|nutrivet_inne_energetic_dog|dry",
+    "brand": "Nutrivet",
+    "original": "Nutrivet Inne Energetic Dog",
+    "cleaned": "Inne Energetic Dog"
+  },
+  {
+    "product_key": "nutrivet|nutrivet_inne_senior_dog|dry",
+    "brand": "Nutrivet",
+    "original": "Nutrivet Inne Senior Dog",
+    "cleaned": "Inne Senior Dog"
+  },
+  {
+    "product_key": "nutrivet|nutrivet_premium_master_energy_with_chicken|dry",
+    "brand": "Nutrivet",
+    "original": "Nutrivet Premium Master Energy with Chicken",
+    "cleaned": "Premium Master Energy with Chicken"
+  },
+  {
+    "product_key": "nutrivet|nutrivet_premium_master_large_dog|dry",
+    "brand": "Nutrivet",
+    "original": "Nutrivet Premium Master Large Dog",
+    "cleaned": "Premium Master Large Dog"
+  },
+  {
+    "product_key": "nutrivet|nutrivet_premium_master_maintenance|dry",
+    "brand": "Nutrivet",
+    "original": "Nutrivet Premium Master Maintenance",
+    "cleaned": "Premium Master Maintenance"
+  },
+  {
+    "product_key": "nutrivet|nutrivet_premium_master_silhouette|dry",
+    "brand": "Nutrivet",
+    "original": "Nutrivet Premium Master Silhouette",
+    "cleaned": "Premium Master Silhouette"
+  },
+  {
+    "product_key": "opti_life|opti_life_adult_active|dry",
+    "brand": "Opti Life",
+    "original": "Opti Life Adult Active",
+    "cleaned": "Adult Active"
+  },
+  {
+    "product_key": "opti_life|opti_life_adult_light_medium_&_maxi|dry",
+    "brand": "Opti Life",
+    "original": "Opti Life Adult Light Medium & Maxi",
+    "cleaned": "Adult Light Medium & Maxi"
+  },
+  {
+    "product_key": "opti_life|opti_life_adult_maxi|dry",
+    "brand": "Opti Life",
+    "original": "Opti Life Adult Maxi",
+    "cleaned": "Adult Maxi"
+  },
+  {
+    "product_key": "opti_life|opti_life_adult_medium|dry",
+    "brand": "Opti Life",
+    "original": "Opti Life Adult Medium",
+    "cleaned": "Adult Medium"
+  },
+  {
+    "product_key": "opti_life|opti_life_adult_skin_care_medium_&_maxi|dry",
+    "brand": "Opti Life",
+    "original": "Opti Life Adult Skin Care Medium & Maxi",
+    "cleaned": "Adult Skin Care Medium & Maxi"
+  },
+  {
+    "product_key": "opti_life|opti_life_digestion_adult_medium_&_maxi|dry",
+    "brand": "Opti Life",
+    "original": "Opti Life Digestion Adult Medium & Maxi",
+    "cleaned": "Digestion Adult Medium & Maxi"
+  },
+  {
+    "product_key": "opti_life|opti_life_puppy_maxi|dry",
+    "brand": "Opti Life",
+    "original": "Opti Life Puppy Maxi",
+    "cleaned": "Puppy Maxi"
+  },
+  {
+    "product_key": "opti_life|opti_life_puppy_medium|dry",
+    "brand": "Opti Life",
+    "original": "Opti Life Puppy Medium",
+    "cleaned": "Puppy Medium"
+  },
+  {
+    "product_key": "opti_life|opti_life_senior_medium_&_maxi|dry",
+    "brand": "Opti Life",
+    "original": "Opti Life Senior Medium & Maxi",
+    "cleaned": "Senior Medium & Maxi"
+  },
+  {
+    "product_key": "orijen|orijen_original|dry",
+    "brand": "Orijen",
+    "original": "Orijen Original",
+    "cleaned": "Original"
+  },
+  {
+    "product_key": "orlando|orlando_premium_dry_dog_food_beef_&_vegetables|dry",
+    "brand": "Orlando",
+    "original": "Orlando Premium Dry Dog Food Beef & Vegetables",
+    "cleaned": "Premium Dry Dog Food Beef & Vegetables"
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_adult_lamb|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Fit Active Adult Lamb",
+    "cleaned": "Active Adult Lamb"
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_black_dogs_(lamb_&_fish)|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Fit Active Black Dogs (Lamb & Fish)",
+    "cleaned": "Active Black Dogs (Lamb & Fish)"
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_everyday_premium_(long\u2011haired_adult_dog)|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Fit Active Everyday Premium (Long\u2011Haired Adult Dog)",
+    "cleaned": "Active Everyday Premium (Long\u2011Haired Adult Dog)"
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_hypoallergenic_lamb|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Fit Active Hypoallergenic Lamb",
+    "cleaned": "Active Hypoallergenic Lamb"
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_puppy_chicken_&_pears|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Fit Active Puppy Chicken & Pears",
+    "cleaned": "Active Puppy Chicken & Pears"
+  },
+  {
+    "product_key": "pedigree|pedigree_adult_classic_saver_pack|wet",
+    "brand": "Pedigree",
+    "original": "Pedigree Adult Classic Saver Pack",
+    "cleaned": "Adult Classic Saver Pack"
+  },
+  {
+    "product_key": "pedigree|pedigree_adult_pouch_in_jelly_multipack|wet",
+    "brand": "Pedigree",
+    "original": "Pedigree Adult Pouch in Jelly Multipack",
+    "cleaned": "Adult Pouch in Jelly Multipack"
+  },
+  {
+    "product_key": "pedigree|pedigree_adult_pouch_protein+_in_jelly|wet",
+    "brand": "Pedigree",
+    "original": "Pedigree Adult Pouch Protein+ in Jelly",
+    "cleaned": "Adult Pouch Protein+ in Jelly"
+  },
+  {
+    "product_key": "pedigree|pedigree_adult_poultry_&_vegetables|dry",
+    "brand": "Pedigree",
+    "original": "Pedigree Adult Poultry & Vegetables",
+    "cleaned": "Adult Poultry & Vegetables"
+  },
+  {
+    "product_key": "pedigree|pedigree_adult_with_beef_&_vegetables|dry",
+    "brand": "Pedigree",
+    "original": "Pedigree Adult with Beef & Vegetables",
+    "cleaned": "Adult with Beef & Vegetables"
+  },
+  {
+    "product_key": "pedigree|pedigree_adult_with_fish_&_vegetables|dry",
+    "brand": "Pedigree",
+    "original": "Pedigree Adult with Fish & Vegetables",
+    "cleaned": "Adult with Fish & Vegetables"
+  },
+  {
+    "product_key": "pedigree|pedigree_junior_poultry_&_vegetables|dry",
+    "brand": "Pedigree",
+    "original": "Pedigree Junior Poultry & Vegetables",
+    "cleaned": "Junior Poultry & Vegetables"
+  },
+  {
+    "product_key": "pedigree|pedigree_mini_adult_<10kg_with_beef_&_vegetables|dry",
+    "brand": "Pedigree",
+    "original": "Pedigree Mini Adult <10kg with Beef & Vegetables",
+    "cleaned": "Mini Adult <10kg with Beef & Vegetables"
+  },
+  {
+    "product_key": "pedigree|pedigree_pouch_in_gravy_multipack|wet",
+    "brand": "Pedigree",
+    "original": "Pedigree Pouch in Gravy Multipack",
+    "cleaned": "Pouch in Gravy Multipack"
+  },
+  {
+    "product_key": "pedigree|pedigree_professional_nutrition_adult_beef_&_vegetables|dry",
+    "brand": "Pedigree",
+    "original": "Pedigree Professional Nutrition Adult Beef & Vegetables",
+    "cleaned": "Professional Nutrition Adult Beef & Vegetables"
+  },
+  {
+    "product_key": "pedigree|pedigree_professional_nutrition_adult_poultry_&_vegetables|dry",
+    "brand": "Pedigree",
+    "original": "Pedigree Professional Nutrition Adult Poultry & Vegetables",
+    "cleaned": "Professional Nutrition Adult Poultry & Vegetables"
+  },
+  {
+    "product_key": "perfect_fit|perfect_fit_adult_dogs_(<10kg)_chicken|dry",
+    "brand": "Perfect Fit",
+    "original": "Perfect Fit Adult Dogs (<10kg) Chicken",
+    "cleaned": "Adult Dogs (<10kg) Chicken"
+  },
+  {
+    "product_key": "perfect_fit|perfect_fit_adult_dogs_(>10kg)|dry",
+    "brand": "Perfect Fit",
+    "original": "Perfect Fit Adult Dogs (>10kg)",
+    "cleaned": "Adult Dogs (>10kg)"
+  },
+  {
+    "product_key": "perfect_fit|perfect_fit_junior_<1_small_dogs_(<10kg)|dry",
+    "brand": "Perfect Fit",
+    "original": "Perfect Fit Junior <1 Small Dogs (<10kg)",
+    "cleaned": "Junior <1 Small Dogs (<10kg)"
+  },
+  {
+    "product_key": "petkult|petkult_sensitive_salmon_&_rice|dry",
+    "brand": "Petkult",
+    "original": "Petkult Sensitive Salmon & Rice",
+    "cleaned": "Sensitive Salmon & Rice"
+  },
+  {
+    "product_key": "purina_dog_chow|dog_chow_senior_lamb|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "Dog Chow Senior Lamb",
+    "cleaned": "Chow Senior Lamb"
+  },
+  {
+    "product_key": "purina_dog_chow|purina_dog_chow_adult_chicken|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "PURINA Dog Chow Adult Chicken",
+    "cleaned": "Adult Chicken"
+  },
+  {
+    "product_key": "purina_dog_chow|purina_dog_chow_adult_light_turkey|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "PURINA Dog Chow Adult Light Turkey",
+    "cleaned": "Adult Light Turkey"
+  },
+  {
+    "product_key": "purina_dog_chow|purina_dog_chow_complete/classic_with_chicken|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "PURINA Dog Chow Complete/Classic with Chicken",
+    "cleaned": "Complete/Classic with Chicken"
+  },
+  {
+    "product_key": "purina_dog_chow|purina_dog_chow_complete/classic_with_lamb|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "PURINA Dog Chow Complete/Classic with Lamb",
+    "cleaned": "Complete/Classic with Lamb"
+  },
+  {
+    "product_key": "purina_dog_chow|purina_dog_chow_large_breed_turkey|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "PURINA Dog Chow Large Breed Turkey",
+    "cleaned": "Large Breed Turkey"
+  },
+  {
+    "product_key": "purina_dog_chow|purina_dog_chow_mature_senior_chicken|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "PURINA Dog Chow Mature Senior Chicken",
+    "cleaned": "Mature Senior Chicken"
+  },
+  {
+    "product_key": "purina_dog_chow|purina_dog_chow_puppy_chicken|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "PURINA Dog Chow Puppy Chicken",
+    "cleaned": "Puppy Chicken"
+  },
+  {
+    "product_key": "purina_dog_chow|purina_dog_chow_puppy_lamb|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "PURINA Dog Chow Puppy Lamb",
+    "cleaned": "Puppy Lamb"
+  },
+  {
+    "product_key": "purina_dog_chow|purina_dog_chow_puppy_large_breed_turkey|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "PURINA Dog Chow Puppy Large Breed Turkey",
+    "cleaned": "Puppy Large Breed Turkey"
+  },
+  {
+    "product_key": "rebel_belle|rebel_belle_adult_mixed_trial_pack_-_veggie_&_vegan|wet",
+    "brand": "Rebel Belle",
+    "original": "Rebel Belle Adult Mixed Trial Pack - Veggie & Vegan",
+    "cleaned": "Adult Mixed Trial Pack - Veggie & Vegan"
+  },
+  {
+    "product_key": "simpsons_premium|simpsons_premium_sensitive_adult_chicken_&_potato_dry_dog_food|dry",
+    "brand": "Simpsons Premium",
+    "original": "Simpsons Premium Sensitive Adult Chicken & Potato Dry Dog Food",
+    "cleaned": "Sensitive Adult Chicken & Potato Dry Dog Food"
+  },
+  {
+    "product_key": "select_gold_(fressnapf)|select_gold_adult_medium_chicken|dry",
+    "brand": "Select Gold (Fressnapf)",
+    "original": "Select Gold Adult Medium Chicken",
+    "cleaned": "Gold Adult Medium Chicken"
+  },
+  {
+    "product_key": "simpsons_premium|simpsons_premium_sensitive_adult_duck_&_potato_dry_dog_food|dry",
+    "brand": "Simpsons Premium",
+    "original": "Simpsons Premium Sensitive Adult Duck & Potato Dry Dog Food",
+    "cleaned": "Sensitive Adult Duck & Potato Dry Dog Food"
+  },
+  {
+    "product_key": "simpsons_premium|simpsons_premium_sensitive_adult_lamb_&_potato_dry_dog_food|dry",
+    "brand": "Simpsons Premium",
+    "original": "Simpsons Premium Sensitive Adult Lamb & Potato Dry Dog Food",
+    "cleaned": "Sensitive Adult Lamb & Potato Dry Dog Food"
+  },
+  {
+    "product_key": "simpsons_premium|simpsons_premium_sensitive_puppy_salmon_&_potato_dry_dog_food|dry",
+    "brand": "Simpsons Premium",
+    "original": "Simpsons Premium Sensitive Puppy Salmon & Potato Dry Dog Food",
+    "cleaned": "Sensitive Puppy Salmon & Potato Dry Dog Food"
+  },
+  {
+    "product_key": "specific_veterinary_diet|specific_dog_ccd_struvite_management|dry",
+    "brand": "Specific Veterinary Diet",
+    "original": "Specific Dog CCD Struvite Management",
+    "cleaned": "Dog CCD Struvite Management"
+  },
+  {
+    "product_key": "specific_veterinary_diet|specific_dog_cdd_-_hy_food_allergen_management|dry",
+    "brand": "Specific Veterinary Diet",
+    "original": "Specific Dog CDD - HY Food Allergen Management",
+    "cleaned": "Dog CDD - HY Food Allergen Management"
+  },
+  {
+    "product_key": "specific_veterinary_diet|specific_dog_cgd_-_m_senior_medium_breed|dry",
+    "brand": "Specific Veterinary Diet",
+    "original": "Specific Dog CGD - M Senior Medium Breed",
+    "cleaned": "Dog CGD - M Senior Medium Breed"
+  },
+  {
+    "product_key": "specific_veterinary_diet|specific_dog_cid_digestive_support|dry",
+    "brand": "Specific Veterinary Diet",
+    "original": "Specific Dog CID Digestive Support",
+    "cleaned": "Dog CID Digestive Support"
+  },
+  {
+    "product_key": "specific_veterinary_diet|specific_dog_cjd_-_joint_support|dry",
+    "brand": "Specific Veterinary Diet",
+    "original": "Specific Dog CJD - Joint Support",
+    "cleaned": "Dog CJD - Joint Support"
+  },
+  {
+    "product_key": "specific_veterinary_diet|specific_dog_crd_-_1_weight_reduction|dry",
+    "brand": "Specific Veterinary Diet",
+    "original": "Specific Dog CRD - 1 Weight Reduction",
+    "cleaned": "Dog CRD - 1 Weight Reduction"
+  },
+  {
+    "product_key": "specific_veterinary_diet|specific_dog_cxd_-_m_adult_medium_breed|dry",
+    "brand": "Specific Veterinary Diet",
+    "original": "Specific Dog CXD - M Adult Medium Breed",
+    "cleaned": "Dog CXD - M Adult Medium Breed"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_adult_beef_with_tripe|wet",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Adult Beef with Tripe",
+    "cleaned": "to Naturals Adult Beef with Tripe"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_adult_chicken_with_turkey|dry",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Adult Chicken with Turkey",
+    "cleaned": "to Naturals Adult Chicken with Turkey"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_beef__sweet_potatoes_grain_free|dry",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Beef  Sweet Potatoes Grain Free",
+    "cleaned": "to Naturals Beef  Sweet Potatoes Grain Free"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_chicken_with_fish_light__sensitive|wet",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Chicken with Fish Light  Sensitive",
+    "cleaned": "to Naturals Chicken with Fish Light  Sensitive"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_chicken_with_fish_light|dry",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Chicken with Fish Light",
+    "cleaned": "to Naturals Chicken with Fish Light"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_large_breed_chicken_with_turkey|dry",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Large Breed Chicken with Turkey",
+    "cleaned": "to Naturals Large Breed Chicken with Turkey"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_mature_chicken_with_turkey|wet",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Mature Chicken with Turkey",
+    "cleaned": "to Naturals Mature Chicken with Turkey"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_puppy_chicken_with_turkey|wet",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Puppy Chicken with Turkey",
+    "cleaned": "to Naturals Puppy Chicken with Turkey"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_senior_chicken_with_turkey|dry",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Senior Chicken with Turkey",
+    "cleaned": "to Naturals Senior Chicken with Turkey"
+  },
+  {
+    "product_key": "step-up-to-naturals|up_to_naturals_small_breed_chicken_with_turkey|dry",
+    "brand": "Step Up To Naturals",
+    "original": "Up to Naturals Small Breed Chicken with Turkey",
+    "cleaned": "to Naturals Small Breed Chicken with Turkey"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_ancient_wetlands|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - Ancient Wetlands",
+    "cleaned": "- Ancient Wetlands"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_appalachian_valley_adult_small_breed|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - Appalachian Valley Adult Small Breed",
+    "cleaned": "- Appalachian Valley Adult Small Breed"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_high_prairie_canine|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - High Prairie Canine",
+    "cleaned": "- High Prairie Canine"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_high_prairie_puppy|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - High Prairie Puppy",
+    "cleaned": "- High Prairie Puppy"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_pacific_stream_puppy|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - Pacific Stream Puppy",
+    "cleaned": "- Pacific Stream Puppy"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_pacific_stream|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - Pacific Stream",
+    "cleaned": "- Pacific Stream"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_prey_angus_beef|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - Prey Angus Beef",
+    "cleaned": "- Prey Angus Beef"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_prey_trout|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - Prey Trout",
+    "cleaned": "- Prey Trout"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_prey_turkey|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - Prey Turkey",
+    "cleaned": "- Prey Turkey"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_sierra_mountain_canine|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - Sierra Mountain Canine",
+    "cleaned": "- Sierra Mountain Canine"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_-_wetlands_canine|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild - Wetlands Canine",
+    "cleaned": "- Wetlands Canine"
+  },
+  {
+    "product_key": "taste_of_the_wild|taste_of_the_wild_dry_food_economy_packs|dry",
+    "brand": "Taste of the Wild",
+    "original": "Taste of the Wild Dry Food Economy Packs",
+    "cleaned": "Dry Food Economy Packs"
+  },
+  {
+    "product_key": "terra_canis|terra_canis_classic_\u2013_beef_(wet)|wet",
+    "brand": "Terra Canis",
+    "original": "Terra Canis Classic \u2013 Beef (Wet)",
+    "cleaned": "Classic \u2013 Beef (Wet)"
+  },
+  {
+    "product_key": "tropidog|tropidog_premium_adult_medium_&_large_duck_&_rice|dry",
+    "brand": "TropiDog",
+    "original": "TropiDog Premium Adult Medium & Large Duck & Rice",
+    "cleaned": "Premium Adult Medium & Large Duck & Rice"
+  },
+  {
+    "product_key": "trovet|trovet_hypoallergenic_(rrd)_rabbit_\u2013_dry|vet-prescribed",
+    "brand": "Trovet",
+    "original": "Trovet Hypoallergenic (RRD) Rabbit \u2013 Dry",
+    "cleaned": "Hypoallergenic (RRD) Rabbit \u2013 Dry"
+  },
+  {
+    "product_key": "ultima|ultima_dog_mini_adult_beef|dry",
+    "brand": "Ultima",
+    "original": "Ultima Dog Mini Adult Beef",
+    "cleaned": "Dog Mini Adult Beef"
+  },
+  {
+    "product_key": "ultima|ultima_golden_&_labrador_retriever_chicken|dry",
+    "brand": "Ultima",
+    "original": "Ultima Golden & Labrador Retriever Chicken",
+    "cleaned": "Golden & Labrador Retriever Chicken"
+  },
+  {
+    "product_key": "ultima|ultima_medium/maxi_adult_-_beef|dry",
+    "brand": "Ultima",
+    "original": "Ultima Medium/Maxi Adult - Beef",
+    "cleaned": "Medium/Maxi Adult - Beef"
+  },
+  {
+    "product_key": "ultima|ultima_medium/maxi_adult_chicken_&_rice|dry",
+    "brand": "Ultima",
+    "original": "Ultima Medium/Maxi Adult Chicken & Rice",
+    "cleaned": "Medium/Maxi Adult Chicken & Rice"
+  },
+  {
+    "product_key": "ultima|ultima_medium/maxi_junior_chicken|dry",
+    "brand": "Ultima",
+    "original": "Ultima Medium/Maxi Junior Chicken",
+    "cleaned": "Medium/Maxi Junior Chicken"
+  },
+  {
+    "product_key": "ultima|ultima_medium/maxi_senior_chicken|dry",
+    "brand": "Ultima",
+    "original": "Ultima Medium/Maxi Senior Chicken",
+    "cleaned": "Medium/Maxi Senior Chicken"
+  },
+  {
+    "product_key": "ultima|ultima_mini_senior_chicken|dry",
+    "brand": "Ultima",
+    "original": "Ultima Mini Senior Chicken",
+    "cleaned": "Mini Senior Chicken"
+  },
+  {
+    "product_key": "ultima|ultima_nature_medium/maxi_adult_-_chicken|dry",
+    "brand": "Ultima",
+    "original": "Ultima Nature Medium/Maxi Adult - Chicken",
+    "cleaned": "Nature Medium/Maxi Adult - Chicken"
+  },
+  {
+    "product_key": "ultima|ultima_nature_medium/maxi_adult_no_grain_turkey|dry",
+    "brand": "Ultima",
+    "original": "Ultima Nature Medium/Maxi Adult No Grain Turkey",
+    "cleaned": "Nature Medium/Maxi Adult No Grain Turkey"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_chicken_with_wholegrain_rice|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Chicken with Wholegrain Rice",
+    "cleaned": "Chicken with Wholegrain Rice"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_everyday_health_chicken__brown_rice|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Everyday Health Chicken  Brown Rice",
+    "cleaned": "Everyday Health Chicken  Brown Rice"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_grow_and_develop_chicken__brown_rice_puppy|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Grow and Develop Chicken  Brown Rice Puppy",
+    "cleaned": "Grow and Develop Chicken  Brown Rice Puppy"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_healthy_weight_chicken__brown_rice|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Healthy Weight Chicken  Brown Rice",
+    "cleaned": "Healthy Weight Chicken  Brown Rice"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_senior_protect__care_salmon__brown_rice|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Senior Protect  Care Salmon  Brown Rice",
+    "cleaned": "Senior Protect  Care Salmon  Brown Rice"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_sensitive_care_grain_free_pork__potato|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Sensitive Care Grain Free Pork  Potato",
+    "cleaned": "Sensitive Care Grain Free Pork  Potato"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_sensitive_care_lamb_with_sweet_potato|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Sensitive Care Lamb with Sweet Potato",
+    "cleaned": "Sensitive Care Lamb with Sweet Potato"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_sensitive_care_ocean_fish_with_sweet_potato|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Sensitive Care Ocean Fish with Sweet Potato",
+    "cleaned": "Sensitive Care Ocean Fish with Sweet Potato"
+  },
+  {
+    "product_key": "vets-kitchen|kitchen_sensitive_care_salmon__sweet_potato|unknown",
+    "brand": "Vet's Kitchen",
+    "original": "Kitchen Sensitive Care Salmon  Sweet Potato",
+    "cleaned": "Sensitive Care Salmon  Sweet Potato"
+  },
+  {
+    "product_key": "virbac_vetcomplex|virbac_vetcomplex_hpm_canine_dermatology_support|dry",
+    "brand": "Virbac Vetcomplex",
+    "original": "Virbac Vetcomplex HPM Canine Dermatology Support",
+    "cleaned": "HPM Canine Dermatology Support"
+  },
+  {
+    "product_key": "virbac_vetcomplex|virbac_vetcomplex_hpm_canine_weight_loss_&_diabetes|dry",
+    "brand": "Virbac Vetcomplex",
+    "original": "Virbac Vetcomplex HPM Canine Weight Loss & Diabetes",
+    "cleaned": "HPM Canine Weight Loss & Diabetes"
+  },
+  {
+    "product_key": "virbac_vetcomplex|virbac_veterinary_hpm_adult_dog_sensitive_digest_large_&_medium|dry",
+    "brand": "Virbac Vetcomplex",
+    "original": "Virbac Veterinary HPM Adult Dog Sensitive Digest Large & Medium",
+    "cleaned": "Veterinary HPM Adult Dog Sensitive Digest Large & Medium"
+  },
+  {
+    "product_key": "virbac_vetcomplex|virbac_veterinary_hpm_dog_urology_dissolution_&_prevention_u1|dry",
+    "brand": "Virbac Vetcomplex",
+    "original": "Virbac Veterinary HPM Dog Urology Dissolution & Prevention U1",
+    "cleaned": "Veterinary HPM Dog Urology Dissolution & Prevention U1"
+  },
+  {
+    "product_key": "virbac_vetcomplex|virbac_veterinary_hpm_dog_weight_loss_&_control_w2|dry",
+    "brand": "Virbac Vetcomplex",
+    "original": "Virbac Veterinary HPM Dog Weight Loss & Control W2",
+    "cleaned": "Veterinary HPM Dog Weight Loss & Control W2"
+  },
+  {
+    "product_key": "wiejska_zagroda|wiejska_zagroda_puppy_lamb_with_spinach|dry",
+    "brand": "Wiejska Zagroda",
+    "original": "Wiejska Zagroda Puppy Lamb with Spinach",
+    "cleaned": "Puppy Lamb with Spinach"
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_80:20_duck_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Pet Food 80:20 Duck Cold-Pressed",
+    "cleaned": "Food 80:20 Duck Cold-Pressed"
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_80:20_herring_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Pet Food 80:20 Herring Cold-Pressed",
+    "cleaned": "Food 80:20 Herring Cold-Pressed"
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_beef_80/20_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Pet Food Beef 80/20 Cold-Pressed",
+    "cleaned": "Food Beef 80/20 Cold-Pressed"
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_chicken_80/20_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Pet Food Chicken 80/20 Cold-Pressed",
+    "cleaned": "Food Chicken 80/20 Cold-Pressed"
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_fish_80/20_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Pet Food Fish 80/20 Cold-Pressed",
+    "cleaned": "Food Fish 80/20 Cold-Pressed"
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_surf_and_turf_80/20_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Pet Food Surf and Turf 80/20 Cold-Pressed",
+    "cleaned": "Food Surf and Turf 80/20 Cold-Pressed"
+  },
+  {
+    "product_key": "butcher's|butcher's_natural_&_healthy_with_beef|dry",
+    "brand": "Butcher's",
+    "original": "Butcher's Natural & Healthy with Beef",
+    "cleaned": "Natural & Healthy with Beef"
+  },
+  {
+    "product_key": "tesco_/_butcher\u2019s|butcher\u2019s_classic_loaf_beef_(cans)|wet",
+    "brand": "Tesco / Butcher\u2019s",
+    "original": "Butcher\u2019s Classic Loaf Beef (Cans)",
+    "cleaned": "Classic Loaf Beef (Cans)"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_adult_with_organic_chicken|dry",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Adult with Organic Chicken",
+    "cleaned": "Adult with Organic Chicken"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_grain-free_with_organic_chicken|dry",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Grain-Free with Organic Chicken",
+    "cleaned": "Grain-Free with Organic Chicken"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_p\u00e2t\u00e9|wet",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic P\u00e2t\u00e9",
+    "cleaned": "P\u00e2t\u00e9"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_puppy|dry",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Puppy",
+    "cleaned": "Puppy"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_senior_with_organic_chicken|dry",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Senior with Organic Chicken",
+    "cleaned": "Senior with Organic Chicken"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_sensitive_with_organic_chicken_&_organic_rice|dry",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Sensitive with Organic Chicken & Organic Rice",
+    "cleaned": "Sensitive with Organic Chicken & Organic Rice"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_small_breed_with_organic_chicken|dry",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Small Breed with Organic Chicken",
+    "cleaned": "Small Breed with Organic Chicken"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_trays_p\u00e2t\u00e9_saver_pack|wet",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Trays P\u00e2t\u00e9 Saver Pack",
+    "cleaned": "Trays P\u00e2t\u00e9 Saver Pack"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_vega_with_organic_vegetables_&_organic_rosehip|wet",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Vega with Organic Vegetables & Organic Rosehip",
+    "cleaned": "Vega with Organic Vegetables & Organic Rosehip"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_vegan_wheat-free|dry",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Vegan Wheat-Free",
+    "cleaned": "Vegan Wheat-Free"
+  },
+  {
+    "product_key": "yarrah_organic|yarrah_organic_vegan|dry",
+    "brand": "Yarrah Organic",
+    "original": "Yarrah Organic Vegan",
+    "cleaned": "Vegan"
+  },
+  {
+    "product_key": "natural-instinct|instinct_natural_chicken__lamb|raw",
+    "brand": "Natural Instinct",
+    "original": "Natural Chicken  Lamb",
+    "cleaned": "Chicken  Lamb"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_freeze-dried_complete_mini|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety Freeze-Dried Complete Mini",
+    "cleaned": "Freeze-Dried Complete Mini"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_freeze-dried_topper_for_dogs|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety Freeze-Dried Topper for Dogs",
+    "cleaned": "Freeze-Dried Topper for Dogs"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_healthy_grains_adult_mini_white_fish|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety Healthy Grains Adult Mini White Fish",
+    "cleaned": "Healthy Grains Adult Mini White Fish"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_healthy_grains_medium/maxi_adult_chicken|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety Healthy Grains Medium/Maxi Adult Chicken",
+    "cleaned": "Healthy Grains Medium/Maxi Adult Chicken"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_healthy_grains_medium/maxi_adult_turkey|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety Healthy Grains Medium/Maxi Adult Turkey",
+    "cleaned": "Healthy Grains Medium/Maxi Adult Turkey"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_healthy_grains_mini_adult_chicken|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety Healthy Grains Mini Adult Chicken",
+    "cleaned": "Healthy Grains Mini Adult Chicken"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_healthy_grains_mini_puppy_chicken|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety Healthy Grains Mini Puppy Chicken",
+    "cleaned": "Healthy Grains Mini Puppy Chicken"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_no_grain_medium/maxi_adult_free-range_chicken|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety No Grain Medium/Maxi Adult Free-Range Chicken",
+    "cleaned": "No Grain Medium/Maxi Adult Free-Range Chicken"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_no_grain_medium/maxi_adult_salmon|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety No Grain Medium/Maxi Adult Salmon",
+    "cleaned": "No Grain Medium/Maxi Adult Salmon"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_no_grain_mini_adult_-_salmon|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety No Grain Mini Adult - Salmon",
+    "cleaned": "No Grain Mini Adult - Salmon"
+  },
+  {
+    "product_key": "nature's_variety|nature's_variety_no_grain_mini_adult_free-range_chicken|dry",
+    "brand": "Nature's Variety",
+    "original": "Nature's Variety No Grain Mini Adult Free-Range Chicken",
+    "cleaned": "No Grain Mini Adult Free-Range Chicken"
+  },
+  {
+    "product_key": "purina_pro_plan_veterinary_diets|purina_pro_plan_veterinary_diets_canine_ha_hypoallergenic|dry",
+    "brand": "Purina Pro Plan Veterinary Diets",
+    "original": "Purina Pro Plan Veterinary Diets Canine HA Hypoallergenic",
+    "cleaned": "Canine HA Hypoallergenic"
+  },
+  {
+    "product_key": "julius-k9|julius-k9_high_premium_adult_hypoallergenic_fish|dry",
+    "brand": "JULIUS-K9",
+    "original": "JULIUS-K9 High Premium Adult Hypoallergenic Fish",
+    "cleaned": "High Premium Adult Hypoallergenic Fish"
+  },
+  {
+    "product_key": "julius-k9|julius-k9_high_premium_adult_hypoallergenic_lamb|dry",
+    "brand": "JULIUS-K9",
+    "original": "JULIUS-K9 High Premium Adult Hypoallergenic Lamb",
+    "cleaned": "High Premium Adult Hypoallergenic Lamb"
+  },
+  {
+    "product_key": "julius-k9|julius-k9_high_premium_puppy_&_junior_hypoallergenic_lamb|dry",
+    "brand": "JULIUS-K9",
+    "original": "JULIUS-K9 High Premium Puppy & Junior Hypoallergenic Lamb",
+    "cleaned": "High Premium Puppy & Junior Hypoallergenic Lamb"
+  },
+  {
+    "product_key": "julius-k9|julius-k9_high_premium_senior_hypoallergenic_lamb|dry",
+    "brand": "JULIUS-K9",
+    "original": "JULIUS-K9 High Premium Senior Hypoallergenic Lamb",
+    "cleaned": "High Premium Senior Hypoallergenic Lamb"
+  },
+  {
+    "product_key": "julius-k9|julius-k9_high_premium_vital_essentials_beef|dry",
+    "brand": "JULIUS-K9",
+    "original": "JULIUS-K9 High Premium Vital Essentials Beef",
+    "cleaned": "High Premium Vital Essentials Beef"
+  },
+  {
+    "product_key": "markus_m\u00fchle|markus_m\u00fchle_naturnah_mini|dry",
+    "brand": "Markus M\u00fchle",
+    "original": "Markus M\u00fchle NaturNah Mini",
+    "cleaned": "NaturNah Mini"
+  },
+  {
+    "product_key": "markus_m\u00fchle|markus_m\u00fchle_red_deer_venison|dry",
+    "brand": "Markus M\u00fchle",
+    "original": "Markus M\u00fchle Red Deer Venison",
+    "cleaned": "Red Deer Venison"
+  },
+  {
+    "product_key": "butcher's|butcher's_natural_&_healthy_with_chicken|dry",
+    "brand": "Butcher's",
+    "original": "Butcher's Natural & Healthy with Chicken",
+    "cleaned": "Natural & Healthy with Chicken"
+  },
+  {
+    "product_key": "my_friend+|my_friend+_adult_with_lamb|dry",
+    "brand": "My Friend+",
+    "original": "My Friend+ Adult with Lamb",
+    "cleaned": "Adult with Lamb"
+  },
+  {
+    "product_key": "my_friend+|my_friend+_senior_&_light|dry",
+    "brand": "My Friend+",
+    "original": "My Friend+ Senior & Light",
+    "cleaned": "Senior & Light"
+  },
+  {
+    "product_key": "pan_mi\u0119sko|pan_mi\u0119sko_medium_veal_with_turkey|dry",
+    "brand": "Pan Mi\u0119sko",
+    "original": "Pan Mi\u0119sko Medium Veal with Turkey",
+    "cleaned": "Medium Veal with Turkey"
+  },
+  {
+    "product_key": "pan_mi\u0119sko|pan_mi\u0119sko_xl_pork_with_wild_boar|dry",
+    "brand": "Pan Mi\u0119sko",
+    "original": "Pan Mi\u0119sko XL Pork with Wild Boar",
+    "cleaned": "XL Pork with Wild Boar"
+  },
+  {
+    "product_key": "herrmann's|herrmann's_organic_chicken_with_organic_rice_&_organic_peas|dry",
+    "brand": "Herrmann's",
+    "original": "Herrmann's Organic Chicken with Organic Rice & Organic Peas",
+    "cleaned": "Organic Chicken with Organic Rice & Organic Peas"
+  },
+  {
+    "product_key": "purina_veterinary_diets|purina_pro_plan_veterinary_diets_canine_mousse_en_gastrointestinal|wet",
+    "brand": "Purina Veterinary Diets",
+    "original": "Purina Pro Plan Veterinary Diets Canine Mousse EN Gastrointestinal",
+    "cleaned": "Pro Plan Veterinary Diets Canine Mousse EN Gastrointestinal"
+  },
+  {
+    "product_key": "beneful|beneful_original_beef_&_vegetables|dry",
+    "brand": "Beneful",
+    "original": "Beneful Original Beef & Vegetables",
+    "cleaned": "Original Beef & Vegetables"
+  },
+  {
+    "product_key": "bozita_naturals|bozita_naturals_pat\u00e9|wet",
+    "brand": "Bozita Naturals",
+    "original": "Bozita Naturals Pat\u00e9",
+    "cleaned": "Pat\u00e9"
+  },
+  {
+    "product_key": "calibra|calibra_dog_life_senior_medium_fresh_beef|dry",
+    "brand": "Calibra",
+    "original": "Calibra Dog Life Senior Medium Fresh Beef",
+    "cleaned": "Dog Life Senior Medium Fresh Beef"
+  },
+  {
+    "product_key": "calibra|calibra_life_junior_large_fresh_beef|dry",
+    "brand": "Calibra",
+    "original": "Calibra Life Junior Large Fresh Beef",
+    "cleaned": "Life Junior Large Fresh Beef"
+  },
+  {
+    "product_key": "carnilove|carnilove_fresh_adult_small_breed_ostrich,_lamb_for_dogs|dry",
+    "brand": "Carnilove",
+    "original": "Carnilove Fresh Adult Small Breed ostrich, lamb for dogs",
+    "cleaned": "Fresh Adult Small Breed ostrich, lamb for dogs"
+  },
+  {
+    "product_key": "carnilove|carnilove_puppy_large_breed_salmon_and_turkey|dry",
+    "brand": "Carnilove",
+    "original": "Carnilove Puppy Large Breed Salmon and Turkey",
+    "cleaned": "Puppy Large Breed Salmon and Turkey"
+  },
+  {
+    "product_key": "cesar|cesar_natural_goodness|wet",
+    "brand": "Cesar",
+    "original": "Cesar Natural Goodness",
+    "cleaned": "Natural Goodness"
+  },
+  {
+    "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_dog_mobility|dry",
+    "brand": "Concept for Life Veterinary Diet",
+    "original": "Concept for Life Veterinary Diet Dog Mobility",
+    "cleaned": "Dog Mobility"
+  },
+  {
+    "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_economy_pack|dry",
+    "brand": "Concept for Life Veterinary Diet",
+    "original": "Concept for Life Veterinary Diet Economy Pack",
+    "cleaned": "Economy Pack"
+  },
+  {
+    "product_key": "crave|crave_adult_chicken_with_bone_marrow_&_ancient_grains_dry_dog_food|dry",
+    "brand": "Crave",
+    "original": "Crave Adult Chicken with Bone Marrow & Ancient Grains Dry Dog Food",
+    "cleaned": "Adult Chicken with Bone Marrow & Ancient Grains Dry Dog Food"
+  },
+  {
+    "product_key": "dr-john|john_gold_rich_in_chicken_with_vegetables_and_gravy|unknown",
+    "brand": "Dr John",
+    "original": "John Gold rich in chicken with vegetables and gravy",
+    "cleaned": "Gold rich in chicken with vegetables and gravy"
+  },
+  {
+    "product_key": "dr-john|john_silver_with_beef_and_vegetables|unknown",
+    "brand": "Dr John",
+    "original": "John Silver with beef and vegetables",
+    "cleaned": "Silver with beef and vegetables"
+  },
+  {
+    "product_key": "fitactive|fitactive_croq_premium_beef_&_rice|dry",
+    "brand": "FitActive",
+    "original": "FitActive CROQ Premium Beef & Rice",
+    "cleaned": "CROQ Premium Beef & Rice"
+  },
+  {
+    "product_key": "fitactive|fitactive_next_hypoallergenic_mono_beef_with_cranberries|dry",
+    "brand": "FitActive",
+    "original": "FitActive Next Hypoallergenic Mono Beef with Cranberries",
+    "cleaned": "Next Hypoallergenic Mono Beef with Cranberries"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "total_products": 5223,
+  "unique_brands": 381,
+  "data_sources": {
+    "food_candidates": 3849,
+    "food_candidates_sc": 1232,
+    "food_brands": 70
+  },
+  "top_brands": {
+    "Royal Canin": 253,
+    "Brit": 111,
+    "Wainwright's": 97,
+    "Natures Menu": 93,
+    "Bozita": 87,
+    "Eukanuba": 85,
+    "Hill's Science Plan": 78,
+    "The": 76,
+    "Wolf Of Wilderness": 72,
+    "James Wellbeloved": 67,
+    "Happy Dog": 64,
+    "Hill's Prescription Diet": 60,
+    "Lukullus": 59,
+    "Pets at Home": 58,
+    "Advance Veterinary Diets": 55,
+    "Alpha": 53,
+    "Pro Plan": 53,
+    "Lily's Kitchen": 52,
+    "Belcando": 51,
+    "Briantos": 47
+  },
+  "exact_brand_prefix_count": 2,
+  "word_prefix_count": 2,
+  "exact_matches_sample": [
+    {
+      "brand": "Bozita",
+      "name": "Bozita"
+    },
+    {
+      "brand": "Acana",
+      "name": "ACANA Adult Dog Recipe (Grain-Free)"
+    }
+  ],
+  "word_matches_sample": [
+    {
+      "brand": "Virbac Veterinary HPM",
+      "name": "VETERINARY HPM G1 Digestive Support",
+      "word": "Veterinary"
+    },
+    {
+      "brand": "Purina Pro Plan Veterinary Diets",
+      "name": "PURINA PRO PLAN NC Neurocare",
+      "word": "Purina"
+    }
+  ]
+}

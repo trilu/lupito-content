@@ -1,0 +1,24 @@
+{
+  "batch_time": "2025-09-12T22:51:10.102461",
+  "total_failed": 3,
+  "products": [
+    {
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_senior/317406",
+      "product_key": "bosch|bosch_adult_mini_senior_dry_dog_food|dry",
+      "error": "HTTP 503: <!doctype html>\r\n<html lang=en-US>\r\n  <head>\r\n    <meta charset=utf-8>\r\n    <meta name=\"viewport\" co",
+      "file": "scraped/zooplus/20250912_212831_ca1/bosch_bosch_adult_mini_senior_dry_dog_food_dry.json"
+    },
+    {
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/hills_science_plan/puppy_junior/2382911",
+      "product_key": "hillsscienceplan|hillsscienceplanpuppysmallminilambrice_v2|dry",
+      "error": "HTTP 503: <!doctype html>\r\n<html lang=en-US>\r\n  <head>\r\n    <meta charset=utf-8>\r\n    <meta name=\"viewport\" co",
+      "file": "scraped/zooplus/20250912_215454_us3/hillsscienceplan_hillsscienceplanpuppysmallminilambrice_v2_dry.json"
+    },
+    {
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/lukullus/veggie/2129499",
+      "product_key": "lukullus|lukullus_veggie_adult_grain-free|dry",
+      "error": "HTTP 503: <!doctype html>\r\n<html lang=en-US>\r\n  <head>\r\n    <meta charset=utf-8>\r\n    <meta name=\"viewport\" co",
+      "file": "scraped/zooplus/20250912_215454_fr3/lukullus_lukullus_veggie_adult_grain-free_dry.json"
+    }
+  ]
+}

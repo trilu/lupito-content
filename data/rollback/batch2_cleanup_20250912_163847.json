@@ -1,0 +1,878 @@
+[
+  {
+    "product_key": "advance_veterinary_diets|advance_maxi_adult|dry",
+    "original": "Advance Maxi Adult",
+    "cleaned": "Maxi Adult",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_maxi_light|dry",
+    "original": "Advance Maxi Light",
+    "cleaned": "Maxi Light",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_maxi_senior|dry",
+    "original": "Advance Maxi Senior",
+    "cleaned": "Maxi Senior",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_medium_adult|dry",
+    "original": "Advance Medium Adult",
+    "cleaned": "Medium Adult",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_medium_light_chicken|dry",
+    "original": "Advance Medium Light Chicken",
+    "cleaned": "Medium Light Chicken",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_medium_puppy_protect|dry",
+    "original": "Advance Medium Puppy Protect",
+    "cleaned": "Medium Puppy Protect",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_medium_senior_vitality_7+|dry",
+    "original": "Advance Medium Senior Vitality 7+",
+    "cleaned": "Medium Senior Vitality 7+",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_mini_adult|dry",
+    "original": "Advance Mini Adult",
+    "cleaned": "Mini Adult",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_mini_sensitive|dry",
+    "original": "Advance Mini Sensitive",
+    "cleaned": "Mini Sensitive",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_puppy_protect_mini|dry",
+    "original": "Advance Puppy Protect Mini",
+    "cleaned": "Puppy Protect Mini",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_articular_care_light|dry",
+    "original": "Advance Veterinary Diets Articular Care Light",
+    "cleaned": "Articular Care Light",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_articular_care|dry",
+    "original": "Advance Veterinary Diets Articular Care",
+    "cleaned": "Articular Care",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_atopic_mini|dry",
+    "original": "Advance Veterinary Diets Atopic Mini",
+    "cleaned": "Atopic Mini",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_atopic_with_trout|dry",
+    "original": "Advance Veterinary Diets Atopic with Trout",
+    "cleaned": "Atopic with Trout",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_gastroenteric_mini|dry",
+    "original": "Advance Veterinary Diets Gastroenteric Mini",
+    "cleaned": "Gastroenteric Mini",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_gastroenteric|dry",
+    "original": "Advance Veterinary Diets Gastroenteric",
+    "cleaned": "Gastroenteric",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_hypoallergenic_mini|dry",
+    "original": "Advance Veterinary Diets Hypoallergenic Mini",
+    "cleaned": "Hypoallergenic Mini",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_hypoallergenic|dry",
+    "original": "Advance Veterinary Diets Hypoallergenic",
+    "cleaned": "Hypoallergenic",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_light_articular_care|dry",
+    "original": "Advance Veterinary Diets Light Articular Care",
+    "cleaned": "Light Articular Care",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_renal|dry",
+    "original": "Advance Veterinary Diets Renal",
+    "cleaned": "Renal",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_urinary|dry",
+    "original": "Advance Veterinary Diets Urinary",
+    "cleaned": "Urinary",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_weight_balance_medium/maxi|dry",
+    "original": "Advance Veterinary Diets Weight Balance Medium/Maxi",
+    "cleaned": "Weight Balance Medium/Maxi",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_weight_balance_mini|dry",
+    "original": "Advance Veterinary Diets Weight Balance Mini",
+    "cleaned": "Weight Balance Mini",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_maxi_puppy_chicken__rice|unknown",
+    "original": "Advance Maxi Puppy Chicken  Rice",
+    "cleaned": "Maxi Puppy Chicken  Rice",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_maxi_senior_vitality_chicken__rice|unknown",
+    "original": "Advance Maxi Senior Vitality Chicken  Rice",
+    "cleaned": "Maxi Senior Vitality Chicken  Rice",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_medium_adult_chicken__rice|unknown",
+    "original": "Advance Medium Adult Chicken  Rice",
+    "cleaned": "Medium Adult Chicken  Rice",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_medium_puppy|unknown",
+    "original": "Advance Medium Puppy",
+    "cleaned": "Medium Puppy",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_mini_senior_8_chicken__rice|unknown",
+    "original": "Advance Mini Senior 8 Chicken  Rice",
+    "cleaned": "Mini Senior 8 Chicken  Rice",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_maxi_light_chicken__rice|unknown",
+    "original": "Advance Maxi Light Chicken  Rice",
+    "cleaned": "Maxi Light Chicken  Rice",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_mini_light_chicken__rice|unknown",
+    "original": "Advance Mini Light Chicken  Rice",
+    "cleaned": "Mini Light Chicken  Rice",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_yorkshire_terrier_adult|dry",
+    "original": "Advance Yorkshire Terrier Adult",
+    "cleaned": "Yorkshire Terrier Adult",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_adult_french_bulldog|unknown",
+    "original": "Advance Adult French Bulldog",
+    "cleaned": "Adult French Bulldog",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_french_bulldog_with_duck|dry",
+    "original": "Advance French Bulldog with Duck",
+    "cleaned": "French Bulldog with Duck",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_maxi_adult_chicken__rice|unknown",
+    "original": "Advance Maxi Adult Chicken  Rice",
+    "cleaned": "Maxi Adult Chicken  Rice",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance-veterinary-diets|advance_puppy_sensitive_with_salmon|dry",
+    "original": "Advance Puppy Sensitive with Salmon",
+    "cleaned": "Puppy Sensitive with Salmon",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_maxi_puppy_protect|dry",
+    "original": "Advance Maxi Puppy Protect",
+    "cleaned": "Maxi Puppy Protect",
+    "pattern": "Advance "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_diabetes|dry",
+    "original": "Advance Veterinary Diets Diabetes",
+    "cleaned": "Diabetes",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "advance_veterinary_diets|advance_veterinary_diets_urinary_low_purine|dry",
+    "original": "Advance Veterinary Diets Urinary Low Purine",
+    "cleaned": "Urinary Low Purine",
+    "pattern": "Advance Veterinary Diets "
+  },
+  {
+    "product_key": "farmina_n&d|n&d_spirulina_adult_medium/maxi_with_lamb|dry",
+    "original": "N&D Spirulina Adult Medium/Maxi with Lamb",
+    "cleaned": "Spirulina Adult Medium/Maxi with Lamb",
+    "pattern": "N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_dog_low_grain_chicken_&_pomegrante_adult_medium_dog|dry",
+    "original": "Farmina Dog Low Grain Chicken & Pomegrante Adult Medium Dog",
+    "cleaned": "Dog Low Grain Chicken & Pomegrante Adult Medium Dog",
+    "pattern": "Farmina "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_ancestral_grain_adult_medium_&_maxi_with_lamb_&_blueberry|dry",
+    "original": "Farmina N&D Ancestral Grain Adult Medium & Maxi with Lamb & Blueberry",
+    "cleaned": "Ancestral Grain Adult Medium & Maxi with Lamb & Blueberry",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_ancestral_grain_mini_lamb_&_blueberries|dry",
+    "original": "Farmina N&D Ancestral Grain Mini Lamb & Blueberries",
+    "cleaned": "Ancestral Grain Mini Lamb & Blueberries",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_dog_adult_medium/maxi_white_seabass_-_fennel_&_spirulina|dry",
+    "original": "Farmina N&D Dog Adult Medium/Maxi White Seabass - Fennel & Spirulina",
+    "cleaned": "Dog Adult Medium/Maxi White Seabass - Fennel & Spirulina",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_grain_free_ocean_cod,_pumpkin_&_orange_medium_&_maxi|dry",
+    "original": "Farmina N&D Grain Free Ocean Cod, Pumpkin & Orange Medium & Maxi",
+    "cleaned": "Grain Free Ocean Cod, Pumpkin & Orange Medium & Maxi",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_grain_free_pumpkin_adult_medium_&_maxi_with_boar_&_apple|dry",
+    "original": "Farmina N&D Grain Free Pumpkin Adult Medium & Maxi with Boar & Apple",
+    "cleaned": "Grain Free Pumpkin Adult Medium & Maxi with Boar & Apple",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_grain_free_pumpkin_adult_medium_&_maxi_with_chicken_&_pomegranate|dry",
+    "original": "Farmina N&D Grain Free Pumpkin Adult Medium & Maxi with Chicken & Pomegranate",
+    "cleaned": "Grain Free Pumpkin Adult Medium & Maxi with Chicken & Pomegranate",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_grain_free_pumpkin_adult_medium_&_maxi_with_lamb_&_blueberry|dry",
+    "original": "Farmina N&D Grain Free Pumpkin Adult Medium & Maxi with Lamb & Blueberry",
+    "cleaned": "Grain Free Pumpkin Adult Medium & Maxi with Lamb & Blueberry",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_low_grain_mini_chicken_&_pomegranate|dry",
+    "original": "Farmina N&D Low Grain Mini Chicken & Pomegranate",
+    "cleaned": "Low Grain Mini Chicken & Pomegranate",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_medium/maxi_pumpkin,_venison_&_apple|dry",
+    "original": "Farmina N&D Medium/Maxi Pumpkin, Venison & Apple",
+    "cleaned": "Medium/Maxi Pumpkin, Venison & Apple",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_ocean_healthy_grains_cod_&_orange_adult_mini|dry",
+    "original": "Farmina N&D Ocean healthy grains Cod & Orange Adult Mini",
+    "cleaned": "Ocean healthy grains Cod & Orange Adult Mini",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_ocean_salmon,_cod_&_melon_medium_&_maxi|dry",
+    "original": "Farmina N&D Ocean Salmon, Cod & Melon Medium & Maxi",
+    "cleaned": "Ocean Salmon, Cod & Melon Medium & Maxi",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_prime_canine_chicken_&_pomegranate_puppy_medium/maxi|dry",
+    "original": "Farmina N&D Prime Canine Chicken & Pomegranate Puppy Medium/Maxi",
+    "cleaned": "Prime Canine Chicken & Pomegranate Puppy Medium/Maxi",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_prime_grain_free_adult_medium_&_maxi_with_lamb_&_blueberry|dry",
+    "original": "Farmina N&D Prime Grain Free Adult Medium & Maxi with Lamb & Blueberry",
+    "cleaned": "Prime Grain Free Adult Medium & Maxi with Lamb & Blueberry",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_prime_grain_free_adult_medium_with_chicken_&_pomegranate|dry",
+    "original": "Farmina N&D Prime Grain Free Adult Medium with Chicken & Pomegranate",
+    "cleaned": "Prime Grain Free Adult Medium with Chicken & Pomegranate",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_prime_grain_free_mini_lamb_&_blueberries|dry",
+    "original": "Farmina N&D Prime Grain Free Mini Lamb & Blueberries",
+    "cleaned": "Prime Grain Free Mini Lamb & Blueberries",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_prime_wild_boar_and_apple|dry",
+    "original": "Farmina N&D Prime wild boar and apple",
+    "cleaned": "Prime wild boar and apple",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_pumpkin_adult_mini_with_lamb_and_blueberries|dry",
+    "original": "Farmina N&D Pumpkin Adult Mini with lamb and blueberries",
+    "cleaned": "Pumpkin Adult Mini with lamb and blueberries",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_pumpkin_puppy_medium_&_maxi_with_lamb_and_blueberry|dry",
+    "original": "Farmina N&D Pumpkin Puppy Medium & Maxi with lamb and blueberry",
+    "cleaned": "Pumpkin Puppy Medium & Maxi with lamb and blueberry",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_n&d_quinoa_weight_management_lamb,_quinoa,_broccoli_&_asparagus_dog|dry",
+    "original": "Farmina N&D Quinoa Weight Management Lamb, Quinoa, Broccoli & Asparagus Dog",
+    "cleaned": "Quinoa Weight Management Lamb, Quinoa, Broccoli & Asparagus Dog",
+    "pattern": "Farmina N&D "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_vet_life_dog_diabetic|dry",
+    "original": "Farmina Vet Life Dog Diabetic",
+    "cleaned": "Vet Life Dog Diabetic",
+    "pattern": "Farmina "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_vet_life_dog_gastro-intestinal|dry",
+    "original": "Farmina Vet Life Dog Gastro-Intestinal",
+    "cleaned": "Vet Life Dog Gastro-Intestinal",
+    "pattern": "Farmina "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_vet_life_dog_hepatic|dry",
+    "original": "Farmina Vet Life Dog Hepatic",
+    "cleaned": "Vet Life Dog Hepatic",
+    "pattern": "Farmina "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_vet_life_dog_hypoallergenic_with_fish_&_potato|dry",
+    "original": "Farmina Vet Life Dog Hypoallergenic with fish & potato",
+    "cleaned": "Vet Life Dog Hypoallergenic with fish & potato",
+    "pattern": "Farmina "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_vet_life_dog_intestinal_ultracare_low_fat|dry",
+    "original": "Farmina Vet Life Dog Intestinal UltraCare Low Fat",
+    "cleaned": "Vet Life Dog Intestinal UltraCare Low Fat",
+    "pattern": "Farmina "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_vet_life_dog_obesity|dry",
+    "original": "Farmina Vet Life Dog Obesity",
+    "cleaned": "Vet Life Dog Obesity",
+    "pattern": "Farmina "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_vet_life_dog_renal|dry",
+    "original": "Farmina Vet Life Dog Renal",
+    "cleaned": "Vet Life Dog Renal",
+    "pattern": "Farmina "
+  },
+  {
+    "product_key": "farmina_n&d|farmina_vet_life_dog_ultrahypo|dry",
+    "original": "Farmina Vet Life Dog Ultrahypo",
+    "cleaned": "Vet Life Dog Ultrahypo",
+    "pattern": "Farmina "
+  },
+  {
+    "product_key": "farmina_n&d|n&d_ancestral_grain_chicken_&_pomegranate_(medium/maxi)_adult|dry",
+    "original": "N&D Ancestral Grain Chicken & Pomegranate (Medium/Maxi) Adult",
+    "cleaned": "Ancestral Grain Chicken & Pomegranate (Medium/Maxi) Adult",
+    "pattern": "N&D "
+  },
+  {
+    "product_key": "farmina_n&d|n&d_brown_adult_mini_lamb,_carrot_&_spirulina|dry",
+    "original": "N&D Brown Adult Mini Lamb, Carrot & Spirulina",
+    "cleaned": "Brown Adult Mini Lamb, Carrot & Spirulina",
+    "pattern": "N&D "
+  },
+  {
+    "product_key": "farmina_n&d|n&d_prime_grain_free_mini_chicken_&_pomegranate|dry",
+    "original": "N&D Prime Grain Free Mini Chicken & Pomegranate",
+    "cleaned": "Prime Grain Free Mini Chicken & Pomegranate",
+    "pattern": "N&D "
+  },
+  {
+    "product_key": "farmina_n&d|n&d_spirulina_adult_medium/maxi_with_herring|dry",
+    "original": "N&D Spirulina Adult Medium/Maxi with Herring",
+    "cleaned": "Spirulina Adult Medium/Maxi with Herring",
+    "pattern": "N&D "
+  },
+  {
+    "product_key": "farmina_n&d|n&d_white_adult_mini_with_sea_bass,_fennel_&_spirulina|dry",
+    "original": "N&D White Adult Mini with Sea Bass, Fennel & Spirulina",
+    "cleaned": "White Adult Mini with Sea Bass, Fennel & Spirulina",
+    "pattern": "N&D "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_fit_&_vital_mini_adult|dry",
+    "original": "Happy Dog fit & vital Mini Adult",
+    "cleaned": "fit & vital Mini Adult",
+    "pattern": "Happy Dog "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_fit_&_vital_mini_puppy|dry",
+    "original": "Happy Dog fit & vital Mini Puppy",
+    "cleaned": "fit & vital Mini Puppy",
+    "pattern": "Happy Dog "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_sensible_mini_africa|dry",
+    "original": "Happy Dog Sensible Mini Africa",
+    "cleaned": "Sensible Mini Africa",
+    "pattern": "Happy Dog "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_sensible_mini_canada|dry",
+    "original": "Happy Dog Sensible Mini Canada",
+    "cleaned": "Sensible Mini Canada",
+    "pattern": "Happy Dog "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_sensible_mini_france|dry",
+    "original": "Happy Dog Sensible Mini France",
+    "cleaned": "Sensible Mini France",
+    "pattern": "Happy Dog "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_sensible_mini_india|dry",
+    "original": "Happy Dog Sensible Mini India",
+    "cleaned": "Sensible Mini India",
+    "pattern": "Happy Dog "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_sensible_mini_ireland|dry",
+    "original": "Happy Dog Sensible Mini Ireland",
+    "cleaned": "Sensible Mini Ireland",
+    "pattern": "Happy Dog "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_sensible_mini_new_zealand|dry",
+    "original": "Happy Dog Sensible Mini New Zealand",
+    "cleaned": "Sensible Mini New Zealand",
+    "pattern": "Happy Dog "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_sensible_mini_toscana|dry",
+    "original": "Happy Dog Sensible Mini Toscana",
+    "cleaned": "Sensible Mini Toscana",
+    "pattern": "Happy Dog "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_fit_&_vital_junior|dry",
+    "original": "Happy Dog Supreme fit & vital Junior",
+    "cleaned": "fit & vital Junior",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_fit_&_vital_maxi_adult|dry",
+    "original": "Happy Dog Supreme fit & vital Maxi Adult",
+    "cleaned": "fit & vital Maxi Adult",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_fit_&_vital_medium_adult|dry",
+    "original": "Happy Dog Supreme fit & vital Medium Adult",
+    "cleaned": "fit & vital Medium Adult",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_fit_&_vital_puppy|dry",
+    "original": "Happy Dog Supreme fit & vital Puppy",
+    "cleaned": "fit & vital Puppy",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_fit_&_vital_sport|dry",
+    "original": "Happy Dog Supreme fit & vital Sport",
+    "cleaned": "fit & vital Sport",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sano_n|dry",
+    "original": "Happy Dog Supreme Sano N",
+    "cleaned": "Sano N",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_africa|dry",
+    "original": "Happy Dog Supreme Sensible Africa",
+    "cleaned": "Sensible Africa",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_canada|dry",
+    "original": "Happy Dog Supreme Sensible Canada",
+    "cleaned": "Sensible Canada",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_caribbean|dry",
+    "original": "Happy Dog Supreme Sensible Caribbean",
+    "cleaned": "Sensible Caribbean",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_france|dry",
+    "original": "Happy Dog Supreme Sensible France",
+    "cleaned": "Sensible France",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_ireland|dry",
+    "original": "Happy Dog Supreme Sensible Ireland",
+    "cleaned": "Sensible Ireland",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_junior_chicken,_salmon_&_potato|dry",
+    "original": "Happy Dog Supreme Sensible Junior Chicken, Salmon & Potato",
+    "cleaned": "Sensible Junior Chicken, Salmon & Potato",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_junior_lamb_&_rice|dry",
+    "original": "Happy Dog Supreme Sensible Junior Lamb & Rice",
+    "cleaned": "Sensible Junior Lamb & Rice",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_montana|dry",
+    "original": "Happy Dog Supreme Sensible Montana",
+    "cleaned": "Sensible Montana",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_new_zealand|dry",
+    "original": "Happy Dog Supreme Sensible New Zealand",
+    "cleaned": "Sensible New Zealand",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensible_puppy_lamb_&_rice|dry",
+    "original": "Happy Dog Supreme Sensible Puppy Lamb & Rice",
+    "cleaned": "Sensible Puppy Lamb & Rice",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_sensitive_india|dry",
+    "original": "Happy Dog Supreme Sensitive India",
+    "cleaned": "Sensitive India",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "happy_dog_supreme|happy_dog_supreme_toscana|dry",
+    "original": "Happy Dog Supreme Toscana",
+    "cleaned": "Toscana",
+    "pattern": "Happy Dog Supreme "
+  },
+  {
+    "product_key": "exe-valley|valley_adult_delightful_duck|unknown",
+    "original": "Valley Adult Delightful Duck",
+    "cleaned": "Adult Delightful Duck",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_adult_luscious_lamb|unknown",
+    "original": "Valley Adult Luscious Lamb",
+    "cleaned": "Adult Luscious Lamb",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_adult_pleasant_pork|unknown",
+    "original": "Valley Adult Pleasant Pork",
+    "cleaned": "Adult Pleasant Pork",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_adult_succulent_salmon_and_trout|unknown",
+    "original": "Valley Adult Succulent Salmon and Trout",
+    "cleaned": "Adult Succulent Salmon and Trout",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_adult_tantalising_turkey|unknown",
+    "original": "Valley Adult Tantalising Turkey",
+    "cleaned": "Adult Tantalising Turkey",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_essential_range_adult_lamb|unknown",
+    "original": "Valley Essential Range Adult Lamb",
+    "cleaned": "Essential Range Adult Lamb",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_essential_range_adult_large_breed_chicken|unknown",
+    "original": "Valley Essential Range Adult Large Breed Chicken",
+    "cleaned": "Essential Range Adult Large Breed Chicken",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_essential_range_adult_salmon|unknown",
+    "original": "Valley Essential Range Adult Salmon",
+    "cleaned": "Essential Range Adult Salmon",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_essential_range_adult_turkey|unknown",
+    "original": "Valley Essential Range Adult Turkey",
+    "cleaned": "Essential Range Adult Turkey",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_essential_range_puppy_turkey|unknown",
+    "original": "Valley Essential Range Puppy Turkey",
+    "cleaned": "Essential Range Puppy Turkey",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_chicken,_sweet_potato__vegetable|unknown",
+    "original": "Valley Chicken, Sweet Potato  Vegetable",
+    "cleaned": "Chicken, Sweet Potato  Vegetable",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_lamb,_potato__vegetable|unknown",
+    "original": "Valley Lamb, Potato  Vegetable",
+    "cleaned": "Lamb, Potato  Vegetable",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_turkey_sweet_potato__vegetable|unknown",
+    "original": "Valley Turkey Sweet Potato  Vegetable",
+    "cleaned": "Turkey Sweet Potato  Vegetable",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_essential_range_senior_chicken|unknown",
+    "original": "Valley Essential Range Senior Chicken",
+    "cleaned": "Essential Range Senior Chicken",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_adult_delicious_chicken|unknown",
+    "original": "Valley Adult Delicious Chicken",
+    "cleaned": "Adult Delicious Chicken",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_adult_succulent_salmon__trout_small_kibble|unknown",
+    "original": "Valley Adult Succulent Salmon  Trout Small Kibble",
+    "cleaned": "Adult Succulent Salmon  Trout Small Kibble",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "exe-valley|valley_adult_small_kibble_delicious_chicken|unknown",
+    "original": "Valley Adult Small Kibble Delicious Chicken",
+    "cleaned": "Adult Small Kibble Delicious Chicken",
+    "pattern": "Valley "
+  },
+  {
+    "product_key": "millies-wolfheart|wolfheart_forager|unknown",
+    "original": "Wolfheart Forager",
+    "cleaned": "Forager",
+    "pattern": "Wolfheart "
+  },
+  {
+    "product_key": "millies-wolfheart|wolfheart_highland|wet",
+    "original": "Wolfheart Highland",
+    "cleaned": "Highland",
+    "pattern": "Wolfheart "
+  },
+  {
+    "product_key": "millies-wolfheart|wolfheart_riverside|unknown",
+    "original": "Wolfheart Riverside",
+    "cleaned": "Riverside",
+    "pattern": "Wolfheart "
+  },
+  {
+    "product_key": "millies-wolfheart|wolfheart_tracker|unknown",
+    "original": "Wolfheart Tracker",
+    "cleaned": "Tracker",
+    "pattern": "Wolfheart "
+  },
+  {
+    "product_key": "millies-wolfheart|wolfheart_ultima|unknown",
+    "original": "Wolfheart Ultima",
+    "cleaned": "Ultima",
+    "pattern": "Wolfheart "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_adult_maxi_with_raw_ham|dry",
+    "original": "Natural Trainer Adult Maxi with Raw Ham",
+    "cleaned": "Adult Maxi with Raw Ham",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_adult_maxi_with_tuna|dry",
+    "original": "Natural Trainer Adult Maxi with Tuna",
+    "cleaned": "Adult Maxi with Tuna",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_adult_medium_with_beef|dry",
+    "original": "Natural Trainer Adult Medium with Beef",
+    "cleaned": "Adult Medium with Beef",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_adult_medium_with_chicken|dry",
+    "original": "Natural Trainer Adult Medium with Chicken",
+    "cleaned": "Adult Medium with Chicken",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_adult_medium_with_tuna|dry",
+    "original": "Natural Trainer Adult Medium with Tuna",
+    "cleaned": "Adult Medium with Tuna",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_adult_small_&_toy_with_prosciutto_crudo|dry",
+    "original": "Natural Trainer Adult Small & Toy with Prosciutto Crudo",
+    "cleaned": "Adult Small & Toy with Prosciutto Crudo",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_dog_adult_small_&_toy_with_beef|dry",
+    "original": "Natural Trainer Dog Adult Small & Toy with Beef",
+    "cleaned": "Dog Adult Small & Toy with Beef",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_light_in_fat_adult_medium_&_maxi_with_turkey|dry",
+    "original": "Natural Trainer Light in Fat Adult Medium & Maxi with Turkey",
+    "cleaned": "Light in Fat Adult Medium & Maxi with Turkey",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_mature_medium_with_chicken|dry",
+    "original": "Natural Trainer Mature Medium with Chicken",
+    "cleaned": "Mature Medium with Chicken",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_mature_small_&_toy_with_chicken|dry",
+    "original": "Natural Trainer Mature Small & Toy with Chicken",
+    "cleaned": "Mature Small & Toy with Chicken",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_puppy_&_junior_maxi_with_chicken|dry",
+    "original": "Natural Trainer Puppy & Junior Maxi with Chicken",
+    "cleaned": "Puppy & Junior Maxi with Chicken",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_puppy_&_junior_small_&_toy_with_chicken|dry",
+    "original": "Natural Trainer Puppy & Junior Small & Toy with Chicken",
+    "cleaned": "Puppy & Junior Small & Toy with Chicken",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_adult_medium_&_maxi_with_duck|dry",
+    "original": "Natural Trainer Sensitive Adult Medium & Maxi with Duck",
+    "cleaned": "Sensitive Adult Medium & Maxi with Duck",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_adult_medium_&_maxi_with_lamb|dry",
+    "original": "Natural Trainer Sensitive Adult Medium & Maxi with Lamb",
+    "cleaned": "Sensitive Adult Medium & Maxi with Lamb",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_adult_medium_&_maxi_with_rabbit|dry",
+    "original": "Natural Trainer Sensitive Adult Medium & Maxi with Rabbit",
+    "cleaned": "Sensitive Adult Medium & Maxi with Rabbit",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_adult_medium_&_maxi_with_salmon|dry",
+    "original": "Natural Trainer Sensitive Adult Medium & Maxi with Salmon",
+    "cleaned": "Sensitive Adult Medium & Maxi with Salmon",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_adult_medium/maxi_with_egg|dry",
+    "original": "Natural Trainer Sensitive Adult Medium/Maxi with egg",
+    "cleaned": "Sensitive Adult Medium/Maxi with egg",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_adult_small_&_toy_with_lamb|dry",
+    "original": "Natural Trainer Sensitive Adult Small & Toy with Lamb",
+    "cleaned": "Sensitive Adult Small & Toy with Lamb",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_adult_small_&_toy_with_pork|dry",
+    "original": "Natural Trainer Sensitive Adult Small & Toy with Pork",
+    "cleaned": "Sensitive Adult Small & Toy with Pork",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_adult_small_&_toy_with_salmon|dry",
+    "original": "Natural Trainer Sensitive Adult Small & Toy with Salmon",
+    "cleaned": "Sensitive Adult Small & Toy with Salmon",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_mature_medium_&_maxi_with_salmon|dry",
+    "original": "Natural Trainer Sensitive Mature Medium & Maxi with salmon",
+    "cleaned": "Sensitive Mature Medium & Maxi with salmon",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_no_gluten_adult_medium/maxi_with_pork|dry",
+    "original": "Natural Trainer Sensitive No Gluten Adult Medium/Maxi with pork",
+    "cleaned": "Sensitive No Gluten Adult Medium/Maxi with pork",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_no_grain_adult_med/maxi_with_pork_&_potatoes|dry",
+    "original": "Natural Trainer Sensitive No Grain Adult Med/Maxi with pork & potatoes",
+    "cleaned": "Sensitive No Grain Adult Med/Maxi with pork & potatoes",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_puppy_&_junior_medium_&_max_with_salmon|dry",
+    "original": "Natural Trainer Sensitive Puppy & Junior Medium & Max with Salmon",
+    "cleaned": "Sensitive Puppy & Junior Medium & Max with Salmon",
+    "pattern": "Natural Trainer "
+  },
+  {
+    "product_key": "nova_foods_natural_trainer|nova_foods_natural_trainer_sensitive_no_gluten_small_&_toy_adult|wet",
+    "original": "Nova Foods Natural Trainer Sensitive No Gluten Small & Toy Adult",
+    "cleaned": "Sensitive No Gluten Small & Toy Adult",
+    "pattern": "Nova Foods Natural Trainer "
+  }
+]

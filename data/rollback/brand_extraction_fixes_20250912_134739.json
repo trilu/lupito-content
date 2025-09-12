@@ -1,0 +1,4652 @@
+[
+  {
+    "product_key": "happy|dog_adult_maxi|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_adult_maxi|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_adult|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_adult|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_duck__rice|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_duck__rice|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_lamb_new_zealand|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_lamb_new_zealand|unknown"
+  },
+  {
+    "product_key": "happy|dog_sensitive_junior_lamb__rice|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_sensitive_junior_lamb__rice|unknown"
+  },
+  {
+    "product_key": "happy|dog_africa|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_africa|unknown"
+  },
+  {
+    "product_key": "happy|dog_andalucia|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_andalucia|unknown"
+  },
+  {
+    "product_key": "happy|dog_baby_fit__vital_original|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_baby_fit__vital_original|unknown"
+  },
+  {
+    "product_key": "happy|dog_canada|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_canada|unknown"
+  },
+  {
+    "product_key": "happy|dog_carribbean|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_carribbean|unknown"
+  },
+  {
+    "product_key": "happy|dog_fit__well_senior|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_fit__well_senior|unknown"
+  },
+  {
+    "product_key": "happy|dog_flocken_vollkost_classic_flakes|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_flocken_vollkost_classic_flakes|unknown"
+  },
+  {
+    "product_key": "happy|dog_france|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_france|unknown"
+  },
+  {
+    "product_key": "happy|dog_giant_baby_lamb__rice|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_giant_baby_lamb__rice|unknown"
+  },
+  {
+    "product_key": "happy|dog_giant_junior_lamb__rice|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_giant_junior_lamb__rice|unknown"
+  },
+  {
+    "product_key": "happy|dog_greece|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_greece|unknown"
+  },
+  {
+    "product_key": "happy|dog_ireland|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_ireland|unknown"
+  },
+  {
+    "product_key": "happy|dog_junior_fit__vital_original|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_junior_fit__vital_original|unknown"
+  },
+  {
+    "product_key": "happy|dog_light_calorie_control|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_light_calorie_control|unknown"
+  },
+  {
+    "product_key": "happy|dog_medium_adult|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_medium_adult|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_africa|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_africa|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_canada|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_canada|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_france|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_france|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_ireland|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_ireland|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_light|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_light|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_montana|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_montana|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_new_zealand|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_new_zealand|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_puppy_fit__vital|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_puppy_fit__vital|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_senior|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_senior|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_toscana|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_toscana|unknown"
+  },
+  {
+    "product_key": "happy|dog_mini_xs_japan|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_mini_xs_japan|unknown"
+  },
+  {
+    "product_key": "happy|dog_montana|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_montana|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_active|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_active|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_balance|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_balance|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_beef__rice|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_beef__rice|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_chicken__rice|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_chicken__rice|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_lamb__rice|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_lamb__rice|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_mini_puppy|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_mini_puppy|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_puppy|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_puppy|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_salmon__rice|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_salmon__rice|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_senior|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_senior|unknown"
+  },
+  {
+    "product_key": "happy|dog_naturcroq_xxl|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_naturcroq_xxl|unknown"
+  },
+  {
+    "product_key": "happy|dog_new_zealand|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_new_zealand|unknown"
+  },
+  {
+    "product_key": "happy|dog_piemonte|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_piemonte|unknown"
+  },
+  {
+    "product_key": "happy|dog_puppy/junior_lamb|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_puppy/junior_lamb|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_beef_germany|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_beef_germany|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_buffalo_italy|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_buffalo_italy|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_duck_france|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_duck_france|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_game_sweden|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_game_sweden|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_goat_sardinia|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_goat_sardinia|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_horse_montana|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_horse_montana|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_kangaroo_australia|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_kangaroo_australia|unknown"
+  },
+  {
+    "product_key": "happy|dog_toscana|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_toscana|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_ostrich_africa|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_ostrich_africa|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_sea_fish_norway|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_sea_fish_norway|unknown"
+  },
+  {
+    "product_key": "happy|dog_pure_turkey_texas|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_pure_turkey_texas|unknown"
+  },
+  {
+    "product_key": "happy|dog_sano_n_kidney_diet|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_sano_n_kidney_diet|unknown"
+  },
+  {
+    "product_key": "happy|dog_sensitive_baby_lamb__rice|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_sensitive_baby_lamb__rice|unknown"
+  },
+  {
+    "product_key": "happy|dog_sensitive_baby_salmon__potato|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_sensitive_baby_salmon__potato|unknown"
+  },
+  {
+    "product_key": "happy|dog_sensitive_junior_salmon__potato|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_sensitive_junior_salmon__potato|unknown"
+  },
+  {
+    "product_key": "happy|dog_sensitive_mini_puppy|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_sensitive_mini_puppy|unknown"
+  },
+  {
+    "product_key": "happy|dog_sport_adult|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_sport_adult|unknown"
+  },
+  {
+    "product_key": "happy|dog_sport_nordic|unknown",
+    "old_brand": "Happy",
+    "new_brand": "Happy Dog",
+    "new_product_key": "happy-dog|dog_sport_nordic|unknown"
+  },
+  {
+    "product_key": "james|ella_cold_pressed_free_run_chicken|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|ella_cold_pressed_free_run_chicken|unknown"
+  },
+  {
+    "product_key": "james|ella_cold_pressed_ocean_fish|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|ella_cold_pressed_ocean_fish|unknown"
+  },
+  {
+    "product_key": "james|ella_freeze_dried_raw_free_run_chicken|raw",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|ella_freeze_dried_raw_free_run_chicken|raw"
+  },
+  {
+    "product_key": "james|ella_freeze_dried_raw_grass_fed_beef|raw",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|ella_freeze_dried_raw_grass_fed_beef|raw"
+  },
+  {
+    "product_key": "james|ella_kibble__raw_free_run_chicken|raw",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|ella_kibble__raw_free_run_chicken|raw"
+  },
+  {
+    "product_key": "james|ella_kibble__raw_grass_fed_beef|raw",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|ella_kibble__raw_grass_fed_beef|raw"
+  },
+  {
+    "product_key": "james|ella_kibble_raw_puppy|raw",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|ella_kibble_raw_puppy|raw"
+  },
+  {
+    "product_key": "james|wellbeloved_adult_chicken__rice|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_adult_chicken__rice|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_adult_chicken__turkey_high_protein|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_adult_chicken__turkey_high_protein|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_adult_lamb_with_sweet_potato__chia_superfoods|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_adult_lamb_with_sweet_potato__chia_superfoods|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_adult_large_breed_chicken__rice|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_adult_large_breed_chicken__rice|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_adult_small_breed_chicken__rice|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_adult_small_breed_chicken__rice|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_adult_small_breed_turkey_with_rice_pouch|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_adult_small_breed_turkey_with_rice_pouch|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_adult_turkey_with_kale__quinoa_superfoods|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_adult_turkey_with_kale__quinoa_superfoods|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_adult_turkey_with_rice|wet",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_adult_turkey_with_rice|wet"
+  },
+  {
+    "product_key": "james|wellbeloved_chicken__rice_in_loaf_adult|wet",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_chicken__rice_in_loaf_adult|wet"
+  },
+  {
+    "product_key": "james|wellbeloved_duck__rice_adult|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_duck__rice_adult|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_duck__rice_large_breed|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_duck__rice_large_breed|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_duck__rice_senior|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_duck__rice_senior|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_duck__rice_small_breed|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_duck__rice_small_breed|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_fish__rice_adult|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_fish__rice_adult|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_fish__rice_large_breed|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_fish__rice_large_breed|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_fish__rice_puppy|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_fish__rice_puppy|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_fish__rice_senior|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_fish__rice_senior|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_adult_lamb__chicken|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_adult_lamb__chicken|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_fish__vegetables|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_fish__vegetables|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_lamb__vegetables_senior|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_lamb__vegetables_senior|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_lamb__vegetables|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_lamb__vegetables|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_senior_lamb__veg|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_senior_lamb__veg|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_senior_turkey__veg|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_senior_turkey__veg|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_turkey__vegetables_puppy/_junior|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_turkey__vegetables_puppy/_junior|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_turkey__vegetables_small_breed|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_turkey__vegetables_small_breed|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_turkey__vegetables|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_turkey__vegetables|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_grain_free_turkey_in_gravy_adult|wet",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_grain_free_turkey_in_gravy_adult|wet"
+  },
+  {
+    "product_key": "james|wellbeloved_lamb__rice_adult|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_lamb__rice_adult|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_lamb__rice_junior|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_lamb__rice_junior|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_lamb__rice_large_breed_adult|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_lamb__rice_large_breed_adult|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_lamb__rice_puppy|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_lamb__rice_puppy|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_lamb__rice_senior|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_lamb__rice_senior|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_lamb__rice_small_breed_adult|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_lamb__rice_small_breed_adult|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_light_lamb__rice_adult|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_light_lamb__rice_adult|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_light_turkey__rice_adult|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_light_turkey__rice_adult|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_plant_power_adult_lamb__lentils|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_plant_power_adult_lamb__lentils|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_puppy_chicken__rice|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_puppy_chicken__rice|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_puppy/junior_turkey_with_kale__quinoa_superfoods|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_puppy/junior_turkey_with_kale__quinoa_superfoods|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_senior_chicken__rice|unknown",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_senior_chicken__rice|unknown"
+  },
+  {
+    "product_key": "james|wellbeloved_turkey__rice_adult|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_turkey__rice_adult|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_turkey__rice_in_loaf_adult|wet",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_turkey__rice_in_loaf_adult|wet"
+  },
+  {
+    "product_key": "james|wellbeloved_turkey__rice_junior|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_turkey__rice_junior|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_turkey__rice_large_breed|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_turkey__rice_large_breed|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_turkey__rice_puppy|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_turkey__rice_puppy|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_turkey__rice_senior|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_turkey__rice_senior|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_turkey__rice_small_breed_senior|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_turkey__rice_small_breed_senior|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_turkey__rice_small_breed|dry",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_turkey__rice_small_breed|dry"
+  },
+  {
+    "product_key": "james|wellbeloved_turkey_in_gravy_puppy/junior|wet",
+    "old_brand": "James",
+    "new_brand": "James Wellbeloved",
+    "new_product_key": "james-wellbeloved|wellbeloved_turkey_in_gravy_puppy/junior|wet"
+  },
+  {
+    "product_key": "lakes|collection_country_tucker_complete_beef|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_country_tucker_complete_beef|unknown"
+  },
+  {
+    "product_key": "lakes|collection_country_tucker_complete_chicken|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_country_tucker_complete_chicken|unknown"
+  },
+  {
+    "product_key": "lakes|collection_country_tucker_complete_puppy|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_country_tucker_complete_puppy|unknown"
+  },
+  {
+    "product_key": "lakes|collection_country_tucker_farmers_complete|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_country_tucker_farmers_complete|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_established_hypoallergenic_adult_fish|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_established_hypoallergenic_adult_fish|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_established_hypoallergenic_adult_turkey|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_established_hypoallergenic_adult_turkey|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_established_hypoallergenic_puppy_turkey|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_established_hypoallergenic_puppy_turkey|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_established_hypoallergenic_small_breed_turkey|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_established_hypoallergenic_small_breed_turkey|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_beef_with_carrot|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_beef_with_carrot|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_chicken_with_herbs|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_chicken_with_herbs|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_duck_with_orange|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_duck_with_orange|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_haddock_with_parsley|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_haddock_with_parsley|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_lamb_with_mint|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_lamb_with_mint|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_pork_with_apple|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_pork_with_apple|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_rabbit_with_blackberry|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_rabbit_with_blackberry|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_salmon_with_asparagus|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_salmon_with_asparagus|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_tuna_with_broccoli|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_tuna_with_broccoli|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_turkey_with_cranberry|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_turkey_with_cranberry|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_adult_venison_with_mulberry|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_adult_venison_with_mulberry|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_light_trout_with_sweet_potato|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_light_trout_with_sweet_potato|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_puppy_chicken_with_carrot|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_puppy_chicken_with_carrot|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_puppy_salmon_with_asparagus|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_puppy_salmon_with_asparagus|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_grain_free_senior_trout_with_sweet_potato|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_grain_free_senior_trout_with_sweet_potato|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_small_breed_chicken_with_herbs|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_small_breed_chicken_with_herbs|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_heritage_small_breed_salmon_with_asparagus|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_heritage_small_breed_salmon_with_asparagus|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_legacy_high_protein_adult_angus_beef|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_legacy_high_protein_adult_angus_beef|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_legacy_high_protein_adult_english_country_duck|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_legacy_high_protein_adult_english_country_duck|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_legacy_high_protein_adult_free_range_chicken|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_legacy_high_protein_adult_free_range_chicken|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_legacy_high_protein_adult_grass_fed_lamb|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_legacy_high_protein_adult_grass_fed_lamb|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_legacy_high_protein_adult_scottish_salmon|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_legacy_high_protein_adult_scottish_salmon|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_legacy_high_protein_puppy_scottish_salmon|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_legacy_high_protein_puppy_scottish_salmon|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_legacy_high_protein_senior_scottish_salmon|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_legacy_high_protein_senior_scottish_salmon|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_legacy_high_protein_small_breed_angus_beef|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_legacy_high_protein_small_breed_angus_beef|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_pioneer_sensitive_adult_chicken_with_rice|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_pioneer_sensitive_adult_chicken_with_rice|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_pioneer_sensitive_adult_lamb_with_rice|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_pioneer_sensitive_adult_lamb_with_rice|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_pioneer_sensitive_puppy_chicken_with_rice|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_pioneer_sensitive_puppy_chicken_with_rice|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_pioneer_sensitive_senior_fish_with_rice|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_pioneer_sensitive_senior_fish_with_rice|unknown"
+  },
+  {
+    "product_key": "lakes|collection_lakes_pioneer_sensitive_small_breed_chicken_with_rice|unknown",
+    "old_brand": "Lakes",
+    "new_brand": "Lakes Heritage",
+    "new_product_key": "lakes-heritage|collection_lakes_pioneer_sensitive_small_breed_chicken_with_rice|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_an_english_garden_party|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_an_english_garden_party|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_beef_goulash|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_beef_goulash|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_beef_with_ancient_grains|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_beef_with_ancient_grains|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_breakfast_crunch|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_breakfast_crunch|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_carnival_chicken|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_carnival_chicken|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_chicken__duck_small_breed|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_chicken__duck_small_breed|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_chicken__salmon_puppy|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_chicken__salmon_puppy|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_chicken__turkey_casserole|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_chicken__turkey_casserole|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_chicken_with_ancient_grains|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_chicken_with_ancient_grains|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_coronation_chicken|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_coronation_chicken|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_cottage_pie|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_cottage_pie|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_countryside_casserole_chicken__duck|dry",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_countryside_casserole_chicken__duck|dry"
+  },
+  {
+    "product_key": "lilys|kitchen_fish__chips|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_fish__chips|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_fishy_fish_pie|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_fishy_fish_pie|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_great_british_breakfast|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_great_british_breakfast|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_hocus_pocus_stew|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_hocus_pocus_stew|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_lamb_hotpot|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_lamb_hotpot|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_lamb_tagine|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_lamb_tagine|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_lean_machine|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_lean_machine|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_love__pride|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_love__pride|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_mighty_burrito_bowl_with_jackfruit__red_peppers|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_mighty_burrito_bowl_with_jackfruit__red_peppers|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_organic_beef_supper|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_organic_beef_supper|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_organic_chicken__vegetable|dry",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_organic_chicken__vegetable|dry"
+  },
+  {
+    "product_key": "lilys|kitchen_organic_chicken_supper|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_organic_chicken_supper|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_organic_lamb_supper|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_organic_lamb_supper|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_pasta_al_ragu|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_pasta_al_ragu|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_puppy_chicken_dinner|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_puppy_chicken_dinner|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_puppy_organic_dinner|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_puppy_organic_dinner|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_rest_up_recipe|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_rest_up_recipe|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_senior_recipe|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_senior_recipe|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_shepherds_pie_with_lamb,_potatoes__parsley|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_shepherds_pie_with_lamb,_potatoes__parsley|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_springtime_stew|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_springtime_stew|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_sunday_lunch_small_dogs|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_sunday_lunch_small_dogs|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_sunday_lunch|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_sunday_lunch|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_surf__turf|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_surf__turf|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_three_bird_feast|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_three_bird_feast|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_turkey__duck_puppy_recipe|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_turkey__duck_puppy_recipe|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_turkey__trout_senior|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_turkey__trout_senior|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_ultimate_chicken__salmon|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_ultimate_chicken__salmon|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_ultimate_chicken_dinner|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_ultimate_chicken_dinner|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_ultimate_steak_dinner|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_ultimate_steak_dinner|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_venison__wild_boar_terrine|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_venison__wild_boar_terrine|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_vibrant_vegan_rainbow_stew|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_vibrant_vegan_rainbow_stew|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_wholesome_veggie_feast|wet",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_wholesome_veggie_feast|wet"
+  },
+  {
+    "product_key": "lilys|kitchen_wild_campfire_stew|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_wild_campfire_stew|unknown"
+  },
+  {
+    "product_key": "lilys|kitchen_wild_woodland_walk_duck,_salmon__venison|unknown",
+    "old_brand": "Lilys",
+    "new_brand": "Lily's Kitchen",
+    "new_product_key": "lilys-kitchen|kitchen_wild_woodland_walk_duck,_salmon__venison|unknown"
+  },
+  {
+    "product_key": "natures|deli_adult_grain_free_chicken__duck|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_adult_grain_free_chicken__duck|unknown"
+  },
+  {
+    "product_key": "natures|deli_adult_grain_free_salmon__sweet_potato|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_adult_grain_free_salmon__sweet_potato|unknown"
+  },
+  {
+    "product_key": "natures|deli_adult_lamb__rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_adult_lamb__rice|unknown"
+  },
+  {
+    "product_key": "natures|deli_adult_large_breed_turkey__rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_adult_large_breed_turkey__rice|unknown"
+  },
+  {
+    "product_key": "natures|deli_adult_light_turkey__rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_adult_light_turkey__rice|unknown"
+  },
+  {
+    "product_key": "natures|deli_adult_small_breed_turkey|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_adult_small_breed_turkey|unknown"
+  },
+  {
+    "product_key": "natures|deli_adult_turkey_and_rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_adult_turkey_and_rice|unknown"
+  },
+  {
+    "product_key": "natures|deli_grain_free_adult_turkey|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_grain_free_adult_turkey|unknown"
+  },
+  {
+    "product_key": "natures|deli_grain_free_salmon__whitefish|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_grain_free_salmon__whitefish|unknown"
+  },
+  {
+    "product_key": "natures|deli_puppy_junior_grain_free_duck|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_puppy_junior_grain_free_duck|unknown"
+  },
+  {
+    "product_key": "natures|deli_puppy_turkey__rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_puppy_turkey__rice|unknown"
+  },
+  {
+    "product_key": "natures|deli_senior_grain_free_duck__sweet_potato|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_senior_grain_free_duck__sweet_potato|unknown"
+  },
+  {
+    "product_key": "natures|deli_senior_turkey__chicken_with_sage__brown_rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_senior_turkey__chicken_with_sage__brown_rice|unknown"
+  },
+  {
+    "product_key": "natures|deli_senior_turkey__rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|deli_senior_turkey__rice|unknown"
+  },
+  {
+    "product_key": "natures|harvest_adult_turkey_and_brown_rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|harvest_adult_turkey_and_brown_rice|unknown"
+  },
+  {
+    "product_key": "natures|harvest_chicken_and_brown_rice_original|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|harvest_chicken_and_brown_rice_original|unknown"
+  },
+  {
+    "product_key": "natures|harvest_chicken_and_sweet_potato_pie|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|harvest_chicken_and_sweet_potato_pie|unknown"
+  },
+  {
+    "product_key": "natures|harvest_duck,_chicken_anf_brown_rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|harvest_duck,_chicken_anf_brown_rice|unknown"
+  },
+  {
+    "product_key": "natures|harvest_ocean_fish_and_sweet_potato_pie|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|harvest_ocean_fish_and_sweet_potato_pie|unknown"
+  },
+  {
+    "product_key": "natures|harvest_original_lamb__brown_rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|harvest_original_lamb__brown_rice|unknown"
+  },
+  {
+    "product_key": "natures|harvest_original_ocean_fish_and_brown_rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|harvest_original_ocean_fish_and_brown_rice|unknown"
+  },
+  {
+    "product_key": "natures|harvest_original_puppy_chicken__brown_rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|harvest_original_puppy_chicken__brown_rice|unknown"
+  },
+  {
+    "product_key": "natures|harvest_senior_original_chicken_and_brown_rice|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|harvest_senior_original_chicken_and_brown_rice|unknown"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_60/40_beef_and_chicken|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_60/40_beef_and_chicken|raw"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_60/40_chicken_with_salmon|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_60/40_chicken_with_salmon|raw"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_60/40_lamb_with_chicken|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_60/40_lamb_with_chicken|raw"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_60/40_tripe__chicken|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_60/40_tripe__chicken|raw"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_60/40_tripe_and_chicken|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_60/40_tripe_and_chicken|raw"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_80/20_chicken_with_salmon|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_80/20_chicken_with_salmon|unknown"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_80/20_farm_reared_turkey|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_80/20_farm_reared_turkey|unknown"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_80/20_lamb|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_80/20_lamb|raw"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_80/20_tender_beef|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_80/20_tender_beef|raw"
+  },
+  {
+    "product_key": "natures|menu_complete__balanced_puppy_80/20_turkey__fish|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_complete__balanced_puppy_80/20_turkey__fish|unknown"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_chicken_with_superfoods|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_chicken_with_superfoods|wet"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_farm_reared_turkey_pouch|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_farm_reared_turkey_pouch|wet"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_farm_reared_turkey_with_superfoods_can|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_farm_reared_turkey_with_superfoods_can|wet"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_pheasant__goose_with_superfoods|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_pheasant__goose_with_superfoods|wet"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_rabbit_with_superfoods_can|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_rabbit_with_superfoods_can|wet"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_salmon__chicken_with_superfoods|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_salmon__chicken_with_superfoods|wet"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_single_animal_protein_beef_with_superfoods|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_single_animal_protein_beef_with_superfoods|unknown"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_succulent_duck_pouch|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_succulent_duck_pouch|wet"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_succulent_duck_with_superfoods_can|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_succulent_duck_with_superfoods_can|wet"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_wild_boar_with_superfoods|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_wild_boar_with_superfoods|wet"
+  },
+  {
+    "product_key": "natures|menu_country_hunter_wild_venison_with_superfoods_can|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_country_hunter_wild_venison_with_superfoods_can|wet"
+  },
+  {
+    "product_key": "natures|menu_delicious_pate_chicken_with_duck__vegetables|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_delicious_pate_chicken_with_duck__vegetables|unknown"
+  },
+  {
+    "product_key": "natures|menu_delicious_pate_chicken_with_vegetables|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_delicious_pate_chicken_with_vegetables|unknown"
+  },
+  {
+    "product_key": "natures|menu_delicious_pate_puppy_chicken_with_lamb|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_delicious_pate_puppy_chicken_with_lamb|unknown"
+  },
+  {
+    "product_key": "natures|menu_delicious_pate_senior_lamb_with_chicken__vegetables|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_delicious_pate_senior_lamb_with_chicken__vegetables|wet"
+  },
+  {
+    "product_key": "natures|menu_delicious_pate_turkey_with_chicken__vegetables|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_delicious_pate_turkey_with_chicken__vegetables|unknown"
+  },
+  {
+    "product_key": "natures|menu_freshly_cooked_beef_roast|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_freshly_cooked_beef_roast|unknown"
+  },
+  {
+    "product_key": "natures|menu_freshly_cooked_chicken_casserole|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_freshly_cooked_chicken_casserole|unknown"
+  },
+  {
+    "product_key": "natures|menu_freshly_cooked_salmon_fishermans_pie|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_freshly_cooked_salmon_fishermans_pie|unknown"
+  },
+  {
+    "product_key": "natures|menu_freshly_cooked_turkey_and_veggie_pot|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_freshly_cooked_turkey_and_veggie_pot|unknown"
+  },
+  {
+    "product_key": "natures|menu_hearty_stew_with_beef__carrots|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_hearty_stew_with_beef__carrots|unknown"
+  },
+  {
+    "product_key": "natures|menu_hearty_stew_with_lamb__vegetables|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_hearty_stew_with_lamb__vegetables|unknown"
+  },
+  {
+    "product_key": "natures|menu_hearty_stew_with_salmon__herbs|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_hearty_stew_with_salmon__herbs|unknown"
+  },
+  {
+    "product_key": "natures|menu_hearty_stew_with_turkey__green_beans|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_hearty_stew_with_turkey__green_beans|unknown"
+  },
+  {
+    "product_key": "natures|menu_lamb_with_chicken_can|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_lamb_with_chicken_can|wet"
+  },
+  {
+    "product_key": "natures|menu_light_chicken_with_rabbit_pouch|wet",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_light_chicken_with_rabbit_pouch|wet"
+  },
+  {
+    "product_key": "natures|menu_puppy_80%_chicken_with_salmon|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_puppy_80%_chicken_with_salmon|raw"
+  },
+  {
+    "product_key": "natures|menu_raw_boost_with_beef|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_raw_boost_with_beef|raw"
+  },
+  {
+    "product_key": "natures|menu_raw_boost_with_fresh_chicken|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_raw_boost_with_fresh_chicken|raw"
+  },
+  {
+    "product_key": "natures|menu_raw_boost_with_pork__lamb|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_raw_boost_with_pork__lamb|raw"
+  },
+  {
+    "product_key": "natures|menu_raw_boost_with_trout|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_raw_boost_with_trout|raw"
+  },
+  {
+    "product_key": "natures|menu_raw_freeze_dried_adult_turkey|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_raw_freeze_dried_adult_turkey|raw"
+  },
+  {
+    "product_key": "natures|menu_raw_freeze_dried_beef|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_raw_freeze_dried_beef|raw"
+  },
+  {
+    "product_key": "natures|menu_raw_freeze_dried_complete_80%_chicken|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_raw_freeze_dried_complete_80%_chicken|raw"
+  },
+  {
+    "product_key": "natures|menu_raw_freeze_dried_complete_lamb|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_raw_freeze_dried_complete_lamb|raw"
+  },
+  {
+    "product_key": "natures|menu_senior_complete__balanced_60/40_chicken_with_fish|raw",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|menu_senior_complete__balanced_60/40_chicken_with_fish|raw"
+  },
+  {
+    "product_key": "natures|protection_lifestyle_grain_free_adult_poultry|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|protection_lifestyle_grain_free_adult_poultry|unknown"
+  },
+  {
+    "product_key": "natures|protection_lifestyle_grain_free_junior_salmon__krill|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|protection_lifestyle_grain_free_junior_salmon__krill|unknown"
+  },
+  {
+    "product_key": "natures|protection_lifestyle_grain_free_lamb|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|protection_lifestyle_grain_free_lamb|unknown"
+  },
+  {
+    "product_key": "natures|protection_lifestyle_grain_free_small_salmon_and_krill|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|protection_lifestyle_grain_free_small_salmon_and_krill|unknown"
+  },
+  {
+    "product_key": "natures|protection_superior_care_grain_free_puppies_white_coat_with_salmon|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|protection_superior_care_grain_free_puppies_white_coat_with_salmon|unknown"
+  },
+  {
+    "product_key": "natures|protection_superior_care_grain_free_small_breeds_with_white_coat|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|protection_superior_care_grain_free_small_breeds_with_white_coat|unknown"
+  },
+  {
+    "product_key": "natures|protection_superior_care_red_coat_grain_free_lamb|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|protection_superior_care_red_coat_grain_free_lamb|unknown"
+  },
+  {
+    "product_key": "natures|protection_superior_care_white_dogs_grain_free|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|protection_superior_care_white_dogs_grain_free|unknown"
+  },
+  {
+    "product_key": "natures|protection_superior_care_white_grain_free_junior_salmon|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|protection_superior_care_white_grain_free_junior_salmon|unknown"
+  },
+  {
+    "product_key": "natures|way_50%_chicken_recipe|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|way_50%_chicken_recipe|unknown"
+  },
+  {
+    "product_key": "natures|way_50%_lamb_recipe|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|way_50%_lamb_recipe|unknown"
+  },
+  {
+    "product_key": "natures|way_50%_salmon_recipe|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|way_50%_salmon_recipe|unknown"
+  },
+  {
+    "product_key": "natures|way_80%_fish__potato_recipe|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|way_80%_fish__potato_recipe|unknown"
+  },
+  {
+    "product_key": "natures|way_grain_free_chicken|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|way_grain_free_chicken|unknown"
+  },
+  {
+    "product_key": "natures|way_grain_free_fish|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|way_grain_free_fish|unknown"
+  },
+  {
+    "product_key": "natures|way_grain_free_puppy__small_dog|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|way_grain_free_puppy__small_dog|unknown"
+  },
+  {
+    "product_key": "natures|way_light_mature_recipe|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|way_light_mature_recipe|unknown"
+  },
+  {
+    "product_key": "natures|way_puppy__small_dog|unknown",
+    "old_brand": "Natures",
+    "new_brand": "Nature's Menu",
+    "new_product_key": "natures-menu|way_puppy__small_dog|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_border_terrier|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_border_terrier|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_boxer|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_boxer|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_bulldog|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_bulldog|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_cavalier_king_charles_spaniel|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cavalier_king_charles_spaniel|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_chihuahua_pate|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_chihuahua_pate|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_chihuahua|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_chihuahua|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_cockapoo_pate|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cockapoo_pate|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_cockapoo_puppy|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cockapoo_puppy|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_cockapoo|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cockapoo|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_cocker_spaniel|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cocker_spaniel|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_dachshund_pate|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_dachshund_pate|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_dachshund|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_dachshund|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_french_bulldog_pate|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_french_bulldog_pate|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_french_bulldog_puppy|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_french_bulldog_puppy|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_french_bulldog|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_french_bulldog|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_german_shepherd|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_german_shepherd|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_golden_retriever|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_golden_retriever|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_labrador_retriever|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_labrador_retriever|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_pug|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_pug|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_shih_tzu_pate|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_shih_tzu_pate|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_shih_tzu|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_shih_tzu|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_breed_health_yorkshire_terrier|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_yorkshire_terrier|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_adult_large_breed_chicken|dry",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_adult_large_breed_chicken|dry"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_adult_medium_breed_chicken|dry",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_adult_medium_breed_chicken|dry"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_chicken_pate|wet",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_chicken_pate|wet"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_healthy_heart|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_healthy_heart|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_large_breed_adult_chunks_in_gravy|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_large_breed_adult_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_mature_chicken_pate|wet",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_mature_chicken_pate|wet"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_medium_breed_adult_chunks_in_gravy|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_medium_breed_adult_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_puppy_chicken_pate|wet",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_puppy_chicken_pate|wet"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_senior_medium_breed_chicken|dry",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_senior_medium_breed_chicken|dry"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_senior_small_breed_chicken|dry",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_senior_small_breed_chicken|dry"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_sensitive_skin__stomach_chicken|dry",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_sensitive_skin__stomach_chicken|dry"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_sensitive|wet",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_sensitive|wet"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_small_breed_adult_chunks_in_gravy|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_small_breed_adult_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_health_weight_management|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_weight_management|unknown"
+  },
+  {
+    "product_key": "pets|at_home_advanced_nutrition_ava_optimum_heath_adult_small_breed_chicken|dry",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_heath_adult_small_breed_chicken|dry"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_adult_light_chicken|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_adult_light_chicken|unknown"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_adult_rich_in_beef|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_adult_rich_in_beef|unknown"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_adult_rich_in_chicken|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_adult_rich_in_chicken|unknown"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_complete_pate_adult_wet_dog_food_chicken|wet",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_complete_pate_adult_wet_dog_food_chicken|wet"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_complete_pate_adult_wet_dog_food_lamb|wet",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_complete_pate_adult_wet_dog_food_lamb|wet"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_large_breed_rich_in_chicken|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_large_breed_rich_in_chicken|unknown"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_mature_rich_in_chicken|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_mature_rich_in_chicken|unknown"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_mature_wet_food_in_jelly|wet",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_mature_wet_food_in_jelly|wet"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_puppy_rich_in_chicken|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_puppy_rich_in_chicken|unknown"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_puppy_wet_food_in_jelly|wet",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_puppy_wet_food_in_jelly|wet"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_small_breed_rich_in_chicken|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_small_breed_rich_in_chicken|unknown"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_wet_adult_dog_food_selection|wet",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_wet_adult_dog_food_selection|wet"
+  },
+  {
+    "product_key": "pets|at_home_complete_nutrition_working_adult_dry_dog_food_with_beef|dry",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_complete_nutrition_working_adult_dry_dog_food_with_beef|dry"
+  },
+  {
+    "product_key": "pets|at_home_essentials_complete_adult_chunks_in_gravy|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_essentials_complete_adult_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "pets|at_home_essentials_complete_adult_chunks_in_jelly|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_essentials_complete_adult_chunks_in_jelly|unknown"
+  },
+  {
+    "product_key": "pets|at_home_essentials_complete_crunchy_chicken__vegetable|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_essentials_complete_crunchy_chicken__vegetable|unknown"
+  },
+  {
+    "product_key": "pets|at_home_essentials_complete_puppy_chunks_in_jelly|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|at_home_essentials_complete_puppy_chunks_in_jelly|unknown"
+  },
+  {
+    "product_key": "pets|love_fresh_simply_beef|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|love_fresh_simply_beef|unknown"
+  },
+  {
+    "product_key": "pets|love_fresh_simply_chicken|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|love_fresh_simply_chicken|unknown"
+  },
+  {
+    "product_key": "pets|love_fresh_simply_duck|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|love_fresh_simply_duck|unknown"
+  },
+  {
+    "product_key": "pets|love_fresh_simply_pork|unknown",
+    "old_brand": "Pets",
+    "new_brand": "Pets at Home",
+    "new_product_key": "pets-at-home|love_fresh_simply_pork|unknown"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_care_nutrition_medium_dental_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_care_nutrition_medium_dental_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_dermacomfort_loaf|wet",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_dermacomfort_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_digestive_care_loaf|wet",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_digestive_care_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_exigent_loaf|wet",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_exigent_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_light_weight_care_loaf|wet",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_light_weight_care_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_maxi_dermacomfort|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_dermacomfort|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_maxi_digestive_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_digestive_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_maxi_joint_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_joint_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_maxi_light_weight_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_light_weight_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_maxi_sterilised|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_sterilised|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_medium_dermacomfort|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_dermacomfort|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_medium_digestive_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_digestive_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_medium_light_weight_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_light_weight_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_medium_relax_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_relax_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_medium_sterilised|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_sterilised|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_mini_dental_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_dental_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_mini_dermacomfort|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_dermacomfort|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_mini_digestive_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_digestive_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_mini_exigent|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_exigent|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_mini_light_weight_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_light_weight_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_mini_sterilised|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_sterilised|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_mini_urinary_care|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_urinary_care|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_relax_care_mini|dry",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_relax_care_mini|dry"
+  },
+  {
+    "product_key": "royal_canin_care_nutrition|royal_canin_sterilised_loaf|wet",
+    "old_brand": "Royal Canin Care Nutrition",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_sterilised_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_club|royal_canin_special_club_performance_adult_cc|dry",
+    "old_brand": "Royal Canin Club",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_special_club_performance_adult_cc|dry"
+  },
+  {
+    "product_key": "royal_canin_size|18kg_royal_canin_dry_dog_food_-_15kg_+_3kg_free!_*|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|18kg_royal_canin_dry_dog_food_-_15kg_+_3kg_free!_*|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_babydog_milk|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_babydog_milk|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_giant_adult|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_giant_adult|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_giant_junior|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_giant_junior|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_giant_puppy|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_giant_puppy|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_maxi_adult_5+|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_adult_5+|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_maxi_adult_poultry_&_pork|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_adult_poultry_&_pork|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_maxi_adult|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_adult|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_maxi_ageing_8+|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_ageing_8+|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_maxi_puppy|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_puppy|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_maxi_starter_mother_&_babydog|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_maxi_starter_mother_&_babydog|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_medium_adult_7+|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_adult_7+|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_medium_adult_poultry_&_pork|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_adult_poultry_&_pork|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_medium_adult|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_adult|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_medium_ageing_10+|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_ageing_10+|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_medium_puppy|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_puppy|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_medium_starter_mother_&_babydog|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_medium_starter_mother_&_babydog|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_mini_adult_8+|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_adult_8+|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_mini_adult_poultry_&_pork|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_adult_poultry_&_pork|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_mini_adult|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_adult|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_mini_ageing_12+|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_ageing_12+|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_mini_puppy|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_puppy|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_mini_starter_mother_&_babydog|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_mini_starter_mother_&_babydog|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_x-small_adult_8+|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_x-small_adult_8+|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_x-small_adult|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_x-small_adult|dry"
+  },
+  {
+    "product_key": "royal_canin_size|royal_canin_x-small_puppy|dry",
+    "old_brand": "Royal Canin Size",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_x-small_puppy|dry"
+  },
+  {
+    "product_key": "royal|canin_beagle_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_beagle_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_bulldog_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_bulldog_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_cavalier_king_charles|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_cavalier_king_charles|dry"
+  },
+  {
+    "product_key": "royal|canin_chihuahua_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_chihuahua_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_cocker_spaniel_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_cocker_spaniel_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_cocker_spaniel_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_cocker_spaniel_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_dachshund_adult|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_dachshund_adult|unknown"
+  },
+  {
+    "product_key": "royal|canin_dachshund_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_dachshund_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_dalmatian_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_dalmatian_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_dermacomfort_care_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_dermacomfort_care_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_digestive_care_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_digestive_care_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_french_bulldog_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_french_bulldog_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_german_shepherd_5|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_german_shepherd_5|unknown"
+  },
+  {
+    "product_key": "royal|canin_german_shepherd_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_german_shepherd_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_giant_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_giant_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_giant_junior|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_giant_junior|unknown"
+  },
+  {
+    "product_key": "royal|canin_giant_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_giant_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_giant_starter_mother__babydog|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_giant_starter_mother__babydog|unknown"
+  },
+  {
+    "product_key": "royal|canin_golden_retriever_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_golden_retriever_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_great_dane_adult|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_great_dane_adult|unknown"
+  },
+  {
+    "product_key": "royal|canin_jack_russell_terrier_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_jack_russell_terrier_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_labrador_retriever_5|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_labrador_retriever_5|unknown"
+  },
+  {
+    "product_key": "royal|canin_labrador_retriever_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_labrador_retriever_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_labrador_retriever_chunks_in_gravy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_labrador_retriever_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "royal|canin_labrador_retriever_sterilised|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_labrador_retriever_sterilised|unknown"
+  },
+  {
+    "product_key": "royal|canin_light_weight_care_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_light_weight_care_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_maltese_adult|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maltese_adult|unknown"
+  },
+  {
+    "product_key": "royal|canin_maxi_adult_5|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_adult_5|dry"
+  },
+  {
+    "product_key": "royal|canin_maxi_adult_in_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_adult_in_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_maxi_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_maxi_ageing_8|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_ageing_8|unknown"
+  },
+  {
+    "product_key": "royal|canin_maxi_ageing_in_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_ageing_in_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_maxi_dental_care|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_dental_care|unknown"
+  },
+  {
+    "product_key": "royal|canin_maxi_dermacomfort|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_dermacomfort|dry"
+  },
+  {
+    "product_key": "royal|canin_maxi_digestive_care|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_digestive_care|dry"
+  },
+  {
+    "product_key": "royal|canin_maxi_joint_care|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_joint_care|dry"
+  },
+  {
+    "product_key": "royal|canin_maxi_light_weight_care|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_light_weight_care|unknown"
+  },
+  {
+    "product_key": "royal|canin_maxi_puppy_chunks_in_gravy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_puppy_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "royal|canin_maxi_puppy|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_puppy|dry"
+  },
+  {
+    "product_key": "royal|canin_maxi_starter_mother__babydog|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_starter_mother__babydog|unknown"
+  },
+  {
+    "product_key": "royal|canin_maxi_sterilised|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_maxi_sterilised|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_adult_7|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_adult_7|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_adult_chunks_in_gravy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_adult_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_adult_in_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_adult_in_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_medium_ageing_10|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_ageing_10|dry"
+  },
+  {
+    "product_key": "royal|canin_medium_ageing_chunks_in_gravy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_ageing_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_dental_care|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_dental_care|dry"
+  },
+  {
+    "product_key": "royal|canin_medium_dermacomfort|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_dermacomfort|dry"
+  },
+  {
+    "product_key": "royal|canin_medium_digestive_care|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_digestive_care|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_light_weight_care|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_light_weight_care|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_puppy_chunks_in_gravy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_puppy_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_starter_mother__babydog|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_starter_mother__babydog|unknown"
+  },
+  {
+    "product_key": "royal|canin_medium_sterilised|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_medium_sterilised|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_adult_8|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_adult_8|dry"
+  },
+  {
+    "product_key": "royal|canin_mini_adult_in_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_adult_in_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_mini_adults_chunks_in_gravy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_adults_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_ageing_12|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_ageing_12|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_ageing_chunks_in_gravy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_ageing_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_ageing_in_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_ageing_in_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_coat_care|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_coat_care|dry"
+  },
+  {
+    "product_key": "royal|canin_mini_dental_care|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_dental_care|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_dermacomfort|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_dermacomfort|dry"
+  },
+  {
+    "product_key": "royal|canin_mini_digestive_care|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_digestive_care|dry"
+  },
+  {
+    "product_key": "royal|canin_mini_lightweight_care|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_lightweight_care|dry"
+  },
+  {
+    "product_key": "royal|canin_mini_puppy_chunks_in_gravy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_puppy_chunks_in_gravy|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_starter_mother__babydog|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_starter_mother__babydog|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_sterilised|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_sterilised|unknown"
+  },
+  {
+    "product_key": "royal|canin_mini_urinary_care|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_mini_urinary_care|unknown"
+  },
+  {
+    "product_key": "royal|canin_miniature_schnauzer|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_miniature_schnauzer|dry"
+  },
+  {
+    "product_key": "royal|canin_pomeranian_adult|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_pomeranian_adult|unknown"
+  },
+  {
+    "product_key": "royal|canin_pomeranian_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_pomeranian_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_poodle_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_poodle_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_poodle|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_poodle|dry"
+  },
+  {
+    "product_key": "royal|canin_pug_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_pug_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_pug_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_pug_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_rottweiler_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_rottweiler_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_rottweiler|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_rottweiler|dry"
+  },
+  {
+    "product_key": "royal|canin_sensitivity_control|wet",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_sensitivity_control|wet"
+  },
+  {
+    "product_key": "royal|canin_shih_tzu_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_shih_tzu_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_shih_tzu_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_shih_tzu_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_starter_mother__baby_ultra_soft_mousse|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_starter_mother__baby_ultra_soft_mousse|unknown"
+  },
+  {
+    "product_key": "royal|canin_sterilised_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_sterilised_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_urinary_care_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_urinary_care_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_west_highland_white_terrier|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_west_highland_white_terrier|dry"
+  },
+  {
+    "product_key": "royal|canin_x_small_adult_8|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_x_small_adult_8|unknown"
+  },
+  {
+    "product_key": "royal|canin_x_small_adult|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_x_small_adult|dry"
+  },
+  {
+    "product_key": "royal|canin_x_small_ageing_12|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_x_small_ageing_12|unknown"
+  },
+  {
+    "product_key": "royal|canin_x_small_light_weight_care|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_x_small_light_weight_care|unknown"
+  },
+  {
+    "product_key": "royal|canin_x_small_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_x_small_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_x_small_sterilised|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_x_small_sterilised|unknown"
+  },
+  {
+    "product_key": "royal|canin_yorkshire_terrier_loaf|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_yorkshire_terrier_loaf|unknown"
+  },
+  {
+    "product_key": "royal|canin_yorkshire_terrier_puppy|unknown",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_yorkshire_terrier_puppy|unknown"
+  },
+  {
+    "product_key": "royal|canin_yorkshire_terrier|dry",
+    "old_brand": "Royal",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|canin_yorkshire_terrier|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_chicken_and_rice_with_vegetables|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_chicken_and_rice_with_vegetables|unknown"
+  },
+  {
+    "product_key": "wainwrights|adult_grain_free_lamb__veg|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_grain_free_lamb__veg|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_grain_free_lamb__vegetables|wet",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_grain_free_lamb__vegetables|wet"
+  },
+  {
+    "product_key": "wainwrights|adult_grain_free_turkey__veg|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_grain_free_turkey__veg|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_lamb__rice_with_vegetables|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_lamb__rice_with_vegetables|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_lamb_with_brown_rice__vegetables|wet",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_lamb_with_brown_rice__vegetables|wet"
+  },
+  {
+    "product_key": "wainwrights|adult_large_breed_lamb__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_large_breed_lamb__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_large_breed_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_large_breed_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_light_salmon_with_rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_light_salmon_with_rice|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_light_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_light_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_small_breed_grain_free_turkey__veg|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_small_breed_grain_free_turkey__veg|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_small_breed_lamb__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_small_breed_lamb__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_small_breed_light_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_small_breed_light_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_small_breed_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_small_breed_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|adult_turkey_with_brown_rice|wet",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|adult_turkey_with_brown_rice|wet"
+  },
+  {
+    "product_key": "wainwrights|british_pork_with_superfoods|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|british_pork_with_superfoods|unknown"
+  },
+  {
+    "product_key": "wainwrights|free_run_chicken_with_superfoods_adult|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|free_run_chicken_with_superfoods_adult|dry"
+  },
+  {
+    "product_key": "wainwrights|free_run_chicken_with_superfoods_puppy|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|free_run_chicken_with_superfoods_puppy|dry"
+  },
+  {
+    "product_key": "wainwrights|free_run_duck_with_superfoods_adult|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|free_run_duck_with_superfoods_adult|dry"
+  },
+  {
+    "product_key": "wainwrights|freeze_dried_raw_beef|raw",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|freeze_dried_raw_beef|raw"
+  },
+  {
+    "product_key": "wainwrights|freeze_dried_raw_chicken|raw",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|freeze_dried_raw_chicken|raw"
+  },
+  {
+    "product_key": "wainwrights|grain_free_mature_turkey__vegetables|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|grain_free_mature_turkey__vegetables|dry"
+  },
+  {
+    "product_key": "wainwrights|grass_fed_lamb_with_superfoods_wet|wet",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|grass_fed_lamb_with_superfoods_wet|wet"
+  },
+  {
+    "product_key": "wainwrights|grass-fed_beef_with_superfoods_adult|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|grass-fed_beef_with_superfoods_adult|dry"
+  },
+  {
+    "product_key": "wainwrights|kibble__freeze_dried_adult_beef|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|kibble__freeze_dried_adult_beef|unknown"
+  },
+  {
+    "product_key": "wainwrights|kibble__freeze_dried_raw_adult_chicken|raw",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|kibble__freeze_dried_raw_adult_chicken|raw"
+  },
+  {
+    "product_key": "wainwrights|mature_lamb__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|mature_lamb__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|mature_large_breed_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|mature_large_breed_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|mature_salmon__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|mature_salmon__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|mature_sensitive_atlantic_salmon_with_superfoods|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|mature_sensitive_atlantic_salmon_with_superfoods|unknown"
+  },
+  {
+    "product_key": "wainwrights|mature_small_breed_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|mature_small_breed_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|mature_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|mature_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|nutritious_insects_with_superfoods_adult|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|nutritious_insects_with_superfoods_adult|dry"
+  },
+  {
+    "product_key": "wainwrights|nutritious_insects_with_superfoods_can|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|nutritious_insects_with_superfoods_can|unknown"
+  },
+  {
+    "product_key": "wainwrights|organic_beef_with_superfoods|wet",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|organic_beef_with_superfoods|wet"
+  },
+  {
+    "product_key": "wainwrights|organic_chicken_with_superfoods|wet",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|organic_chicken_with_superfoods|wet"
+  },
+  {
+    "product_key": "wainwrights|plant_based_protein_wet|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|plant_based_protein_wet|dry"
+  },
+  {
+    "product_key": "wainwrights|plant_based_protein|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|plant_based_protein|dry"
+  },
+  {
+    "product_key": "wainwrights|puppy_chicken_with_superfoods_pumpkin_and_beetroot|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|puppy_chicken_with_superfoods_pumpkin_and_beetroot|unknown"
+  },
+  {
+    "product_key": "wainwrights|puppy_freeze_dried_raw_chicken|raw",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|puppy_freeze_dried_raw_chicken|raw"
+  },
+  {
+    "product_key": "wainwrights|puppy_grain_free_turkey__veg|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|puppy_grain_free_turkey__veg|dry"
+  },
+  {
+    "product_key": "wainwrights|puppy_lamb__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|puppy_lamb__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|puppy_large_breed_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|puppy_large_breed_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|puppy_sensitive_atlantic_white_fish_with_superfoods|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|puppy_sensitive_atlantic_white_fish_with_superfoods|unknown"
+  },
+  {
+    "product_key": "wainwrights|puppy_turkey__rice|dry",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|puppy_turkey__rice|dry"
+  },
+  {
+    "product_key": "wainwrights|sensitive_adult_atlantic_salmon_with_superfoods|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|sensitive_adult_atlantic_salmon_with_superfoods|unknown"
+  },
+  {
+    "product_key": "wainwrights|sensitive_atlantic_white_fish_with_superfoods|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|sensitive_atlantic_white_fish_with_superfoods|unknown"
+  },
+  {
+    "product_key": "wainwrights|wild_venison_with_superfoods_wet|wet",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|wild_venison_with_superfoods_wet|wet"
+  },
+  {
+    "product_key": "wainwrights|working_adult_turkey_with_rice|unknown",
+    "old_brand": "Wainwrights",
+    "new_brand": "Wainwright's",
+    "new_product_key": "wainwrights|working_adult_turkey_with_rice|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_adult_duck,_sweet_potato__orange|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_adult_duck,_sweet_potato__orange|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_adult_small_bite_chicken,_sweet_potato__herbs|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_adult_small_bite_chicken,_sweet_potato__herbs|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_adult_turkey,_sweet_potato__cranberry|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_adult_turkey,_sweet_potato__cranberry|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_angus_beef_with_sweet_potato__carrot_adult|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_angus_beef_with_sweet_potato__carrot_adult|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_chicken_with_sweet_potato__herbs_adult|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_chicken_with_sweet_potato__herbs_adult|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_haddock_with_sweet_potato__parsley_adult|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_haddock_with_sweet_potato__parsley_adult|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_lamb_with_sweet_potato__mint_adult|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_lamb_with_sweet_potato__mint_adult|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_large_breed_puppy_salmon_with_sweet_potato__vegetables|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_large_breed_puppy_salmon_with_sweet_potato__vegetables|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_light_turkey_with_sweet_potato__cranberry|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_light_turkey_with_sweet_potato__cranberry|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_pork_with_sweet_potato__apple_adult|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_pork_with_sweet_potato__apple_adult|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_puppy_chicken_with_sweet_potato__carrot|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_puppy_chicken_with_sweet_potato__carrot|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_senior_salmon__trout_with_sweet_potato__asparagus|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_senior_salmon__trout_with_sweet_potato__asparagus|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_senior/lite_turkey_with_sweet_potato__cranberry|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_senior/lite_turkey_with_sweet_potato__cranberry|unknown"
+  },
+  {
+    "product_key": "warleys|grain_free_venison_with_sweet_potato__mulberry_adult|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|grain_free_venison_with_sweet_potato__mulberry_adult|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_grain_free_adult_chicken__potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_grain_free_adult_chicken__potato|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_grain_free_adult_lamb__potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_grain_free_adult_lamb__potato|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_grain_free_adult_large_breed_chicken__potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_grain_free_adult_large_breed_chicken__potato|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_grain_free_adult_salmon__potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_grain_free_adult_salmon__potato|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_grain_free_adult_small_breed_chicken__potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_grain_free_adult_small_breed_chicken__potato|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_grain_free_puppy_chicken__potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_grain_free_puppy_chicken__potato|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_grain_free_senior_chicken__potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_grain_free_senior_chicken__potato|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_wheat_free_adult_lamb__rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_wheat_free_adult_lamb__rice|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_wheat_free_adult_salmon__rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_wheat_free_adult_salmon__rice|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_wheat_free_adult_turkey__rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_wheat_free_adult_turkey__rice|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_wheat_free_large_breed_adult_chicken__rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_wheat_free_large_breed_adult_chicken__rice|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_wheat_free_puppy_turkey__rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_wheat_free_puppy_turkey__rice|unknown"
+  },
+  {
+    "product_key": "warleys|proper_tasty_wheat_free_senior_chicken__rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|proper_tasty_wheat_free_senior_chicken__rice|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_adult_chicken_with_rice_working_dog|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_adult_chicken_with_rice_working_dog|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_adult_duck_with_potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_adult_duck_with_potato|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_adult_lamb_with_rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_adult_lamb_with_rice|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_adult_large_breed_chicken_with_rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_adult_large_breed_chicken_with_rice|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_adult_salmon_with_potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_adult_salmon_with_potato|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_adult_small_breed_chicken_with_rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_adult_small_breed_chicken_with_rice|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_adult_turkey_with_rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_adult_turkey_with_rice|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_large_breed_puppy_salmon_with_potato|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_large_breed_puppy_salmon_with_potato|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_puppy_chicken_with_rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_puppy_chicken_with_rice|unknown"
+  },
+  {
+    "product_key": "warleys|super_premium_senior_lite_rich_in_fish_with_rice|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|super_premium_senior_lite_rich_in_fish_with_rice|unknown"
+  },
+  {
+    "product_key": "warleys|superfood_adult_free_range_turkey|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfood_adult_free_range_turkey|unknown"
+  },
+  {
+    "product_key": "warleys|superfoods_adult_british_free_range_chicken|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfoods_adult_british_free_range_chicken|unknown"
+  },
+  {
+    "product_key": "warleys|superfoods_adult_british_grass_fed_lamb|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfoods_adult_british_grass_fed_lamb|unknown"
+  },
+  {
+    "product_key": "warleys|superfoods_adult_english_country_duck|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfoods_adult_english_country_duck|unknown"
+  },
+  {
+    "product_key": "warleys|superfoods_adult_italian_buffalo|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfoods_adult_italian_buffalo|unknown"
+  },
+  {
+    "product_key": "warleys|superfoods_adult_scottish_salmon|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfoods_adult_scottish_salmon|unknown"
+  },
+  {
+    "product_key": "warleys|superfoods_puppy_free_range_turkey|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfoods_puppy_free_range_turkey|unknown"
+  },
+  {
+    "product_key": "warleys|superfoods_senior_scottish_salmon|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfoods_senior_scottish_salmon|unknown"
+  },
+  {
+    "product_key": "warleys|superfoods_senior_small_breed_free_range_turkey|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfoods_senior_small_breed_free_range_turkey|unknown"
+  },
+  {
+    "product_key": "warleys|superfoods_small_breed_angus_beef|unknown",
+    "old_brand": "Warleys",
+    "new_brand": "Warley's",
+    "new_product_key": "warleys|superfoods_small_breed_angus_beef|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_adult_working_dog_beef__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_adult_working_dog_beef__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_adult_working_dog_chicken__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_adult_working_dog_chicken__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_adult_working_dog_duck__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_adult_working_dog_duck__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_adult_working_dog_lamb__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_adult_working_dog_lamb__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_adult_working_dog_salmon__veg_(large_breed)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_adult_working_dog_salmon__veg_(large_breed)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_adult_working_dog_salmon__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_adult_working_dog_salmon__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_adult_working_dog_turkey__veg_(large_breed)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_adult_working_dog_turkey__veg_(large_breed)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_adult_working_dog_turkey__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_adult_working_dog_turkey__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_adult_working_dog_venison__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_adult_working_dog_venison__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_puppy_chicken_with_turkey_salmon__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_puppy_chicken_with_turkey_salmon__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_puppy_salmon_with_haddock,_blue_whiting__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_puppy_salmon_with_haddock,_blue_whiting__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_puppy_small_bite_turkey_with_duck__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_puppy_small_bite_turkey_with_duck__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_puppy/junior_salmon__veg_(large_breed)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_puppy/junior_salmon__veg_(large_breed)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_senior_working_dog_trout__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_senior_working_dog_trout__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_senior_working_dog_turkey__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_senior_working_dog_turkey__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_small_bite_adult_chicken__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_small_bite_adult_chicken__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_small_bite_adult_duck__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_small_bite_adult_duck__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_small_bite_adult_lamb__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_small_bite_adult_lamb__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_grain_free_small_bite_adult_salmon__veg|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_grain_free_small_bite_adult_salmon__veg|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_performance_adult_chicken_(working)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_performance_adult_chicken_(working)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_performance_adult_duck_(working)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_performance_adult_duck_(working)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_performance_adult_lamb_(working)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_performance_adult_lamb_(working)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_performance_adult_salmon__itch-eeze_(working)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_performance_adult_salmon__itch-eeze_(working)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_performance_adult_salmon_(working)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_performance_adult_salmon_(working)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_performance_puppy_chicken_(working)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_performance_puppy_chicken_(working)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_performance_puppy_salmon_(working_large_breed)|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_performance_puppy_salmon_(working_large_breed)|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_adult_dog_beef|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_adult_dog_beef|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_adult_dog_chicken|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_adult_dog_chicken|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_adult_dog_duck|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_adult_dog_duck|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_adult_dog_italian_buffalo|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_adult_dog_italian_buffalo|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_adult_dog_lamb|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_adult_dog_lamb|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_adult_dog_salmon|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_adult_dog_salmon|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_adult_dog_turkey|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_adult_dog_turkey|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_light_adult_dog_salmon|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_light_adult_dog_salmon|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_puppy_salmon|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_puppy_salmon|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_puppy_turkey|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_puppy_turkey|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_senior_dog_salmon|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_senior_dog_salmon|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_senior_dog_small_breed_turkey|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_senior_dog_small_breed_turkey|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_small_breed_adult_dog_beef|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_small_breed_adult_dog_beef|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_small_breed_adult_dog_light_turkey|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_small_breed_adult_dog_light_turkey|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_small_breed_adult_dog_salmon|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_small_breed_adult_dog_salmon|unknown"
+  },
+  {
+    "product_key": "yorkshires|finest_pet_food_super65_small_breed_adult_dog_turkey|unknown",
+    "old_brand": "Yorkshires",
+    "new_brand": "Yorkshire Valley Farms",
+    "new_product_key": "yorkshire-valley-farms|finest_pet_food_super65_small_breed_adult_dog_turkey|unknown"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_-_calm_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_-_calm_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_-_neutered_adult_medium_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_-_neutered_adult_medium_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_-_neutered_adult_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_-_neutered_adult_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_-_neutered_junior_medium_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_-_neutered_junior_medium_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_canine_-_adult_large_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_canine_-_adult_large_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_canine_adult_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_canine_adult_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_canine_dental|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_canine_dental|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_canine_mature_consult_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_canine_mature_consult_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_canine_neutered_adult_large_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_canine_neutered_adult_large_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_expert_mature_consult_medium_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_expert_mature_consult_medium_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_relax_care_maxi|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_relax_care_maxi|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_-_satiety_weight_management|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_-_satiety_weight_management|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_\u2013_satiety_weight_management_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_\u2013_satiety_weight_management_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_anallergenic|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_anallergenic|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_early_renal|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_early_renal|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_gastrointestinal_high_fibre_loaf|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_gastrointestinal_high_fibre_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_gastrointestinal_high_fibre|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_gastrointestinal_high_fibre|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_gastrointestinal_loaf|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_gastrointestinal_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_gastrointestinal_low_fat_loaf|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_gastrointestinal_low_fat_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_gastrointestinal_low_fat|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_gastrointestinal_low_fat|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_hypoallergenic_loaf|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_hypoallergenic_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_hypoallergenic_moderate_calorie|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_hypoallergenic_moderate_calorie|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_hypoallergenic_puppy|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_hypoallergenic_puppy|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_hypoallergenic_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_hypoallergenic_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_hypoallergenic|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_hypoallergenic|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_sensitivity_control_chicken_&_rice|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_sensitivity_control_chicken_&_rice|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_sensitivity_control|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_sensitivity_control|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_canine_skin_care|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_canine_skin_care|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_diabetic_ds_37|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_diabetic_ds_37|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_early_renal_in_gravy|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_early_renal_in_gravy|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_gastrointestinal_low_fat_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_gastrointestinal_low_fat_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_gastrointestinal_moderate_calorie|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_gastrointestinal_moderate_calorie|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_gastrointestinal_puppy|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_gastrointestinal_puppy|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_gastrointestinal|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_gastrointestinal|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_hepatic|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_hepatic|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_mobility_support|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_mobility_support|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_renal_in_gravy|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_renal_in_gravy|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_renal_loaf|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_renal_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_renal_rf_14|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_renal_rf_14|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_renal_special|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_renal_special|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_satiety_weight_management_loaf|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_satiety_weight_management_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_urinary_s/o_in_gravy|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_urinary_s/o_in_gravy|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_urinary_s/o_loaf|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_urinary_s/o_loaf|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_urinary_s/o_lp_18|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_urinary_s/o_lp_18|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_urinary_s/o_moderate_calorie|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_urinary_s/o_moderate_calorie|wet"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_urinary_s/o_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_urinary_s/o_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_-_urinary_u/c_low_purine|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_-_urinary_u/c_low_purine|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_\u2013_dental_special_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_\u2013_dental_special_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_\u2013_renal_select|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_\u2013_renal_select|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_\u2013_renal_small_dog|dry",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_\u2013_renal_small_dog|dry"
+  },
+  {
+    "product_key": "royal_canin_veterinary_&_expert|royal_canin_veterinary_dog_&_cat_\u2013_recovery_mousse|wet",
+    "old_brand": "Royal Canin Veterinary & Expert",
+    "new_brand": "Royal Canin",
+    "new_product_key": "royal-canin|royal_canin_veterinary_dog_&_cat_\u2013_recovery_mousse|wet"
+  },
+  {
+    "product_key": "affinity|advance_adult_french_bulldog|unknown",
+    "old_brand": "Affinity",
+    "new_brand": "Advance",
+    "new_product_key": "advance|advance_adult_french_bulldog|unknown"
+  },
+  {
+    "product_key": "affinity|advance_maxi_adult_chicken__rice|unknown",
+    "old_brand": "Affinity",
+    "new_brand": "Advance",
+    "new_product_key": "advance|advance_maxi_adult_chicken__rice|unknown"
+  },
+  {
+    "product_key": "affinity|advance_maxi_puppy_chicken__rice|unknown",
+    "old_brand": "Affinity",
+    "new_brand": "Advance",
+    "new_product_key": "advance|advance_maxi_puppy_chicken__rice|unknown"
+  },
+  {
+    "product_key": "affinity|advance_maxi_senior_vitality_chicken__rice|unknown",
+    "old_brand": "Affinity",
+    "new_brand": "Advance",
+    "new_product_key": "advance|advance_maxi_senior_vitality_chicken__rice|unknown"
+  },
+  {
+    "product_key": "affinity|advance_medium_adult_chicken__rice|unknown",
+    "old_brand": "Affinity",
+    "new_brand": "Advance",
+    "new_product_key": "advance|advance_medium_adult_chicken__rice|unknown"
+  },
+  {
+    "product_key": "affinity|advance_medium_puppy|unknown",
+    "old_brand": "Affinity",
+    "new_brand": "Advance",
+    "new_product_key": "advance|advance_medium_puppy|unknown"
+  },
+  {
+    "product_key": "affinity|advance_mini_senior_8_chicken__rice|unknown",
+    "old_brand": "Affinity",
+    "new_brand": "Advance",
+    "new_product_key": "advance|advance_mini_senior_8_chicken__rice|unknown"
+  },
+  {
+    "product_key": "affinity|advance_maxi_light_chicken__rice|unknown",
+    "old_brand": "Affinity",
+    "new_brand": "Advance",
+    "new_product_key": "advance|advance_maxi_light_chicken__rice|unknown"
+  },
+  {
+    "product_key": "affinity|advance_mini_light_chicken__rice|unknown",
+    "old_brand": "Affinity",
+    "new_brand": "Advance",
+    "new_product_key": "advance|advance_mini_light_chicken__rice|unknown"
+  },
+  {
+    "product_key": "borders|pet_foods_superior_adult_british_free_range_chicken|unknown",
+    "old_brand": "Borders",
+    "new_brand": "Brit",
+    "new_product_key": "brit|pet_foods_superior_adult_british_free_range_chicken|unknown"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_adult_large_adult_robust_lamb_&_rice_sensitive_digestion|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_adult_large_adult_robust_lamb_&_rice_sensitive_digestion|dry"
+  },
+  {
+    "product_key": "browns|natural_pet_store_saygrace_superfood_adult_nourishing_harvest_british_free_range_chicken|unknown",
+    "old_brand": "Browns",
+    "new_brand": "Brit",
+    "new_product_key": "brit|natural_pet_store_saygrace_superfood_adult_nourishing_harvest_british_free_range_chicken|unknown"
+  },
+  {
+    "product_key": "browns|natural_pet_store_saygrace_superfood_puppy_farmers_bounty_british_free_range_turkey|unknown",
+    "old_brand": "Browns",
+    "new_brand": "Brit",
+    "new_product_key": "brit|natural_pet_store_saygrace_superfood_puppy_farmers_bounty_british_free_range_turkey|unknown"
+  },
+  {
+    "product_key": "clydach|british_poultry_senior/lite|unknown",
+    "old_brand": "Clydach",
+    "new_brand": "Brit",
+    "new_product_key": "brit|british_poultry_senior/lite|unknown"
+  },
+  {
+    "product_key": "clydach|british_venison|unknown",
+    "old_brand": "Clydach",
+    "new_brand": "Brit",
+    "new_product_key": "brit|british_venison|unknown"
+  },
+  {
+    "product_key": "dachshund|superfood_british_free_range_chicken_adult|unknown",
+    "old_brand": "Dachshund",
+    "new_brand": "Brit",
+    "new_product_key": "brit|superfood_british_free_range_chicken_adult|unknown"
+  },
+  {
+    "product_key": "dachshund|superfood_british_grass_fed_lamb_adult|unknown",
+    "old_brand": "Dachshund",
+    "new_brand": "Brit",
+    "new_product_key": "brit|superfood_british_grass_fed_lamb_adult|unknown"
+  },
+  {
+    "product_key": "dragonfly|products_gourmet_british_free_range_chicken_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Brit",
+    "new_product_key": "brit|products_gourmet_british_free_range_chicken_adult|unknown"
+  },
+  {
+    "product_key": "dragonfly|products_gourmet_british_grass_fed_lamb_adult|unknown",
+    "old_brand": "Dragonfly",
+    "new_brand": "Brit",
+    "new_product_key": "brit|products_gourmet_british_grass_fed_lamb_adult|unknown"
+  },
+  {
+    "product_key": "fur|baby_nutrition_legacy_superfood_65_british_grass_fed_lamb|unknown",
+    "old_brand": "Fur",
+    "new_brand": "Brit",
+    "new_product_key": "brit|baby_nutrition_legacy_superfood_65_british_grass_fed_lamb|unknown"
+  },
+  {
+    "product_key": "ferguson|british_free_range_chicken_adult|unknown",
+    "old_brand": "Ferguson",
+    "new_brand": "Brit",
+    "new_product_key": "brit|british_free_range_chicken_adult|unknown"
+  },
+  {
+    "product_key": "forthglade|british_classics_variety_pack|unknown",
+    "old_brand": "Forthglade",
+    "new_brand": "Brit",
+    "new_product_key": "brit|british_classics_variety_pack|unknown"
+  },
+  {
+    "product_key": "friskies|purina_friskies_adult_dog_active_with_beef|dry",
+    "old_brand": "Friskies",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_friskies_adult_dog_active_with_beef|dry"
+  },
+  {
+    "product_key": "friskies|purina_friskies_adult_dog_balance_with_chicken,_beef_&_vegetables|dry",
+    "old_brand": "Friskies",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_friskies_adult_dog_balance_with_chicken,_beef_&_vegetables|dry"
+  },
+  {
+    "product_key": "friskies|purina_friskies_adult_large_breed_dog_maxi_with_beef|dry",
+    "old_brand": "Friskies",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_friskies_adult_large_breed_dog_maxi_with_beef|dry"
+  },
+  {
+    "product_key": "friskies|purina_friskies_junior_with_chicken_and_vegetables|dry",
+    "old_brand": "Friskies",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_friskies_junior_with_chicken_and_vegetables|dry"
+  },
+  {
+    "product_key": "friskies|purina_friskies_light_sterilised_with_chicken_and_vegetables|dry",
+    "old_brand": "Friskies",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_friskies_light_sterilised_with_chicken_and_vegetables|dry"
+  },
+  {
+    "product_key": "healthy|paws_british_free_run_chicken__brown_rice_senior/light|unknown",
+    "old_brand": "Healthy",
+    "new_brand": "Brit",
+    "new_product_key": "brit|paws_british_free_run_chicken__brown_rice_senior/light|unknown"
+  },
+  {
+    "product_key": "healthy|paws_british_turkey__brown_rice_puppy|unknown",
+    "old_brand": "Healthy",
+    "new_brand": "Brit",
+    "new_product_key": "brit|paws_british_turkey__brown_rice_puppy|unknown"
+  },
+  {
+    "product_key": "healthy|paws_british_turkey__millet|unknown",
+    "old_brand": "Healthy",
+    "new_brand": "Brit",
+    "new_product_key": "brit|paws_british_turkey__millet|unknown"
+  },
+  {
+    "product_key": "healthy|paws_grass_fed_british_lamb__brown_rice|unknown",
+    "old_brand": "Healthy",
+    "new_brand": "Brit",
+    "new_product_key": "brit|paws_grass_fed_british_lamb__brown_rice|unknown"
+  },
+  {
+    "product_key": "hoddys|wild_british_pheasant|unknown",
+    "old_brand": "Hoddys",
+    "new_brand": "Brit",
+    "new_product_key": "brit|wild_british_pheasant|unknown"
+  },
+  {
+    "product_key": "hoddys|wild_british_venison|unknown",
+    "old_brand": "Hoddys",
+    "new_brand": "Brit",
+    "new_product_key": "brit|wild_british_venison|unknown"
+  },
+  {
+    "product_key": "huntland|grain_free_british_lamb|unknown",
+    "old_brand": "Huntland",
+    "new_brand": "Brit",
+    "new_product_key": "brit|grain_free_british_lamb|unknown"
+  },
+  {
+    "product_key": "huntland|grain_free_british_turkey|unknown",
+    "old_brand": "Huntland",
+    "new_brand": "Brit",
+    "new_product_key": "brit|grain_free_british_turkey|unknown"
+  },
+  {
+    "product_key": "huntland|large_breed_adult_british_turkey|unknown",
+    "old_brand": "Huntland",
+    "new_brand": "Brit",
+    "new_product_key": "brit|large_breed_adult_british_turkey|unknown"
+  },
+  {
+    "product_key": "huntland|puppy_british_chicken_and_turkey|unknown",
+    "old_brand": "Huntland",
+    "new_brand": "Brit",
+    "new_product_key": "brit|puppy_british_chicken_and_turkey|unknown"
+  },
+  {
+    "product_key": "iams|iams_advanced_nutrition_adult_large_dog_-_chicken|dry",
+    "old_brand": "Iams",
+    "new_brand": "Advance",
+    "new_product_key": "advance|iams_advanced_nutrition_adult_large_dog_-_chicken|dry"
+  },
+  {
+    "product_key": "iams|iams_advanced_nutrition_adult_large_dog_-_lamb|dry",
+    "old_brand": "Iams",
+    "new_brand": "Advance",
+    "new_product_key": "advance|iams_advanced_nutrition_adult_large_dog_-_lamb|dry"
+  },
+  {
+    "product_key": "iams|iams_advanced_nutrition_puppy_&_junior_small_&_medium_dog_-_chicken|dry",
+    "old_brand": "Iams",
+    "new_brand": "Advance",
+    "new_product_key": "advance|iams_advanced_nutrition_puppy_&_junior_small_&_medium_dog_-_chicken|dry"
+  },
+  {
+    "product_key": "iams|iams_advanced_nutrition_senior_small_&_medium_dog_8+_with_chicken|dry",
+    "old_brand": "Iams",
+    "new_brand": "Advance",
+    "new_product_key": "advance|iams_advanced_nutrition_senior_small_&_medium_dog_8+_with_chicken|dry"
+  },
+  {
+    "product_key": "iams|iams_advanced_nutrition_sensitive_digestion_with_turkey|dry",
+    "old_brand": "Iams",
+    "new_brand": "Advance",
+    "new_product_key": "advance|iams_advanced_nutrition_sensitive_digestion_with_turkey|dry"
+  },
+  {
+    "product_key": "iams|iams_advanced_nutrition_weight_control_-_chicken|dry",
+    "old_brand": "Iams",
+    "new_brand": "Advance",
+    "new_product_key": "advance|iams_advanced_nutrition_weight_control_-_chicken|dry"
+  },
+  {
+    "product_key": "little|bigpaw_british_chicken_complete_dry_food_for_small_dogs|dry",
+    "old_brand": "Little",
+    "new_brand": "Brit",
+    "new_product_key": "brit|bigpaw_british_chicken_complete_dry_food_for_small_dogs|dry"
+  },
+  {
+    "product_key": "mcadams|whole_british_free_range_chicken__turkey|wet",
+    "old_brand": "McAdams",
+    "new_brand": "Brit",
+    "new_product_key": "brit|whole_british_free_range_chicken__turkey|wet"
+  },
+  {
+    "product_key": "mcadams|whole_british_free_range_chicken__vegetables|wet",
+    "old_brand": "McAdams",
+    "new_brand": "Brit",
+    "new_product_key": "brit|whole_british_free_range_chicken__vegetables|wet"
+  },
+  {
+    "product_key": "mcadams|whole_british_free_range_turkey__alaskan_salmon|wet",
+    "old_brand": "McAdams",
+    "new_brand": "Brit",
+    "new_product_key": "brit|whole_british_free_range_turkey__alaskan_salmon|wet"
+  },
+  {
+    "product_key": "mcadams|whole_british_free_range_turkey__vegetables|wet",
+    "old_brand": "McAdams",
+    "new_brand": "Brit",
+    "new_product_key": "brit|whole_british_free_range_turkey__vegetables|wet"
+  },
+  {
+    "product_key": "meatiful|british_chicken_with_brown_rice|unknown",
+    "old_brand": "Meatiful",
+    "new_brand": "Brit",
+    "new_product_key": "brit|british_chicken_with_brown_rice|unknown"
+  },
+  {
+    "product_key": "pro-plan|16.5kg/14kg_purina_pro_plan_dry_dog_food_-_2.5kg/2kg_free!_*|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|16.5kg/14kg_purina_pro_plan_dry_dog_food_-_2.5kg/2kg_free!_*|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_all_size_adult_performance|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_all_size_adult_performance|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_all_sizes_adult_light/sterilised_with_chicken|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_all_sizes_adult_light/sterilised_with_chicken|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_all_sizes_adult_light/sterilised_with_fish|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_all_sizes_adult_light/sterilised_with_fish|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_all_sizes_adult_light/sterilised_with_lamb|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_all_sizes_adult_light/sterilised_with_lamb|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_fortiflora_canine_probiotic_chew_cubes|wet",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_fortiflora_canine_probiotic_chew_cubes|wet"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_large_adult_athletic_lamb_&_rice_sensitive_digestion|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_large_adult_athletic_lamb_&_rice_sensitive_digestion|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_large_athletic_puppy_healthy_start|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_large_athletic_puppy_healthy_start|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_large_robust_adult_everyday_nutrition|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_large_robust_adult_everyday_nutrition|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_large_robust_adult_sensitive_skin_salmon|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_large_robust_adult_sensitive_skin_salmon|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_large_robust_puppy_healthy_start|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_large_robust_puppy_healthy_start|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_large_robust_puppy_sensitive_digestion_lamb|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_large_robust_puppy_sensitive_digestion_lamb|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_medium_adult_everyday_nutrition|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_medium_adult_everyday_nutrition|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_medium_adult_sensitive_skin|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_medium_adult_sensitive_skin|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_medium_puppy_healthy_start|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_medium_puppy_healthy_start|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_medium_puppy_lamb_&_rice_sensitive_digestion|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_medium_puppy_lamb_&_rice_sensitive_digestion|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_medium_puppy_sensitive_skin|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_medium_puppy_sensitive_skin|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_senior_medium_&_large_adult_7+_sensitive_skin|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_senior_medium_&_large_adult_7+_sensitive_skin|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_small_&_mini_adult_everyday_nutrition|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_small_&_mini_adult_everyday_nutrition|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_small_&_mini_adult_sensitive_skin|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_small_&_mini_adult_sensitive_skin|dry"
+  },
+  {
+    "product_key": "pro-plan|purina_pro_plan_small_&_mini_puppy_sensitive_skin|dry",
+    "old_brand": "Pro Plan",
+    "new_brand": "Purina",
+    "new_product_key": "purina|purina_pro_plan_small_&_mini_puppy_sensitive_skin|dry"
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_superfood_british_free_range_chicken_with_ginger,_pomegranate,_kale,_artichoke__blueberry|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Brit",
+    "new_product_key": "brit|dog_sanctuary_superfood_british_free_range_chicken_with_ginger,_pomegranate,_kale,_artichoke__blueberry|unknown"
+  },
+  {
+    "product_key": "sausage|dog_sanctuary_superfood_british_grass_fed_lamb_with_mint,_pomegranate,_mulberry,_broccoli__fennel|unknown",
+    "old_brand": "Sausage",
+    "new_brand": "Brit",
+    "new_product_key": "brit|dog_sanctuary_superfood_british_grass_fed_lamb_with_mint,_pomegranate,_mulberry,_broccoli__fennel|unknown"
+  },
+  {
+    "product_key": "tails|inner_vitality_advanced_nutrition_adult_chicken_toy__small|dry",
+    "old_brand": "Tails",
+    "new_brand": "Advance",
+    "new_product_key": "advance|inner_vitality_advanced_nutrition_adult_chicken_toy__small|dry"
+  },
+  {
+    "product_key": "tails|inner_vitality_advanced_nutrition_adult_chicken|wet",
+    "old_brand": "Tails",
+    "new_brand": "Advance",
+    "new_product_key": "advance|inner_vitality_advanced_nutrition_adult_chicken|wet"
+  },
+  {
+    "product_key": "tails|inner_vitality_advanced_nutrition_chicken_puppy_medium__large|dry",
+    "old_brand": "Tails",
+    "new_brand": "Advance",
+    "new_product_key": "advance|inner_vitality_advanced_nutrition_chicken_puppy_medium__large|dry"
+  },
+  {
+    "product_key": "tails|inner_vitality_advanced_nutrition_for_adults_chicken|dry",
+    "old_brand": "Tails",
+    "new_brand": "Advance",
+    "new_product_key": "advance|inner_vitality_advanced_nutrition_for_adults_chicken|dry"
+  },
+  {
+    "product_key": "tails|inner_vitality_advanced_nutrition_for_puppies|wet",
+    "old_brand": "Tails",
+    "new_brand": "Advance",
+    "new_product_key": "advance|inner_vitality_advanced_nutrition_for_puppies|wet"
+  },
+  {
+    "product_key": "tails|inner_vitality_advanced_nutrition_sensitive_grain_free|wet",
+    "old_brand": "Tails",
+    "new_brand": "Advance",
+    "new_product_key": "advance|inner_vitality_advanced_nutrition_sensitive_grain_free|wet"
+  },
+  {
+    "product_key": "tails|inner_vitality_advanced_nutrition_sensitive_mature_salmon|dry",
+    "old_brand": "Tails",
+    "new_brand": "Advance",
+    "new_product_key": "advance|inner_vitality_advanced_nutrition_sensitive_mature_salmon|dry"
+  },
+  {
+    "product_key": "the|innocent_hound_british_beef_stew|unknown",
+    "old_brand": "The",
+    "new_brand": "Brit",
+    "new_product_key": "brit|innocent_hound_british_beef_stew|unknown"
+  },
+  {
+    "product_key": "the|innocent_hound_british_lamb_casserole|unknown",
+    "old_brand": "The",
+    "new_brand": "Brit",
+    "new_product_key": "brit|innocent_hound_british_lamb_casserole|unknown"
+  },
+  {
+    "product_key": "the|innocent_hound_british_turkey_feast|unknown",
+    "old_brand": "The",
+    "new_brand": "Brit",
+    "new_product_key": "brit|innocent_hound_british_turkey_feast|unknown"
+  },
+  {
+    "product_key": "the|innocent_hound_gourmet_british_duck|unknown",
+    "old_brand": "The",
+    "new_brand": "Brit",
+    "new_product_key": "brit|innocent_hound_gourmet_british_duck|unknown"
+  },
+  {
+    "product_key": "the|natural_dog_food_company_sensitive_british_free_range_chicken|unknown",
+    "old_brand": "The",
+    "new_brand": "Brit",
+    "new_product_key": "brit|natural_dog_food_company_sensitive_british_free_range_chicken|unknown"
+  },
+  {
+    "product_key": "the|natural_dog_hub_grain_free_adult_superfood_british_grass_fed_lamb|unknown",
+    "old_brand": "The",
+    "new_brand": "Brit",
+    "new_product_key": "brit|natural_dog_hub_grain_free_adult_superfood_british_grass_fed_lamb|unknown"
+  },
+  {
+    "product_key": "the|natural_dog_hub_grain_free_adult_superfood_free_range_british_chicken|unknown",
+    "old_brand": "The",
+    "new_brand": "Brit",
+    "new_product_key": "brit|natural_dog_hub_grain_free_adult_superfood_free_range_british_chicken|unknown"
+  },
+  {
+    "product_key": "working|dog_food_co._superfood_65_british_free_range_chicken_with_ginger|unknown",
+    "old_brand": "Working",
+    "new_brand": "Brit",
+    "new_product_key": "brit|dog_food_co._superfood_65_british_free_range_chicken_with_ginger|unknown"
+  },
+  {
+    "product_key": "betty|butch_peptide_gastrointestinal_digestive_care_advanced_hypoallergenic|unknown",
+    "old_brand": "BETTY",
+    "new_brand": "Advance",
+    "new_product_key": "advance|butch_peptide_gastrointestinal_digestive_care_advanced_hypoallergenic|unknown"
+  },
+  {
+    "product_key": "iams|12kg_iams_advanced_nutrition_dry_dog_food_-_10kg_+_2kg_free!_*|dry",
+    "old_brand": "Iams",
+    "new_brand": "Advance",
+    "new_product_key": "advance|12kg_iams_advanced_nutrition_dry_dog_food_-_10kg_+_2kg_free!_*|dry"
+  },
+  {
+    "product_key": "iams|iams_advanced_nutrition_adult_small_&_medium_dog_-_chicken|dry",
+    "old_brand": "Iams",
+    "new_brand": "Advance",
+    "new_product_key": "advance|iams_advanced_nutrition_adult_small_&_medium_dog_-_chicken|dry"
+  }
+]

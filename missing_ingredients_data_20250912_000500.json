@@ -1,0 +1,425 @@
+{
+  "timestamp": "2025-09-12T00:05:00.749056",
+  "analyses": [
+    {
+      "brand_slug": "briantos",
+      "total_missing": 31,
+      "with_snapshots": 0,
+      "needs_harvest": 31,
+      "sample_failures": [],
+      "failure_reasons_summary": {},
+      "skus_with_snapshots": [],
+      "skus_need_harvest": [
+        {
+          "product_key": "briantos|adult_mobility_grain-free_chicken__potato|unknown",
+          "product_name": "Adult Mobility Grain-Free Chicken  Potato",
+          "product_url": "https://petfoodexpert.com/food/briantos-adult-mobility-grain-free-chicken-potato"
+        },
+        {
+          "product_key": "briantos|adult_salmon__rice|unknown",
+          "product_name": "Adult Salmon  Rice",
+          "product_url": "https://petfoodexpert.com/food/briantos-adult-salmon-rice"
+        },
+        {
+          "product_key": "briantos|adult_sensitive_lamb__rice|unknown",
+          "product_name": "Adult Sensitive Lamb  Rice",
+          "product_url": "https://petfoodexpert.com/food/briantos-adult-sensitive-lamb-rice"
+        },
+        {
+          "product_key": "briantos|briantos_adult_light|dry",
+          "product_name": "Briantos Adult Light",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/briantos_specialised/527598?activeVariant=527598.2"
+        },
+        {
+          "product_key": "briantos|briantos_adult_mini_lamb_&_rice|dry",
+          "product_name": "Briantos Adult Mini Lamb & Rice",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/briantos_adult/527599?activeVariant=527599.6"
+        },
+        {
+          "product_key": "briantos|briantos_adult_mobility_grain-free_chicken_&_potato|dry",
+          "product_name": "Briantos Adult Mobility Grain-Free Chicken & Potato",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/grain_free/1910367?activeVariant=1910367.3"
+        },
+        {
+          "product_key": "briantos|briantos_adult_salmon_&_rice|dry",
+          "product_name": "Briantos Adult Salmon & Rice",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/briantos_adult/527603?activeVariant=527603.1"
+        },
+        {
+          "product_key": "briantos|briantos_adult_sensitive_lamb_&_rice|dry",
+          "product_name": "Briantos Adult Sensitive Lamb & Rice",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/briantos_specialised/527600?activeVariant=527600.3"
+        },
+        {
+          "product_key": "briantos|briantos_junior|dry",
+          "product_name": "Briantos Junior",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/briantos_junior/527602?activeVariant=527602.1"
+        },
+        {
+          "product_key": "briantos|briantos_maxi_adult|dry",
+          "product_name": "Briantos Maxi Adult",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/briantos_adult/527596?activeVariant=527596.1"
+        },
+        {
+          "product_key": "briantos|briantos_chunks_in_gravy|wet",
+          "product_name": "Briantos Chunks in Gravy",
+          "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/briantos/briantos_chunks_in_gravy/2027073?activeVariant=2027073.4"
+        },
+        {
+          "product_key": "briantos|briantos_delicious_paté_mixed_trial_pack|wet",
+          "product_name": "Briantos Delicious Paté Mixed Trial Pack",
+          "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/briantos/trial_packs/1908534?activeVariant=1908534.3"
+        },
+        {
+          "product_key": "briantos|briantos_delicious_paté|wet",
+          "product_name": "Briantos Delicious Paté",
+          "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/briantos/delicious_pate/1908440?activeVariant=1908440.3"
+        },
+        {
+          "product_key": "briantos|briantos_dry_dog_food_economy_packs|dry",
+          "product_name": "Briantos Dry Dog Food Economy Packs",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/saver_packs/527597?activeVariant=527597.10"
+        },
+        {
+          "product_key": "briantos|briantos_fresh_pouch_trial_mix_4_x|wet",
+          "product_name": "Briantos Fresh Pouch Trial Mix 4 x",
+          "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/briantos/trial_packs/2096278?activeVariant=2096278.1"
+        },
+        {
+          "product_key": "briantos|briantos_grain-free_economy_pack|dry",
+          "product_name": "Briantos Grain-Free Economy Pack",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/saver_packs/999078?activeVariant=999078.1"
+        },
+        {
+          "product_key": "briantos|briantos_senior_grain-free_turkey_&_potato|dry",
+          "product_name": "Briantos Senior Grain-Free Turkey & Potato",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/grain_free/1089739?activeVariant=1089739.1"
+        },
+        {
+          "product_key": "briantos|junior_grain-free_chicken__potato|unknown",
+          "product_name": "Junior Grain-Free Chicken  Potato",
+          "product_url": "https://petfoodexpert.com/food/briantos-junior-grain-free-chicken-potato"
+        },
+        {
+          "product_key": "briantos|junior|unknown",
+          "product_name": "Junior",
+          "product_url": "https://petfoodexpert.com/food/briantos-junior"
+        },
+        {
+          "product_key": "briantos|maxi_adult|unknown",
+          "product_name": "Maxi Adult",
+          "product_url": "https://petfoodexpert.com/food/briantos-maxi-adult"
+        },
+        {
+          "product_key": "briantos|senior_grain-free_turkey__potato|unknown",
+          "product_name": "Senior Grain-Free Turkey  Potato",
+          "product_url": "https://petfoodexpert.com/food/briantos-senior-grain-free-turkey-potato"
+        },
+        {
+          "product_key": "briantos|delicious_paté_beef|unknown",
+          "product_name": "Delicious Paté Beef",
+          "product_url": "https://petfoodexpert.com/food/briantos-delicious-pate-beef"
+        },
+        {
+          "product_key": "briantos|delicious_paté_chicken|unknown",
+          "product_name": "Delicious Paté Chicken",
+          "product_url": "https://petfoodexpert.com/food/briantos-delicious-pate-chicken"
+        },
+        {
+          "product_key": "briantos|delicious_paté_fish__peas|unknown",
+          "product_name": "Delicious Paté Fish  Peas",
+          "product_url": "https://petfoodexpert.com/food/briantos-delicious-pate-fish-peas"
+        },
+        {
+          "product_key": "briantos|delicious_paté_turkey|unknown",
+          "product_name": "Delicious Paté Turkey",
+          "product_url": "https://petfoodexpert.com/food/briantos-delicious-pate-turkey"
+        },
+        {
+          "product_key": "briantos|salmon__carrots_chunks_in_gravy|unknown",
+          "product_name": "Salmon  Carrots Chunks In Gravy",
+          "product_url": "https://petfoodexpert.com/food/briantos-salmon-carrots-chunks-in-gravy"
+        },
+        {
+          "product_key": "briantos|turkey__carrots_chunks_in_gravy|unknown",
+          "product_name": "Turkey  Carrots Chunks in Gravy",
+          "product_url": "https://petfoodexpert.com/food/briantos-turkey-carrots-chunks-in-gravy"
+        },
+        {
+          "product_key": "briantos|briantos_adult_active|dry",
+          "product_name": "Briantos Adult Active",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/briantos_specialised/527601?activeVariant=527601.2"
+        },
+        {
+          "product_key": "briantos|briantos_adult_grain-free_lamb_&_potato|dry",
+          "product_name": "Briantos Adult Grain-Free Lamb & Potato",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/grain_free/1908773?activeVariant=1908773.1"
+        },
+        {
+          "product_key": "briantos|briantos_adult_mini_grain-free_salmon_&_potato|dry",
+          "product_name": "Briantos Adult Mini Grain-Free Salmon & Potato",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/grain_free/1910191?activeVariant=1910191.2"
+        },
+        {
+          "product_key": "briantos|briantos_senior_with_poultry_and_rice|dry",
+          "product_name": "Briantos Senior with Poultry and Rice",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/senior/2095789?activeVariant=2095789.0"
+        }
+      ]
+    },
+    {
+      "brand_slug": "bozita",
+      "total_missing": 31,
+      "with_snapshots": 2,
+      "needs_harvest": 29,
+      "sample_failures": [
+        {
+          "product_key": "bozita|robur_sensitive_single_protein_lamb__rice|unknown",
+          "product_name": "Robur Sensitive Single Protein Lamb  Rice",
+          "snapshot_path": "manufacturers/bozita/2025-09-11/dog-food_bozita-robur-sensitive-single-protein-lamb-rice.html",
+          "analysis": {
+            "failure_reason": "no_ingredients_section_found",
+            "language_detected": "en",
+            "selectors_tried": [
+              {
+                "selector": "div.ingredients",
+                "found": false
+              },
+              {
+                "selector": "div.composition",
+                "found": false
+              },
+              {
+                "selector": "div.product-ingredients",
+                "found": false
+              },
+              {
+                "selector": "div#ingredients",
+                "found": false
+              },
+              {
+                "selector": "[itemprop=\"ingredients\"]",
+                "found": false
+              },
+              {
+                "selector": ".ingredients-list",
+                "found": false
+              },
+              {
+                "selector": ".product-details",
+                "found": false
+              }
+            ],
+            "text_patterns_found": [],
+            "html_structure_issues": []
+          }
+        },
+        {
+          "product_key": "bozita|robur_sensitive_grain_free_reindeer|unknown",
+          "product_name": "Robur Sensitive Grain Free Reindeer",
+          "snapshot_path": "manufacturers/bozita/2025-09-11/dog-food_bozita-robur-sensitive-grain-free-reindeer.html",
+          "analysis": {
+            "failure_reason": "no_ingredients_section_found",
+            "language_detected": "en",
+            "selectors_tried": [
+              {
+                "selector": "div.ingredients",
+                "found": false
+              },
+              {
+                "selector": "div.composition",
+                "found": false
+              },
+              {
+                "selector": "div.product-ingredients",
+                "found": false
+              },
+              {
+                "selector": "div#ingredients",
+                "found": false
+              },
+              {
+                "selector": "[itemprop=\"ingredients\"]",
+                "found": false
+              },
+              {
+                "selector": ".ingredients-list",
+                "found": false
+              },
+              {
+                "selector": ".product-details",
+                "found": false
+              }
+            ],
+            "text_patterns_found": [],
+            "html_structure_issues": []
+          }
+        }
+      ],
+      "failure_reasons_summary": {
+        "no_ingredients_section_found": 2
+      },
+      "skus_with_snapshots": [
+        {
+          "product_key": "bozita|robur_sensitive_single_protein_lamb__rice|unknown",
+          "product_name": "Robur Sensitive Single Protein Lamb  Rice",
+          "snapshot_path": "manufacturers/bozita/2025-09-11/dog-food_bozita-robur-sensitive-single-protein-lamb-rice.html",
+          "file_size": 96636
+        },
+        {
+          "product_key": "bozita|robur_sensitive_grain_free_reindeer|unknown",
+          "product_name": "Robur Sensitive Grain Free Reindeer",
+          "snapshot_path": "manufacturers/bozita/2025-09-11/dog-food_bozita-robur-sensitive-grain-free-reindeer.html",
+          "file_size": 96574
+        }
+      ],
+      "skus_need_harvest": [
+        {
+          "product_key": "bozita|bozita_grain_free_mother_&_puppy_elk|dry",
+          "product_name": "Bozita Grain Free Mother & Puppy Elk",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/1487109?activeVariant=1487109.6"
+        },
+        {
+          "product_key": "bozita|bozita_grain_free_mother_&_puppy_xl_elk|dry",
+          "product_name": "Bozita Grain Free Mother & Puppy XL Elk",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/1488409?activeVariant=1488409.7"
+        },
+        {
+          "product_key": "bozita|bozita_original_adult_flavour_plus_with_reindeer_-_wheat-free|dry",
+          "product_name": "Bozita Original Adult Flavour Plus with Reindeer - Wheat-Free",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/128406?activeVariant=128406.11"
+        },
+        {
+          "product_key": "bozita|bozita_original_adult_light|dry",
+          "product_name": "Bozita Original Adult Light",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/128405?activeVariant=128405.9"
+        },
+        {
+          "product_key": "bozita|bozita_original_adult_xl_with_lamb_-_wheat-free|dry",
+          "product_name": "Bozita Original Adult XL with Lamb - Wheat-Free",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/128404?activeVariant=128404.8"
+        },
+        {
+          "product_key": "bozita|bozita_original_puppy_&_junior_with_chicken_-_wheat-free|dry",
+          "product_name": "Bozita Original Puppy & Junior with Chicken - Wheat-Free",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/128402?activeVariant=128402.12"
+        },
+        {
+          "product_key": "bozita|bozita_grain_free_elk|dry",
+          "product_name": "Bozita Grain Free Elk",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/1488412?activeVariant=1488412.5"
+        },
+        {
+          "product_key": "bozita|bozita_grain_free_reindeer|dry",
+          "product_name": "Bozita Grain Free Reindeer",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/1486333?activeVariant=1486333.4"
+        },
+        {
+          "product_key": "bozita|bozita_grain_free_salmon_&_beef_for_large_dogs|dry",
+          "product_name": "Bozita Grain Free Salmon & Beef for Large Dogs",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/1488617?activeVariant=1488617.4"
+        },
+        {
+          "product_key": "bozita|bozita_grain_free_salmon_&_beef_for_small_dogs|dry",
+          "product_name": "Bozita Grain Free Salmon & Beef for Small Dogs",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/1488611?activeVariant=1488611.3"
+        },
+        {
+          "product_key": "bozita|bozita_original_senior_&_vital_with_chicken_-_wheat-free|dry",
+          "product_name": "Bozita Original Senior & Vital with Chicken - Wheat-Free",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/138311?activeVariant=138311.8"
+        },
+        {
+          "product_key": "bozita|bozita_robur_adult_active_performance_reindeer|dry",
+          "product_name": "Bozita Robur Adult Active Performance Reindeer",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_robur_dog_food/2311849?activeVariant=2311849.0"
+        },
+        {
+          "product_key": "bozita|bozita_robur_puppy_&_junior_chicken|dry",
+          "product_name": "Bozita Robur Puppy & Junior Chicken",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_robur_dog_food/2311868?activeVariant=2311868.3"
+        },
+        {
+          "product_key": "bozita|bozita_robur_senior|dry",
+          "product_name": "Bozita Robur Senior",
+          "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_robur_dog_food/1583031"
+        },
+        {
+          "product_key": "bozita|original_adult_flavour_plus_with_reindeer|unknown",
+          "product_name": "Original Adult Flavour Plus with Reindeer",
+          "product_url": "https://petfoodexpert.com/food/bozita-original-adult-flavour-plus-with-reindeer"
+        },
+        {
+          "product_key": "bozita|purely_lamb_pate|unknown",
+          "product_name": "Purely Lamb Pate",
+          "product_url": "https://petfoodexpert.com/food/bozita-purely-lamb-pate"
+        },
+        {
+          "product_key": "bozita|original_adult_xl_with_lamb|unknown",
+          "product_name": "Original Adult XL with Lamb",
+          "product_url": "https://petfoodexpert.com/food/bozita-original-adult-xl-with-lamb"
+        },
+        {
+          "product_key": "bozita|purely_puppy__junior_elk|unknown",
+          "product_name": "Purely Puppy  Junior Elk",
+          "product_url": "https://petfoodexpert.com/food/bozita-purely-puppy-junior-elk"
+        },
+        {
+          "product_key": "bozita|purely_puppy__junior_turkey|unknown",
+          "product_name": "Purely Puppy  Junior Turkey",
+          "product_url": "https://petfoodexpert.com/food/bozita-purely-puppy-junior-turkey"
+        },
+        {
+          "product_key": "bozita|purely_large_breed_salmon__beef|unknown",
+          "product_name": "Purely Large Breed Salmon  Beef",
+          "product_url": "https://petfoodexpert.com/food/bozita-purely-large-breed-salmon-beef"
+        },
+        {
+          "product_key": "bozita|chicken__rice_chunks_in_jelly|unknown",
+          "product_name": "Chicken  Rice Chunks In Jelly",
+          "product_url": "https://petfoodexpert.com/food/bozita-chicken-rice-chunks-in-jelly"
+        },
+        {
+          "product_key": "bozita|robur_maintenance|unknown",
+          "product_name": "Robur Maintenance",
+          "product_url": "https://petfoodexpert.com/food/bozita-robur-maintenance"
+        },
+        {
+          "product_key": "bozita|purely_reindeer|unknown",
+          "product_name": "Purely Reindeer",
+          "product_url": "https://petfoodexpert.com/food/bozita-purely-reindeer"
+        },
+        {
+          "product_key": "bozita|purely_salmon_pate|unknown",
+          "product_name": "Purely Salmon Pate",
+          "product_url": "https://petfoodexpert.com/food/bozita-purely-salmon-pate"
+        },
+        {
+          "product_key": "bozita|purely_venison_pate|unknown",
+          "product_name": "Purely Venison Pate",
+          "product_url": "https://petfoodexpert.com/food/bozita-purely-venison-pate"
+        },
+        {
+          "product_key": "bozita|reindeer_chunks_in_jelly|unknown",
+          "product_name": "Reindeer Chunks In Jelly",
+          "product_url": "https://petfoodexpert.com/food/bozita-reindeer-chunks-in-jelly"
+        },
+        {
+          "product_key": "bozita|salmon_chunks_in_jelly|unknown",
+          "product_name": "Salmon Chunks In Jelly",
+          "product_url": "https://petfoodexpert.com/food/bozita-salmon-chunks-in-jelly"
+        },
+        {
+          "product_key": "bozita|purely_elk_pate|unknown",
+          "product_name": "Purely Elk Pate",
+          "product_url": "https://petfoodexpert.com/food/bozita-purely-elk-pate"
+        },
+        {
+          "product_key": "bozita|purely_reindeer_pate|unknown",
+          "product_name": "Purely Reindeer Pate",
+          "product_url": "https://petfoodexpert.com/food/bozita-purely-reindeer-pate"
+        }
+      ]
+    }
+  ]
+}

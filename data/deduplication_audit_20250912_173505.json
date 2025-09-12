@@ -1,0 +1,2356 @@
+{
+  "timestamp": "20250912_173505",
+  "stats": {
+    "total_products": 5223,
+    "duplicate_groups": 111,
+    "products_merged": 111,
+    "products_deleted": 116,
+    "suspicious_products": 63
+  },
+  "merge_log": [
+    {
+      "group_key": "aatu|free run chicken|dry",
+      "products_merged": 2,
+      "winner": "aatu|aatu_free_run_chicken|dry",
+      "deleted": [
+        "aatu|free_run_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "aatu|free run duck|dry",
+      "products_merged": 2,
+      "winner": "aatu|aatu_free_run_duck|dry",
+      "deleted": [
+        "aatu|free_run_duck|dry"
+      ]
+    },
+    {
+      "group_key": "aatu|free run turkey|dry",
+      "products_merged": 2,
+      "winner": "aatu|aatu_free_run_turkey|dry",
+      "deleted": [
+        "aatu|free_run_turkey|dry"
+      ]
+    },
+    {
+      "group_key": "aatu|puppy salmon|dry",
+      "products_merged": 2,
+      "winner": "aatu|aatu_puppy_salmon|dry",
+      "deleted": [
+        "aatu|puppy_salmon|dry"
+      ]
+    },
+    {
+      "group_key": "aardvark|complete grain free insect dry food|dry",
+      "products_merged": 2,
+      "winner": "aardvark|aardvark_complete_grain_free_insect_dry_food|dry",
+      "deleted": [
+        "aardvark|complete_grain_free_insect_dry_food|dry"
+      ]
+    },
+    {
+      "group_key": "acana|grassfed lamb|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_grass-fed_lamb|dry",
+      "deleted": [
+        "acana|grass-fed_lamb|dry"
+      ]
+    },
+    {
+      "group_key": "aatu|salmon|dry",
+      "products_merged": 2,
+      "winner": "aatu|aatu_salmon|dry",
+      "deleted": [
+        "aatu|salmon|dry"
+      ]
+    },
+    {
+      "group_key": "acana|highest protein pacifica|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_highest_protein_pacifica|dry",
+      "deleted": [
+        "acana|highest_protein_pacifica|dry"
+      ]
+    },
+    {
+      "group_key": "acana|light fit recipe|dry",
+      "products_merged": 3,
+      "winner": "acana|acana_light__fit_recipe|dry",
+      "deleted": [
+        "acana|acana_light_&_fit_recipe|dry",
+        "acana|light__fit_recipe|dry"
+      ]
+    },
+    {
+      "group_key": "acana|prairie poultry|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_prairie_poultry|dry",
+      "deleted": [
+        "acana|prairie_poultry|dry"
+      ]
+    },
+    {
+      "group_key": "acana|puppy large breed recipe|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_puppy_large_breed_recipe|dry",
+      "deleted": [
+        "acana|puppy_large_breed_recipe|dry"
+      ]
+    },
+    {
+      "group_key": "acana|puppy small breed recipe|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_puppy_small_breed_recipe|dry",
+      "deleted": [
+        "acana|puppy_small_breed_recipe|dry"
+      ]
+    },
+    {
+      "group_key": "acana|red meat|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_red_meat|dry",
+      "deleted": [
+        "acana|red_meat|dry"
+      ]
+    },
+    {
+      "group_key": "acana|senior|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_senior|dry",
+      "deleted": [
+        "acana|senior|dry"
+      ]
+    },
+    {
+      "group_key": "acana|free run duck|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_free_run_duck|dry",
+      "deleted": [
+        "acana|free_run_duck|dry"
+      ]
+    },
+    {
+      "group_key": "acana|yorkshire pork|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_yorkshire_pork|dry",
+      "deleted": [
+        "acana|yorkshire_pork|dry"
+      ]
+    },
+    {
+      "group_key": "acana|puppy recipe|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_puppy_recipe|dry",
+      "deleted": [
+        "acana|puppy_recipe|dry"
+      ]
+    },
+    {
+      "group_key": "acana|highest protein grasslands|dry",
+      "products_merged": 2,
+      "winner": "acana|acana_highest_protein_grasslands|dry",
+      "deleted": [
+        "acana|highest_protein_grasslands|dry"
+      ]
+    },
+    {
+      "group_key": "applaws|adult chicken lamb|dry",
+      "products_merged": 3,
+      "winner": "applaws|applaws_adult_chicken_&_lamb|dry",
+      "deleted": [
+        "applaws|applaws_adult_chicken__lamb|dry",
+        "applaws|adult_chicken__lamb|dry"
+      ]
+    },
+    {
+      "group_key": "applaws|adult chicken breast in broth|wet",
+      "products_merged": 2,
+      "winner": "applaws|applaws_adult_chicken_breast_in_broth|wet",
+      "deleted": [
+        "applaws|adult_chicken_breast_in_broth|wet"
+      ]
+    },
+    {
+      "group_key": "applaws|adult chicken beef liver vegetables|wet",
+      "products_merged": 2,
+      "winner": "applaws|applaws_adult_chicken,_beef_liver_&_vegetables|wet",
+      "deleted": [
+        "applaws|adult_chicken,_beef_liver__vegetables|wet"
+      ]
+    },
+    {
+      "group_key": "applaws|adult chicken ham vegetables|wet",
+      "products_merged": 2,
+      "winner": "applaws|applaws_adult_chicken,_ham_&_vegetables|wet",
+      "deleted": [
+        "applaws|adult_chicken,_ham__vegetables|wet"
+      ]
+    },
+    {
+      "group_key": "applaws|adult chicken salmon vegetables|wet",
+      "products_merged": 2,
+      "winner": "applaws|applaws_adult_chicken,_salmon_&_vegetables|wet",
+      "deleted": [
+        "applaws|adult_chicken,_salmon__vegetables|wet"
+      ]
+    },
+    {
+      "group_key": "applaws|adult chicken tuna vegetables|wet",
+      "products_merged": 2,
+      "winner": "applaws|applaws_adult_chicken,_tuna_&_vegetables|wet",
+      "deleted": [
+        "applaws|adult_chicken,_tuna__vegetables|wet"
+      ]
+    },
+    {
+      "group_key": "applaws|adult chicken|dry",
+      "products_merged": 2,
+      "winner": "applaws|applaws_adult_chicken|dry",
+      "deleted": [
+        "applaws|adult_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "applaws|adult large breed chicken|dry",
+      "products_merged": 2,
+      "winner": "applaws|applaws_adult_large_breed_chicken|dry",
+      "deleted": [
+        "applaws|adult_large_breed_chicken|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_tokens",
+      "from_product": "applaws|applaws_puppy_large_breed_chicken|dry",
+      "to_product": "applaws|applaws_puppy_large_breed_-_chicken|dry",
+      "value": [
+        "chicken",
+        "chicken mince  potato starch",
+        "peas",
+        "poultry oil",
+        "beet pulp",
+        "poultry gravy",
+        "whole egg",
+        "cellulose plant fibre",
+        "minerals",
+        "salmon oil  vitamins",
+        "tomato",
+        "carrot",
+        "chicory extract",
+        "alfalfa meal",
+        "seaweed/kelp",
+        "yeast extract",
+        "glucosamine",
+        "methylsulfonylmethane",
+        "chondroitin",
+        "peppermint",
+        "paprika meal",
+        "turmeric",
+        "thyme extract",
+        "citrus extract",
+        "taurine  mg/kg",
+        "yucca extract",
+        "cranberry",
+        "fennel extract",
+        "carob extract",
+        "ginger",
+        "rosehip extract",
+        "dandelion extract",
+        "rosemary oil extract",
+        "oregano",
+        "probiotic: contains e enterococcus faecium cernelle",
+        "cfu/kg as an aid in the establishment",
+        "maintenance and restoration of a balanced gut flora in puppies"
+      ]
+    },
+    {
+      "group_key": "applaws|puppy large breed chicken|dry",
+      "products_merged": 3,
+      "winner": "applaws|applaws_puppy_large_breed_-_chicken|dry",
+      "deleted": [
+        "applaws|applaws_puppy_large_breed_chicken|dry",
+        "applaws|puppy_large_breed_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "applaws|puppy chicken|dry",
+      "products_merged": 2,
+      "winner": "applaws|applaws_puppy_chicken|dry",
+      "deleted": [
+        "applaws|puppy_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "applaws|senior chicken|dry",
+      "products_merged": 2,
+      "winner": "applaws|applaws_senior_chicken|dry",
+      "deleted": [
+        "applaws|senior_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|adult lamb rice|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_adult_lamb_&_rice|dry",
+      "deleted": [
+        "arden|grange_adult_lamb__rice|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|adult light chicken rice|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_adult_light_chicken_&_rice|dry",
+      "deleted": [
+        "arden|grange_adult_light_chicken__rice|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|adult mini lamb rice|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_adult_mini_lamb_&_rice|dry",
+      "deleted": [
+        "arden|grange_adult_mini_lamb__rice|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|adult premium chicken rice|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_adult_premium_chicken_&_rice|dry",
+      "deleted": [
+        "arden|grange_adult_premium_chicken__rice|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|large breed|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_large_breed|dry",
+      "deleted": [
+        "arden-grange|grange_large_breed|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|partners chicken rice veg|wet",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_partners_chicken,_rice_&_veg|wet",
+      "deleted": [
+        "arden|grange_partners_chicken,_rice__veg|wet"
+      ]
+    },
+    {
+      "group_key": "ardengrange|partners lamb rice veg|wet",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_partners_lamb,_rice_&_veg|wet",
+      "deleted": [
+        "arden|grange_partners_lamb,_rice__veg|wet"
+      ]
+    },
+    {
+      "group_key": "ardengrange|puppy junior chicken rice|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_puppy_junior_chicken_&_rice|dry",
+      "deleted": [
+        "arden|grange_puppy_junior_chicken__rice|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|puppy junior large breed chicken rice|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_puppy_junior_large_breed_chicken_&_rice|dry",
+      "deleted": [
+        "arden|grange_puppy_junior_large_breed_chicken__rice|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|senior chicken rice|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_senior_chicken_&_rice|dry",
+      "deleted": [
+        "arden|grange_senior_chicken__rice|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|adult chicken rice|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_adult_chicken_&_rice|dry",
+      "deleted": [
+        "arden|grange_adult_chicken__rice|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|adult prestige chicken|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_adult_prestige_chicken|dry",
+      "deleted": [
+        "arden|grange_adult_prestige_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|adult salmon rice|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_adult_salmon_&_rice|dry",
+      "deleted": [
+        "arden|grange_adult_salmon__rice|dry"
+      ]
+    },
+    {
+      "group_key": "ardengrange|sensitive adult|dry",
+      "products_merged": 2,
+      "winner": "arden_grange|arden_grange_sensitive_adult|dry",
+      "deleted": [
+        "arden|grange_sensitive_adult|dry"
+      ]
+    },
+    {
+      "group_key": "arkwrights|beef|dry",
+      "products_merged": 2,
+      "winner": "arkwrights|arkwrights_beef|dry",
+      "deleted": [
+        "arkwrights|beef|dry"
+      ]
+    },
+    {
+      "group_key": "arkwrights|chicken|dry",
+      "products_merged": 2,
+      "winner": "arkwrights|arkwrights_chicken|dry",
+      "deleted": [
+        "arkwrights|chicken|dry"
+      ]
+    },
+    {
+      "group_key": "asda|hero chicken rice vegetables|dry",
+      "products_merged": 2,
+      "winner": "asda|asda_hero_chicken_rice_&_vegetables|dry",
+      "deleted": [
+        "asda|hero_chicken_rice__vegetables|dry"
+      ]
+    },
+    {
+      "group_key": "arkwrights|sporting complete with extra beef|dry",
+      "products_merged": 2,
+      "winner": "arkwrights|arkwrights_sporting_complete_with_extra_beef|dry",
+      "deleted": [
+        "arkwrights|sporting_complete_with_extra_beef|dry"
+      ]
+    },
+    {
+      "group_key": "asda|hero beef vegetables|dry",
+      "products_merged": 2,
+      "winner": "asda|asda_hero_beef_&_vegetables|dry",
+      "deleted": [
+        "asda|hero_beef__vegetables|dry"
+      ]
+    },
+    {
+      "group_key": "asda|hero puppy with chicken|dry",
+      "products_merged": 2,
+      "winner": "asda|asda_hero_puppy_with_chicken|dry",
+      "deleted": [
+        "asda|hero_puppy_with_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "asda|hero meaty poultry chunks in jelly|wet",
+      "products_merged": 2,
+      "winner": "asda|asda_hero_meaty_&_poultry_chunks_in_jelly|wet",
+      "deleted": [
+        "asda|hero_meaty__poultry_chunks_in_jelly|wet"
+      ]
+    },
+    {
+      "group_key": "asda|hero senior chicken rice veg|dry",
+      "products_merged": 2,
+      "winner": "asda|asda_hero_senior_chicken_rice_&_veg|dry",
+      "deleted": [
+        "asda|hero_senior_chicken_rice__veg|dry"
+      ]
+    },
+    {
+      "group_key": "autarky|mature lite delicious chicken|dry",
+      "products_merged": 2,
+      "winner": "autarky|autarky_mature_lite_delicious_chicken|dry",
+      "deleted": [
+        "autarky|mature_lite_delicious_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "autarky|grain free tasty white fish|dry",
+      "products_merged": 2,
+      "winner": "autarky|autarky_grain_free_tasty_white_fish|dry",
+      "deleted": [
+        "autarky|grain_free_tasty_white_fish|dry"
+      ]
+    },
+    {
+      "group_key": "autarky|puppyjunior delicious chicken|dry",
+      "products_merged": 2,
+      "winner": "autarky|autarky_puppy/junior_delicious_chicken|dry",
+      "deleted": [
+        "autarky|puppy/junior_delicious_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "autarky|succululent salmon|dry",
+      "products_merged": 2,
+      "winner": "autarky|autarky_succululent_salmon|dry",
+      "deleted": [
+        "autarky|succululent_salmon|dry"
+      ]
+    },
+    {
+      "group_key": "autarky|mature lite succulent salmon|dry",
+      "products_merged": 2,
+      "winner": "autarky|autarky_mature_lite_succulent_salmon|dry",
+      "deleted": [
+        "autarky|mature_lite_succulent_salmon|dry"
+      ]
+    },
+    {
+      "group_key": "bakers|adult beef vegetable|dry",
+      "products_merged": 2,
+      "winner": "bakers|bakers_adult_beef_&_vegetable|dry",
+      "deleted": [
+        "bakers|adult_beef__vegetable|dry"
+      ]
+    },
+    {
+      "group_key": "bakers|adult chicken vegetable|dry",
+      "products_merged": 2,
+      "winner": "bakers|bakers_adult_chicken_&_vegetable|dry",
+      "deleted": [
+        "bakers|adult_chicken__vegetable|dry"
+      ]
+    },
+    {
+      "group_key": "bakers|adult meaty meals beef|dry",
+      "products_merged": 2,
+      "winner": "bakers|bakers_adult_meaty_meals_beef|dry",
+      "deleted": [
+        "bakers|adult_meaty_meals_beef|dry"
+      ]
+    },
+    {
+      "group_key": "belcando|finest croc|dry",
+      "products_merged": 2,
+      "winner": "belcando|belcando_finest_croc|dry",
+      "deleted": [
+        "belcando|finest_croc|unknown"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_tokens",
+      "from_product": "bosch|bosch_adult_lamb_&_rice|dry",
+      "to_product": "bosch|adult_lamb__rice|unknown",
+      "value": [
+        "Fresh poultry (min. 25%)",
+        "Rice (min. 16%)",
+        "Barley",
+        "Maize",
+        "Poultry meal"
+      ]
+    },
+    {
+      "group_key": "bosch|adult lamb rice|dry",
+      "products_merged": 2,
+      "winner": "bosch|adult_lamb__rice|unknown",
+      "deleted": [
+        "bosch|bosch_adult_lamb_&_rice|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_raw",
+      "from_product": "bozita_8c574464",
+      "to_product": "bozita|bozita_original_adult_light|dry",
+      "value": "00/Duration0:20Loaded:84.51%Stream TypeLIVESeek to live, currently behind liveLIVERemaining Time-0:201xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio TrackPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetrestore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.<>\u2039\u203a\u2039\u203aORIGINAL ADULT LIGHT19% PROTEIN , 6% FATWheat free recipeChickenBozita Original Wheat Free is a complete dog food for adult dogs with low activity levels or a tendency for weight-gain.This single protein formula without added wheat, made with freshly prepared Swedish chicken, is low in fat and to suit adult dogs or overweight adult dogs with low activity level. Contains vitamins and antioxidants from superfoods rosehip, blueberries and lingonberries.Wheat free recipeSingle protein = just one source of protein (chicken)19% protein and only 6% fatNatural raw ingredients, no unnecessary additivesCan be softened in lukewarm/cold water or served dry with a bowl of fresh water.Sizes:3 kg and 12 kgIngredientsCOMPOSITIONMaize*, chicken 25% (dried chicken protein 15%, freshly prepared chicken 10%), rice*, dried beet pulp*, maize germs*, lignocellulose*, minerals, hydrolyzed animal protein, linseed*, yeast*, rosehip meal* 0.3%, dried blueberries* 0.01%, dried lingonberries* 0.01%.*Natural ingredientsADDITIVES (PER KG)Nutritional addi"
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_tokens",
+      "from_product": "bozita_8c574464",
+      "to_product": "bozita|bozita_original_adult_light|dry",
+      "value": [
+        "hydrolyzed animal protein",
+        "currently behind liveLIVERemaining Time-:xPlayback RateChaptersChaptersDescriptionsdescriptions off",
+        "opens captions settings dialogcaptions off",
+        "lignocellulose*",
+        "Sensitive stomach",
+        "yeast*",
+        "made freshly prepared Swedish chicken",
+        "vitamins",
+        "manganese oxide) mg",
+        "selectedCaptionscaptions settings",
+        "rosehip meal*",
+        "FATNew designROBUR WEIGHT CONTROLDry food",
+        "forests or waters Sweden to where how we prepare the food.Read moreWe are a distinguished company from V\u00e5rg\u00e5rda",
+        "crude fibre",
+        "beet pulp",
+        "not above normal room temperature. Best-before: see stamp. This product has resealable packaging.Related productsNew designROBUR SENSITIVE SINGLE PROTEIN SALMONDry food",
+        "One protein source",
+        "that has been making dog cat food since We like to keep things natural simple. We make our dog cat food from Swedish farms wherever possible very high quality ingredients!FOLLOW US ON SOCIAL MEDIAINFORMATIONFAQAbout BozitaContact UsOur Privacy PolicyCookies policyCONTACT US-info@bozita.comBozitaDoggyv\u00e4genV\u00e5rg\u00e5rdaSWEDEN\u00a9 COPYRIGHT -PARTNER IN PET FOOD NORDICS AB",
+        "blueberry",
+        "FATNew designROBUR SENSITIVE SINGLE PROTEIN LAMBDry food",
+        "FATNew designROBUR SENSITIVE REINDEERDry food",
+        "Wheat free recipe PROTEIN",
+        "Robur Food",
+        "FATNew designROBUR SENIORDry food",
+        "moisture . Metabolisable energy kJ/g.Feeding guideWEIGHT DOG DAILY RATION DAILY RATION The amounts in the feeding guide are only guidelines. Needs vary from individual to individual",
+        "among other things",
+        "corn",
+        "is low in fat to suit adult dogs or overweight adult dogs low activity level. Contains vitamins antioxidants from superfoods rosehip",
+        "minerals",
+        "the dog\u2019s activity levels. Therefore",
+        "crude ash",
+        "/Duration:Loaded:Stream TypeLIVESeek to live",
+        "flax",
+        "all the way from farms",
+        "Sweden",
+        "Obese",
+        "selenium mg. Technical additives: Antioxidants.ANALYTICAL CONSTITUENTSProtein",
+        "selectedAudio TrackPicture-in-PictureFullscreenThis is a modal window.Beginning dialog window. Escape will cancel close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont SizeText Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetrestore all settings to the default valuesDoneClose Modal DialogEnd dialog window.<>\u2039\u203a\u2039\u203aORIGINAL ADULT LIGHT PROTEIN",
+        "omega-",
+        "adjust the amount according to your dog\u2019s weight fitness. Your dog should always have free access to fresh water.Storage:Store dry",
+        "FATWheat free recipeChickenBozita Original Wheat Free is a complete dog food for adult dogs low activity levels or a tendency for weight-gain.This single protein formula without added wheat",
+        "FATNew designROBUR ACTIVE PERFORMANCEDry food",
+        "rice*",
+        "fat content",
+        "chicken",
+        "are affected by",
+        "freshly prepared chicken )",
+        "Sensitive skin",
+        "monohydrate) mg",
+        "pentahydrate) mg",
+        "anhydrous) mg",
+        "FATOUR PHILOSOPHYSWEDISH NATURAL QUALITYSwedish Natural Quality embodies more than just the food in the bowl. It involves every part our process",
+        "copper sulphate",
+        "Grain free recipe"
+      ]
+    },
+    {
+      "group_key": "bozita|original adult light|dry",
+      "products_merged": 2,
+      "winner": "bozita|bozita_original_adult_light|dry",
+      "deleted": [
+        "bozita_8c574464"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_raw",
+      "from_product": "bozita_24add541",
+      "to_product": "bozita|bozita_robur_senior|dry",
+      "value": "00/Duration0:20Loaded:84.78%0:00Stream TypeLIVESeek to live, currently behind liveLIVERemaining Time-0:201xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio TrackPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetrestore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.<>\u2039\u203a\u2039\u203aROBUR SENIOR23% PROTEIN (of which 71% from animal protein), 12% FATWheat free recipeChickenBozita Robur Senior is a complete feed for senior dogs with a normal activity level.Contains a multi benefitpostbioticfor everyday immune protection and healthy gut microbiome modulation and support.Learn more about postbioticshere.Contains Bozitas extended joint health package with green lipped mussel, MSM, glucosamine and chondroitin sulfate.Taurine is added to support a healthy heart.Chrunchy kibbles containing vitamin D and minerals to help maintain healthy teeth.\u200bThis complete, wheat free formula, is naturally optimized for senior dogs with a normal activity level. With added taurine that supports a healthy heart and our specially designed joint package with green-lipped mussel, MSM, glucosamine and chondroitin sulphate for maximum care. It also contains freshly prepared Swedish chicken, as well as beta glucans for strong immunesystem, prebiotic MOS to promote a good functional gut bacteria and salmon oil, a source of omega 3"
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_tokens",
+      "from_product": "bozita_24add541",
+      "to_product": "bozita|bozita_robur_senior|dry",
+      "value": [
+        "currently behind liveLIVERemaining Time-:xPlayback RateChaptersChaptersDescriptionsdescriptions off",
+        "opens captions settings dialogcaptions off",
+        "taurine mg",
+        "Sensitive stomach",
+        "gradually increase the new food over a period -weeks. The dog should always have access to fresh water.Use:Complete feed for senior dogs a normal activity level. Wheatfree recipe. Can be softened in lukewarm/cold water or served dry together a bowl fresh water.Storage:Store dry",
+        "is naturally optimized for senior dogs a normal activity level. added taurine that supports a healthy heart our specially designed joint package green-lipped mussel",
+        "/Duration:Loaded::Stream TypeLIVESeek to live",
+        "vitamins",
+        "which contribute to a healthy heart skin.With a multi-benefit postbiotic for digestive health",
+        "hydrolysed animal protein",
+        "FATWheat free recipeChickenBozita Robur Senior is a complete feed for senior dogs a normal activity level.Contains a multi benefitpostbioticfor everyday immune protection healthy gut microbiome modulation support.Learn more about postbioticshere.Contains Bozitas extended joint health package green lipped mussel",
+        "betaglucans )",
+        "selectedCaptionscaptions settings",
+        "manganese oxide) mg",
+        "FATNew designROBUR WEIGHT CONTROLDry food",
+        "FATNew designROBUR PUPPY & JUNIOR LARGEDry food",
+        "forests or waters Sweden to where how we prepare the food.Read moreWe are a distinguished company from V\u00e5rg\u00e5rda",
+        "as well as beta glucans for strong immunesystem",
+        "crude fibre",
+        "beet pulp",
+        "One protein source",
+        "glucosamine chondroitin sulphate for maximum care. It also contains freshly prepared Swedish chicken",
+        "that has been making dog cat food since We like to keep things natural simple. We make our dog cat food from Swedish farms wherever possible very high quality ingredients!FOLLOW US ON SOCIAL MEDIAINFORMATIONFAQAbout BozitaContact UsOur Privacy PolicyCookies policyCONTACT US-info@bozita.comBozitaDoggyv\u00e4genV\u00e5rg\u00e5rdaSWEDEN\u00a9 COPYRIGHT -PARTNER IN PET FOOD NORDICS AB",
+        "FATNew designROBUR SENSITIVE SINGLE PROTEIN LAMBDry food",
+        "FATNew designROBUR SENSITIVE REINDEERDry food",
+        "a source omega fatty acids",
+        "Wheat free recipe PROTEIN",
+        "Robur Food",
+        "corn",
+        "see the feeding guidelines only as guidance. When changing food",
+        "minerals",
+        "glucosamine",
+        "crude ash",
+        "dried green-lipped mussel",
+        "all the way from farms",
+        "freshly prepared Swedish chicken )",
+        "Sweden",
+        "Obese",
+        "fish oil",
+        "MSM",
+        "animal fat",
+        "moisture . Metabolisable energy kJ/g.Feeding guideWEIGHT DOG DAILY RATIO DAILY RATIO ------------------Weight",
+        "omega",
+        "selenium",
+        "FATNew designROBUR ACTIVE PERFORMANCEDry food",
+        "rice*",
+        "fat content",
+        "chicken",
+        "selectedAudio TrackPicture-in-PictureFullscreenThis is a modal window.Beginning dialog window. Escape will cancel close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont SizeText Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetrestore all settings to the default valuesDoneClose Modal DialogEnd dialog window.<>\u2039\u203a\u2039\u203aROBUR SENIOR PROTEIN",
+        "yeast* (of which inactivated yeast",
+        "Sensitive skin",
+        "monohydrate) mg",
+        "age activity level are factors that can affect your dogs energyneed. Therefore",
+        "mg. Technical additives: Antioxidants.ANALYTICAL CONSTITUENTSProtein",
+        "pentahydrate) mg",
+        "wheat free formula",
+        "anhydrous) mg",
+        "FATOUR PHILOSOPHYSWEDISH NATURAL QUALITYSwedish Natural Quality embodies more than just the food in the bowl. It involves every part our process",
+        "copper sulphate",
+        "not above normal room temperature.Related productsNew designROBUR SENSITIVE SINGLE PROTEIN SALMONDry food",
+        "mannanoligosaccharides",
+        "Grain free recipe"
+      ]
+    },
+    {
+      "group_key": "bozita|robur senior|dry",
+      "products_merged": 2,
+      "winner": "bozita|bozita_robur_senior|dry",
+      "deleted": [
+        "bozita_24add541"
+      ]
+    },
+    {
+      "group_key": "briantos|adult chicken rice|dry",
+      "products_merged": 2,
+      "winner": "briantos|briantos_adult_chicken_&_rice|dry",
+      "deleted": [
+        "briantos|adult_chicken__rice|unknown"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "briantos|briantos_adult_grain-free_lamb_&_potato|dry",
+      "to_product": "briantos|adult_grain-free_lamb__potato|unknown",
+      "value": 37.99
+    },
+    {
+      "group_key": "briantos|adult grainfree lamb potato|dry",
+      "products_merged": 2,
+      "winner": "briantos|adult_grain-free_lamb__potato|unknown",
+      "deleted": [
+        "briantos|briantos_adult_grain-free_lamb_&_potato|dry"
+      ]
+    },
+    {
+      "group_key": "briantos|adult grainfree salmon potato|dry",
+      "products_merged": 2,
+      "winner": "briantos|briantos_adult_grain-free_salmon_&_potato|dry",
+      "deleted": [
+        "briantos|adult_grain-free_salmon__potato|unknown"
+      ]
+    },
+    {
+      "group_key": "briantos|adult lamb rice|dry",
+      "products_merged": 2,
+      "winner": "briantos|briantos_adult_lamb_&_rice|dry",
+      "deleted": [
+        "briantos|adult_lamb__rice|unknown"
+      ]
+    },
+    {
+      "group_key": "briantos|adult lightsterilised grainfree turkey potato|dry",
+      "products_merged": 2,
+      "winner": "briantos|briantos_adult_light/sterilised_grain-free_turkey_&_potato|dry",
+      "deleted": [
+        "briantos|adult_light/sterilised_grain-free_turkey__potato|unknown"
+      ]
+    },
+    {
+      "group_key": "briantos|adult grainfree duck potato|dry",
+      "products_merged": 2,
+      "winner": "briantos|briantos_adult_grain-free_duck_&_potato|dry",
+      "deleted": [
+        "briantos|adult_grain-free_duck__potato|unknown"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "briantos|briantos_adult_light|dry",
+      "to_product": "briantos|adult_light|unknown",
+      "value": 70.99
+    },
+    {
+      "group_key": "briantos|adult light|dry",
+      "products_merged": 2,
+      "winner": "briantos|adult_light|unknown",
+      "deleted": [
+        "briantos|briantos_adult_light|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "briantos|briantos_adult_mini_lamb_&_rice|dry",
+      "to_product": "briantos|adult_mini_lamb__rice|unknown",
+      "value": 62.99
+    },
+    {
+      "group_key": "briantos|adult mini lamb rice|dry",
+      "products_merged": 2,
+      "winner": "briantos|adult_mini_lamb__rice|unknown",
+      "deleted": [
+        "briantos|briantos_adult_mini_lamb_&_rice|dry"
+      ]
+    },
+    {
+      "group_key": "briantos|adult mobility grainfree chicken potato|dry",
+      "products_merged": 2,
+      "winner": "briantos|briantos_adult_mobility_grain-free_chicken_&_potato|dry",
+      "deleted": [
+        "briantos|adult_mobility_grain-free_chicken__potato|unknown"
+      ]
+    },
+    {
+      "group_key": "briantos|adult salmon rice|dry",
+      "products_merged": 2,
+      "winner": "briantos|briantos_adult_salmon_&_rice|dry",
+      "deleted": [
+        "briantos|adult_salmon__rice|unknown"
+      ]
+    },
+    {
+      "group_key": "briantos|adult sensitive lamb rice|dry",
+      "products_merged": 2,
+      "winner": "briantos|briantos_adult_sensitive_lamb_&_rice|dry",
+      "deleted": [
+        "briantos|adult_sensitive_lamb__rice|unknown"
+      ]
+    },
+    {
+      "group_key": "briantos|maxi adult|dry",
+      "products_merged": 2,
+      "winner": "briantos|briantos_maxi_adult|dry",
+      "deleted": [
+        "briantos|maxi_adult|unknown"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "briantos|briantos_junior|dry",
+      "to_product": "briantos|junior|unknown",
+      "value": 29.99
+    },
+    {
+      "group_key": "briantos|junior|dry",
+      "products_merged": 2,
+      "winner": "briantos|junior|unknown",
+      "deleted": [
+        "briantos|briantos_junior|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "briantos|briantos_senior_grain-free_turkey_&_potato|dry",
+      "to_product": "briantos|senior_grain-free_turkey__potato|unknown",
+      "value": 39.99
+    },
+    {
+      "group_key": "briantos|senior grainfree turkey potato|dry",
+      "products_merged": 2,
+      "winner": "briantos|senior_grain-free_turkey__potato|unknown",
+      "deleted": [
+        "briantos|briantos_senior_grain-free_turkey_&_potato|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "briantos|briantos_adult_active|dry",
+      "to_product": "briantos|adult_active|unknown",
+      "value": 34.99
+    },
+    {
+      "group_key": "briantos|adult active|dry",
+      "products_merged": 2,
+      "winner": "briantos|adult_active|unknown",
+      "deleted": [
+        "briantos|briantos_adult_active|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "burns|burns_puppy_original_-_lamb_&_rice|dry",
+      "to_product": "burns|puppy_original_lamb__rice|dry",
+      "value": 42.49
+    },
+    {
+      "group_key": "burns|puppy original lamb rice|dry",
+      "products_merged": 2,
+      "winner": "burns|puppy_original_lamb__rice|dry",
+      "deleted": [
+        "burns|burns_puppy_original_-_lamb_&_rice|dry"
+      ]
+    },
+    {
+      "group_key": "burns|puppy original chicken rice|dry",
+      "products_merged": 2,
+      "winner": "burns|burns_puppy_original_-_chicken_&_rice|dry",
+      "deleted": [
+        "burns|puppy_original_chicken__rice|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "briantos|briantos_adult_mini_grain-free_salmon_&_potato|dry",
+      "to_product": "briantos|adult_mini_grain-free_salmon__potato|unknown",
+      "value": 76.99
+    },
+    {
+      "group_key": "briantos|adult mini grainfree salmon potato|dry",
+      "products_merged": 2,
+      "winner": "briantos|adult_mini_grain-free_salmon__potato|unknown",
+      "deleted": [
+        "briantos|briantos_adult_mini_grain-free_salmon_&_potato|dry"
+      ]
+    },
+    {
+      "group_key": "canagan|insect|dry",
+      "products_merged": 2,
+      "winner": "canagan|canagan_insect|dry",
+      "deleted": [
+        "canagan|insect|dry"
+      ]
+    },
+    {
+      "group_key": "autarky|delicious chicken|dry",
+      "products_merged": 2,
+      "winner": "autarky|autarky_delicious_chicken|dry",
+      "deleted": [
+        "autarky|delicious_chicken|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_beagle_adult|dry",
+      "to_product": "royal-canin|canin_beagle_adult|dry",
+      "value": 181.99
+    },
+    {
+      "group_key": "royalcanin|beagle adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_beagle_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_beagle_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_tokens",
+      "from_product": "eukanuba|eukanuba_adult_medium_breed_chicken|dry",
+      "to_product": "eukanuba|adult_medium_breed_chicken|dry",
+      "value": [
+        "Dehydrated chicken & turkey",
+        "Maize",
+        "Wheat",
+        "Animal fat",
+        "Sorghum"
+      ]
+    },
+    {
+      "group_key": "eukanuba|adult medium breed chicken|dry",
+      "products_merged": 2,
+      "winner": "eukanuba|adult_medium_breed_chicken|dry",
+      "deleted": [
+        "eukanuba|eukanuba_adult_medium_breed_chicken|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_tokens",
+      "from_product": "eukanuba|adult_large_breed_chicken|dry",
+      "to_product": "eukanuba|eukanuba_adult_large_breed_-_chicken|dry",
+      "value": [
+        "chicken",
+        "rice",
+        "maize",
+        "barley",
+        "animal fat",
+        "dried beet pulp",
+        "minerals",
+        "vitamins"
+      ]
+    },
+    {
+      "group_key": "eukanuba|adult large breed chicken|dry",
+      "products_merged": 2,
+      "winner": "eukanuba|eukanuba_adult_large_breed_-_chicken|dry",
+      "deleted": [
+        "eukanuba|adult_large_breed_chicken|dry"
+      ]
+    },
+    {
+      "group_key": "eukanuba|grain free puppy large breed chicken|dry",
+      "products_merged": 2,
+      "winner": "eukanuba|eukanuba_grain_free_puppy_large_breed_-_chicken|dry",
+      "deleted": [
+        "eukanuba|grain_free_puppy_large_breed_chicken|unknown"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "eukanuba|eukanuba_puppy_large_breed_chicken|dry",
+      "to_product": "eukanuba|puppy_large_breed_chicken|dry",
+      "value": 64.99
+    },
+    {
+      "group_key": "eukanuba|puppy large breed chicken|dry",
+      "products_merged": 2,
+      "winner": "eukanuba|puppy_large_breed_chicken|dry",
+      "deleted": [
+        "eukanuba|eukanuba_puppy_large_breed_chicken|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_labrador_retriever_adult|dry",
+      "to_product": "royal-canin|canin_labrador_retriever_adult|dry",
+      "value": 71.99
+    },
+    {
+      "group_key": "royalcanin|labrador retriever adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_labrador_retriever_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_labrador_retriever_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_maxi_puppy|dry",
+      "to_product": "royal-canin|canin_maxi_puppy|dry",
+      "value": 172.99
+    },
+    {
+      "group_key": "royalcanin|maxi puppy|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_maxi_puppy|dry",
+      "deleted": [
+        "royal-canin|royal_canin_maxi_puppy|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_tokens",
+      "from_product": "orijen|orijen_original|dry",
+      "to_product": "orijen|original|dry",
+      "value": [
+        "Deboned chicken",
+        "Deboned turkey",
+        "Whole eggs",
+        "Whole Atlantic mackerel",
+        "Chicken liver"
+      ]
+    },
+    {
+      "group_key": "orijen|original|dry",
+      "products_merged": 2,
+      "winner": "orijen|original|dry",
+      "deleted": [
+        "orijen|orijen_original|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_cocker_spaniel_adult|dry",
+      "to_product": "royal-canin|canin_cocker_spaniel_adult|dry",
+      "value": 76.49
+    },
+    {
+      "group_key": "royalcanin|cocker spaniel adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_cocker_spaniel_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_cocker_spaniel_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_dalmatian_adult|dry",
+      "to_product": "royal-canin|canin_dalmatian_adult|dry",
+      "value": 90.99
+    },
+    {
+      "group_key": "royalcanin|dalmatian adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_dalmatian_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_dalmatian_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_german_shepherd_adult|dry",
+      "to_product": "royal-canin|canin_german_shepherd_adult|dry",
+      "value": 142.99
+    },
+    {
+      "group_key": "royalcanin|german shepherd adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_german_shepherd_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_german_shepherd_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_pug_adult|dry",
+      "to_product": "royal-canin|canin_pug_adult|dry",
+      "value": 116.99
+    },
+    {
+      "group_key": "royalcanin|pug adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_pug_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_pug_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_shih_tzu_adult|dry",
+      "to_product": "royal-canin|canin_shih_tzu_adult|dry",
+      "value": 69.99
+    },
+    {
+      "group_key": "royalcanin|shih tzu adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_shih_tzu_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_shih_tzu_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_maxi_dermacomfort|dry",
+      "to_product": "royal-canin|canin_maxi_dermacomfort|dry",
+      "value": 95.99
+    },
+    {
+      "group_key": "royalcanin|maxi dermacomfort|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_maxi_dermacomfort|dry",
+      "deleted": [
+        "royal-canin|royal_canin_maxi_dermacomfort|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_maxi_digestive_care|dry",
+      "to_product": "royal-canin|canin_maxi_digestive_care|dry",
+      "value": 187.99
+    },
+    {
+      "group_key": "royalcanin|maxi digestive care|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_maxi_digestive_care|dry",
+      "deleted": [
+        "royal-canin|royal_canin_maxi_digestive_care|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_maxi_joint_care|dry",
+      "to_product": "royal-canin|canin_maxi_joint_care|dry",
+      "value": 144.99
+    },
+    {
+      "group_key": "royalcanin|maxi joint care|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_maxi_joint_care|dry",
+      "deleted": [
+        "royal-canin|royal_canin_maxi_joint_care|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_medium_dermacomfort|dry",
+      "to_product": "royal-canin|canin_medium_dermacomfort|dry",
+      "value": 174.99
+    },
+    {
+      "group_key": "royalcanin|medium dermacomfort|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_medium_dermacomfort|dry",
+      "deleted": [
+        "royal-canin|royal_canin_medium_dermacomfort|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_mini_dermacomfort|dry",
+      "to_product": "royal-canin|canin_mini_dermacomfort|dry",
+      "value": 73.49
+    },
+    {
+      "group_key": "royalcanin|mini dermacomfort|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_mini_dermacomfort|dry",
+      "deleted": [
+        "royal-canin|royal_canin_mini_dermacomfort|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_mini_digestive_care|dry",
+      "to_product": "royal-canin|canin_mini_digestive_care|dry",
+      "value": 27.49
+    },
+    {
+      "group_key": "royalcanin|mini digestive care|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_mini_digestive_care|dry",
+      "deleted": [
+        "royal-canin|royal_canin_mini_digestive_care|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_giant_adult|dry",
+      "to_product": "royal-canin|canin_giant_adult|dry",
+      "value": 152.99
+    },
+    {
+      "group_key": "royalcanin|giant adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_giant_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_giant_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_maxi_adult_5+|dry",
+      "to_product": "royal-canin|canin_maxi_adult_5|dry",
+      "value": 182.99
+    },
+    {
+      "group_key": "royalcanin|maxi adult 5|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_maxi_adult_5|dry",
+      "deleted": [
+        "royal-canin|royal_canin_maxi_adult_5+|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_maxi_adult|dry",
+      "to_product": "royal-canin|canin_maxi_adult|dry",
+      "value": 30.49
+    },
+    {
+      "group_key": "royalcanin|maxi adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_maxi_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_maxi_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_medium_adult|dry",
+      "to_product": "royal-canin|canin_medium_adult|dry",
+      "value": 61.49
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_tokens",
+      "from_product": "royal_canin|royal_canin_medium_adult|dry",
+      "to_product": "royal-canin|canin_medium_adult|dry",
+      "value": [
+        "Dried poultry protein",
+        "Wheat",
+        "Maize meal",
+        "Wheat flour",
+        "Maize"
+      ]
+    },
+    {
+      "group_key": "royalcanin|medium adult|dry",
+      "products_merged": 3,
+      "winner": "royal-canin|canin_medium_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_medium_adult|dry",
+        "royal_canin|royal_canin_medium_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_medium_ageing_10+|dry",
+      "to_product": "royal-canin|canin_medium_ageing_10|dry",
+      "value": 89.99
+    },
+    {
+      "group_key": "royalcanin|medium ageing 10|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_medium_ageing_10|dry",
+      "deleted": [
+        "royal-canin|royal_canin_medium_ageing_10+|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_mini_adult_8+|dry",
+      "to_product": "royal-canin|canin_mini_adult_8|dry",
+      "value": 59.99
+    },
+    {
+      "action": "merged_field",
+      "field": "ingredients_tokens",
+      "from_product": "royal_canin|mini_adult_8+|dry",
+      "to_product": "royal-canin|canin_mini_adult_8|dry",
+      "value": [
+        "Maize",
+        "Rice",
+        "Dehydrated poultry protein",
+        "Animal fats",
+        "Maize flour"
+      ]
+    },
+    {
+      "group_key": "royalcanin|mini adult 8|dry",
+      "products_merged": 3,
+      "winner": "royal-canin|canin_mini_adult_8|dry",
+      "deleted": [
+        "royal-canin|royal_canin_mini_adult_8+|dry",
+        "royal_canin|mini_adult_8+|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_mini_adult|dry",
+      "to_product": "royal-canin|canin_mini_adult|dry",
+      "value": 54.99
+    },
+    {
+      "group_key": "royalcanin|mini adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_mini_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_mini_adult|dry"
+      ]
+    },
+    {
+      "action": "merged_field",
+      "field": "price_per_kg",
+      "from_product": "royal-canin|royal_canin_french_bulldog_adult|dry",
+      "to_product": "royal-canin|canin_french_bulldog_adult|dry",
+      "value": 60.99
+    },
+    {
+      "group_key": "royalcanin|french bulldog adult|dry",
+      "products_merged": 2,
+      "winner": "royal-canin|canin_french_bulldog_adult|dry",
+      "deleted": [
+        "royal-canin|royal_canin_french_bulldog_adult|dry"
+      ]
+    },
+    {
+      "group_key": "autarky|tantalising turkey potato grain free|dry",
+      "products_merged": 2,
+      "winner": "autarky|autarky_tantalising_turkey_&_potato_grain_free|dry",
+      "deleted": [
+        "autarky|tantalising_turkey__potato_grain_free|dry"
+      ]
+    }
+  ],
+  "suspicious_products": [
+    {
+      "brand": "Aatu",
+      "name": "Chicken",
+      "key": "aatu|chicken|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Acana",
+      "name": "Senior",
+      "key": "acana|acana_senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Acana",
+      "name": "Senior",
+      "key": "acana|senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Almo Nature",
+      "name": "HFC",
+      "key": "almo_nature|almo_nature_hfc|wet",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Arkwrights",
+      "name": "Beef",
+      "key": "arkwrights|arkwrights_beef|dry",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Arkwrights",
+      "name": "Chicken",
+      "key": "arkwrights|arkwrights_chicken|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Arkwrights",
+      "name": "Chicken",
+      "key": "arkwrights|chicken|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Benevo",
+      "name": "Puppy",
+      "key": "benevo|puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Biofood",
+      "name": "Puppy",
+      "key": "biofood|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Biofood",
+      "name": "Senior",
+      "key": "biofood|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Bosch",
+      "name": "Senior",
+      "key": "bosch|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Canagan",
+      "name": "Puppy",
+      "key": "canagan|puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Chudleys",
+      "name": "Senior",
+      "key": "chudleys|senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Clinivet",
+      "name": "Puppy",
+      "key": "clinivet|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Cobbydog",
+      "name": "Adult",
+      "key": "cobbydog|adult|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Crave",
+      "name": "Adult",
+      "key": "crave|crave_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Feedwell",
+      "name": "Puppy",
+      "key": "feedwell|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Feedwell",
+      "name": "Mini",
+      "key": "feedwell|mini|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Fitmin For Life",
+      "name": "Adult",
+      "key": "fitmin_for_life|fitmin_for_life_adult|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Gentle",
+      "name": "Fish",
+      "key": "gentle|fish|dry",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Gentle",
+      "name": "Goat",
+      "key": "gentle|goat|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Happy Dog NaturCroq",
+      "name": "Puppy",
+      "key": "happy_dog_naturcroq|happy_dog_naturcroq_puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Happy Dog NaturCroq",
+      "name": "Senior",
+      "key": "happy_dog_naturcroq|happy_dog_naturcroq_senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Happy Dog NaturCroq",
+      "name": "XXL",
+      "key": "happy_dog_naturcroq|happy_dog_naturcroq_xxl|dry",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Bozita",
+      "name": "CHICKEN",
+      "key": "bozita_978cff7c",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Bozita",
+      "name": "LAMB",
+      "key": "bozita_dab1dc48",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Josera",
+      "name": "Kids",
+      "key": "josera|kids|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Kronch",
+      "name": "Main",
+      "key": "kronch|main|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Mac's",
+      "name": "Adult",
+      "key": "macs|mac's_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Natural Instinct",
+      "name": "Lamb",
+      "key": "natural-instinct|instinct_natural_lamb|raw",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Natural Instinct",
+      "name": "Senior",
+      "key": "natural-instinct|instinct_natural_senior|raw",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Natural Instinct",
+      "name": "Puppy",
+      "key": "natural-instinct|instinct_puppy|raw",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Natural Instinct",
+      "name": "Chicken",
+      "key": "natural-instinct|instinct_natural_chicken|raw",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Omni",
+      "name": "Adult",
+      "key": "omni|adult|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Omni",
+      "name": "Puppy",
+      "key": "omni|puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Omni",
+      "name": "Senior",
+      "key": "omni|senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Orijen",
+      "name": "Senior",
+      "key": "orijen|senior|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "PitPat",
+      "name": "Adult",
+      "key": "pitpat|adult|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "PitPat",
+      "name": "Puppy",
+      "key": "pitpat|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "PitPat",
+      "name": "Senior",
+      "key": "pitpat|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "PoochMutt",
+      "name": "Puppy",
+      "key": "poochmutt|puppy|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Pure",
+      "name": "Chicken",
+      "key": "pure|chicken|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Pure",
+      "name": "Duck",
+      "key": "pure|duck|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Pure",
+      "name": "Game",
+      "key": "pure|game|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Pure",
+      "name": "Lamb",
+      "key": "pure|lamb|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Purizon",
+      "name": "Adult",
+      "key": "purizon|purizon_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Rinti",
+      "name": "Adult",
+      "key": "rinti|rinti_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Rocco",
+      "name": "Senior",
+      "key": "rocco|rocco_senior|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Bozita",
+      "name": "Bozita",
+      "key": "bozita_115a8f55",
+      "reason": "name_equals_brand"
+    },
+    {
+      "brand": "SANIMED",
+      "name": "Adult",
+      "key": "sanimed|adult|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "SANIMED",
+      "name": "Puppy",
+      "key": "sanimed|puppy|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "SANIMED",
+      "name": "Senior",
+      "key": "sanimed|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Thrive",
+      "name": "Chicken",
+      "key": "thrive|chicken|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Thrive",
+      "name": "Lamb",
+      "key": "thrive|lamb|unknown",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Tomojo",
+      "name": "Senior",
+      "key": "tomojo|senior|unknown",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Wolf Of Wilderness",
+      "name": "Adult",
+      "key": "wolf-of-wilderness|wolf_of_wilderness_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Wolf Of Wilderness",
+      "name": "Senior",
+      "key": "wolf-of-wilderness|wolf_of_wilderness_senior|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Yarrah Organic",
+      "name": "P\u00e2t\u00e9",
+      "key": "yarrah_organic|yarrah_organic_p\u00e2t\u00e9|wet",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Yarrah Organic",
+      "name": "Puppy",
+      "key": "yarrah_organic|yarrah_organic_puppy|dry",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Hill's Science Plan",
+      "name": "Adult",
+      "key": "hill's_science_plan|hill's_science_plan_adult|wet",
+      "reason": "generic_name"
+    },
+    {
+      "brand": "Rosie's Farm",
+      "name": "Mini",
+      "key": "rosie's_farm|rosie's_farm_mini|wet",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Arkwrights",
+      "name": "Beef",
+      "key": "arkwrights|beef|dry",
+      "reason": "name_too_short"
+    },
+    {
+      "brand": "Bozita Naturals",
+      "name": "Pat\u00e9",
+      "key": "bozita_naturals|bozita_naturals_pat\u00e9|wet",
+      "reason": "name_too_short"
+    }
+  ],
+  "products_to_delete": [
+    {
+      "brand": "Aatu",
+      "name": "Free Run Chicken",
+      "key": "aatu|free_run_chicken|dry"
+    },
+    {
+      "brand": "Aatu",
+      "name": "Free Run Duck",
+      "key": "aatu|free_run_duck|dry"
+    },
+    {
+      "brand": "Aatu",
+      "name": "Free Run Turkey",
+      "key": "aatu|free_run_turkey|dry"
+    },
+    {
+      "brand": "Aatu",
+      "name": "Puppy Salmon",
+      "key": "aatu|puppy_salmon|dry"
+    },
+    {
+      "brand": "Aardvark",
+      "name": "Complete Grain Free Insect Dry Food",
+      "key": "aardvark|complete_grain_free_insect_dry_food|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Grass-Fed Lamb",
+      "key": "acana|grass-fed_lamb|dry"
+    },
+    {
+      "brand": "Aatu",
+      "name": "Salmon",
+      "key": "aatu|salmon|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Highest Protein Pacifica",
+      "key": "acana|highest_protein_pacifica|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Light & fit Recipe",
+      "key": "acana|acana_light_&_fit_recipe|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Light  fit Recipe",
+      "key": "acana|light__fit_recipe|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Prairie Poultry",
+      "key": "acana|prairie_poultry|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Puppy Large Breed Recipe",
+      "key": "acana|puppy_large_breed_recipe|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Puppy Small Breed Recipe",
+      "key": "acana|puppy_small_breed_recipe|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Red Meat",
+      "key": "acana|red_meat|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Senior",
+      "key": "acana|senior|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Free Run Duck",
+      "key": "acana|free_run_duck|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Yorkshire Pork",
+      "key": "acana|yorkshire_pork|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Puppy Recipe",
+      "key": "acana|puppy_recipe|dry"
+    },
+    {
+      "brand": "Acana",
+      "name": "Highest Protein Grasslands",
+      "key": "acana|highest_protein_grasslands|dry"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Adult Chicken  Lamb",
+      "key": "applaws|applaws_adult_chicken__lamb|dry"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Adult Chicken  Lamb",
+      "key": "applaws|adult_chicken__lamb|dry"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Adult Chicken Breast in Broth",
+      "key": "applaws|adult_chicken_breast_in_broth|wet"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Adult Chicken, Beef Liver  Vegetables",
+      "key": "applaws|adult_chicken,_beef_liver__vegetables|wet"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Adult Chicken, Ham  Vegetables",
+      "key": "applaws|adult_chicken,_ham__vegetables|wet"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Adult Chicken, Salmon  Vegetables",
+      "key": "applaws|adult_chicken,_salmon__vegetables|wet"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Adult Chicken, Tuna  Vegetables",
+      "key": "applaws|adult_chicken,_tuna__vegetables|wet"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Adult Chicken",
+      "key": "applaws|adult_chicken|dry"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Adult Large Breed Chicken",
+      "key": "applaws|adult_large_breed_chicken|dry"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Puppy Large Breed Chicken",
+      "key": "applaws|applaws_puppy_large_breed_chicken|dry"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Puppy Large Breed Chicken",
+      "key": "applaws|puppy_large_breed_chicken|dry"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Puppy Chicken",
+      "key": "applaws|puppy_chicken|dry"
+    },
+    {
+      "brand": "Applaws",
+      "name": "Senior Chicken",
+      "key": "applaws|senior_chicken|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Adult Lamb  Rice",
+      "key": "arden|grange_adult_lamb__rice|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Adult Light Chicken  Rice",
+      "key": "arden|grange_adult_light_chicken__rice|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Adult Mini Lamb  Rice",
+      "key": "arden|grange_adult_mini_lamb__rice|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Adult Premium Chicken  Rice",
+      "key": "arden|grange_adult_premium_chicken__rice|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Large Breed",
+      "key": "arden-grange|grange_large_breed|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Partners Chicken, Rice  Veg",
+      "key": "arden|grange_partners_chicken,_rice__veg|wet"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Partners Lamb, Rice  Veg",
+      "key": "arden|grange_partners_lamb,_rice__veg|wet"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Puppy Junior Chicken  Rice",
+      "key": "arden|grange_puppy_junior_chicken__rice|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Puppy Junior Large Breed Chicken  Rice",
+      "key": "arden|grange_puppy_junior_large_breed_chicken__rice|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Senior Chicken  Rice",
+      "key": "arden|grange_senior_chicken__rice|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Adult Chicken  Rice",
+      "key": "arden|grange_adult_chicken__rice|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Adult Prestige Chicken",
+      "key": "arden|grange_adult_prestige_chicken|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Adult Salmon  Rice",
+      "key": "arden|grange_adult_salmon__rice|dry"
+    },
+    {
+      "brand": "Arden Grange",
+      "name": "Sensitive Adult",
+      "key": "arden|grange_sensitive_adult|dry"
+    },
+    {
+      "brand": "Arkwrights",
+      "name": "Beef",
+      "key": "arkwrights|beef|dry"
+    },
+    {
+      "brand": "Arkwrights",
+      "name": "Chicken",
+      "key": "arkwrights|chicken|dry"
+    },
+    {
+      "brand": "Asda",
+      "name": "Hero Chicken Rice  Vegetables",
+      "key": "asda|hero_chicken_rice__vegetables|dry"
+    },
+    {
+      "brand": "Arkwrights",
+      "name": "Sporting Complete with Extra Beef",
+      "key": "arkwrights|sporting_complete_with_extra_beef|dry"
+    },
+    {
+      "brand": "Asda",
+      "name": "Hero Beef  Vegetables",
+      "key": "asda|hero_beef__vegetables|dry"
+    },
+    {
+      "brand": "Asda",
+      "name": "Hero Puppy With Chicken",
+      "key": "asda|hero_puppy_with_chicken|dry"
+    },
+    {
+      "brand": "Asda",
+      "name": "Hero Meaty  Poultry Chunks in Jelly",
+      "key": "asda|hero_meaty__poultry_chunks_in_jelly|wet"
+    },
+    {
+      "brand": "Asda",
+      "name": "Hero Senior Chicken Rice  Veg",
+      "key": "asda|hero_senior_chicken_rice__veg|dry"
+    },
+    {
+      "brand": "Autarky",
+      "name": "Mature Lite Delicious Chicken",
+      "key": "autarky|mature_lite_delicious_chicken|dry"
+    },
+    {
+      "brand": "Autarky",
+      "name": "Grain Free Tasty White Fish",
+      "key": "autarky|grain_free_tasty_white_fish|dry"
+    },
+    {
+      "brand": "Autarky",
+      "name": "Puppy/Junior Delicious Chicken",
+      "key": "autarky|puppy/junior_delicious_chicken|dry"
+    },
+    {
+      "brand": "Autarky",
+      "name": "Succululent Salmon",
+      "key": "autarky|succululent_salmon|dry"
+    },
+    {
+      "brand": "Autarky",
+      "name": "Mature Lite Succulent Salmon",
+      "key": "autarky|mature_lite_succulent_salmon|dry"
+    },
+    {
+      "brand": "Bakers",
+      "name": "Adult Beef  Vegetable",
+      "key": "bakers|adult_beef__vegetable|dry"
+    },
+    {
+      "brand": "Bakers",
+      "name": "Adult Chicken  Vegetable",
+      "key": "bakers|adult_chicken__vegetable|dry"
+    },
+    {
+      "brand": "Bakers",
+      "name": "Adult Meaty Meals Beef",
+      "key": "bakers|adult_meaty_meals_beef|dry"
+    },
+    {
+      "brand": "Belcando",
+      "name": "Finest Croc",
+      "key": "belcando|finest_croc|unknown"
+    },
+    {
+      "brand": "Bosch",
+      "name": "Adult Lamb & Rice",
+      "key": "bosch|bosch_adult_lamb_&_rice|dry"
+    },
+    {
+      "brand": "Bozita",
+      "name": "ORIGINAL ADULT LIGHT",
+      "key": "bozita_8c574464"
+    },
+    {
+      "brand": "Bozita",
+      "name": "ROBUR SENIOR",
+      "key": "bozita_24add541"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Chicken  Rice",
+      "key": "briantos|adult_chicken__rice|unknown"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Grain-Free Lamb & Potato",
+      "key": "briantos|briantos_adult_grain-free_lamb_&_potato|dry"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Grain-Free Salmon  Potato",
+      "key": "briantos|adult_grain-free_salmon__potato|unknown"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Lamb  Rice",
+      "key": "briantos|adult_lamb__rice|unknown"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Light/Sterilised Grain-Free Turkey  Potato",
+      "key": "briantos|adult_light/sterilised_grain-free_turkey__potato|unknown"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Grain-Free Duck  Potato",
+      "key": "briantos|adult_grain-free_duck__potato|unknown"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Light",
+      "key": "briantos|briantos_adult_light|dry"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Mini Lamb & Rice",
+      "key": "briantos|briantos_adult_mini_lamb_&_rice|dry"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Mobility Grain-Free Chicken  Potato",
+      "key": "briantos|adult_mobility_grain-free_chicken__potato|unknown"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Salmon  Rice",
+      "key": "briantos|adult_salmon__rice|unknown"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Sensitive Lamb  Rice",
+      "key": "briantos|adult_sensitive_lamb__rice|unknown"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Maxi Adult",
+      "key": "briantos|maxi_adult|unknown"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Junior",
+      "key": "briantos|briantos_junior|dry"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Senior Grain-Free Turkey & Potato",
+      "key": "briantos|briantos_senior_grain-free_turkey_&_potato|dry"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Active",
+      "key": "briantos|briantos_adult_active|dry"
+    },
+    {
+      "brand": "Burns",
+      "name": "Puppy Original - Lamb & Rice",
+      "key": "burns|burns_puppy_original_-_lamb_&_rice|dry"
+    },
+    {
+      "brand": "Burns",
+      "name": "Puppy Original Chicken  Rice",
+      "key": "burns|puppy_original_chicken__rice|dry"
+    },
+    {
+      "brand": "Briantos",
+      "name": "Adult Mini Grain-Free Salmon & Potato",
+      "key": "briantos|briantos_adult_mini_grain-free_salmon_&_potato|dry"
+    },
+    {
+      "brand": "Canagan",
+      "name": "Insect",
+      "key": "canagan|insect|dry"
+    },
+    {
+      "brand": "Autarky",
+      "name": "Delicious Chicken",
+      "key": "autarky|delicious_chicken|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Beagle Adult",
+      "key": "royal-canin|royal_canin_beagle_adult|dry"
+    },
+    {
+      "brand": "Eukanuba",
+      "name": "Adult Medium Breed Chicken",
+      "key": "eukanuba|eukanuba_adult_medium_breed_chicken|dry"
+    },
+    {
+      "brand": "Eukanuba",
+      "name": "Adult Large Breed Chicken",
+      "key": "eukanuba|adult_large_breed_chicken|dry"
+    },
+    {
+      "brand": "Eukanuba",
+      "name": "Grain Free Puppy Large Breed Chicken",
+      "key": "eukanuba|grain_free_puppy_large_breed_chicken|unknown"
+    },
+    {
+      "brand": "Eukanuba",
+      "name": "Puppy Large Breed Chicken",
+      "key": "eukanuba|eukanuba_puppy_large_breed_chicken|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Labrador Retriever Adult",
+      "key": "royal-canin|royal_canin_labrador_retriever_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Maxi Puppy",
+      "key": "royal-canin|royal_canin_maxi_puppy|dry"
+    },
+    {
+      "brand": "Orijen",
+      "name": "Original",
+      "key": "orijen|orijen_original|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Cocker Spaniel Adult",
+      "key": "royal-canin|royal_canin_cocker_spaniel_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Dalmatian Adult",
+      "key": "royal-canin|royal_canin_dalmatian_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "German Shepherd Adult",
+      "key": "royal-canin|royal_canin_german_shepherd_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Pug Adult",
+      "key": "royal-canin|royal_canin_pug_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Shih Tzu Adult",
+      "key": "royal-canin|royal_canin_shih_tzu_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Maxi Dermacomfort",
+      "key": "royal-canin|royal_canin_maxi_dermacomfort|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Maxi Digestive Care",
+      "key": "royal-canin|royal_canin_maxi_digestive_care|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Maxi Joint Care",
+      "key": "royal-canin|royal_canin_maxi_joint_care|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Medium Dermacomfort",
+      "key": "royal-canin|royal_canin_medium_dermacomfort|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Mini Dermacomfort",
+      "key": "royal-canin|royal_canin_mini_dermacomfort|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Mini Digestive Care",
+      "key": "royal-canin|royal_canin_mini_digestive_care|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Giant Adult",
+      "key": "royal-canin|royal_canin_giant_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Maxi Adult 5+",
+      "key": "royal-canin|royal_canin_maxi_adult_5+|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Maxi Adult",
+      "key": "royal-canin|royal_canin_maxi_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Medium Adult",
+      "key": "royal-canin|royal_canin_medium_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Medium Adult",
+      "key": "royal_canin|royal_canin_medium_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Medium Ageing 10+",
+      "key": "royal-canin|royal_canin_medium_ageing_10+|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Mini Adult 8+",
+      "key": "royal-canin|royal_canin_mini_adult_8+|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Mini Adult 8+",
+      "key": "royal_canin|mini_adult_8+|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "Mini Adult",
+      "key": "royal-canin|royal_canin_mini_adult|dry"
+    },
+    {
+      "brand": "Royal Canin",
+      "name": "French Bulldog Adult",
+      "key": "royal-canin|royal_canin_french_bulldog_adult|dry"
+    },
+    {
+      "brand": "Autarky",
+      "name": "Tantalising Turkey  Potato Grain Free",
+      "key": "autarky|tantalising_turkey__potato_grain_free|dry"
+    }
+  ]
+}

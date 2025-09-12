@@ -1,0 +1,3122 @@
+{
+  "summary": {
+    "benchmark_brands": 279,
+    "database_brands": 386,
+    "matching_brands": 147,
+    "total_issues": 522
+  },
+  "issues": {
+    "not_in_benchmark": [
+      {
+        "brand": "4PAWS",
+        "count": 6
+      },
+      {
+        "brand": "4PAWSRAW",
+        "count": 11
+      },
+      {
+        "brand": "Angell",
+        "count": 5
+      },
+      {
+        "brand": "Aardvark",
+        "count": 2
+      },
+      {
+        "brand": "DOGGY Dog",
+        "count": 3
+      },
+      {
+        "brand": "Ami",
+        "count": 6
+      },
+      {
+        "brand": "Advance Veterinary Diets",
+        "count": 26
+      },
+      {
+        "brand": "Bounce",
+        "count": 20
+      },
+      {
+        "brand": "Advance",
+        "count": 29
+      },
+      {
+        "brand": "Affinity",
+        "count": 7
+      },
+      {
+        "brand": "Aflora",
+        "count": 9
+      },
+      {
+        "brand": "Aldi",
+        "count": 15
+      },
+      {
+        "brand": "Algoods",
+        "count": 1
+      },
+      {
+        "brand": "Bozita",
+        "count": 34
+      },
+      {
+        "brand": "Almo",
+        "count": 3
+      },
+      {
+        "brand": "Ambrosia",
+        "count": 18
+      },
+      {
+        "brand": "Antelope",
+        "count": 4
+      },
+      {
+        "brand": "Arion",
+        "count": 26
+      },
+      {
+        "brand": "Arquivet",
+        "count": 7
+      },
+      {
+        "brand": "Auchan",
+        "count": 1
+      },
+      {
+        "brand": "Barfgold",
+        "count": 1
+      },
+      {
+        "brand": "Sm\u00f8lke",
+        "count": 27
+      },
+      {
+        "brand": "Beanfields",
+        "count": 5
+      },
+      {
+        "brand": "Bear",
+        "count": 7
+      },
+      {
+        "brand": "Beneful",
+        "count": 4
+      },
+      {
+        "brand": "Benyfit",
+        "count": 14
+      },
+      {
+        "brand": "BETTY",
+        "count": 23
+      },
+      {
+        "brand": "Bewi Dog",
+        "count": 1
+      },
+      {
+        "brand": "BIG",
+        "count": 6
+      },
+      {
+        "brand": "Billy",
+        "count": 10
+      },
+      {
+        "brand": "Biofood",
+        "count": 18
+      },
+      {
+        "brand": "Bob",
+        "count": 1
+      },
+      {
+        "brand": "Borders",
+        "count": 28
+      },
+      {
+        "brand": "Purina",
+        "count": 49
+      },
+      {
+        "brand": "Brekkies",
+        "count": 2
+      },
+      {
+        "brand": "Brigadiers",
+        "count": 9
+      },
+      {
+        "brand": "Brit Care",
+        "count": 1
+      },
+      {
+        "brand": "Dachshund",
+        "count": 10
+      },
+      {
+        "brand": "Browns",
+        "count": 14
+      },
+      {
+        "brand": "Fur",
+        "count": 13
+      },
+      {
+        "brand": "BugsForPets",
+        "count": 3
+      },
+      {
+        "brand": "Bug",
+        "count": 3
+      },
+      {
+        "brand": "BugBell",
+        "count": 6
+      },
+      {
+        "brand": "Canine",
+        "count": 11
+      },
+      {
+        "brand": "Carrefour",
+        "count": 1
+      },
+      {
+        "brand": "Cavom",
+        "count": 1
+      },
+      {
+        "brand": "Chapel",
+        "count": 5
+      },
+      {
+        "brand": "Ci",
+        "count": 15
+      },
+      {
+        "brand": "Clydach",
+        "count": 10
+      },
+      {
+        "brand": "Green",
+        "count": 8
+      },
+      {
+        "brand": "Concept for Life Veterinary Diet",
+        "count": 8
+      },
+      {
+        "brand": "Concept",
+        "count": 11
+      },
+      {
+        "brand": "CookHouse",
+        "count": 4
+      },
+      {
+        "brand": "Growling",
+        "count": 27
+      },
+      {
+        "brand": "Cooper",
+        "count": 9
+      },
+      {
+        "brand": "Copdock",
+        "count": 1
+      },
+      {
+        "brand": "Country",
+        "count": 21
+      },
+      {
+        "brand": "Lakes Heritage",
+        "count": 38
+      },
+      {
+        "brand": "CricksyDog",
+        "count": 2
+      },
+      {
+        "brand": "Davies",
+        "count": 3
+      },
+      {
+        "brand": "Devoted",
+        "count": 4
+      },
+      {
+        "brand": "Diamond",
+        "count": 3
+      },
+      {
+        "brand": "Dog",
+        "count": 7
+      },
+      {
+        "brand": "Dinky",
+        "count": 6
+      },
+      {
+        "brand": "Dog Treats",
+        "count": 1
+      },
+      {
+        "brand": "DOGHOUSE",
+        "count": 13
+      },
+      {
+        "brand": "Dougies",
+        "count": 3
+      },
+      {
+        "brand": "Dogs'n Tiger",
+        "count": 2
+      },
+      {
+        "brand": "Dr",
+        "count": 20
+      },
+      {
+        "brand": "Dr.",
+        "count": 19
+      },
+      {
+        "brand": "Dragonfly",
+        "count": 20
+      },
+      {
+        "brand": "Eat",
+        "count": 6
+      },
+      {
+        "brand": "Edgard",
+        "count": 26
+      },
+      {
+        "brand": "Eukanuba Veterinary Diet",
+        "count": 3
+      },
+      {
+        "brand": "Warley's",
+        "count": 47
+      },
+      {
+        "brand": "Go",
+        "count": 8
+      },
+      {
+        "brand": "Exe",
+        "count": 17
+      },
+      {
+        "brand": "Greenwoods",
+        "count": 14
+      },
+      {
+        "brand": "Yorkshire Valley Farms",
+        "count": 42
+      },
+      {
+        "brand": "Ferguson",
+        "count": 10
+      },
+      {
+        "brand": "Fish",
+        "count": 18
+      },
+      {
+        "brand": "FIDELIS",
+        "count": 6
+      },
+      {
+        "brand": "FitActive",
+        "count": 11
+      },
+      {
+        "brand": "Fitmin For Life",
+        "count": 1
+      },
+      {
+        "brand": "Fitmin",
+        "count": 3
+      },
+      {
+        "brand": "Fokker",
+        "count": 3
+      },
+      {
+        "brand": "Fressnapf MultiFit",
+        "count": 1
+      },
+      {
+        "brand": "Friskies",
+        "count": 1
+      },
+      {
+        "brand": "Frostfutter Perleberg",
+        "count": 1
+      },
+      {
+        "brand": "Fuzzball",
+        "count": 1
+      },
+      {
+        "brand": "Gilpa",
+        "count": 2
+      },
+      {
+        "brand": "Good",
+        "count": 4
+      },
+      {
+        "brand": "GranataPet",
+        "count": 11
+      },
+      {
+        "brand": "Grub",
+        "count": 4
+      },
+      {
+        "brand": "Happy Dog NaturCroq",
+        "count": 12
+      },
+      {
+        "brand": "Happy Dog Supreme",
+        "count": 27
+      },
+      {
+        "brand": "HARLEY",
+        "count": 4
+      },
+      {
+        "brand": "Harrier",
+        "count": 28
+      },
+      {
+        "brand": "Haustierkost",
+        "count": 1
+      },
+      {
+        "brand": "Hawthorn",
+        "count": 6
+      },
+      {
+        "brand": "Healthy",
+        "count": 2
+      },
+      {
+        "brand": "Heights",
+        "count": 11
+      },
+      {
+        "brand": "Herbie",
+        "count": 1
+      },
+      {
+        "brand": "bozita",
+        "count": 53
+      },
+      {
+        "brand": "Hills",
+        "count": 37
+      },
+      {
+        "brand": "Hunters",
+        "count": 11
+      },
+      {
+        "brand": "InsectDog",
+        "count": 5
+      },
+      {
+        "brand": "Integra Protect",
+        "count": 3
+      },
+      {
+        "brand": "Jack Super Premium",
+        "count": 1
+      },
+      {
+        "brand": "Jarco",
+        "count": 1
+      },
+      {
+        "brand": "Jollyes",
+        "count": 33
+      },
+      {
+        "brand": "Just",
+        "count": 1
+      },
+      {
+        "brand": "K9",
+        "count": 5
+      },
+      {
+        "brand": "Kennelpak",
+        "count": 1
+      },
+      {
+        "brand": "KIVO",
+        "count": 10
+      },
+      {
+        "brand": "Lidl Orlando",
+        "count": 1
+      },
+      {
+        "brand": "Lidl",
+        "count": 8
+      },
+      {
+        "brand": "Little",
+        "count": 6
+      },
+      {
+        "brand": "Luvdogz",
+        "count": 34
+      },
+      {
+        "brand": "Markus",
+        "count": 7
+      },
+      {
+        "brand": "Masters",
+        "count": 8
+      },
+      {
+        "brand": "mera",
+        "count": 11
+      },
+      {
+        "brand": "Miraculous",
+        "count": 3
+      },
+      {
+        "brand": "Monge",
+        "count": 1
+      },
+      {
+        "brand": "Montys",
+        "count": 4
+      },
+      {
+        "brand": "Nadur",
+        "count": 8
+      },
+      {
+        "brand": "Natural Trainer",
+        "count": 1
+      },
+      {
+        "brand": "Naturavetal",
+        "count": 19
+      },
+      {
+        "brand": "Nova Foods Natural Trainer",
+        "count": 26
+      },
+      {
+        "brand": "nuevo",
+        "count": 6
+      },
+      {
+        "brand": "Nutriplus",
+        "count": 3
+      },
+      {
+        "brand": "Oscar",
+        "count": 19
+      },
+      {
+        "brand": "Panzi Fit Active",
+        "count": 5
+      },
+      {
+        "brand": "Pascoes",
+        "count": 5
+      },
+      {
+        "brand": "Paul",
+        "count": 6
+      },
+      {
+        "brand": "Paw",
+        "count": 2
+      },
+      {
+        "brand": "PawFect",
+        "count": 3
+      },
+      {
+        "brand": "Paws",
+        "count": 4
+      },
+      {
+        "brand": "Perfect Fit",
+        "count": 3
+      },
+      {
+        "brand": "Pet",
+        "count": 14
+      },
+      {
+        "brand": "Petkult",
+        "count": 1
+      },
+      {
+        "brand": "Planet",
+        "count": 6
+      },
+      {
+        "brand": "Profine",
+        "count": 1
+      },
+      {
+        "brand": "Pure",
+        "count": 13
+      },
+      {
+        "brand": "PURINA Dog Chow",
+        "count": 10
+      },
+      {
+        "brand": "Purina One",
+        "count": 8
+      },
+      {
+        "brand": "Ramsay",
+        "count": 13
+      },
+      {
+        "brand": "Rebel Belle",
+        "count": 1
+      },
+      {
+        "brand": "Red",
+        "count": 12
+      },
+      {
+        "brand": "REGALE",
+        "count": 6
+      },
+      {
+        "brand": "Rivas",
+        "count": 3
+      },
+      {
+        "brand": "Rosies",
+        "count": 10
+      },
+      {
+        "brand": "SANIMED",
+        "count": 4
+      },
+      {
+        "brand": "Sausage",
+        "count": 25
+      },
+      {
+        "brand": "Pet-Ever",
+        "count": 3
+      },
+      {
+        "brand": "Schesir",
+        "count": 13
+      },
+      {
+        "brand": "Scrumpf",
+        "count": 1
+      },
+      {
+        "brand": "Seberus",
+        "count": 1
+      },
+      {
+        "brand": "Sheba",
+        "count": 1
+      },
+      {
+        "brand": "Simpsons Premium",
+        "count": 5
+      },
+      {
+        "brand": "Select Gold (Fressnapf)",
+        "count": 1
+      },
+      {
+        "brand": "Skylos",
+        "count": 16
+      },
+      {
+        "brand": "Sneyds",
+        "count": 1
+      },
+      {
+        "brand": "Southend",
+        "count": 6
+      },
+      {
+        "brand": "Specific Veterinary Diet",
+        "count": 7
+      },
+      {
+        "brand": "Step",
+        "count": 12
+      },
+      {
+        "brand": "Tackenberg",
+        "count": 1
+      },
+      {
+        "brand": "Tails",
+        "count": 23
+      },
+      {
+        "brand": "Taste",
+        "count": 12
+      },
+      {
+        "brand": "Terra",
+        "count": 5
+      },
+      {
+        "brand": "The",
+        "count": 76
+      },
+      {
+        "brand": "Tilly",
+        "count": 11
+      },
+      {
+        "brand": "Tomojo",
+        "count": 4
+      },
+      {
+        "brand": "Trophy",
+        "count": 11
+      },
+      {
+        "brand": "TropiDog",
+        "count": 6
+      },
+      {
+        "brand": "Trovet",
+        "count": 2
+      },
+      {
+        "brand": "Ultima",
+        "count": 10
+      },
+      {
+        "brand": "Vale",
+        "count": 5
+      },
+      {
+        "brand": "VegDog",
+        "count": 1
+      },
+      {
+        "brand": "Vetality",
+        "count": 4
+      },
+      {
+        "brand": "V-Dog",
+        "count": 2
+      },
+      {
+        "brand": "Vets",
+        "count": 10
+      },
+      {
+        "brand": "Virbac Vetcomplex",
+        "count": 5
+      },
+      {
+        "brand": "Virbac Veterinary HPM",
+        "count": 1
+      },
+      {
+        "brand": "Walker",
+        "count": 14
+      },
+      {
+        "brand": "Websters",
+        "count": 20
+      },
+      {
+        "brand": "Werewolf",
+        "count": 9
+      },
+      {
+        "brand": "Wiejska Zagroda",
+        "count": 2
+      },
+      {
+        "brand": "Wild",
+        "count": 9
+      },
+      {
+        "brand": "Tesco / Butcher\u2019s",
+        "count": 1
+      },
+      {
+        "brand": "Wolf",
+        "count": 14
+      },
+      {
+        "brand": "Wolfs",
+        "count": 4
+      },
+      {
+        "brand": "Woodbury",
+        "count": 2
+      },
+      {
+        "brand": "Working",
+        "count": 19
+      },
+      {
+        "brand": "Yarrah Organic",
+        "count": 11
+      },
+      {
+        "brand": "Zealandia",
+        "count": 11
+      },
+      {
+        "brand": "ZIWI",
+        "count": 14
+      },
+      {
+        "brand": "Farmina N&D",
+        "count": 34
+      },
+      {
+        "brand": "Purina Pro Plan Veterinary Diets",
+        "count": 10
+      },
+      {
+        "brand": "JULIUS-K9",
+        "count": 9
+      },
+      {
+        "brand": "R.O.R",
+        "count": 7
+      },
+      {
+        "brand": "My Friend+",
+        "count": 2
+      },
+      {
+        "brand": "Pan Mi\u0119sko",
+        "count": 2
+      },
+      {
+        "brand": "Sam\u2019s Field",
+        "count": 1
+      },
+      {
+        "brand": "Growth & Performance",
+        "count": 1
+      },
+      {
+        "brand": "Herrmann's",
+        "count": 1
+      },
+      {
+        "brand": "Kaufland (K-Classic)",
+        "count": 1
+      },
+      {
+        "brand": "Purina Veterinary Diets",
+        "count": 1
+      },
+      {
+        "brand": "Specific (Dechra)",
+        "count": 1
+      },
+      {
+        "brand": "Bozita Naturals",
+        "count": 1
+      },
+      {
+        "brand": "Dingo",
+        "count": 1
+      }
+    ],
+    "case_mismatch": [
+      {
+        "current": "Wolf of Wilderness",
+        "correct": "Wolf Of Wilderness",
+        "count": 58
+      }
+    ],
+    "special_char_mismatch": [
+      {
+        "current": "Nature's Menu",
+        "suggested": "Natures Menu",
+        "count": 87
+      },
+      {
+        "current": "Butcher's",
+        "suggested": "Butchers",
+        "count": 2
+      },
+      {
+        "current": "R.O.R",
+        "suggested": "ROR",
+        "count": 7
+      }
+    ],
+    "product_name_mismatch": [
+      {
+        "product_key": "aatu|aatu_free_run_chicken|dry",
+        "assigned_brand": "Aatu",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Aatu Free Run Chicken"
+      },
+      {
+        "product_key": "aatu|aatu_free_run_duck|dry",
+        "assigned_brand": "Aatu",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Aatu Free Run Duck"
+      },
+      {
+        "product_key": "aatu|aatu_free_run_turkey|dry",
+        "assigned_brand": "Aatu",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Aatu Free Run Turkey"
+      },
+      {
+        "product_key": "acana|acana_free_run_duck|dry",
+        "assigned_brand": "Acana",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Acana Free Run Duck"
+      },
+      {
+        "product_key": "aatu|free_run_duck|dry",
+        "assigned_brand": "Aatu",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Free Run Duck"
+      },
+      {
+        "product_key": "aatu|free_run_turkey|dry",
+        "assigned_brand": "Aatu",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Free Run Turkey"
+      },
+      {
+        "product_key": "acana|free_run_duck|dry",
+        "assigned_brand": "Acana",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Free Run Duck"
+      },
+      {
+        "product_key": "aldi|earls_beef_in_gravy|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls Beef in Gravy"
+      },
+      {
+        "product_key": "aldi|earls_with_chicken__vegetables|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls With Chicken  Vegetables"
+      },
+      {
+        "product_key": "aldi|earls_worker_dog_with_chicken__vegetables|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls Worker Dog with Chicken  Vegetables"
+      },
+      {
+        "product_key": "aldi|earls_moist__meaty_chunks_with_chicken|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls Moist  Meaty Chunks with Chicken"
+      },
+      {
+        "product_key": "aldi|earls_tender_pate_with_beef__liver|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls Tender Pate with Beef  Liver"
+      },
+      {
+        "product_key": "aldi|earls_tender_pate_with_beef|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls Tender Pate with Beef"
+      },
+      {
+        "product_key": "aldi|earls_tender_pate_with_lamb|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls Tender Pate with Lamb"
+      },
+      {
+        "product_key": "aldi|earls_tender_pate_with_turkey__lamb|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls Tender Pate With Turkey  Lamb"
+      },
+      {
+        "product_key": "aldi|earls_with_beef_in_jelly|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls with Beef in Jelly"
+      },
+      {
+        "product_key": "aldi|earls_with_chicken_in_jelly|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls with Chicken in Jelly"
+      },
+      {
+        "product_key": "alpha|spirit_orygo_puppy_salmon__sweet_potato|unknown",
+        "assigned_brand": "Alpha",
+        "brands_in_name": [
+          "Orygo"
+        ],
+        "product_name": "Spirit Orygo Puppy Salmon  Sweet Potato"
+      },
+      {
+        "product_key": "alpha|spirit_orygo_fresh_pork_with_broccoli|unknown",
+        "assigned_brand": "Alpha",
+        "brands_in_name": [
+          "Orygo"
+        ],
+        "product_name": "Spirit Orygo Fresh Pork with Broccoli"
+      },
+      {
+        "product_key": "alpha|spirit_orygo_fresh_salmon_with_blueberry|unknown",
+        "assigned_brand": "Alpha",
+        "brands_in_name": [
+          "Orygo"
+        ],
+        "product_name": "Spirit Orygo Fresh Salmon with Blueberry"
+      },
+      {
+        "product_key": "alpha|spirit_orygo_fresh_turkey_with_pumpkin|unknown",
+        "assigned_brand": "Alpha",
+        "brands_in_name": [
+          "Orygo"
+        ],
+        "product_name": "Spirit Orygo Fresh Turkey with Pumpkin"
+      },
+      {
+        "product_key": "alpha|spirit_orygo_pork_pate_with_broccoli|unknown",
+        "assigned_brand": "Alpha",
+        "brands_in_name": [
+          "Orygo"
+        ],
+        "product_name": "Spirit Orygo Pork Pate with Broccoli"
+      },
+      {
+        "product_key": "alpha|spirit_orygo_senior_chicken_with_legumes|unknown",
+        "assigned_brand": "Alpha",
+        "brands_in_name": [
+          "Orygo"
+        ],
+        "product_name": "Spirit Orygo Senior Chicken with Legumes"
+      },
+      {
+        "product_key": "alpha|spirit_orygo_turkey_pate_with_pumpkin|unknown",
+        "assigned_brand": "Alpha",
+        "brands_in_name": [
+          "Orygo"
+        ],
+        "product_name": "Spirit Orygo Turkey Pate with Pumpkin"
+      },
+      {
+        "product_key": "amazon|lifelong_chicken__rice_medium_and_large_breeds|unknown",
+        "assigned_brand": "Amazon",
+        "brands_in_name": [
+          "Lifelong"
+        ],
+        "product_name": "Lifelong Chicken  Rice Medium and Large Breeds"
+      },
+      {
+        "product_key": "amazon|lifelong_chicken__rice_small_breed|unknown",
+        "assigned_brand": "Amazon",
+        "brands_in_name": [
+          "Lifelong"
+        ],
+        "product_name": "Lifelong Chicken  Rice Small Breed"
+      },
+      {
+        "product_key": "amazon|lifelong_salmon__rice_medium_and_large_breed|unknown",
+        "assigned_brand": "Amazon",
+        "brands_in_name": [
+          "Lifelong"
+        ],
+        "product_name": "Lifelong Salmon  Rice Medium and Large Breed"
+      },
+      {
+        "product_key": "amazon|lifelong_small_breed_salmon__rice|unknown",
+        "assigned_brand": "Amazon",
+        "brands_in_name": [
+          "Lifelong"
+        ],
+        "product_name": "Lifelong Small Breed Salmon  Rice"
+      },
+      {
+        "product_key": "amazon|lifelong_grain_free_senior_with_fresh_chicken|unknown",
+        "assigned_brand": "Amazon",
+        "brands_in_name": [
+          "Lifelong"
+        ],
+        "product_name": "Lifelong Grain Free Senior with Fresh Chicken"
+      },
+      {
+        "product_key": "barking|heads_all_hounder_golden_years|unknown",
+        "assigned_brand": "Barking Heads",
+        "brands_in_name": [
+          "Years"
+        ],
+        "product_name": "Heads All Hounder Golden Years"
+      },
+      {
+        "product_key": "barking|heads_big_foot_golden_years|unknown",
+        "assigned_brand": "Barking Heads",
+        "brands_in_name": [
+          "Years"
+        ],
+        "product_name": "Heads Big Foot Golden Years"
+      },
+      {
+        "product_key": "barking|heads_golden_years_wet|wet",
+        "assigned_brand": "Barking Heads",
+        "brands_in_name": [
+          "Years"
+        ],
+        "product_name": "Heads Golden Years Wet"
+      },
+      {
+        "product_key": "beneful|beneful_happy_years_7+|dry",
+        "assigned_brand": "Beneful",
+        "brands_in_name": [
+          "Years"
+        ],
+        "product_name": "Beneful Happy Years 7+"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_adult_large_adult_robust_lamb_&_rice_sensitive_digestion|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Adult Large Adult Robust Lamb & Rice Sensiti"
+      },
+      {
+        "product_key": "browns|natural_pet_store_saygrace_grain_free_adult_gentle_haddock|unknown",
+        "assigned_brand": "Browns",
+        "brands_in_name": [
+          "Gentle"
+        ],
+        "product_name": "Natural Pet Store SayGrace Grain Free Adult Gentle Haddock"
+      },
+      {
+        "product_key": "browns|natural_pet_store_saygrace_grain_free_working_puppy_gentle_chicken_with_salmon|unknown",
+        "assigned_brand": "Browns",
+        "brands_in_name": [
+          "Gentle"
+        ],
+        "product_name": "Natural Pet Store SayGrace Grain Free Working Puppy Gentle C"
+      },
+      {
+        "product_key": "butchers|simply_gentle|unknown",
+        "assigned_brand": "Butchers",
+        "brands_in_name": [
+          "Gentle"
+        ],
+        "product_name": "Simply Gentle"
+      },
+      {
+        "product_key": "canagan|free_run_chicken|wet",
+        "assigned_brand": "Canagan",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Free Run Chicken"
+      },
+      {
+        "product_key": "james-wellbeloved|ella_cold_pressed_free_run_chicken|unknown",
+        "assigned_brand": "James Wellbeloved",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Ella Cold Pressed Free Run Chicken"
+      },
+      {
+        "product_key": "dog_treats|coya_adult_dog_topper|dry",
+        "assigned_brand": "Dog Treats",
+        "brands_in_name": [
+          "Coya"
+        ],
+        "product_name": "Coya Adult Dog Topper"
+      },
+      {
+        "product_key": "dougies|run_free_chicken_cold_pressed|unknown",
+        "assigned_brand": "Dougies",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Run Free Chicken Cold Pressed"
+      },
+      {
+        "product_key": "natures-menu|menu_raw_boost_with_pork__lamb|raw",
+        "assigned_brand": "Nature's Menu",
+        "brands_in_name": [
+          "Boost"
+        ],
+        "product_name": "Menu Raw Boost with Pork  Lamb"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_border_terrier|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Border Terrier"
+      },
+      {
+        "product_key": "edgard|cooper_fresh_atlantic_salmon__free_run_turkey_for_puppies|unknown",
+        "assigned_brand": "Edgard",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Cooper Fresh Atlantic Salmon  Free Run Turkey For Puppies"
+      },
+      {
+        "product_key": "edgard|cooper_fresh_free_run_chicken__norwegian_salmon|unknown",
+        "assigned_brand": "Edgard",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Cooper Fresh Free Run Chicken  Norwegian Salmon"
+      },
+      {
+        "product_key": "edgard|cooper_fresh_free_run_duck__chicken_for_puppies|dry",
+        "assigned_brand": "Edgard",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Cooper Fresh Free Run Duck  Chicken For Puppies"
+      },
+      {
+        "product_key": "edgard|cooper_fresh_venison__free_run_duck|dry",
+        "assigned_brand": "Edgard",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Cooper Fresh Venison  Free Run Duck"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_chicken_pate|wet",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Chicken Pate"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_french_bulldog_pate|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health French Bulldog P"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_healthy_heart|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Healthy Heart"
+      },
+      {
+        "product_key": "exe|valley_essential_range_adult_lamb|unknown",
+        "assigned_brand": "Exe",
+        "brands_in_name": [
+          "Essential"
+        ],
+        "product_name": "Valley Essential Range Adult Lamb"
+      },
+      {
+        "product_key": "exe|valley_essential_range_adult_large_breed_chicken|unknown",
+        "assigned_brand": "Exe",
+        "brands_in_name": [
+          "Essential"
+        ],
+        "product_name": "Valley Essential Range Adult Large Breed Chicken"
+      },
+      {
+        "product_key": "exe|valley_essential_range_adult_salmon|unknown",
+        "assigned_brand": "Exe",
+        "brands_in_name": [
+          "Essential"
+        ],
+        "product_name": "Valley Essential Range Adult Salmon"
+      },
+      {
+        "product_key": "exe|valley_essential_range_adult_turkey|unknown",
+        "assigned_brand": "Exe",
+        "brands_in_name": [
+          "Essential"
+        ],
+        "product_name": "Valley Essential Range Adult Turkey"
+      },
+      {
+        "product_key": "exe|valley_essential_range_puppy_turkey|unknown",
+        "assigned_brand": "Exe",
+        "brands_in_name": [
+          "Essential"
+        ],
+        "product_name": "Valley Essential Range Puppy Turkey"
+      },
+      {
+        "product_key": "exe|valley_essential_range_senior_chicken|unknown",
+        "assigned_brand": "Exe",
+        "brands_in_name": [
+          "Essential"
+        ],
+        "product_name": "Valley Essential Range Senior Chicken"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_heath_adult_small_breed_chicken|dry",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Heath Adult Small Bre"
+      },
+      {
+        "product_key": "advance|iams_advanced_nutrition_adult_large_dog_-_lamb|dry",
+        "assigned_brand": "Advance",
+        "brands_in_name": [
+          "Iams"
+        ],
+        "product_name": "IAMS Advanced Nutrition Adult Large Dog - Lamb"
+      },
+      {
+        "product_key": "integra_protect|animonda_integra_protect_adult_dog_sensitive|dry",
+        "assigned_brand": "Integra Protect",
+        "brands_in_name": [
+          "Animonda"
+        ],
+        "product_name": "animonda Integra Protect Adult Dog Sensitive"
+      },
+      {
+        "product_key": "advance|iams_advanced_nutrition_senior_small_&_medium_dog_8+_with_chicken|dry",
+        "assigned_brand": "Advance",
+        "brands_in_name": [
+          "Iams"
+        ],
+        "product_name": "IAMS Advanced Nutrition Senior Small & Medium Dog 8+ with Ch"
+      },
+      {
+        "product_key": "advance|iams_advanced_nutrition_sensitive_digestion_with_turkey|dry",
+        "assigned_brand": "Advance",
+        "brands_in_name": [
+          "Iams"
+        ],
+        "product_name": "IAMS Advanced Nutrition Sensitive Digestion with Turkey"
+      },
+      {
+        "product_key": "advance|iams_advanced_nutrition_weight_control_-_chicken|dry",
+        "assigned_brand": "Advance",
+        "brands_in_name": [
+          "Iams"
+        ],
+        "product_name": "IAMS Advanced Nutrition Weight Control - Chicken"
+      },
+      {
+        "product_key": "integra_protect|animonda_integra_protect_dog_renal|wet",
+        "assigned_brand": "Integra Protect",
+        "brands_in_name": [
+          "Animonda"
+        ],
+        "product_name": "animonda Integra Protect Dog Renal"
+      },
+      {
+        "product_key": "integra_protect|animonda_integra_protect_dry_dog_food_+_wet_dog_food_-_bundle_price!_*|dry",
+        "assigned_brand": "Integra Protect",
+        "brands_in_name": [
+          "Animonda"
+        ],
+        "product_name": "Animonda Integra Protect Dry Dog Food + Wet Dog Food - Bundl"
+      },
+      {
+        "product_key": "james-wellbeloved|ella_freeze_dried_raw_free_run_chicken|raw",
+        "assigned_brand": "James Wellbeloved",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Ella Freeze Dried Raw Free Run Chicken"
+      },
+      {
+        "product_key": "james-wellbeloved|ella_kibble__raw_free_run_chicken|raw",
+        "assigned_brand": "James Wellbeloved",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Ella Kibble  Raw Free Run Chicken"
+      },
+      {
+        "product_key": "jollyes|k9_optimum_adult_chicken|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "K9 Optimum"
+        ],
+        "product_name": "K9 Optimum Adult Chicken"
+      },
+      {
+        "product_key": "jollyes|k9_optimum_adult_medium_chicken|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "K9 Optimum"
+        ],
+        "product_name": "K9 Optimum Adult Medium Chicken"
+      },
+      {
+        "product_key": "jollyes|k9_optimum_maxi_adult_chicken|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "K9 Optimum"
+        ],
+        "product_name": "K9 Optimum Maxi Adult Chicken"
+      },
+      {
+        "product_key": "jollyes|k9_optimum_maxi_puppy_chicken|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "K9 Optimum"
+        ],
+        "product_name": "K9 Optimum Maxi Puppy Chicken"
+      },
+      {
+        "product_key": "jollyes|k9_optimum_mini_chicken|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "K9 Optimum"
+        ],
+        "product_name": "K9 Optimum Mini Chicken"
+      },
+      {
+        "product_key": "jollyes|k9_optimum_puppy_chicken_can|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "K9 Optimum"
+        ],
+        "product_name": "K9 Optimum Puppy Chicken Can"
+      },
+      {
+        "product_key": "jollyes|k9_optimum_puppy_mini/medium_chicken|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "K9 Optimum"
+        ],
+        "product_name": "K9 Optimum Puppy Mini/Medium Chicken"
+      },
+      {
+        "product_key": "jollyes|k9_optimum_senior_med/maxi_chicken|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "K9 Optimum"
+        ],
+        "product_name": "K9 Optimum Senior Med/Maxi Chicken"
+      },
+      {
+        "product_key": "jollyes|lifestage_adult_duck_and_potato|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Adult Duck and Potato"
+      },
+      {
+        "product_key": "jollyes|lifestage_adult_lamb_and_potato|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Adult Lamb and Potato"
+      },
+      {
+        "product_key": "jollyes|lifestage_adult_lamb_and_rice|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Adult Lamb and Rice"
+      },
+      {
+        "product_key": "jollyes|lifestage_adult_turkey_and_rice|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Adult Turkey and Rice"
+      },
+      {
+        "product_key": "jollyes|lifestage_fish_and_brown_rice|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Fish and Brown Rice"
+      },
+      {
+        "product_key": "jollyes|lifestage_grain_free_adult_chicken_and_potato|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Grain Free Adult Chicken and Potato"
+      },
+      {
+        "product_key": "jollyes|lifestage_grain_free_angus_beef_with_sweet_potato|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Grain Free Angus Beef with Sweet Potato"
+      },
+      {
+        "product_key": "jollyes|lifestage_grain_free_duck__sweet_potato|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Grain Free Duck  Sweet Potato"
+      },
+      {
+        "product_key": "jollyes|lifestage_grain_free_lamb__potato|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Grain Free Lamb  Potato"
+      },
+      {
+        "product_key": "jollyes|lifestage_grain_free_puppy_chicken,_turkey__salmon|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Grain Free Puppy Chicken, Turkey  Salmon"
+      },
+      {
+        "product_key": "jollyes|lifestage_grain_free_puppy_turkey_and_potato|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Grain Free Puppy Turkey and Potato"
+      },
+      {
+        "product_key": "jollyes|lifestage_grain_free_salmon__trout_with_asparagus|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Grain Free Salmon  Trout with Asparagus"
+      },
+      {
+        "product_key": "jollyes|lifestage_grain_free_turkey_with_sweet_potato|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Grain Free Turkey with Sweet Potato"
+      },
+      {
+        "product_key": "jollyes|lifestage_lamb__brown_rice|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Lamb  Brown Rice"
+      },
+      {
+        "product_key": "jollyes|lifestage_large_breed_turkey__brown_rice|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Large Breed Turkey  Brown Rice"
+      },
+      {
+        "product_key": "jollyes|lifestage_puppy_salmon_with_haddock|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Puppy Salmon with Haddock"
+      },
+      {
+        "product_key": "jollyes|lifestage_senior_grain_free_turkey_and_potato|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Senior Grain Free Turkey and Potato"
+      },
+      {
+        "product_key": "jollyes|lifestage_senior_grain_free_turkey|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Senior Grain Free Turkey"
+      },
+      {
+        "product_key": "jollyes|lifestage_senior_turkey__brown_rice|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Senior Turkey  Brown Rice"
+      },
+      {
+        "product_key": "jollyes|lifestage_small_breed_turkey__brown_rice|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Small Breed Turkey  Brown Rice"
+      },
+      {
+        "product_key": "jollyes|lifestage_turkey__brown_rice|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "Lifestage"
+        ],
+        "product_name": "Lifestage Turkey  Brown Rice"
+      },
+      {
+        "product_key": "jollyes|mcintyres_beef__vegetables|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "McIntyres"
+        ],
+        "product_name": "McIntyres Beef  Vegetables"
+      },
+      {
+        "product_key": "jollyes|mcintyres_beef_can|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "McIntyres"
+        ],
+        "product_name": "McIntyres Beef Can"
+      },
+      {
+        "product_key": "jollyes|mcintyres_chicken__vegetables|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "McIntyres"
+        ],
+        "product_name": "McIntyres Chicken  Vegetables"
+      },
+      {
+        "product_key": "jollyes|mcintyres_chicken_can|unknown",
+        "assigned_brand": "Jollyes",
+        "brands_in_name": [
+          "McIntyres"
+        ],
+        "product_name": "McIntyres Chicken Can"
+      },
+      {
+        "product_key": "lidl|orlando_dry_with_chicken__vegetables|dry",
+        "assigned_brand": "Lidl",
+        "brands_in_name": [
+          "Orlando"
+        ],
+        "product_name": "Orlando Dry With Chicken  Vegetables"
+      },
+      {
+        "product_key": "lidl|orlando_gourmet_rich_in_lamb|unknown",
+        "assigned_brand": "Lidl",
+        "brands_in_name": [
+          "Orlando"
+        ],
+        "product_name": "Orlando Gourmet Rich in Lamb"
+      },
+      {
+        "product_key": "lidl|orlando_moist_and_meaty_tender_chunks_with_beef|unknown",
+        "assigned_brand": "Lidl",
+        "brands_in_name": [
+          "Orlando"
+        ],
+        "product_name": "Orlando Moist and Meaty Tender Chunks with Beef"
+      },
+      {
+        "product_key": "lidl|orlando_premium_dry_beef__vegetables|dry",
+        "assigned_brand": "Lidl",
+        "brands_in_name": [
+          "Orlando"
+        ],
+        "product_name": "Orlando Premium Dry Beef  Vegetables"
+      },
+      {
+        "product_key": "lidl|orlando_premium_moist_and_meaty_with_chicken|unknown",
+        "assigned_brand": "Lidl",
+        "brands_in_name": [
+          "Orlando"
+        ],
+        "product_name": "Orlando Premium Moist and Meaty with Chicken"
+      },
+      {
+        "product_key": "lidl|orlando_premium_with_beef__turkey|unknown",
+        "assigned_brand": "Lidl",
+        "brands_in_name": [
+          "Orlando"
+        ],
+        "product_name": "Orlando Premium with Beef  Turkey"
+      },
+      {
+        "product_key": "lidl|orlando_premium_with_chicken__lamb|unknown",
+        "assigned_brand": "Lidl",
+        "brands_in_name": [
+          "Orlando"
+        ],
+        "product_name": "Orlando Premium With Chicken  Lamb"
+      },
+      {
+        "product_key": "lidl|orlando_premium_with_chicken_and_lamb|unknown",
+        "assigned_brand": "Lidl",
+        "brands_in_name": [
+          "Orlando"
+        ],
+        "product_name": "Orlando Premium With Chicken and Lamb"
+      },
+      {
+        "product_key": "masters|dog_foods_country_dog|unknown",
+        "assigned_brand": "Masters",
+        "brands_in_name": [
+          "Country Dog"
+        ],
+        "product_name": "Dog Foods Country Dog"
+      },
+      {
+        "product_key": "mera|mera_essential_adult_with_beef|dry",
+        "assigned_brand": "mera",
+        "brands_in_name": [
+          "Essential"
+        ],
+        "product_name": "mera essential Adult with Beef"
+      },
+      {
+        "product_key": "mera|mera_essential_adult_with_poultry|dry",
+        "assigned_brand": "mera",
+        "brands_in_name": [
+          "Essential"
+        ],
+        "product_name": "mera essential Adult with Poultry"
+      },
+      {
+        "product_key": "brit|paws_british_free_run_chicken__brown_rice_senior/light|unknown",
+        "assigned_brand": "Brit",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Paws British Free Run Chicken  Brown Rice Senior/Light"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_medium_puppy_lamb_&_rice_sensitive_digestion|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Medium Puppy Lamb & Rice Sensitive Digestion"
+      },
+      {
+        "product_key": "brit|innocent_hound_british_beef_stew|unknown",
+        "assigned_brand": "Brit",
+        "brands_in_name": [
+          "Innocent Hound"
+        ],
+        "product_name": "Innocent Hound British Beef Stew"
+      },
+      {
+        "product_key": "natures-menu|menu_raw_boost_with_beef|raw",
+        "assigned_brand": "Nature's Menu",
+        "brands_in_name": [
+          "Boost"
+        ],
+        "product_name": "Menu Raw Boost with Beef"
+      },
+      {
+        "product_key": "natures-menu|menu_raw_boost_with_fresh_chicken|raw",
+        "assigned_brand": "Nature's Menu",
+        "brands_in_name": [
+          "Boost"
+        ],
+        "product_name": "Menu Raw Boost with Fresh Chicken"
+      },
+      {
+        "product_key": "natures-menu|menu_raw_boost_with_trout|raw",
+        "assigned_brand": "Nature's Menu",
+        "brands_in_name": [
+          "Boost"
+        ],
+        "product_name": "Menu Raw Boost with Trout"
+      },
+      {
+        "product_key": "natures|range_adult_dog_7_years|unknown",
+        "assigned_brand": "natures",
+        "brands_in_name": [
+          "Years"
+        ],
+        "product_name": "range Adult Dog 7 Years"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_medium_adult_everyday_nutrition|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Medium Adult Everyday Nutrition"
+      },
+      {
+        "product_key": "pero|truline_dog_-_fish_variety|unknown",
+        "assigned_brand": "Pero",
+        "brands_in_name": [
+          "Truline"
+        ],
+        "product_name": "Truline Dog - Fish Variety"
+      },
+      {
+        "product_key": "pero|truline_dog_-_meat__fish_variety|unknown",
+        "assigned_brand": "Pero",
+        "brands_in_name": [
+          "Truline"
+        ],
+        "product_name": "Truline Dog - Meat  Fish Variety"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_boxer|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Boxer"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_bulldog|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Bulldog"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cavalier_king_charles_spaniel|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Cavalier King Ch"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_chihuahua_pate|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Chihuahua Pate"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_chihuahua|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Chihuahua"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cockapoo_pate|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Cockapoo Pate"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cockapoo_puppy|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Cockapoo Puppy"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cockapoo|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Cockapoo"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_cocker_spaniel|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Cocker Spaniel"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_dachshund_pate|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Dachshund Pate"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_dachshund|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Dachshund"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_french_bulldog_puppy|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health French Bulldog P"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_french_bulldog|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health French Bulldog"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_german_shepherd|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health German Shepherd"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_golden_retriever|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Golden Retriever"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_labrador_retriever|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Labrador Retriev"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_pug|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Pug"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_shih_tzu_pate|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Shih Tzu Pate"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_shih_tzu|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Shih Tzu"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_breed_health_yorkshire_terrier|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Breed Health Yorkshire terrie"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_adult_large_breed_chicken|dry",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Adult Large Br"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_adult_medium_breed_chicken|dry",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Adult Medium B"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_large_breed_adult_chunks_in_gravy|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Large Breed Ad"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_mature_chicken_pate|wet",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Mature Chicken"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_medium_breed_adult_chunks_in_gravy|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Medium Breed A"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_puppy_chicken_pate|wet",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Puppy Chicken "
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_senior_medium_breed_chicken|dry",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Senior Medium "
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_senior_small_breed_chicken|dry",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Senior Small B"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_sensitive_skin__stomach_chicken|dry",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Sensitive Skin"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_sensitive|wet",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Sensitive"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_small_breed_adult_chunks_in_gravy|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Small Breed Ad"
+      },
+      {
+        "product_key": "pets-at-home|at_home_advanced_nutrition_ava_optimum_health_weight_management|unknown",
+        "assigned_brand": "Pets at Home",
+        "brands_in_name": [
+          "Ava"
+        ],
+        "product_name": "at Home Advanced Nutrition AVA Optimum Health Weight Managem"
+      },
+      {
+        "product_key": "advance|iams_advanced_nutrition_adult_large_dog_-_chicken|dry",
+        "assigned_brand": "Advance",
+        "brands_in_name": [
+          "Iams"
+        ],
+        "product_name": "IAMS Advanced Nutrition Adult Large Dog - Chicken"
+      },
+      {
+        "product_key": "purina|16.5kg/14kg_purina_pro_plan_dry_dog_food_-_2.5kg/2kg_free!_*|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "16.5kg/14kg PURINA PRO PLAN Dry Dog Food - 2.5kg/2kg Free! *"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_all_size_adult_performance|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN All Size Adult Performance"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_all_sizes_adult_light/sterilised_with_chicken|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN All Sizes Adult Light/Sterilised with Chicke"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_all_sizes_adult_light/sterilised_with_fish|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN All Sizes Adult Light/Sterilised with Fish"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_all_sizes_adult_light/sterilised_with_lamb|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN All Sizes Adult Light/Sterilised with Lamb"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_fortiflora_canine_probiotic_chew_cubes|wet",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Purina Pro Plan Fortiflora Canine Probiotic Chew Cubes"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_large_adult_athletic_lamb_&_rice_sensitive_digestion|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Large Adult Athletic Lamb & Rice Sensitive D"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_large_athletic_puppy_healthy_start|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Large Athletic Puppy Healthy Start"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_large_robust_adult_everyday_nutrition|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Large Robust Adult Everyday Nutrition"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_large_robust_adult_sensitive_skin_salmon|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Large Robust Adult Sensitive Skin Salmon"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_large_robust_puppy_healthy_start|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Large Robust Puppy Healthy Start"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_large_robust_puppy_sensitive_digestion_lamb|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Large Robust Puppy Sensitive Digestion Lamb"
+      },
+      {
+        "product_key": "purina|pro_plan_age_defence_medium__large_adult_7|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Age Defence Medium  Large Adult 7"
+      },
+      {
+        "product_key": "purina|pro_plan_age_defence_small__mini_adult_9|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Age Defence Small  Mini Adult 9"
+      },
+      {
+        "product_key": "advance|iams_advanced_nutrition_puppy_&_junior_small_&_medium_dog_-_chicken|dry",
+        "assigned_brand": "Advance",
+        "brands_in_name": [
+          "Iams"
+        ],
+        "product_name": "IAMS Advanced Nutrition Puppy & Junior Small & Medium Dog - "
+      },
+      {
+        "product_key": "purina|purina_pro_plan_medium_adult_sensitive_skin|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Medium Adult Sensitive Skin"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_medium_puppy_healthy_start|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Medium Puppy Healthy Start"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_medium_puppy_sensitive_skin|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Medium Puppy Sensitive Skin"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_senior_medium_&_large_adult_7+_sensitive_skin|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Senior Medium & Large Adult 7+ Sensitive Ski"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_small_&_mini_adult_everyday_nutrition|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Small & Mini Adult Everyday Nutrition"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_small_&_mini_adult_sensitive_skin|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Small & Mini Adult Sensitive Skin"
+      },
+      {
+        "product_key": "purina|purina_pro_plan_small_&_mini_puppy_sensitive_skin|dry",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "PURINA PRO PLAN Small & Mini Puppy Sensitive Skin"
+      },
+      {
+        "product_key": "brit|natural_dog_food_company_sensitive_british_free_range_chicken|unknown",
+        "assigned_brand": "Brit",
+        "brands_in_name": [
+          "Natural Dog Food Company"
+        ],
+        "product_name": "Natural Dog Food Company Sensitive British Free Range Chicke"
+      },
+      {
+        "product_key": "purina|pro_plan_everyday_nutrition_large_athletic_adult|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Everyday Nutrition Large Athletic Adult"
+      },
+      {
+        "product_key": "purina|pro_plan_everyday_nutrition_large_robust_adult|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Everyday Nutrition Large Robust Adult"
+      },
+      {
+        "product_key": "purina|pro_plan_everyday_nutrition_large_robust_puppy|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Everyday Nutrition Large Robust Puppy"
+      },
+      {
+        "product_key": "purina|pro_plan_everyday_nutrition_light/sterilised_chicken|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Everyday Nutrition Light/Sterilised Chicken"
+      },
+      {
+        "product_key": "purina|pro_plan_everyday_nutrition_medium_adult|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Everyday Nutrition Medium Adult"
+      },
+      {
+        "product_key": "purina|pro_plan_everyday_nutrition_small__mini_adult|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Everyday Nutrition Small  Mini Adult"
+      },
+      {
+        "product_key": "purina|pro_plan_healthy_start_large_athletic_puppy|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Healthy Start Large Athletic Puppy"
+      },
+      {
+        "product_key": "purina|pro_plan_healthy_start_medium_puppy|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Healthy Start Medium Puppy"
+      },
+      {
+        "product_key": "purina|pro_plan_healthy_start_small__mini_puppy|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Healthy Start Small  Mini Puppy"
+      },
+      {
+        "product_key": "purina|pro_plan_joint_mobility|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Joint Mobility"
+      },
+      {
+        "product_key": "purina|pro_plan_large_athletic_sensitive_skin|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Large Athletic Sensitive Skin"
+      },
+      {
+        "product_key": "purina|pro_plan_performance_chicken_adult|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Performance Chicken Adult"
+      },
+      {
+        "product_key": "purina|pro_plan_sensitive_digestion_medium__large_adult|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Sensitive Digestion Medium  Large Adult"
+      },
+      {
+        "product_key": "purina|pro_plan_sensitive_digestion_medium_adult|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Sensitive Digestion Medium Adult"
+      },
+      {
+        "product_key": "purina|pro_plan_sensitive_digestion_medium_puppy|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Sensitive Digestion Medium Puppy"
+      },
+      {
+        "product_key": "purina|pro_plan_sensitive_digestion_puppy|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Sensitive Digestion Puppy"
+      },
+      {
+        "product_key": "purina|pro_plan_sensitive_skin_medium__large_adult_7|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Sensitive Skin Medium  Large Adult 7"
+      },
+      {
+        "product_key": "purina|pro_plan_sensitive_skin_medium_adult|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Sensitive Skin Medium Adult"
+      },
+      {
+        "product_key": "purina|pro_plan_sensitive_skin_medium_puppy|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Sensitive Skin Medium Puppy"
+      },
+      {
+        "product_key": "purina|pro_plan_sensitive_skin_small__mini_adult|unknown",
+        "assigned_brand": "Purina",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Pro Plan Sensitive Skin Small  Mini Adult"
+      },
+      {
+        "product_key": "red|mills_engage_beef|unknown",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Engage"
+        ],
+        "product_name": "Mills Engage Beef"
+      },
+      {
+        "product_key": "red|mills_engage_chicken|unknown",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Engage"
+        ],
+        "product_name": "Mills Engage Chicken"
+      },
+      {
+        "product_key": "red|mills_engage_duck__rice|unknown",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Engage"
+        ],
+        "product_name": "Mills Engage Duck  Rice"
+      },
+      {
+        "product_key": "red|mills_engage_mother__puppy_salmon|unknown",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Engage"
+        ],
+        "product_name": "Mills Engage Mother  Puppy Salmon"
+      },
+      {
+        "product_key": "red|mills_engage_salmon__rice|unknown",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Engage"
+        ],
+        "product_name": "Mills Engage Salmon  Rice"
+      },
+      {
+        "product_key": "red|mills_winner_beef|dry",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Winner"
+        ],
+        "product_name": "Mills Winner Beef"
+      },
+      {
+        "product_key": "red|mills_winner_chicken|dry",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Winner"
+        ],
+        "product_name": "Mills Winner Chicken"
+      },
+      {
+        "product_key": "red|mills_winner_energy|dry",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Winner"
+        ],
+        "product_name": "Mills Winner Energy"
+      },
+      {
+        "product_key": "red|mills_winner_lamb_sensitive|dry",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Winner"
+        ],
+        "product_name": "Mills Winner Lamb Sensitive"
+      },
+      {
+        "product_key": "red|mills_winner_puppy|dry",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Winner"
+        ],
+        "product_name": "Mills Winner Puppy"
+      },
+      {
+        "product_key": "red|mills_winner_senior_lite|dry",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Winner"
+        ],
+        "product_name": "Mills Winner Senior Lite"
+      },
+      {
+        "product_key": "red|mills_winner_small|dry",
+        "assigned_brand": "Red",
+        "brands_in_name": [
+          "Winner"
+        ],
+        "product_name": "Mills Winner Small"
+      },
+      {
+        "product_key": "advance|12kg_iams_advanced_nutrition_dry_dog_food_-_10kg_+_2kg_free!_*|dry",
+        "assigned_brand": "Advance",
+        "brands_in_name": [
+          "Iams"
+        ],
+        "product_name": "12kg IAMS Advanced Nutrition Dry Dog Food - 10kg + 2kg Free!"
+      },
+      {
+        "product_key": "tails|butchers_cuts_with_beef__tripe|unknown",
+        "assigned_brand": "Tails",
+        "brands_in_name": [
+          "Butchers"
+        ],
+        "product_name": "Butchers Cuts with Beef  Tripe"
+      },
+      {
+        "product_key": "the|innocent_hound_finest_pulled_pork|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Innocent Hound"
+        ],
+        "product_name": "Innocent Hound Finest Pulled Pork"
+      },
+      {
+        "product_key": "the|innocent_hound_gourmet_chicken_hotpot|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Innocent Hound"
+        ],
+        "product_name": "Innocent Hound Gourmet Chicken Hotpot"
+      },
+      {
+        "product_key": "brit|innocent_hound_british_lamb_casserole|unknown",
+        "assigned_brand": "Brit",
+        "brands_in_name": [
+          "Innocent Hound"
+        ],
+        "product_name": "Innocent Hound British Lamb Casserole"
+      },
+      {
+        "product_key": "brit|innocent_hound_british_turkey_feast|unknown",
+        "assigned_brand": "Brit",
+        "brands_in_name": [
+          "Innocent Hound"
+        ],
+        "product_name": "Innocent Hound British Turkey Feast"
+      },
+      {
+        "product_key": "brit|innocent_hound_gourmet_british_duck|unknown",
+        "assigned_brand": "Brit",
+        "brands_in_name": [
+          "Innocent Hound"
+        ],
+        "product_name": "Innocent Hound Gourmet British Duck"
+      },
+      {
+        "product_key": "the|innocent_hound_wild_salmon_fishcakes|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Innocent Hound"
+        ],
+        "product_name": "Innocent Hound Wild Salmon Fishcakes"
+      },
+      {
+        "product_key": "the|natural_dog_food_company_adult_chicken|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Natural Dog Food Company"
+        ],
+        "product_name": "Natural Dog Food Company Adult Chicken"
+      },
+      {
+        "product_key": "the|natural_dog_food_company_adult_lamb|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Natural Dog Food Company"
+        ],
+        "product_name": "Natural Dog Food Company Adult Lamb"
+      },
+      {
+        "product_key": "the|natural_dog_food_company_adult_salmon|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Natural Dog Food Company"
+        ],
+        "product_name": "Natural Dog Food Company Adult Salmon"
+      },
+      {
+        "product_key": "the|natural_dog_food_company_puppy_chicken|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Natural Dog Food Company"
+        ],
+        "product_name": "Natural Dog Food Company Puppy Chicken"
+      },
+      {
+        "product_key": "the|natural_dog_food_company_senior_/_light_(weight_control)|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Natural Dog Food Company"
+        ],
+        "product_name": "Natural Dog Food Company Senior / Light (Weight Control)"
+      },
+      {
+        "product_key": "the|natural_dog_food_company_sensitive_english_country_duck|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Natural Dog Food Company"
+        ],
+        "product_name": "Natural Dog Food Company Sensitive English Country Duck"
+      },
+      {
+        "product_key": "the|natural_dog_food_company_sensitive_grass-fed_lamb|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Natural Dog Food Company"
+        ],
+        "product_name": "Natural Dog Food Company Sensitive Grass-Fed Lamb"
+      },
+      {
+        "product_key": "the|natural_dog_food_company_sensitive_scottish_salmon|unknown",
+        "assigned_brand": "The",
+        "brands_in_name": [
+          "Natural Dog Food Company"
+        ],
+        "product_name": "Natural Dog Food Company Sensitive Scottish Salmon"
+      },
+      {
+        "product_key": "thrive|kind__gentle_chicken__rice|unknown",
+        "assigned_brand": "Thrive",
+        "brands_in_name": [
+          "Gentle"
+        ],
+        "product_name": "Kind  Gentle Chicken  Rice"
+      },
+      {
+        "product_key": "wainwrights|free_run_chicken_with_superfoods_adult|dry",
+        "assigned_brand": "Wainwright's",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Free Run Chicken with Superfoods Adult"
+      },
+      {
+        "product_key": "wainwrights|free_run_chicken_with_superfoods_puppy|dry",
+        "assigned_brand": "Wainwright's",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Free Run Chicken with Superfoods Puppy"
+      },
+      {
+        "product_key": "wainwrights|free_run_duck_with_superfoods_adult|dry",
+        "assigned_brand": "Wainwright's",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Free Run Duck with Superfoods Adult"
+      },
+      {
+        "product_key": "waitrose|essential_terrine_with_chicken|unknown",
+        "assigned_brand": "Waitrose",
+        "brands_in_name": [
+          "Essential"
+        ],
+        "product_name": "Essential Terrine with Chicken"
+      },
+      {
+        "product_key": "growth_&_performance|bosch_puppy_milk|dry",
+        "assigned_brand": "Growth & Performance",
+        "brands_in_name": [
+          "Bosch"
+        ],
+        "product_name": "bosch Puppy Milk"
+      },
+      {
+        "product_key": "purina_veterinary_diets|purina_pro_plan_veterinary_diets_canine_mousse_en_gastrointestinal|wet",
+        "assigned_brand": "Purina Veterinary Diets",
+        "brands_in_name": [
+          "Pro Plan"
+        ],
+        "product_name": "Purina Pro Plan Veterinary Diets Canine Mousse EN Gastrointe"
+      },
+      {
+        "product_key": "aatu|free_run_chicken|dry",
+        "assigned_brand": "Aatu",
+        "brands_in_name": [
+          "Run"
+        ],
+        "product_name": "Free Run Chicken"
+      },
+      {
+        "product_key": "aldi|earls_chicken_in_gravy|unknown",
+        "assigned_brand": "Aldi",
+        "brands_in_name": [
+          "Earls"
+        ],
+        "product_name": "Earls Chicken in Gravy"
+      },
+      {
+        "product_key": "alpha|spirit_orygo_fresh_chicken_with_carrot|unknown",
+        "assigned_brand": "Alpha",
+        "brands_in_name": [
+          "Orygo"
+        ],
+        "product_name": "Spirit Orygo Fresh Chicken with Carrot"
+      },
+      {
+        "product_key": "alpha|spirit_orygo_salmon_pate_with_blueberry|unknown",
+        "assigned_brand": "Alpha",
+        "brands_in_name": [
+          "Orygo"
+        ],
+        "product_name": "Spirit Orygo Salmon Pate with Blueberry"
+      },
+      {
+        "product_key": "barking-heads|heads_golden_years_chicken|dry",
+        "assigned_brand": "Barking Heads",
+        "brands_in_name": [
+          "Years"
+        ],
+        "product_name": "Heads Golden Years Chicken"
+      },
+      {
+        "product_key": "barking|heads_little_paws_golden_years|unknown",
+        "assigned_brand": "Barking Heads",
+        "brands_in_name": [
+          "Years"
+        ],
+        "product_name": "Heads Little Paws Golden Years"
+      },
+      {
+        "product_key": "advance|iams_advanced_nutrition_adult_small_&_medium_dog_-_chicken|dry",
+        "assigned_brand": "Advance",
+        "brands_in_name": [
+          "Iams"
+        ],
+        "product_name": "IAMS Advanced Nutrition Adult Small & Medium Dog - Chicken"
+      }
+    ],
+    "similar_to_benchmark": [
+      {
+        "current": "barkinBISTRO",
+        "similar": "Barkin Bistro",
+        "similarity": 0.96,
+        "count": 3
+      },
+      {
+        "current": "Bentleys",
+        "similar": "Bentley's",
+        "similarity": 0.9411764705882353,
+        "count": 8
+      },
+      {
+        "current": "Bonzo",
+        "similar": "Bonza",
+        "similarity": 0.8,
+        "count": 5
+      },
+      {
+        "current": "Bright",
+        "similar": "Brit",
+        "similarity": 0.8,
+        "count": 25
+      },
+      {
+        "current": "Cotswold",
+        "similar": "Cotswold Raw",
+        "similarity": 0.8,
+        "count": 28
+      },
+      {
+        "current": "Different",
+        "similar": "Different Dog",
+        "similarity": 0.8181818181818182,
+        "count": 13
+      },
+      {
+        "current": "Butternut",
+        "similar": "Butternut Box",
+        "similarity": 0.8181818181818182,
+        "count": 12
+      },
+      {
+        "current": "Nature's Menu",
+        "similar": "Natures Menu",
+        "similarity": 0.96,
+        "count": 87
+      },
+      {
+        "current": "Edmondsons",
+        "similar": "Edmondson's",
+        "similarity": 0.9523809523809523,
+        "count": 13
+      },
+      {
+        "current": "Feelwells",
+        "similar": "Feelwell's",
+        "similarity": 0.9473684210526315,
+        "count": 10
+      },
+      {
+        "current": "Hill\u2019s Science Plan",
+        "similar": "Hill's Science Plan",
+        "similarity": 0.9473684210526315,
+        "count": 1
+      },
+      {
+        "current": "Hill\u2019s Prescription Diet",
+        "similar": "Hill's Prescription Diet",
+        "similarity": 0.9583333333333334,
+        "count": 1
+      },
+      {
+        "current": "Laughing",
+        "similar": "Laughing Dog",
+        "similarity": 0.8,
+        "count": 7
+      },
+      {
+        "current": "Libra",
+        "similar": "Calibra",
+        "similarity": 0.8333333333333334,
+        "count": 6
+      },
+      {
+        "current": "Lily\u2019s Kitchen",
+        "similar": "Lily's Kitchen",
+        "similarity": 0.9285714285714286,
+        "count": 1
+      },
+      {
+        "current": "Natura Diet",
+        "similar": "Naturediet",
+        "similarity": 0.8571428571428571,
+        "count": 3
+      },
+      {
+        "current": "Natura",
+        "similar": "Naturaw",
+        "similarity": 0.9230769230769231,
+        "count": 6
+      },
+      {
+        "current": "Natural",
+        "similar": "Naturaw",
+        "similarity": 0.8571428571428571,
+        "count": 44
+      },
+      {
+        "current": "natures",
+        "similar": "Naturea",
+        "similarity": 0.8571428571428571,
+        "count": 6
+      },
+      {
+        "current": "PoochMutt",
+        "similar": "Pooch & Mutt",
+        "similarity": 0.8571428571428571,
+        "count": 19
+      },
+      {
+        "current": "Sainsburys",
+        "similar": "Sainsbury's",
+        "similarity": 0.9523809523809523,
+        "count": 12
+      },
+      {
+        "current": "Skinners",
+        "similar": "Skinner's",
+        "similarity": 0.9411764705882353,
+        "count": 27
+      },
+      {
+        "current": "Skippers",
+        "similar": "Skipper's",
+        "similarity": 0.9411764705882353,
+        "count": 2
+      },
+      {
+        "current": "Solo",
+        "similar": "Solimo",
+        "similarity": 0.8,
+        "count": 1
+      },
+      {
+        "current": "Butcher's",
+        "similar": "Butchers",
+        "similarity": 0.9411764705882353,
+        "count": 2
+      },
+      {
+        "current": "Markus M\u00fchle",
+        "similar": "Markus Muehle",
+        "similarity": 0.88,
+        "count": 8
+      },
+      {
+        "current": "Happy\u00a0Dog",
+        "similar": "Happy Dog",
+        "similarity": 0.8888888888888888,
+        "count": 1
+      }
+    ],
+    "suspicious_short": [
+      {
+        "brand": "Aatu",
+        "count": 16
+      },
+      {
+        "brand": "Ami",
+        "count": 6
+      },
+      {
+        "brand": "Beco",
+        "count": 8
+      },
+      {
+        "brand": "Aldi",
+        "count": 15
+      },
+      {
+        "brand": "Brit",
+        "count": 111
+      },
+      {
+        "brand": "More",
+        "count": 16
+      },
+      {
+        "brand": "Asda",
+        "count": 12
+      },
+      {
+        "brand": "Bear",
+        "count": 7
+      },
+      {
+        "brand": "Beta",
+        "count": 12
+      },
+      {
+        "brand": "BIG",
+        "count": 6
+      },
+      {
+        "brand": "Fur",
+        "count": 13
+      },
+      {
+        "brand": "Gain",
+        "count": 9
+      },
+      {
+        "brand": "Ci",
+        "count": 15
+      },
+      {
+        "brand": "Coya",
+        "count": 13
+      },
+      {
+        "brand": "Dog",
+        "count": 7
+      },
+      {
+        "brand": "Dr",
+        "count": 20
+      },
+      {
+        "brand": "Dr.",
+        "count": 19
+      },
+      {
+        "brand": "Eat",
+        "count": 6
+      },
+      {
+        "brand": "Eden",
+        "count": 19
+      },
+      {
+        "brand": "Go",
+        "count": 8
+      },
+      {
+        "brand": "Exe",
+        "count": 17
+      },
+      {
+        "brand": "Fish",
+        "count": 18
+      },
+      {
+        "brand": "Iams",
+        "count": 9
+      },
+      {
+        "brand": "JR",
+        "count": 9
+      },
+      {
+        "brand": "KIVO",
+        "count": 10
+      },
+      {
+        "brand": "Lidl",
+        "count": 8
+      },
+      {
+        "brand": "mera",
+        "count": 11
+      },
+      {
+        "brand": "Omni",
+        "count": 9
+      },
+      {
+        "brand": "Paul",
+        "count": 6
+      },
+      {
+        "brand": "Pero",
+        "count": 16
+      },
+      {
+        "brand": "Pet",
+        "count": 14
+      },
+      {
+        "brand": "Pure",
+        "count": 13
+      },
+      {
+        "brand": "Red",
+        "count": 12
+      },
+      {
+        "brand": "Step",
+        "count": 12
+      },
+      {
+        "brand": "The",
+        "count": 76
+      },
+      {
+        "brand": "Vets",
+        "count": 10
+      },
+      {
+        "brand": "Wagg",
+        "count": 10
+      },
+      {
+        "brand": "Wild",
+        "count": 9
+      },
+      {
+        "brand": "Wolf",
+        "count": 14
+      },
+      {
+        "brand": "Yora",
+        "count": 9
+      },
+      {
+        "brand": "ZIWI",
+        "count": 14
+      }
+    ],
+    "null_brands": [
+      {
+        "product_key": "test_diagnostic_key",
+        "product_name": "Test Diagnostic Product"
+      }
+    ]
+  }
+}

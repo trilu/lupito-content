@@ -1,0 +1,569 @@
+[
+  {
+    "product_key": "rinti|rinti_canine_intestinal_with_beef|wet",
+    "brand": "Rinti",
+    "original": "RINTI Canine Intestinal with beef",
+    "cleaned": "Canine Intestinal with beef",
+    "pattern": "RINTI "
+  },
+  {
+    "product_key": "rinti|rinti_canine_diabetes_with_chicken|wet",
+    "brand": "Rinti",
+    "original": "RINTI Canine Diabetes with Chicken",
+    "cleaned": "Canine Diabetes with Chicken",
+    "pattern": "RINTI "
+  },
+  {
+    "product_key": "rinti|rinti_adult|wet",
+    "brand": "Rinti",
+    "original": "RINTI Adult",
+    "cleaned": "Adult",
+    "pattern": "RINTI "
+  },
+  {
+    "product_key": "rinti|rinti_canine_intestinal_with_lamb|wet",
+    "brand": "Rinti",
+    "original": "RINTI Canine Intestinal with Lamb",
+    "cleaned": "Canine Intestinal with Lamb",
+    "pattern": "RINTI "
+  },
+  {
+    "product_key": "rinti|rinti_gold_10_x|wet",
+    "brand": "Rinti",
+    "original": "RINTI Gold 10 x",
+    "cleaned": "Gold 10 x",
+    "pattern": "RINTI "
+  },
+  {
+    "product_key": "rinti|rinti_kennerfleisch|wet",
+    "brand": "Rinti",
+    "original": "RINTI Kennerfleisch",
+    "cleaned": "Kennerfleisch",
+    "pattern": "RINTI "
+  },
+  {
+    "product_key": "rinti|rinti_saver_pack|wet",
+    "brand": "Rinti",
+    "original": "RINTI Saver Pack",
+    "cleaned": "Saver Pack",
+    "pattern": "RINTI "
+  },
+  {
+    "product_key": "rinti|rinti_sensible_new_zealand|wet",
+    "brand": "Rinti",
+    "original": "RINTI Sensible New Zealand",
+    "cleaned": "Sensible New Zealand",
+    "pattern": "RINTI "
+  },
+  {
+    "product_key": "rinti|rinti_single_meat|wet",
+    "brand": "Rinti",
+    "original": "RINTI Single Meat",
+    "cleaned": "Single Meat",
+    "pattern": "RINTI "
+  },
+  {
+    "product_key": "animonda|animonda_grancarno_original_junior|wet",
+    "brand": "Animonda",
+    "original": "animonda GranCarno Original Junior",
+    "cleaned": "GranCarno Original Junior",
+    "pattern": "animonda "
+  },
+  {
+    "product_key": "animonda|animonda_grancarno_adult_poultry_&_beef|dry",
+    "brand": "Animonda",
+    "original": "animonda GranCarno Adult Poultry & Beef",
+    "cleaned": "GranCarno Adult Poultry & Beef",
+    "pattern": "animonda "
+  },
+  {
+    "product_key": "animonda|animonda_grancarno_adult_poultry_&_lamb|dry",
+    "brand": "Animonda",
+    "original": "animonda GranCarno Adult Poultry & Lamb",
+    "cleaned": "GranCarno Adult Poultry & Lamb",
+    "pattern": "animonda "
+  },
+  {
+    "product_key": "animonda|animonda_grancarno_junior_poultry_&_lamb|dry",
+    "brand": "Animonda",
+    "original": "animonda GranCarno Junior Poultry & Lamb",
+    "cleaned": "GranCarno Junior Poultry & Lamb",
+    "pattern": "animonda "
+  },
+  {
+    "product_key": "animonda|animonda_grancarno_original_senior|wet",
+    "brand": "Animonda",
+    "original": "animonda GranCarno Original Senior",
+    "cleaned": "GranCarno Original Senior",
+    "pattern": "animonda "
+  },
+  {
+    "product_key": "animonda|animonda_vom_feinsten_adult_grain-free|wet",
+    "brand": "Animonda",
+    "original": "animonda vom Feinsten Adult Grain-Free",
+    "cleaned": "vom Feinsten Adult Grain-Free",
+    "pattern": "animonda "
+  },
+  {
+    "product_key": "animonda|animonda_grancarno_senior_poultry_&_beef|dry",
+    "brand": "Animonda",
+    "original": "animonda GranCarno Senior Poultry & Beef",
+    "cleaned": "GranCarno Senior Poultry & Beef",
+    "pattern": "animonda "
+  },
+  {
+    "product_key": "animonda|animonda_grancarno_original_adult|wet",
+    "brand": "Animonda",
+    "original": "animonda GranCarno Original Adult",
+    "cleaned": "GranCarno Original Adult",
+    "pattern": "animonda "
+  },
+  {
+    "product_key": "purina_one|purina_one_medium/maxi_active_chicken|dry",
+    "brand": "Purina One",
+    "original": "PURINA ONE Medium/Maxi Active Chicken",
+    "cleaned": "Medium/Maxi Active Chicken",
+    "pattern": "PURINA ONE "
+  },
+  {
+    "product_key": "purina_one|purina_one_medium/maxi_adult_beef_&_rice|dry",
+    "brand": "Purina One",
+    "original": "PURINA ONE Medium/Maxi Adult Beef & Rice",
+    "cleaned": "Medium/Maxi Adult Beef & Rice",
+    "pattern": "PURINA ONE "
+  },
+  {
+    "product_key": "purina_one|purina_one_medium/maxi_adult_chicken|dry",
+    "brand": "Purina One",
+    "original": "PURINA ONE Medium/Maxi Adult Chicken",
+    "cleaned": "Medium/Maxi Adult Chicken",
+    "pattern": "PURINA ONE "
+  },
+  {
+    "product_key": "purina_one|purina_one_mini_active_beef_&_duck|wet",
+    "brand": "Purina One",
+    "original": "PURINA ONE Mini Active Beef & Duck",
+    "cleaned": "Mini Active Beef & Duck",
+    "pattern": "PURINA ONE "
+  },
+  {
+    "product_key": "purina_one|purina_one_mini_active_chicken_&_rice|dry",
+    "brand": "Purina One",
+    "original": "PURINA ONE Mini Active Chicken & Rice",
+    "cleaned": "Mini Active Chicken & Rice",
+    "pattern": "PURINA ONE "
+  },
+  {
+    "product_key": "purina_one|purina_one_mini_adult_beef_&_rice|dry",
+    "brand": "Purina One",
+    "original": "PURINA ONE Mini Adult Beef & Rice",
+    "cleaned": "Mini Adult Beef & Rice",
+    "pattern": "PURINA ONE "
+  },
+  {
+    "product_key": "purina_one|purina_one_mini_skin_&_coat_beef|dry",
+    "brand": "Purina One",
+    "original": "PURINA ONE Mini Skin & Coat Beef",
+    "cleaned": "Mini Skin & Coat Beef",
+    "pattern": "PURINA ONE "
+  },
+  {
+    "product_key": "purina_one|purina_one_mini_weight_control/sterilised_turkey_&_rice|dry",
+    "brand": "Purina One",
+    "original": "PURINA ONE Mini Weight Control/Sterilised Turkey & Rice",
+    "cleaned": "Mini Weight Control/Sterilised Turkey & Rice",
+    "pattern": "PURINA ONE "
+  },
+  {
+    "product_key": "purina_pro_plan_veterinary_diets|purina_pro_plan_veterinary_diets_cc_cardio_care|dry",
+    "brand": "Purina Pro Plan Veterinary Diets",
+    "original": "PURINA PRO PLAN Veterinary Diets CC Cardio Care",
+    "cleaned": "CC Cardio Care",
+    "pattern": "PURINA PRO PLAN Veterinary Diets "
+  },
+  {
+    "product_key": "purina_pro_plan_veterinary_diets|purina_pro_plan_veterinary_diets_dm_diabetes|dry",
+    "brand": "Purina Pro Plan Veterinary Diets",
+    "original": "PURINA PRO PLAN Veterinary Diets DM Diabetes",
+    "cleaned": "DM Diabetes",
+    "pattern": "PURINA PRO PLAN Veterinary Diets "
+  },
+  {
+    "product_key": "purina_pro_plan_veterinary_diets|purina_pro_plan_veterinary_diets_drm_dermatosis|dry",
+    "brand": "Purina Pro Plan Veterinary Diets",
+    "original": "PURINA PRO PLAN Veterinary Diets DRM Dermatosis",
+    "cleaned": "DRM Dermatosis",
+    "pattern": "PURINA PRO PLAN Veterinary Diets "
+  },
+  {
+    "product_key": "purina_pro_plan_veterinary_diets|purina_pro_plan_veterinary_diets_en_gastrointestinal|dry",
+    "brand": "Purina Pro Plan Veterinary Diets",
+    "original": "PURINA PRO PLAN Veterinary Diets EN Gastrointestinal",
+    "cleaned": "EN Gastrointestinal",
+    "pattern": "PURINA PRO PLAN Veterinary Diets "
+  },
+  {
+    "product_key": "purina_pro_plan_veterinary_diets|purina_pro_plan_veterinary_diets_hp_hepatic|dry",
+    "brand": "Purina Pro Plan Veterinary Diets",
+    "original": "PURINA PRO PLAN Veterinary Diets HP Hepatic",
+    "cleaned": "HP Hepatic",
+    "pattern": "PURINA PRO PLAN Veterinary Diets "
+  },
+  {
+    "product_key": "purina_pro_plan_veterinary_diets|purina_pro_plan_veterinary_diets_nf_renal_function|dry",
+    "brand": "Purina Pro Plan Veterinary Diets",
+    "original": "PURINA PRO PLAN Veterinary Diets NF Renal Function",
+    "cleaned": "NF Renal Function",
+    "pattern": "PURINA PRO PLAN Veterinary Diets "
+  },
+  {
+    "product_key": "purina_pro_plan_veterinary_diets|purina_pro_plan_veterinary_diets_om_obesity_management|dry",
+    "brand": "Purina Pro Plan Veterinary Diets",
+    "original": "PURINA PRO PLAN Veterinary Diets OM Obesity Management",
+    "cleaned": "OM Obesity Management",
+    "pattern": "PURINA PRO PLAN Veterinary Diets "
+  },
+  {
+    "product_key": "purina_pro_plan_veterinary_diets|purina_pro_plan_veterinary_diets_ur_urinary|dry",
+    "brand": "Purina Pro Plan Veterinary Diets",
+    "original": "PURINA PRO PLAN Veterinary Diets UR Urinary",
+    "cleaned": "UR Urinary",
+    "pattern": "PURINA PRO PLAN Veterinary Diets "
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_80/20_rabbit_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Food 80/20 Rabbit Cold-Pressed",
+    "cleaned": "80/20 Rabbit Cold-Pressed",
+    "pattern": "Food "
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_80:20_duck_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Food 80:20 Duck Cold-Pressed",
+    "cleaned": "80:20 Duck Cold-Pressed",
+    "pattern": "Food "
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_80:20_herring_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Food 80:20 Herring Cold-Pressed",
+    "cleaned": "80:20 Herring Cold-Pressed",
+    "pattern": "Food "
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_beef_80/20_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Food Beef 80/20 Cold-Pressed",
+    "cleaned": "Beef 80/20 Cold-Pressed",
+    "pattern": "Food "
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_chicken_80/20_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Food Chicken 80/20 Cold-Pressed",
+    "cleaned": "Chicken 80/20 Cold-Pressed",
+    "pattern": "Food "
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_fish_80/20_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Food Fish 80/20 Cold-Pressed",
+    "cleaned": "Fish 80/20 Cold-Pressed",
+    "pattern": "Food "
+  },
+  {
+    "product_key": "wild-pet-food|pet_food_surf_and_turf_80/20_cold-pressed|unknown",
+    "brand": "Wild Pet Food",
+    "original": "Food Surf and Turf 80/20 Cold-Pressed",
+    "cleaned": "Surf and Turf 80/20 Cold-Pressed",
+    "pattern": "Food "
+  },
+  {
+    "product_key": "bozita_fdc3890c",
+    "brand": "Bozita",
+    "original": "BOZITA MEATY BITES LAMB",
+    "cleaned": "MEATY BITES LAMB",
+    "pattern": "BOZITA "
+  },
+  {
+    "product_key": "bozita_e4b72c2b",
+    "brand": "Bozita",
+    "original": "BOZITA MEATY BITES VENISON & DUCK",
+    "cleaned": "MEATY BITES VENISON & DUCK",
+    "pattern": "BOZITA "
+  },
+  {
+    "product_key": "bozita_7dace070",
+    "brand": "Bozita",
+    "original": "BOZITA MEATY BITES DUCK",
+    "cleaned": "MEATY BITES DUCK",
+    "pattern": "BOZITA "
+  },
+  {
+    "product_key": "bozita_4ac9eb88",
+    "brand": "Bozita",
+    "original": "BOZITA MEATY BITES ELK & DUCK",
+    "cleaned": "MEATY BITES ELK & DUCK",
+    "pattern": "BOZITA "
+  },
+  {
+    "product_key": "bozita_09390306",
+    "brand": "Bozita",
+    "original": "BOZITA MEATY BITES REINDEER & DUCK",
+    "cleaned": "MEATY BITES REINDEER & DUCK",
+    "pattern": "BOZITA "
+  },
+  {
+    "product_key": "asda|asda_hero_beef_&_vegetables|dry",
+    "brand": "Asda",
+    "original": "ASDA Hero Beef & Vegetables",
+    "cleaned": "Hero Beef & Vegetables",
+    "pattern": "ASDA "
+  },
+  {
+    "product_key": "asda|asda_hero_chicken_rice_&_vegetables|dry",
+    "brand": "Asda",
+    "original": "ASDA Hero Chicken Rice & Vegetables",
+    "cleaned": "Hero Chicken Rice & Vegetables",
+    "pattern": "ASDA "
+  },
+  {
+    "product_key": "asda|asda_hero_meaty_&_poultry_chunks_in_jelly|wet",
+    "brand": "Asda",
+    "original": "ASDA Hero Meaty & Poultry Chunks in Jelly",
+    "cleaned": "Hero Meaty & Poultry Chunks in Jelly",
+    "pattern": "ASDA "
+  },
+  {
+    "product_key": "asda|asda_hero_puppy_with_chicken|dry",
+    "brand": "Asda",
+    "original": "ASDA Hero Puppy With Chicken",
+    "cleaned": "Hero Puppy With Chicken",
+    "pattern": "ASDA "
+  },
+  {
+    "product_key": "asda|asda_hero_senior_chicken_rice_&_veg|dry",
+    "brand": "Asda",
+    "original": "ASDA Hero Senior Chicken Rice & Veg",
+    "cleaned": "Hero Senior Chicken Rice & Veg",
+    "pattern": "ASDA "
+  },
+  {
+    "product_key": "brit|british_poultry_senior/lite|unknown",
+    "brand": "Brit",
+    "original": "British Poultry Senior/Lite",
+    "cleaned": "Poultry Senior/Lite",
+    "pattern": "British "
+  },
+  {
+    "product_key": "brit|british_venison|unknown",
+    "brand": "Brit",
+    "original": "British Venison",
+    "cleaned": "Venison",
+    "pattern": "British "
+  },
+  {
+    "product_key": "brit|british_free_range_chicken_adult|unknown",
+    "brand": "Brit",
+    "original": "British Free Range Chicken Adult",
+    "cleaned": "Free Range Chicken Adult",
+    "pattern": "British "
+  },
+  {
+    "product_key": "brit|british_classics_variety_pack|unknown",
+    "brand": "Brit",
+    "original": "British Classics Variety Pack",
+    "cleaned": "Classics Variety Pack",
+    "pattern": "British "
+  },
+  {
+    "product_key": "brit|british_chicken_with_brown_rice|unknown",
+    "brand": "Brit",
+    "original": "British Chicken with Brown Rice",
+    "cleaned": "Chicken with Brown Rice",
+    "pattern": "British "
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_adult_lamb|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Active Adult Lamb",
+    "cleaned": "Adult Lamb",
+    "pattern": "Active "
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_black_dogs_(lamb_&_fish)|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Active Black Dogs (Lamb & Fish)",
+    "cleaned": "Black Dogs (Lamb & Fish)",
+    "pattern": "Active "
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_everyday_premium_(long\u2011haired_adult_dog)|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Active Everyday Premium (Long\u2011Haired Adult Dog)",
+    "cleaned": "Everyday Premium (Long\u2011Haired Adult Dog)",
+    "pattern": "Active "
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_hypoallergenic_lamb|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Active Hypoallergenic Lamb",
+    "cleaned": "Hypoallergenic Lamb",
+    "pattern": "Active "
+  },
+  {
+    "product_key": "panzi_fit_active|fit_active_puppy_chicken_&_pears|dry",
+    "brand": "Panzi Fit Active",
+    "original": "Active Puppy Chicken & Pears",
+    "cleaned": "Puppy Chicken & Pears",
+    "pattern": "Active "
+  },
+  {
+    "product_key": "tropidog|tropidog_premium_adult_medium_&_large_salmon|dry",
+    "brand": "TropiDog",
+    "original": "Tropidog Premium Adult Medium & Large Salmon",
+    "cleaned": "Premium Adult Medium & Large Salmon",
+    "pattern": "Tropidog "
+  },
+  {
+    "product_key": "tropidog|tropidog_premium_adult_small_duck_&_rice|dry",
+    "brand": "TropiDog",
+    "original": "Tropidog Premium Adult Small Duck & Rice",
+    "cleaned": "Premium Adult Small Duck & Rice",
+    "pattern": "Tropidog "
+  },
+  {
+    "product_key": "tropidog|tropidog_premium_adult_small_salmon|dry",
+    "brand": "TropiDog",
+    "original": "Tropidog Premium Adult Small Salmon",
+    "cleaned": "Premium Adult Small Salmon",
+    "pattern": "Tropidog "
+  },
+  {
+    "product_key": "tropidog|tropidog_premium_junior_large_turkey_&_rice|dry",
+    "brand": "TropiDog",
+    "original": "Tropidog Premium Junior Large Turkey & Rice",
+    "cleaned": "Premium Junior Large Turkey & Rice",
+    "pattern": "Tropidog "
+  },
+  {
+    "product_key": "tropidog|tropidog_premium_junior_small_&_medium_turkey_&_rice|dry",
+    "brand": "TropiDog",
+    "original": "Tropidog Premium Junior Small & Medium Turkey & Rice",
+    "cleaned": "Premium Junior Small & Medium Turkey & Rice",
+    "pattern": "Tropidog "
+  },
+  {
+    "product_key": "doggy_dog|doggy_dog_adult_beef|dry",
+    "brand": "DOGGY Dog",
+    "original": "Doggy Dog Adult Beef",
+    "cleaned": "Adult Beef",
+    "pattern": "Doggy Dog "
+  },
+  {
+    "product_key": "doggy_dog|doggy_dog_adult_poultry|dry",
+    "brand": "DOGGY Dog",
+    "original": "Doggy Dog Adult Poultry",
+    "cleaned": "Adult Poultry",
+    "pattern": "Doggy Dog "
+  },
+  {
+    "product_key": "doggy_dog|doggy_dog_sensitive_with_lamb|dry",
+    "brand": "DOGGY Dog",
+    "original": "Doggy Dog Sensitive with Lamb",
+    "cleaned": "Sensitive with Lamb",
+    "pattern": "Doggy Dog "
+  },
+  {
+    "product_key": "pro-plan|pro_plan_dog_multivitamins_supplement_tablet|dry",
+    "brand": "Pro Plan",
+    "original": "PRO PLAN Dog Multivitamins Supplement Tablet",
+    "cleaned": "Dog Multivitamins Supplement Tablet",
+    "pattern": "PRO PLAN "
+  },
+  {
+    "product_key": "pro-plan|pro_plan_mobility_dog_supplement_powder|dry",
+    "brand": "Pro Plan",
+    "original": "PRO PLAN Mobility Dog Supplement Powder",
+    "cleaned": "Mobility Dog Supplement Powder",
+    "pattern": "PRO PLAN "
+  },
+  {
+    "product_key": "pro-plan|pro_plan_natural_defences_dog_supplement_tablet|dry",
+    "brand": "Pro Plan",
+    "original": "PRO PLAN Natural Defences Dog Supplement Tablet",
+    "cleaned": "Natural Defences Dog Supplement Tablet",
+    "pattern": "PRO PLAN "
+  },
+  {
+    "product_key": "forza10|forza10_mini_&_toy_diet_lamb_with_rice_croquettes_for_dogs|dry",
+    "brand": "Forza10",
+    "original": "FORZA10 Mini & Toy Diet Lamb with Rice Croquettes for dogs",
+    "cleaned": "Mini & Toy Diet Lamb with Rice Croquettes for dogs",
+    "pattern": "FORZA10 "
+  },
+  {
+    "product_key": "forza10|forza10_mini_diet_game_&_potatoes|dry",
+    "brand": "Forza10",
+    "original": "FORZA10 Mini Diet Game & Potatoes",
+    "cleaned": "Mini Diet Game & Potatoes",
+    "pattern": "FORZA10 "
+  },
+  {
+    "product_key": "belcando_eed0d1b0",
+    "brand": "Belcando",
+    "original": "BELCANDO\u00ae Welpenfutter | Jetzt versandkostenfrei testen!",
+    "cleaned": "Welpenfutter | Jetzt versandkostenfrei testen!",
+    "pattern": "BELCANDO\u00ae "
+  },
+  {
+    "product_key": "belcando_c5b56d37",
+    "brand": "Belcando",
+    "original": "BELCANDO\u00ae Premium Hundefutter |\u00a0Auf die Zutaten kommt es an!",
+    "cleaned": "Premium Hundefutter |\u00a0Auf die Zutaten kommt es an!",
+    "pattern": "BELCANDO\u00ae "
+  },
+  {
+    "product_key": "platinum|platinum_adult_chicken_(fresh_meat)|dry",
+    "brand": "Platinum",
+    "original": "PLATINUM Adult Chicken (Fresh Meat)",
+    "cleaned": "Adult Chicken (Fresh Meat)",
+    "pattern": "PLATINUM "
+  },
+  {
+    "product_key": "purina_dog_chow|dog_chow_senior_lamb|dry",
+    "brand": "PURINA Dog Chow",
+    "original": "Chow Senior Lamb",
+    "cleaned": "Senior Lamb",
+    "pattern": "Chow "
+  },
+  {
+    "product_key": "jack_super_premium|jack_premium_hypoallergenic_alucup_with_beef_&_sweet_potatoes|wet",
+    "brand": "Jack Super Premium",
+    "original": "Premium Hypoallergenic Alucup with Beef & Sweet Potatoes",
+    "cleaned": "Hypoallergenic Alucup with Beef & Sweet Potatoes",
+    "pattern": "Premium "
+  },
+  {
+    "product_key": "macs|mac's_adult|wet",
+    "brand": "Mac's",
+    "original": "MAC's Adult",
+    "cleaned": "Adult",
+    "pattern": "MAC's "
+  },
+  {
+    "product_key": "select_gold_(fressnapf)|select_gold_adult_medium_chicken|dry",
+    "brand": "Select Gold (Fressnapf)",
+    "original": "Gold Adult Medium Chicken",
+    "cleaned": "Adult Medium Chicken",
+    "pattern": "Gold "
+  },
+  {
+    "product_key": "trovet|trovet_hypoallergenic_ipd_(insect)_dog|dry",
+    "brand": "Trovet",
+    "original": "TROVET Hypoallergenic IPD (Insect) Dog",
+    "cleaned": "Hypoallergenic IPD (Insect) Dog",
+    "pattern": "TROVET "
+  }
+]
