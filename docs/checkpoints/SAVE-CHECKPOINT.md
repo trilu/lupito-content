@@ -1,62 +1,74 @@
-# Checkpoint: Retailer Data Audit & Production Coverage Improvements
+# Checkpoint: Full Brand Normalization Applied
 
-**Saved:** 2025-09-12T08:45:00  
+**Saved:** 2025-09-12T13:48:00  
 **Branch:** main  
-**Status:** Mixed Success ⚠️
+**Status:** Complete ✅  
+**Previous:** 2025-09-12T13:30:00
 
-## 🎯 Session Achievements
+## 🎯 Session Achievements (Continuation from 13:30)
 
-### 1. Production Coverage Mini-Sprint (ACTIVE Brands)
-Successfully improved form and life_stage coverage for Bozita and Belcando using manufacturer snapshots:
+### 1. COMPLETE Brand Normalization Applied ✅
+Successfully applied full brand normalization to entire foods_canonical database:
 
-**Coverage Improvements:**
-- **Bozita Form:** 39.1% → 83.9% (+44.8%)
-- **Bozita Life Stage:** 39.1% → 69.0% (+29.9%)
-- **Belcando Form:** 66.7% → 94.1% (+27.4%)
-- **Belcando Life Stage:** 66.7% → 68.6% (+1.9%)
-- **Briantos:** Already optimal at 97.9% form/life_stage
+**Critical Fix Discovered:**
+- Initial normalization script only updated 137 products
+- Database had 5,223 products total - pagination issue limited to first 1,000
+- Many products had incorrect brand extractions (e.g., "Royal" instead of "Royal Canin")
 
-**Technical Implementation:**
-- Created `b1a_enhanced_form_lifestage.py` for advanced extraction
-- Extracted form/life_stage from 76 manufacturer snapshots
-- Updated 58 products with missing fields
-- No retailer scraping used - stayed manufacturer-first
+**Implementation:**
+- Fixed pagination to process all 5,223 products
+- Applied normalization to 994 products total (219 + 775)
+- Fixed critical brand extraction errors:
+  - Royal → Royal Canin (97 products) 
+  - Natures → Nature's Menu (87 products)
+  - Happy → Happy Dog (63 products)
+  - James → James Wellbeloved (55 products)
+  - Royal Canin Breed/Size/Care/Veterinary → Royal Canin (102 products)
+- Royal Canin now properly normalized: 253 products total
+- Generated full rollback capabilities with audit trail
 
-### 2. Retailer Data Audit (Chewy + AADF)
-Comprehensive audit of 2,383 retailer products without touching production:
+### 2. AADF Pipeline Enhancement ✅
+Complete pipeline with improved brand extraction and matching:
 
-**Chewy Dataset (1,282 products):**
-- 99.7% brand extraction (from brand.slogan field)
-- 98.9% form classification
-- 96.9% life_stage detection
-- 95.8% price data with weight extraction
-- Top brands: Stella & Chewy's, Blue Buffalo, Purina Pro Plan
+**Staging Infrastructure:**
+- Created `retailer_staging_aadf_v2` table with proper schema
+- Enhanced brand/product extraction from URLs
+- Processed 1,101 AADF products with 100% ingredient coverage
+- Implemented comprehensive matching analysis
 
-**AADF Dataset (1,101 products):**
-- 100% brand extraction
-- 99.5% form classification  
-- 99.0% life_stage detection
-- 100% ingredients data (unique value!)
-- Top brands: Royal Canin, Hill's, Eukanuba
+**Re-match Results After Normalization:**
+- High-confidence matches: 13 (1.2%) 
+- New UK products identified: 1,078 (97.9%)
+- Root cause identified: Market mismatch (UK vs European focus)
+- Only 17% brand overlap between AADF and canonical
 
-**Acceptance Gates:** All PASSED ✅
-- Match Rate: PASS (retailer-specific products expected)
-- Quality Lift: PASS (98% form, 95% life_stage coverage)
-- Safety: PASS (hash-based keys, no collisions)
-- Provenance: PASS (100% source attribution)
+### 3. Database Architecture Resolution ✅
+Fixed SQL compatibility and documented structure:
+
+**SQL Fixes:**
+- Resolved PostgreSQL `REFRESH MATERIALIZED VIEW` syntax errors
+- Discovered views are regular (not materialized) - no refresh needed
+- Created corrected scripts: `sql/refresh_views_fixed.sql`
+
+**Documentation:**
+- Created `.claude/context/DATABASE_ARCHITECTURE.md`
+- Explains table relationships and data flow
+- Clarifies view behavior (auto-update, no refresh needed)
 
 ## 📊 Key Metrics
 
-### Current Production Status (Post-Improvements)
-- **Bozita:** 87 SKUs, 83.9% form, 69.0% life_stage, 64.4% ingredients
-- **Belcando:** 51 SKUs, 94.1% form, 68.6% life_stage, 35.3% ingredients
-- **Briantos:** 47 SKUs, 97.9% form, 97.9% life_stage, 34.0% ingredients
+### Production Database Status
+- `foods_canonical`: 5,223 products (994 with normalized brands)
+- `foods_published_prod`: 134 products (production subset)
+- `foods_published_preview`: 5,223 products (all products)
+- `brand_alias`: 327 mappings (313 + 14 new)
+- Unique brands: 386 (down from 395 after normalization)
 
-### Retailer Data Ready for Staging
-- **Total staged products:** 2,383
-- **High confidence (≥0.7):** ~1,668 products
-- **Unique brands discovered:** ~600
-- **Geographic coverage:** US (Chewy) + UK (AADF)
+### AADF Analysis Results  
+- Total AADF products: 1,101
+- Brands in AADF: 241 unique
+- Overlap with canonical: 41 brands (17%)
+- Ready for import: 1,078 new UK products
 
 ## 🛠 Technical Stack Updates
 
@@ -66,6 +78,9 @@ Comprehensive audit of 2,383 retailer products without touching production:
 - `analyze_retailer_data_v2.py` - Improved retailer data parser
 - `generate_retailer_reports.py` - Comprehensive report generator
 - `stage_aadf_data.py` - AADF staging and audit processor
+- `apply_full_brand_normalization.py` - Full DB normalization with pagination
+- `fix_brand_extraction_errors.py` - Fix incorrect brand extractions
+- `verify_normalization_complete.py` - Comprehensive verification tool
 
 ### Database Changes
 - Created `sql/retailer_staging.sql` - DDL for staging tables
@@ -117,12 +132,13 @@ Comprehensive audit of 2,383 retailer products without touching production:
 - **AADF Unique Value:** 100% ingredients coverage for UK products
 - **Brand Normalization:** Critical for avoiding duplicates
 
-## ⚠️ Known Issues
+## ⚠️ Known Issues (Resolved)
 
-1. **Materialized Views:** Showing stale data (last refresh 2025-09-11)
-2. **Ingredient Coverage:** Briantos (34%) and Belcando (35%) need improvement
-3. **Column Mismatch:** `retailer_staging_aadf` table has different column names than expected
-4. **Brand Normalization:** ~600 unique brands need mapping review
+1. ~~**Brand Normalization:** Initial script only processed 1,000 products~~ ✅ FIXED
+2. ~~**Brand Extraction:** Incorrect partial brands like "Royal", "The", "Natures"~~ ✅ FIXED
+3. **Materialized Views:** Actually regular views - no refresh needed ✅ CLARIFIED
+4. **Ingredient Coverage:** Briantos (34%) and Belcando (35%) need improvement
+5. **Minor:** 6 products still have 'natures' (lowercase) brand
 
 ## 🎉 Success Validation
 
@@ -136,8 +152,17 @@ Comprehensive audit of 2,383 retailer products without touching production:
 - ✅ All acceptance gates passed
 - ✅ Ready for selective merge
 
+### Brand Normalization Success
+- ✅ 994 products normalized across 386 unique brands
+- ✅ Royal Canin: 253 products (was split across 6 variations)
+- ✅ Fixed incorrect partial brand extractions
+- ✅ Database integrity maintained with rollback files
+
 ---
 
-**Next Session Continuation Point:** Review and merge high-confidence retailer matches after brand normalization. Focus on extracting ingredients for Briantos and Belcando from existing manufacturer snapshots to reach 85% coverage gate.
+**Next Session Continuation Point:** With brand normalization complete, ready to:
+1. Re-run AADF matching with properly normalized brands
+2. Review and merge high-confidence retailer matches (confidence ≥0.7)
+3. Extract ingredients for Briantos and Belcando from manufacturer snapshots
 
-**Recommendation:** MERGE-PARTIAL for retailer data with confidence ≥0.7 after manual brand review.
+**Critical Success:** Brand normalization fixed - Royal Canin went from fragmented (Royal, Royal Canin Breed, etc.) to unified 253 products under single brand.
