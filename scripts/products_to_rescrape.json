@@ -1,0 +1,54 @@
+{
+  "total_failed": 15,
+  "to_rescrape": 12,
+  "products": [
+    {
+      "product_key": "tasteofthewild|tasteofthewildpreyangusbeef|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/taste_of_the_wild/2195170?activeVariant=2195170.2"
+    },
+    {
+      "product_key": "advance-veterinary-diets|advance_puppy_sensitive_with_salmon|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/advance/1905926?activeVariant=1905926.3"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_caring_senior_medium_breed_chicken|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/senior/701032?activeVariant=701032.2"
+    },
+    {
+      "product_key": "eukanuba|eukanubaseniorlargebreedgrainfreeoceanfish_v2|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/senior/2155581?activeVariant=2155581.0"
+    },
+    {
+      "product_key": "eukanuba|eukanubaseniorsmallmediumbreedgrainfreeoceanfish_v2|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/senior/2155602?activeVariant=2155602.2"
+    },
+    {
+      "product_key": "happydognaturcroq|happydognaturcroqminiadultsalmonrice_v3|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/happy_dog_medium/happy_dog_natur_croq/2105133?activeVariant=2105133.0"
+    },
+    {
+      "product_key": "hillsscienceplan|hillsscienceplanadult1healthymobilitysmallminiwith|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/hills_science_plan/adult/790858?activeVariant=790858.1"
+    },
+    {
+      "product_key": "purinaproplanveterinarydiets|purinaproplanveterinarydietsnfrenalfunction|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/purina_vet_diet/583022?activeVariant=583022.6"
+    },
+    {
+      "product_key": "royalcanincarenutrition|royalcaninminiexigent|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_care_nutrition/262130?activeVariant=262130.8"
+    },
+    {
+      "product_key": "tasteofthewild|tasteofthewildappalachianvalleyadultsmallbreed|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/taste_of_the_wild/553780?activeVariant=553780.5"
+    },
+    {
+      "product_key": "purizon|purizongrainfreetrialpacks|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/purizon/trial_packs/1191314"
+    },
+    {
+      "product_key": "happydognaturcroq|happydognaturcroqminiadultsalmonrice_v3|dry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/happy_dog_medium/happy_dog_natur_croq/2105133?activeVariant=2105133.0"
+    }
+  ]
+}
