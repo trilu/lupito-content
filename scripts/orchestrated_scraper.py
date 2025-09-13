@@ -139,6 +139,13 @@ class OrchestratedScraper:
         # Extract ingredients
         import re
         ingredients_patterns = [
+            # Pattern for "Ingredients:" with colon after "Go to analytical constituents"
+            r'Go to analytical constituents\s*\n\s*Ingredients:\s*\n([A-Za-z][^\n]{20,}?)(?:\n(?:Protein source|Carbohydrate|Analytical|Additives|Nutritional)|$)',
+            # New pattern to handle "Ingredients\nGo to...\nIngredients\nActual ingredients"
+            r'Ingredients\s*(?:Go to[^\n]+\n)?(?:Ingredients\s*\n)?([A-Za-z][^\n]{20,}?)(?:\n(?:Analytical|Additives|Nutritional|\*L\.I\.P)|$)',
+            # Pattern with colon
+            r'Ingredients:\s*\n([A-Za-z][^\n]{20,}?)(?:\n(?:Protein source|Analytical|Additives|Nutritional)|$)',
+            # Original patterns
             r'(?:Composition|Ingredients)[:\s]*\n?([^\n]{20,}?)(?:\n(?:Analytical|Additives|Nutritional)|$)',
             r'(?:Composition|Ingredients)[:\s]*([A-Za-z][^.]{30,}(?:\.[^.]{20,})*?)(?:Analytical|$)',
         ]
@@ -147,7 +154,10 @@ class OrchestratedScraper:
             match = re.search(pattern, page_text, re.IGNORECASE | re.MULTILINE | re.DOTALL)
             if match:
                 ingredients = match.group(1).strip()
-                if any(word in ingredients.lower() for word in ['meat', 'chicken', 'beef', 'fish', 'rice', 'wheat']):
+                # Skip if it's navigation text
+                if 'go to' in ingredients.lower() or 'constituent' in ingredients.lower():
+                    continue
+                if any(word in ingredients.lower() for word in ['meat', 'chicken', 'beef', 'fish', 'rice', 'wheat', 'maize', 'protein', 'poultry']):
                     result['ingredients_raw'] = ingredients[:3000]
                     self.stats['with_ingredients'] += 1
                     break
