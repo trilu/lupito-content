@@ -1,0 +1,763 @@
+{
+  "timestamp": "20250913_125411",
+  "statistics": {
+    "total_chewy_products": 1284,
+    "total_db_products": 8502,
+    "exact_matches": 0,
+    "brands_with_new_products": 20,
+    "potential_improvements": 0,
+    "completely_new_products": 787,
+    "new_brands": 120,
+    "chewy_brands": 139,
+    "db_brands": 481,
+    "common_brands": 19
+  },
+  "new_brands": [
+    "gentle giants",
+    "stella and chewys",
+    "chasing our tails",
+    "squarepet",
+    "bixbi",
+    "health extension",
+    "earth animal",
+    "turkey",
+    "organomics",
+    "american journey",
+    "good n tasty",
+    "farmland traditions",
+    "maev",
+    "herbsmith",
+    "inception",
+    "pupford",
+    "go solutions",
+    "honey im home",
+    "natural balance",
+    "caru",
+    "dr garys best breed",
+    "true acre foods",
+    "chicken soup for the soul",
+    "nutrish",
+    "fur valley",
+    "portland pet food company",
+    "dr tims",
+    "because its better",
+    "milkbone",
+    "holistic select",
+    "the honest kitchen",
+    "sojos",
+    "country vet naturals",
+    "redbarn",
+    "badlands ranch",
+    "petplate",
+    "weruva",
+    "pawstruck",
+    "grandma lucys",
+    "next level super premium pet food",
+    "zeal canada",
+    "nulo",
+    "holi",
+    "wishbone",
+    "zignature",
+    "the new zealand natural pet food co",
+    "american natural premium",
+    "inukshuk",
+    "beef",
+    "jac pet nutrition",
+    "ultimates",
+    "natures diet",
+    "biljac",
+    "kinetic",
+    "tender true",
+    "smallbatch pets",
+    "the pets table",
+    "victor",
+    "get joy",
+    "happy howl",
+    "under the weather",
+    "sprankles",
+    "canine caviar",
+    "merrick",
+    "koha",
+    "natures advantage",
+    "shepherd boy farms",
+    "chicken turkey cookout",
+    "nom nom",
+    "chicken",
+    "kibbles n bits",
+    "kasiks",
+    "beef bacon",
+    "naavi",
+    "360 pet nutrition",
+    "raw paws",
+    "eagle pack",
+    "purpose",
+    "mission farms",
+    "king lou",
+    "birdie louie",
+    "justfoodfordogs",
+    "dog chow",
+    "i and love and you",
+    "first light farms",
+    "stewart",
+    "supreme source",
+    "bravo",
+    "moist meaty",
+    "blue",
+    "instinct",
+    "natures logic",
+    "full moon",
+    "fidos bone broth",
+    "puppy chow",
+    "lucy pet products",
+    "big red",
+    "earthborn holistic",
+    "natures recipe",
+    "vital essentials",
+    "bully max",
+    "jinx",
+    "heckova",
+    "evolve",
+    "ultimate pet nutrition",
+    "addiction",
+    "boat to bowl pet food",
+    "sportmix",
+    "atta boy",
+    "solid gold",
+    "simple food project",
+    "evangers",
+    "rachael ray nutrish",
+    "blackwood",
+    "dr pol",
+    "halo",
+    "purebites",
+    "muenster",
+    "wholesomes",
+    "purina beneful"
+  ],
+  "exact_matches": [],
+  "potential_improvements": [],
+  "new_products_sample": [
+    {
+      "brand": "stella and chewys",
+      "product": "Stella & Chewy's Chewy's Chicken Meal Mixers Freeze-Dried Raw Dog Food Topper, 1-oz bag",
+      "url": "https://www.chewy.com/stella-chewys-chewys-chicken-meal/dp/612142",
+      "price": "1.62"
+    },
+    {
+      "brand": "redbarn",
+      "product": "Redbarn Powerfood Digestive Health Beef & Lamb Gently Air Dried Dog Food, 2.5-oz bag",
+      "url": "https://www.chewy.com/redbarn-grain-free-beef-lamb-gut/dp/1605566",
+      "price": "2.92"
+    },
+    {
+      "brand": "stella and chewys",
+      "product": "Stella & Chewy's Stella's Super Beef Dinner Patties Freeze-Dried Raw Dog Food, 14-oz bag",
+      "url": "https://www.chewy.com/stella-chewys-stellas-super-beef/dp/34229",
+      "price": "23.39"
+    },
+    {
+      "brand": "justfoodfordogs",
+      "product": "JustFoodForDogs JustFresh Human Grade Home-Cooked Chicken Recipe Fresh Dog Food, 12-oz pouch",
+      "url": "https://www.chewy.com/justfoodfordogs-justfresh-home-cooked/dp/1487430",
+      "price": "6.99"
+    },
+    {
+      "brand": "portland pet food company",
+      "product": "Portland Pet Food Company Homestyle Variety Pack Wet Dog Food Topper, 9-oz pouch, case of 5",
+      "url": "https://www.chewy.com/portland-pet-food-company-homestyle/dp/279347",
+      "price": "22.72"
+    },
+    {
+      "brand": "pawstruck",
+      "product": "Pawstruck Beef High Protein Grain-Free Air-Dried Dog Food, 32-oz bag",
+      "url": "https://www.chewy.com/pawstruck-beef-recipe-grain-free-air/dp/971910",
+      "price": "19.48"
+    },
+    {
+      "brand": "natures diet",
+      "product": "Nature's Diet Fresh Beef Simply Raw Freeze-Dried Dog Food, 3-lb bag",
+      "url": "https://www.chewy.com/natures-diet-fresh-beef-simply-raw/dp/344413",
+      "price": "24.34"
+    },
+    {
+      "brand": "stella and chewys",
+      "product": "Stella & Chewy's Stella's Super Beef Meal Mixers Freeze-Dried Raw Dog Food Topper, 35-oz bag, bundle of 2",
+      "url": "https://www.chewy.com/stella-chewys-stellas-super-beef-meal/dp/109897",
+      "price": "110.49"
+    },
+    {
+      "brand": "stella and chewys",
+      "product": "Stella & Chewy's Chewy's Chicken Dinner Patties Freeze-Dried Raw Dog Food, 25-oz bag",
+      "url": "https://www.chewy.com/stella-chewys-chewys-chicken-dinner/dp/121085",
+      "price": "38.99"
+    },
+    {
+      "brand": "jinx",
+      "product": "Jinx Freeze-Dried Salmon Dry Dog Food Topper, 3-oz bag",
+      "url": "https://www.chewy.com/jinx-freeze-dried-salmon-dry-dog-food/dp/394021",
+      "price": "6.49"
+    },
+    {
+      "brand": "the honest kitchen",
+      "product": "The Honest Kitchen Bone Broth POUR OVERS Beef Stew Wet Dog Food Topper, 5.5-oz, case of 12",
+      "url": "https://www.chewy.com/honest-kitchen-bone-broth-pour-overs/dp/177105",
+      "price": "20.2"
+    },
+    {
+      "brand": "solid gold",
+      "product": "Solid Gold Homestyle Meal Skin & Coat Health Chicken Dog Food Topper, 9-oz pouch",
+      "url": "https://www.chewy.com/solid-gold-homestyle-meal-chicken-dog/dp/1082542",
+      "price": "3.23"
+    },
+    {
+      "brand": "american natural premium",
+      "product": "American Natural Premium Market Fresh Pork with Pumpkin & Apples Freeze-Dried Dog Food, 4-oz bag",
+      "url": "https://www.chewy.com/american-natural-premium-market-fresh/dp/2469302",
+      "price": "9.89"
+    },
+    {
+      "brand": "solid gold",
+      "product": "Solid Gold Beef Bone Broth with Turmeric Dog Food Topper, 8-oz pouch",
+      "url": "https://www.chewy.com/solid-gold-beef-bone-broth-turmeric/dp/176129",
+      "price": "2.91"
+    },
+    {
+      "brand": "jinx",
+      "product": "Jinx Homemades Grain-Free Beef & Chicken Pate Wet Dog Food Meal Topper, 3-oz pouch, case of 8",
+      "url": "https://www.chewy.com/jinx-homemades-grain-free-beef/dp/1709398",
+      "price": "6.48"
+    },
+    {
+      "brand": "redbarn",
+      "product": "Redbarn Powerfood Digestive Health Beef & Lamb Gently Air Dried Dog Food, 32-oz bag",
+      "url": "https://www.chewy.com/redbarn-grain-free-beef-lamb-gut/dp/1605534",
+      "price": "26.32"
+    },
+    {
+      "brand": "health extension",
+      "product": "Health Extension Gently Cooked Beef & Potato Recipe Wet Dog Food, 9-oz pouch, 1 count",
+      "url": "https://www.chewy.com/health-extension-gently-cooked-beef/dp/970062",
+      "price": "4.54"
+    },
+    {
+      "brand": "health extension",
+      "product": "Health Extension Gently Cooked Grain-Free Variety Pack Wet Dog Food, 3-oz pouch, 20 count",
+      "url": "https://www.chewy.com/health-extension-gently-cooked-grain/dp/1724414",
+      "price": "25.34"
+    },
+    {
+      "brand": "instinct",
+      "product": "Instinct Raw Boost Mixers Gut Health Recipe Grain-Free Freeze-Dried Dog Food Topper, 23-oz bag",
+      "url": "https://www.chewy.com/instinct-freeze-dried-raw-boost/dp/170070",
+      "price": "35.74"
+    },
+    {
+      "brand": "redbarn",
+      "product": "Redbarn Naturals Beef Recipe Dog Food Roll, 64-oz roll",
+      "url": "https://www.chewy.com/redbarn-naturals-beef-recipe-dog-food/dp/45769",
+      "price": "10.72"
+    },
+    {
+      "brand": "health extension",
+      "product": "Health Extension Gently Cooked Chicken & Pumpkin Recipe Wet Dog Food, 9-oz pouch, 10 count",
+      "url": "https://www.chewy.com/health-extension-gently-cooked/dp/970038",
+      "price": "32.49"
+    },
+    {
+      "brand": "justfoodfordogs",
+      "product": "JustFoodForDogs JustFresh Human Grade Home-Cooked Chicken Recipe Fresh Dog Food, 12-oz pouch",
+      "url": "https://www.chewy.com/justfoodfordogs-justfresh-home-cooked/dp/1401430",
+      "price": "6.99"
+    },
+    {
+      "brand": "solid gold",
+      "product": "Solid Gold Turkey Grain-Free Bone Broth with Pumpkin & Ginger Dog Food, 8-oz pouch",
+      "url": "https://www.chewy.com/solid-gold-turkey-grain-free-bone/dp/176125",
+      "price": "2.91"
+    },
+    {
+      "brand": "the honest kitchen",
+      "product": "The Honest Kitchen Daily Boosters Beef Bone Broth with Turmeric for Dogs, 3.6-oz jar",
+      "url": "https://www.chewy.com/honest-kitchen-daily-boosters-beef/dp/120153",
+      "price": "8.44"
+    },
+    {
+      "brand": "simple food project",
+      "product": "Simple Food Project 6-Pack Sample Bundle Freeze-Dried Dog Food, 6-oz",
+      "url": "https://www.chewy.com/simple-food-project-6-pack-sample/dp/1996838",
+      "price": "12.86"
+    },
+    {
+      "brand": "herbsmith",
+      "product": "Herbsmith Smiling Dog Kibble Seasoning Freeze-Dried Beef with Potatoes, Carrots, & Celery Dog Food Topper, 4.87-oz bottle",
+      "url": "https://www.chewy.com/herbsmith-smiling-dog-kibble/dp/112287",
+      "price": "9.74"
+    },
+    {
+      "brand": "instinct",
+      "product": "Instinct Raw Boost Mixers Skin & Coat Health Recipe Grain-Free Freeze-Dried Dog Food Topper, 12.5-oz bag, bundle of 2",
+      "url": "https://www.chewy.com/instinct-freeze-dried-raw-boost/dp/187505",
+      "price": "41.59"
+    },
+    {
+      "brand": "instinct",
+      "product": "Instinct Raw Boost Shakers Chicken Recipe Gut Health Grain-Free Freeze-Dried Dog Food Topper, 5.5-oz bottle",
+      "url": "https://www.chewy.com/instinct-raw-boost-shakers-chicken/dp/1076214",
+      "price": "12.34"
+    },
+    {
+      "brand": "instinct",
+      "product": "Instinct Healthy Cravings Variety Pack Grain-Free Wet Dog Food Topper, 3-oz pouch, case of 36",
+      "url": "https://www.chewy.com/instinct-healthy-cravings-grain-free/dp/187495",
+      "price": "50.68"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Life Protection Formula Adult Chicken & Brown Rice Recipe Dry Dog Food, 30-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-life-protection-formula/dp/32041",
+      "price": "44.98"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Life Protection Formula Adult Salmon & Brown Rice Recipe Dry Dog Food, 34-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-life-protection-formula/dp/2037718",
+      "price": "58.98"
+    },
+    {
+      "brand": "beef",
+      "product": "Vital Essentials Freeze-Dried Raw Beef Entree & Mixer Dog Food Crunchy Nibs, 14-oz bag",
+      "url": "https://www.chewy.com/vital-essentials-beef-nibs-entree/dp/793582",
+      "price": "23.39"
+    },
+    {
+      "brand": "stella and chewys",
+      "product": "Stella & Chewy's Marie's Magical Dinner Freeze-Dried Raw Dust Grass-Fed Beef Dog Food Topper, 7-oz bag",
+      "url": "https://www.chewy.com/stella-chewys-maries-magical-dinner/dp/203217",
+      "price": "14.94"
+    },
+    {
+      "brand": "puppy chow",
+      "product": "Puppy Chow Complete with Real Chicken Dry Dog Food, 30-lb bag",
+      "url": "https://www.chewy.com/puppy-chow-complete-real-chicken-dry/dp/767790",
+      "price": "17.8"
+    },
+    {
+      "brand": "stella and chewys",
+      "product": "Stella & Chewy's Chewy's Chicken Meal Mixers Freeze-Dried Raw Dog Food Topper, 18-oz bag",
+      "url": "https://www.chewy.com/stella-chewys-chewys-chicken-meal/dp/109901",
+      "price": "28.59"
+    },
+    {
+      "brand": "jinx",
+      "product": "Jinx Homemades Grain-Free Beef & Chicken Pate Wet Dog Food, 9-oz pouch, case of 12",
+      "url": "https://www.chewy.com/jinx-beef-chicken-homestyle-grain/dp/765670",
+      "price": "28.7"
+    },
+    {
+      "brand": "nutrish",
+      "product": "Nutrish Whole Health Blend Puppy Real Chicken & Brown Rice Recipe Dry Dog Food, 14-lb bag",
+      "url": "https://www.chewy.com/rachael-ray-nutrish-bright-puppy/dp/156892",
+      "price": "15.33"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Life Protection Formula Puppy Chicken & Brown Rice Recipe Dry Dog Food, 30-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-life-protection-formula/dp/32079",
+      "price": "61.73"
+    },
+    {
+      "brand": "chicken",
+      "product": "Gentle Giants Natural Non-GMO Dog & Puppy Chicken Dry Dog Food, 30-lb bag",
+      "url": "https://www.chewy.com/gentle-giants-natural-non-gmo-dog/dp/248670",
+      "price": "50.99"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Wilderness Chicken Recipe High-Protein Puppy Dry Dog Food, 24-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-wilderness-puppy-high/dp/733510",
+      "price": "48.98"
+    },
+    {
+      "brand": "puppy chow",
+      "product": "Puppy Chow Tender & Crunchy with Real Beef Dry Dog Food, 30-lb bag",
+      "url": "https://www.chewy.com/puppy-chow-tender-crunchy-real-beef/dp/767774",
+      "price": "17.8"
+    },
+    {
+      "brand": "jinx",
+      "product": "Jinx Salmon & Chicken Homemades Grain-Free Wet Dog Food, 9-oz pouch, case of 12",
+      "url": "https://www.chewy.com/jinx-homemades-chicken-salmon-pate/dp/1709070",
+      "price": "31.19"
+    },
+    {
+      "brand": "natures recipe",
+      "product": "Nature's Recipe Grain-Free Puppy Chicken, Sweet Potato, & Pumpkin Recipe Dry Dog Food, 12-lb bag",
+      "url": "https://www.chewy.com/natures-recipe-grain-free-puppy/dp/115537",
+      "price": "19.49"
+    },
+    {
+      "brand": "country vet naturals",
+      "product": "Country Vet Naturals 28/18 Healthy Puppy Dog Food, 35-lb bag",
+      "url": "https://www.chewy.com/country-vet-naturals-2818-healthy/dp/225810",
+      "price": "29.84"
+    },
+    {
+      "brand": "victor",
+      "product": "VICTOR Grain-Free Active High Protein Dry Dog Food, 30-lb bag",
+      "url": "https://www.chewy.com/victor-purpose-active-dog-puppy/dp/120700",
+      "price": "45.69"
+    },
+    {
+      "brand": "puppy chow",
+      "product": "Puppy Chow High Protein with Real Chicken Large Breed Dry Puppy Food, 30-lb bag",
+      "url": "https://www.chewy.com/puppy-chow-high-protein-real-chicken/dp/127755",
+      "price": "17.8"
+    },
+    {
+      "brand": "puppy chow",
+      "product": "Puppy Chow Complete with Real Lamb & Rice High Protein Dry Dog Food, 15-lb bag",
+      "url": "https://www.chewy.com/puppy-chow-complete-real-lamb-rice/dp/1496606",
+      "price": "10.13"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Life Protection Formula Large Breed Puppy Chicken & Brown Rice Recipe Dry Dog Food, 30-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-life-protection-formula/dp/32084",
+      "price": "61.73"
+    },
+    {
+      "brand": "purina beneful",
+      "product": "Purina Beneful Healthy Puppy with Farm Raised Chicken High Protein Dry Dog Food, 14-lb bag",
+      "url": "https://www.chewy.com/purina-beneful-healthy-puppy-farm/dp/200458",
+      "price": "10.71"
+    },
+    {
+      "brand": "beef bacon",
+      "product": "Gentle Giants Natural Non-GMO Dog & Puppy Beef & Bacon Dry Dog Food, 24-lb bag",
+      "url": "https://www.chewy.com/gentle-giants-natural-non-gmo-dog/dp/241121",
+      "price": "50.99"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Wilderness Red Meat & Grains Rocky Mountain Recipe High-Protein Puppy Dry Dog Food, 24-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-wilderness-rocky/dp/735614",
+      "price": "57.99"
+    },
+    {
+      "brand": "american journey",
+      "product": "American Journey Premium Loaf Poultry & Beef Variety Pack Grain-Free Canned Dog Food, 12.5-oz can, case of 12",
+      "url": "https://www.chewy.com/american-journey-poultry-beef-variety/dp/160899",
+      "price": "19.49"
+    },
+    {
+      "brand": "natures recipe",
+      "product": "Nature's Recipe Grain-Free Chicken & Venison Recipe in Broth Wet Dog Food, 2.75-oz, case of 24",
+      "url": "https://www.chewy.com/natures-recipe-grain-free-chicken/dp/48801",
+      "price": "13.57"
+    },
+    {
+      "brand": "natures recipe",
+      "product": "Nature's Recipe Variety Pack Grain-Free Wet Dog Food, 2.75-oz, case of 12",
+      "url": "https://www.chewy.com/natures-recipe-variety-pack-grain/dp/234457",
+      "price": "9.68"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo's Stew Chicken & Beef Variety Pack Wet Dog Food,12.5-oz can, case of 6",
+      "url": "https://www.chewy.com/blue-buffalos-stew-chicken-beef/dp/735678",
+      "price": "11.43"
+    },
+    {
+      "brand": "purina beneful",
+      "product": "Purina Beneful Freshly Prepared Meals Variety Pack Wet Dog Food, 10-oz, case of 12",
+      "url": "https://www.chewy.com/purina-beneful-prepared-meals-variety/dp/143861",
+      "price": "17.87"
+    },
+    {
+      "brand": "jinx",
+      "product": "Jinx Kibble Sauce Beef Bone Broth Wet Dog Food Topper, 12-fl oz bottle, 12-fl oz bottle, bundle of 2",
+      "url": "https://www.chewy.com/jinx-kibble-sauce-beef-bone-broth-wet/dp/1709486",
+      "price": "8.97"
+    },
+    {
+      "brand": "purina beneful",
+      "product": "Purina Beneful IncrediBites Adult Variety Pack Chicken Beef & Salmon Small Breed Wet Dog Food, 3-oz, case of 12",
+      "url": "https://www.chewy.com/purina-beneful-incredibites-variety/dp/143859",
+      "price": "6.99"
+    },
+    {
+      "brand": "koha",
+      "product": "KOHA Pure Shreds Duck Entree High Protein Wet Dog Food, 12.5-oz can, case of 12",
+      "url": "https://www.chewy.com/koha-pure-shreds-duck-entree-high/dp/2261070",
+      "price": "68.29"
+    },
+    {
+      "brand": "stella and chewys",
+      "product": "Stella & Chewy's Dandy Lamb Dinner Patties Freeze-Dried Raw Dog Food, 25-oz bag",
+      "url": "https://www.chewy.com/stella-chewys-dandy-lamb-dinner/dp/168120",
+      "price": "38.99"
+    },
+    {
+      "brand": "natures recipe",
+      "product": "Nature's Recipe Variety Pack Grain-Free Wet Dog Food, 2.75-oz, case of 12",
+      "url": "https://www.chewy.com/natures-recipe-variety-pack-grain/dp/234458",
+      "price": "9.68"
+    },
+    {
+      "brand": "jinx",
+      "product": "Jinx Kibble Sauce Chicken Bone Broth Wet Dog Food Topper, 12-fl oz bottle",
+      "url": "https://www.chewy.com/jinx-kibble-sauce-chicken-bone-broth/dp/1709462",
+      "price": "3.23"
+    },
+    {
+      "brand": "evangers",
+      "product": "Evanger's Classic Recipes Cooked Chicken Grain-Free Canned Dog Food, 12.5-oz, case of 12",
+      "url": "https://www.chewy.com/evangers-classic-recipes-cooked/dp/35930",
+      "price": "16.24"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Homestyle Recipe Turkey Meatloaf Dinner with Garden Vegetables Canned Dog Food, 12.5-oz, case of 12",
+      "url": "https://www.chewy.com/blue-buffalo-homestyle-recipe-turkey/dp/31985",
+      "price": "22.26"
+    },
+    {
+      "brand": "health extension",
+      "product": "Health Extension Little Cups Chicken & Turkey Recipe Variety Pack Small Breed Grain-Free Wet Puppy Food, 3.5-oz can, case of 12",
+      "url": "https://www.chewy.com/health-extension-little-cups-chicken/dp/285466",
+      "price": "20.79"
+    },
+    {
+      "brand": "i and love and you",
+      "product": "I and Love and You Beef Booyah and Lambarama Stew Grain-Free Combo Pack Canned Dog Food, 13-oz, case of 6",
+      "url": "https://www.chewy.com/i-love-you-beef-booyah-lambarama-stew/dp/157231",
+      "price": "11.21"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Divine Delights Gravy Variety Pack Filet Mignon & NY Strip Flavor Dog Food Trays, 3.5-oz, case of 12",
+      "url": "https://www.chewy.com/blue-buffalo-divine-delights-gravy/dp/141564",
+      "price": "11.23"
+    },
+    {
+      "brand": "purina beneful",
+      "product": "Purina Beneful Medleys Tuscan, Romana & Mediterranean Style Variety Pack in Gravy Wet Dog Food, 3-oz can, case of 30",
+      "url": "https://www.chewy.com/purina-beneful-medleys-tuscan-romana/dp/127666",
+      "price": "16.39"
+    },
+    {
+      "brand": "evangers",
+      "product": "Evanger's Classic Recipes Beef & Bacon Grain-Free Canned Dog Food, 12.5-oz, case of 12",
+      "url": "https://www.chewy.com/evangers-classic-recipes-beef-bacon/dp/35948",
+      "price": "18.06"
+    },
+    {
+      "brand": "koha",
+      "product": "KOHA Pure Shreds Variety Pack High Protein Wet Dog Food, 12.5-oz can, case of 6",
+      "url": "https://www.chewy.com/koha-pure-shreds-variety-pack-high/dp/2261158",
+      "price": "28.02"
+    },
+    {
+      "brand": "natures recipe",
+      "product": "Nature's Recipe Chicken & Lamb Recipe in Savory Broth Grain-Free Wet Dog Food, 2.75-oz tray, case of 24",
+      "url": "https://www.chewy.com/natures-recipe-chicken-lamb-recipe-in/dp/181446",
+      "price": "16.29"
+    },
+    {
+      "brand": "nutrish",
+      "product": "Nutrish Healthy Weight Real Turkey & Pumpkin Recipe Premium Pate Wet Dog Food, 13-oz can, case of 12 (Rachael Ray)",
+      "url": "https://www.chewy.com/rachael-ray-nutrish-weight-management/dp/399646",
+      "price": "16.87"
+    },
+    {
+      "brand": "nutrish",
+      "product": "Nutrish Whole Health Blend Real Beef, Pea, & Brown Rice Recipe Dry Dog Food, 6-lb bag",
+      "url": "https://www.chewy.com/rachael-ray-nutrish-real-beef-pea/dp/36742",
+      "price": "6.49"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Homestyle Recipe Variety Pack Adult Lamb & Turkey Canned Dog Food, 12.5-oz, case of 6",
+      "url": "https://www.chewy.com/blue-buffalo-homestyle-recipe-variety/dp/922766",
+      "price": "11.43"
+    },
+    {
+      "brand": "nutrish",
+      "product": "Nutrish Whole Health Blend Real Chicken & Veggies Recipe Dry Dog Food, 50-lb bag",
+      "url": "https://www.chewy.com/rachael-ray-nutrish-real-chicken/dp/36743",
+      "price": "42.99"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Life Protection Formula Adult Chicken & Brown Rice Recipe Dry Dog Food, 34-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-life-protection-formula/dp/28801",
+      "price": "72.98"
+    },
+    {
+      "brand": "purina beneful",
+      "product": "Purina Beneful Originals with Farm-Raised Beef Real Meat Dog Food, 14-lb bag",
+      "url": "https://www.chewy.com/purina-beneful-originals-farm-raised/dp/28736",
+      "price": "10.71"
+    },
+    {
+      "brand": "rachael ray nutrish",
+      "product": "Rachael Ray Nutrish Gentle Digestion Variety Pack Canned Dog Food, 13-oz can, case of 12",
+      "url": "https://www.chewy.com/rachael-ray-nutrish-gentle-digestion/dp/1021598",
+      "price": "18.65"
+    },
+    {
+      "brand": "gentle giants",
+      "product": "Gentle Giants Natural Non-GMO Dog & Puppy Chicken Dry Dog Food, 15-lb bag",
+      "url": "https://www.chewy.com/gentle-giants-natural-non-gmo-dog/dp/133779",
+      "price": "24.99"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Homestyle Recipe Chicken & Beef Wet Dog Food, 12.5-oz can, case of 6",
+      "url": "https://www.chewy.com/blue-buffalo-homestyle-recipe-chicken/dp/748342",
+      "price": "11.43"
+    },
+    {
+      "brand": "rachael ray nutrish",
+      "product": "Rachael Ray Nutrish Variety Pack Wet Dog Food, 8-oz tub, case of 6",
+      "url": "https://www.chewy.com/rachael-ray-nutrish-natural-variety/dp/128025",
+      "price": "8.37"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Homestyle Recipe Chicken Dinner with Garden Vegetables & Brown Rice Canned Dog Food, 12.5-oz, case of 12",
+      "url": "https://www.chewy.com/blue-buffalo-homestyle-recipe-chicken/dp/31991",
+      "price": "21.79"
+    },
+    {
+      "brand": "dog chow",
+      "product": "Dog Chow Complete Adult with Real Chicken Dry Dog Food, 4.4-lb bag",
+      "url": "https://www.chewy.com/dog-chow-complete-adult-real-chicken/dp/127732",
+      "price": "3.89"
+    },
+    {
+      "brand": "nutrish",
+      "product": "Nutrish Whole Health Blend Real Salmon, Veggies & Brown Rice Recipe Gentle Digestion Dry Dog Food, 13-lb bag",
+      "url": "https://www.chewy.com/rachael-ray-nutrish-real-salmon/dp/824982",
+      "price": "13.61"
+    },
+    {
+      "brand": "dog chow",
+      "product": "Dog Chow Complete Adult with Beef Flavor Dry Dog Food, 40-lb bag",
+      "url": "https://www.chewy.com/dog-chow-complete-adult-real-beef-dry/dp/158685",
+      "price": "18.19"
+    },
+    {
+      "brand": "natures recipe",
+      "product": "Nature's Recipe Grain-Free Salmon, Sweet Potato & Pumpkin Recipe Dry Dog Food, 12-lb bag",
+      "url": "https://www.chewy.com/natures-recipe-grain-free-salmon/dp/36554",
+      "price": "19.49"
+    },
+    {
+      "brand": "merrick",
+      "product": "Merrick Real Texas Beef + Sweet Potato Recipe Grain-Free Chicken-Free Adult Dry Dog Food, 30-lb bag",
+      "url": "https://www.chewy.com/merrick-real-texas-beef-sweet-potato/dp/47173",
+      "price": "73.98"
+    },
+    {
+      "brand": "jinx",
+      "product": "Jinx Beef, Brown Rice & Sweet Potato ALS Kibble Dog Dry Food, 11.5-lb bag",
+      "url": "https://www.chewy.com/jinx-beef-brown-rice-sweet-potato-als/dp/765574",
+      "price": "15.56"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Life Protection Formula Small Breed Adult Chicken & Brown Rice Recipe Dry Dog Food, 15-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-life-protection-formula/dp/28806",
+      "price": "27.29"
+    },
+    {
+      "brand": "next level super premium pet food",
+      "product": "Next Level Super Premium Pet Food Hi-Pro Professional Adult Gluten-Free Beef Dry Dog Food, 40-lb bag",
+      "url": "https://www.chewy.com/next-level-super-premium-pet-food-hi/dp/1343262",
+      "price": "17.21"
+    },
+    {
+      "brand": "kibbles n bits",
+      "product": "Kibbles 'n Bits Original Savory Beef & Chicken Flavors Dry Dog Food, 45-lb bag",
+      "url": "https://www.chewy.com/kibbles-n-bits-original-savory-beef/dp/161040",
+      "price": "17.53"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Natural Veterinary Diet GI Gastrointestinal Support Dry Dog Food, 22-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-natural-veterinary-diet/dp/174502",
+      "price": "79.98"
+    },
+    {
+      "brand": "justfoodfordogs",
+      "product": "JustFoodForDogs Veterinary Diet Renal Support Low Protein Frozen Human-Grade Fresh Dog Food, 18-oz pouch, case of 7",
+      "url": "https://www.chewy.com/justfoodfordogs-veterinary-diet-renal/dp/394324",
+      "price": "59.14"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Natural Veterinary Diet KS Kidney Support Dry Dog Food, 6-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-natural-veterinary-diet/dp/744534",
+      "price": "24.69"
+    },
+    {
+      "brand": "stella and chewys",
+      "product": "Stella & Chewy's Stella's Super Beef Dinner Patties Freeze-Dried Raw Dog Food, 14-oz bag",
+      "url": "https://www.chewy.com/stella-chewys-stellas-super-beef/dp/34229",
+      "price": "23.39"
+    },
+    {
+      "brand": "solid gold",
+      "product": "Solid Gold Homestyle Meal Gut Health Beef Dog Food Topper, 9-oz pouch",
+      "url": "https://www.chewy.com/solid-gold-homestyle-meal-beef-dog/dp/1082598",
+      "price": "3.23"
+    },
+    {
+      "brand": "solid gold",
+      "product": "Solid Gold Mobility Support Beef & Vegetables Wet Dog Food, 3.5-oz cup, case of 6",
+      "url": "https://www.chewy.com/solid-gold-mobility-support-beef/dp/1082534",
+      "price": "9.71"
+    },
+    {
+      "brand": "merrick",
+      "product": "Merrick Grain-Free Dry Dog Food Real Bison, Beef & Sweet Potato Recipe, 22-lb bag",
+      "url": "https://www.chewy.com/merrick-grain-free-dry-dog-food-real/dp/230017",
+      "price": "57.98"
+    },
+    {
+      "brand": "kibbles n bits",
+      "product": "Kibbles 'n Bits Bistro Oven Roasted Beef, Spring Vegetable & Apple Flavor Dry Dog Food, 3.5-lb bag",
+      "url": "https://www.chewy.com/kibbles-n-bits-bistro-oven-roasted/dp/161023",
+      "price": "4.22"
+    },
+    {
+      "brand": "blue",
+      "product": "Blue Buffalo Life Protection Formula Senior Chicken & Brown Rice Recipe Dry Dog Food, 34-lb bag",
+      "url": "https://www.chewy.com/blue-buffalo-life-protection-formula/dp/28808",
+      "price": "52.98"
+    }
+  ],
+  "brands_with_new_products": {
+    "ziwi": 10,
+    "primal": 20,
+    "wellness": 27,
+    "freshpet": 12,
+    "cesar": 15,
+    "purina": 131,
+    "orijen": 11,
+    "pedigree": 41,
+    "diamond": 20,
+    "hills": 70,
+    "iams": 16,
+    "royal canin": 47,
+    "acana": 11,
+    "taste of the wild": 15,
+    "": 25,
+    "nutro": 9,
+    "canidae": 5,
+    "applaws": 5,
+    "eukanuba": 5,
+    "crave": 2
+  }
+}

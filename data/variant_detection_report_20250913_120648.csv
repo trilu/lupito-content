@@ -1,0 +1,207 @@
+brand,base_name,variant_count,product_key,product_name,is_parent,has_size,size_value,has_pack,pack_value,has_ingredients,has_nutrition,ingredients_consistent,nutrition_consistent
+Purizon Wet Dog Food,purizon adult 6 x,3,purizonwetdogfood|purizon_adult_6_x_300g|wet,Purizon Adult 6 x 300g,True,True,300g,True,6 x 300g,True,False,False,True
+Purizon Wet Dog Food,purizon adult 6 x,3,purizonwetdogfood|purizon_adult_6_x_800g|wet,Purizon Adult 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Purizon Wet Dog Food,purizon adult 6 x,3,purizonwetdogfood|purizon_adult_6_x_400g|wet,Purizon Adult 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Mjamjam Wet Dog Food,mjamjam adult dog 6 x,3,mjamjamwetdogfood|mjamjam_adult_dog_6_x_800g|wet,MjAMjAM Adult Dog 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Mjamjam Wet Dog Food,mjamjam adult dog 6 x,3,mjamjamwetdogfood|mjamjam_adult_dog_6_x_400g|wet,MjAMjAM Adult Dog 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Mjamjam Wet Dog Food,mjamjam adult dog 6 x,3,mjamjamwetdogfood|mjamjam_adult_dog_6_x_200g|wet,MjAMjAM Adult Dog 6 x 200g,False,True,200g,True,6 x 200g,False,False,False,True
+Animonda,animonda grancarno adult single protein supreme 6 x,3,animonda|animonda_grancarno_adult_single_protein_supreme_6_x_400g|wet,animonda GranCarno Adult Single Protein Supreme 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Animonda,animonda grancarno adult single protein supreme 6 x,3,animonda|animonda_grancarno_adult_single_protein_supreme_6_x_800g|wet,animonda GranCarno Adult Single Protein Supreme 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Animonda,animonda grancarno adult single protein supreme 6 x,3,animonda|animonda_grancarno_adult_single_protein_supreme_6_x_400_g|wet,animonda GranCarno Adult Single Protein Supreme 6 x 400 g,False,True,400 g,True,6 x 400 g,True,False,False,True
+Doggy Dog,doggy dog adult saver pack 24 x,3,doggydog|doggy_dog_adult_saver_pack_24_x_400g|wet,Doggy Dog Adult Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Doggy Dog,doggy dog adult saver pack 24 x,3,doggydog|doggy_dog_adult_saver_pack_24_x_150g|wet,Doggy Dog Adult Saver Pack 24 x 150g,False,True,150g,True,24 x 150g,True,False,False,True
+Doggy Dog,doggy dog adult saver pack 24 x,3,doggydog|doggy_dog_adult_saver_pack_24_x_800g|wet,Doggy Dog Adult Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Doggy Dog,doggy dog adult 6 x,3,doggydog|doggy_dog_adult_6_x_400g|wet,Doggy Dog Adult 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Doggy Dog,doggy dog adult 6 x,3,doggydog|doggy_dog_adult_6_x_150g|wet,Doggy Dog Adult 6 x 150g,False,True,150g,True,6 x 150g,True,False,False,True
+Doggy Dog,doggy dog adult 6 x,3,doggydog|doggy_dog_adult_6_x_800g|wet,Doggy Dog Adult 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Purizon Wet Dog Food,purizon organic 6 x,3,purizonwetdogfood|purizon_organic_6_x_200g|wet,Purizon Organic 6 x 200g,True,True,200g,True,6 x 200g,True,False,False,True
+Purizon Wet Dog Food,purizon organic 6 x,3,purizonwetdogfood|purizon_organic_6_x_800g|wet,Purizon Organic 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Purizon Wet Dog Food,purizon organic 6 x,3,purizonwetdogfood|purizon_organic_6_x_400g|wet,Purizon Organic 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Rinti,rinti canine intestinal with lamb,3,rinti|rinticanineintestinalwithlamb400g|wet,RINTI Canine Intestinal with Lamb 400 g,False,True,400 g,False,,False,True,False,True
+Rinti,rinti canine intestinal with lamb,3,rinti|rinti_canine_intestinal_with_lamb_800_g|wet,RINTI Canine Intestinal with lamb 800 g,True,True,800 g,False,,True,False,False,True
+Rinti,rinti canine intestinal with lamb,3,rinti|rinti_canine_intestinal_with_lamb_400_g|wet,RINTI Canine Intestinal with Lamb 400 g,False,True,400 g,False,,True,False,False,True
+Animonda,animonda grancarno original adult 6 x,3,animonda|animonda_grancarno_original_adult_6_x_800_g|wet,animonda GranCarno Original Adult 6 x 800 g,False,True,800 g,True,6 x 800 g,True,False,False,True
+Animonda,animonda grancarno original adult 6 x,3,animonda|animonda_grancarno_original_adult_6_x_400g|wet,animonda GranCarno Original Adult 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Animonda,animonda grancarno original adult 6 x,3,animonda|animonda_grancarno_original_adult_6_x_800g|wet,animonda GranCarno Original Adult 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Beneful,saver pack beneful 2 x,3,beneful|saverpackbeneful2x12kg|dry,Saver Pack Beneful 2 x 12 kg,False,True,12 kg,True,2 x 12 kg,False,True,True,True
+Beneful,saver pack beneful 2 x,3,beneful|saver_pack_beneful_2_x|dry,Saver Pack Beneful 2 x,True,False,,False,,True,True,True,True
+Beneful,saver pack beneful 2 x,3,beneful|saver_pack_beneful_2_x_12_kg|dry,Saver Pack Beneful 2 x 12 kg,False,True,12 kg,True,2 x 12 kg,False,False,True,True
+Mjamjam Wet Dog Food,mjamjam adult dog saver pack 24 x,3,mjamjamwetdogfood|mjamjam_adult_dog_saver_pack_24_x_400g|wet,MjAMjAM Adult Dog Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Mjamjam Wet Dog Food,mjamjam adult dog saver pack 24 x,3,mjamjamwetdogfood|mjamjam_adult_dog_saver_pack_24_x_800g|wet,MjAMjAM Adult Dog Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Mjamjam Wet Dog Food,mjamjam adult dog saver pack 24 x,3,mjamjamwetdogfood|mjamjam_adult_dog_saver_pack_24_x_200g|wet,MjAMjAM Adult Dog Saver Pack 24 x 200g,False,True,200g,True,24 x 200g,True,False,False,True
+Mjamjam Wet Dog Food,mjamjam junior 6 x,3,mjamjamwetdogfood|mjamjam_junior_6_x_800g|wet,MjAMjAM Junior 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Mjamjam Wet Dog Food,mjamjam junior 6 x,3,mjamjamwetdogfood|mjamjam_junior_6_x_400g|wet,MjAMjAM Junior 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Mjamjam Wet Dog Food,mjamjam junior 6 x,3,mjamjamwetdogfood|mjamjam_junior_6_x_200g|wet,MjAMjAM Junior 6 x 200g,False,True,200g,True,6 x 200g,True,False,False,True
+Purizon Wet Dog Food,purizon puppy 6 x,3,purizonwetdogfood|purizon_puppy_6_x_400g|wet,Purizon Puppy 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Purizon Wet Dog Food,purizon puppy 6 x,3,purizonwetdogfood|purizon_puppy_6_x_800g|wet,Purizon Puppy 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Purizon Wet Dog Food,purizon puppy 6 x,3,purizonwetdogfood|purizon_puppy_6_x_300g|wet,Purizon Puppy 6 x 300g,False,True,300g,True,6 x 300g,True,False,False,True
+Purizon Wet Dog Food,purizon organic saver pack 24 x,3,purizonwetdogfood|purizon_organic_saver_pack_24_x_400g|wet,Purizon Organic Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Purizon Wet Dog Food,purizon organic saver pack 24 x,3,purizonwetdogfood|purizon_organic_saver_pack_24_x_200g|wet,Purizon Organic Saver Pack 24 x 200g,False,True,200g,True,24 x 200g,True,False,False,True
+Purizon Wet Dog Food,purizon organic saver pack 24 x,3,purizonwetdogfood|purizon_organic_saver_pack_24_x_800g|wet,Purizon Organic Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Purizon Wet Dog Food,purizon senior 6 x,3,purizonwetdogfood|purizon_senior_6_x_300g|wet,Purizon Senior 6 x 300g,True,True,300g,True,6 x 300g,True,False,False,True
+Purizon Wet Dog Food,purizon senior 6 x,3,purizonwetdogfood|purizon_senior_6_x_400g|wet,Purizon Senior 6 x 400g,False,True,400g,True,6 x 400g,False,False,False,True
+Purizon Wet Dog Food,purizon senior 6 x,3,purizonwetdogfood|purizon_senior_6_x_800g|wet,Purizon Senior 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Terra Canis,terra canis essential 8+ 6 x,2,terracanis|terra_canis_essential_8_6_x_780g|wet,Terra Canis Essential 8+ 6 x 780g,True,True,780g,True,6 x 780g,True,False,True,True
+Terra Canis,terra canis essential 8+ 6 x,2,terracanis|terra_canis_essential_8_6_x_385_g|wet,Terra Canis Essential 8+ 6 x 385 g,False,True,385 g,True,6 x 385 g,False,False,True,True
+Wolf of Wilderness,"wolf of wilderness adult expedition, 6 x",2,wolfofwilderness|wolf_of_wilderness_adult_expedition_6_x_800_g|wet,"Wolf of Wilderness Adult Expedition, 6 x 800 g",True,True,800 g,True,6 x 800 g,True,True,True,False
+Wolf of Wilderness,"wolf of wilderness adult expedition, 6 x",2,wolfofwilderness|wolf_of_wilderness_adult_expedition_6_x_400_g|wet,"Wolf of Wilderness Adult Expedition, 6 x 400 g",False,True,400 g,True,6 x 400 g,True,True,True,False
+Wolf of Wilderness,wolf of wilderness adult single protein saver pack 24 x,2,wolfofwilderness|wolf_of_wilderness_adult_single_protein_saver_pack_24_x_400g|wet,Wolf of Wilderness Adult Single Protein Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,True,True
+Wolf of Wilderness,wolf of wilderness adult single protein saver pack 24 x,2,wolfofwilderness|wolf_of_wilderness_adult_single_protein_saver_pack_24_x_800g|wet,Wolf of Wilderness Adult Single Protein Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,True,True
+Wolf of Wilderness,little wolf of wilderness saver pack 24 x,2,wolfofwilderness|little_wolf_of_wilderness_saver_pack_24_x_400g|wet,Little Wolf of Wilderness Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Wolf of Wilderness,little wolf of wilderness saver pack 24 x,2,wolfofwilderness|little_wolf_of_wilderness_saver_pack_24_x_800g|wet,Little Wolf of Wilderness Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness senior saver pack 24 x,2,wolfofwilderness|wolf_of_wilderness_senior_saver_pack_24_x_800g|wet,Wolf of Wilderness Senior Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness senior saver pack 24 x,2,wolfofwilderness|wolf_of_wilderness_senior_saver_pack_24_x_400g|wet,Wolf of Wilderness Senior Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,True,False,True
+Wolf of Wilderness,wolf of wilderness the taste of saver pack 24 x,2,wolfofwilderness|wolf_of_wilderness_the_taste_of_saver_pack_24_x_400g|wet,Wolf of Wilderness The Taste of Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness the taste of saver pack 24 x,2,wolfofwilderness|wolf_of_wilderness_the_taste_of_saver_pack_24_x_800g|wet,Wolf of Wilderness The Taste of Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Wolf of Wilderness,little wolf of wilderness 6 x,2,wolfofwilderness|little_wolf_of_wilderness_6_x_800g|wet,Little Wolf of Wilderness 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Wolf of Wilderness,little wolf of wilderness 6 x,2,wolfofwilderness|little_wolf_of_wilderness_6_x_400g|wet,Little Wolf of Wilderness 6 x 400g,True,True,400g,True,6 x 400g,True,True,False,True
+Wolf of Wilderness,wolf of wilderness senior 6 x,2,wolfofwilderness|wolf_of_wilderness_senior_6_x_800g|wet,Wolf of Wilderness Senior 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness senior 6 x,2,wolfofwilderness|wolf_of_wilderness_senior_6_x_400g|wet,Wolf of Wilderness Senior 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness adult the taste of 6 x,2,wolfofwilderness|wolf_of_wilderness_adult_the_taste_of_6_x_400g|wet,Wolf of Wilderness Adult The Taste of 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness adult the taste of 6 x,2,wolfofwilderness|wolf_of_wilderness_adult_the_taste_of_6_x_800g|wet,Wolf of Wilderness Adult The Taste of 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Wow,wow adult 6 x,2,wow|wow_adult_6_x_400_g|wet,WOW Adult 6 x 400 g,True,True,400 g,True,6 x 400 g,True,False,False,True
+Wow,wow adult 6 x,2,wow|wow_adult_6_x_800_g|wet,WOW Adult 6 x 800 g,False,True,800 g,True,6 x 800 g,True,False,False,True
+Wow,wow senior duck,2,wow|wow_senior_duck_400g|wet,WOW Senior duck 400g,False,True,400g,False,,False,False,True,True
+Wow,wow senior duck,2,wow|wow_senior_duck_800_g|wet,WOW Senior duck 800 g,True,True,800 g,False,,True,False,True,True
+Animonda,animonda grancarno adult single protein saver pack 24 x,2,animonda|animonda_grancarno_adult_single_protein_saver_pack_24_x_400g|wet,animonda GranCarno Adult Single Protein Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Animonda,animonda grancarno adult single protein saver pack 24 x,2,animonda|animonda_grancarno_adult_single_protein_saver_pack_24_x_800g|wet,animonda GranCarno Adult Single Protein Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Rinti,rinti gold 12 x,2,rinti|rinti_gold_12_x_185_g|wet,RINTI Gold 12 x 185 g,False,True,185 g,True,12 x 185 g,True,False,False,True
+Rinti,rinti gold 12 x,2,rinti|rinti_gold_12_x_185g|wet,RINTI Gold 12 x 185g,True,True,185g,True,12 x 185g,True,False,False,True
+Rinti,rinti adult 6 x,2,rinti|rinti_adult_6_x_800g|wet,RINTI Adult 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Rinti,rinti adult 6 x,2,rinti|rinti_adult_6_x_400g|wet,RINTI Adult 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Happy Dog,happy dog pure 6 x,2,happydog|happy_dog_pure_6_x_800g|wet,Happy Dog Pure 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Happy Dog,happy dog pure 6 x,2,happydog|happy_dog_pure_6_x_400g|wet,Happy Dog Pure 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Rinti,rinti single meat 6 x,2,rinti|rinti_single_meat_6_x_800g|wet,RINTI Single Meat 6 x 800g,True,True,800g,True,6 x 800g,True,False,True,True
+Rinti,rinti single meat 6 x,2,rinti|rinti_single_meat_6_x_400g|wet,RINTI Single Meat 6 x 400g,False,True,400g,True,6 x 400g,False,False,True,True
+Purizon Wet Dog Food,purizon adult saver pack 24 x,2,purizonwetdogfood|purizon_adult_saver_pack_24_x_800g|wet,Purizon Adult Saver Pack 24 x 800g,True,True,800g,True,24 x 800g,True,False,False,True
+Purizon Wet Dog Food,purizon adult saver pack 24 x,2,purizonwetdogfood|purizon_adult_saver_pack_24_x_400g|wet,Purizon Adult Saver Pack 24 x 400g,False,True,400g,True,24 x 400g,True,False,False,True
+Lukullus,lukullus menu gustico saver pack 24 x,2,lukullus|lukullus_menu_gustico_saver_pack_24_x_400g|wet,Lukullus Menu Gustico Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Lukullus,lukullus menu gustico saver pack 24 x,2,lukullus|lukullus_menu_gustico_saver_pack_24_x_800g|wet,Lukullus Menu Gustico Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Rinti,rinti canine intestinal with chicken,2,rinti|rinti_canine_intestinal_with_chicken_800_g|wet,RINTI Canine Intestinal with chicken 800 g,True,True,800 g,False,,True,False,False,True
+Rinti,rinti canine intestinal with chicken,2,rinti|rinti_canine_intestinal_with_chicken_400_g|wet,RINTI Canine Intestinal with Chicken 400 g,False,True,400 g,False,,True,False,False,True
+Animonda,animonda grancarno adult single protein supreme saver pack 24 x,2,animonda|animonda_grancarno_adult_single_protein_supreme_saver_pack_24_x_400g|wet,animonda GranCarno Adult Single Protein Supreme Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Animonda,animonda grancarno adult single protein supreme saver pack 24 x,2,animonda|animonda_grancarno_adult_single_protein_supreme_saver_pack_24_x_800g|wet,animonda GranCarno Adult Single Protein Supreme Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Animonda,animonda grancarno superfoods adult 6 x,2,animonda|animonda_grancarno_superfoods_adult_6_x_800g|wet,animonda GranCarno Superfoods Adult 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Animonda,animonda grancarno superfoods adult 6 x,2,animonda|animonda_grancarno_superfoods_adult_6_x_400g|wet,animonda GranCarno Superfoods Adult 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Rocco,rocco senior saver pack 24 x,2,rocco|rocco_senior_saver_pack_24_x_400g|wet,Rocco Senior Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Rocco,rocco senior saver pack 24 x,2,rocco|rocco_senior_saver_pack_24_x_800g|wet,Rocco Senior Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Belcando,belcando baseline saver pack 24 x,2,belcando|belcando_baseline_saver_pack_24_x_400g|wet,Belcando Baseline Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,True,True
+Belcando,belcando baseline saver pack 24 x,2,belcando|belcando_baseline_saver_pack_24_x_800g|wet,Belcando Baseline Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,False,False,True,True
+Belcando,belcando baseline 6 x,2,belcando|belcando_baseline_6_x_400g|wet,Belcando Baseline 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Belcando,belcando baseline 6 x,2,belcando|belcando_baseline_6_x_800g|wet,Belcando Baseline 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Rocco,rocco single meat 6 x,2,rocco|rocco_single_meat_6_x_400g|wet,Rocco Single Meat 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Rocco,rocco single meat 6 x,2,rocco|rocco_single_meat_6_x_800g|wet,Rocco Single Meat 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Briantos,briantos delicious paté saver pack 24 x,2,briantos|briantos_delicious_pat_saver_pack_24_x_400g|wet,Briantos Delicious Paté Saver Pack 24 x 400g,False,True,400g,True,24 x 400g,False,False,True,True
+Briantos,briantos delicious paté saver pack 24 x,2,briantos|briantos_delicious_pat_saver_pack_24_x_800g|wet,Briantos Delicious Paté Saver Pack 24 x 800g,True,True,800g,True,24 x 800g,True,True,True,True
+Dogs N Tiger,dogsn tiger adult saver pack 12 x,2,dogsntiger|dogsn_tiger_adult_saver_pack_12_x_400g|wet,Dogsn Tiger Adult Saver Pack 12 x 400g,True,True,400g,True,12 x 400g,True,False,False,True
+Dogs N Tiger,dogsn tiger adult saver pack 12 x,2,dogsntiger|dogsn_tiger_adult_saver_pack_12_x_800g|wet,Dogsn Tiger Adult Saver Pack 12 x 800g,False,True,800g,True,12 x 800g,True,False,False,True
+Dogs N Tiger,dogsn tiger adult 6 x,2,dogsntiger|dogsn_tiger_adult_6_x_400g|wet,Dogsn Tiger Adult 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Dogs N Tiger,dogsn tiger adult 6 x,2,dogsntiger|dogsn_tiger_adult_6_x_800g|wet,Dogsn Tiger Adult 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Dogs N Tiger,dogsn tiger gourmet menu for dogs 6 x,2,dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_6_x_400g|wet,Dogsn Tiger Gourmet Menu for Dogs 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Dogs N Tiger,dogsn tiger gourmet menu for dogs 6 x,2,dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_6_x_800g|wet,Dogsn Tiger Gourmet Menu for Dogs 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Dogs N Tiger,dogsn tiger junior 6 x,2,dogsntiger|dogsn_tiger_junior_6_x_800g|wet,Dogsn Tiger Junior 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Dogs N Tiger,dogsn tiger junior 6 x,2,dogsntiger|dogsn_tiger_junior_6_x_400g|wet,Dogsn Tiger Junior 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Encore,encore dog jelly pouch multipack,2,encore|encore_dog_jelly_pouch_multipack_100g|wet,Encore Dog Jelly Pouch Multipack 100g,True,True,100g,False,,True,False,True,True
+Encore,encore dog jelly pouch multipack,2,encore|encoredogjellypouchmultipack|wet,Encore Dog Jelly Pouch Multipack,False,False,,False,,False,False,True,True
+Rinti,rinti kennerfleisch 6 x,2,rinti|rinti_kennerfleisch_6_x_800_g|wet,RINTI Kennerfleisch 6 x 800 g,True,True,800 g,True,6 x 800 g,True,False,False,True
+Rinti,rinti kennerfleisch 6 x,2,rinti|rinti_kennerfleisch_6_x_400_g|wet,RINTI Kennerfleisch 6 x 400 g,False,True,400 g,True,6 x 400 g,True,False,False,True
+Lukullus,lukullus senior saver pack 24 x,2,lukullus|lukullus_senior_saver_pack_24_x_400g|wet,Lukullus Senior Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,False,False,True,True
+Lukullus,lukullus senior saver pack 24 x,2,lukullus|lukullus_senior_saver_pack_24_x_800g|wet,Lukullus Senior Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,False,False,True,True
+Rinti,rinti kennerfleisch,2,rinti|rintikennerfleisch|wet,RINTI Kennerfleisch,False,False,,False,,False,True,True,True
+Rinti,rinti kennerfleisch,2,rinti|rinti_kennerfleisch_800g|wet,RINTI Kennerfleisch 800g,True,True,800g,False,,True,False,True,True
+Briantos,briantos delicious paté,2,briantos|briantosdeliciouspat|wet,Briantos Delicious Paté,False,False,,False,,False,True,True,False
+Briantos,briantos delicious paté,2,briantos|briantos_delicious_pat_12x100g|wet,Briantos Delicious Paté 12x100g,True,False,,True,12x100g,True,True,True,False
+Lukullus,lukullus saver pack 24 x,2,lukullus|lukullus_saver_pack_24_x_800g|wet,Lukullus Saver Pack 24 x 800g,True,True,800g,True,24 x 800g,True,False,False,True
+Lukullus,lukullus saver pack 24 x,2,lukullus|lukullus_saver_pack_24_x_400g|wet,Lukullus Saver Pack 24 x 400g,False,True,400g,True,24 x 400g,True,False,False,True
+Rinti,rinti gold 10 x,2,rinti|rintigold10x100g|wet,RINTI Gold 10 x 100 g,True,True,100 g,True,10 x 100 g,True,True,False,True
+Rinti,rinti gold 10 x,2,rinti|rinti_gold_10_x_100_g|wet,RINTI Gold 10 x 100 g,False,True,100 g,True,10 x 100 g,True,False,False,True
+MAC's,macs superfood 6 x,2,macs|macs_superfood_6_x_800g|wet,MACs Superfood 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+MAC's,macs superfood 6 x,2,macs|macs_superfood_6_x_400g|wet,MACs Superfood 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Almo Nature,almo nature hfc 6 x,2,almonature|almo_nature_hfc_6_x_95g|wet,Almo Nature HFC 6 x 95g,True,True,95g,True,6 x 95g,True,False,True,True
+Almo Nature,almo nature hfc 6 x,2,almonature|almo_nature_hfc_6_x_290g|wet,Almo Nature HFC 6 x 290g,False,True,290g,True,6 x 290g,False,False,True,True
+Wolf of Wilderness,wolf of wilderness junior expedition 6 x,2,wolfofwilderness|wolf_of_wilderness_junior_expedition_6_x_400g|wet,Wolf of Wilderness Junior Expedition 6 x 400g,True,True,400g,True,6 x 400g,False,False,True,True
+Wolf of Wilderness,wolf of wilderness junior expedition 6 x,2,wolfofwilderness|wolf_of_wilderness_junior_expedition_6_x_800g|wet,Wolf of Wilderness Junior Expedition 6 x 800g,False,True,800g,True,6 x 800g,False,False,True,True
+Rinti,rinti canine weight with chicken,2,rinti|rinti_canine_weight_with_chicken_800_g|wet,RINTI Canine Weight with chicken 800 g,True,True,800 g,False,,False,False,True,True
+Rinti,rinti canine weight with chicken,2,rinti|rinti_canine_weight_with_chicken_400_g|wet,RINTI Canine Weight with Chicken 400 g,False,True,400 g,False,,False,False,True,True
+Animonda,animonda grancarno original saver pack 24 x,2,animonda|animonda_grancarno_original_saver_pack_24_x_400g|wet,animonda GranCarno Original Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Animonda,animonda grancarno original saver pack 24 x,2,animonda|animonda_grancarno_original_saver_pack_24_x_800g|wet,animonda GranCarno Original Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Animonda,animonda grancarno original junior 6 x,2,animonda|animonda_grancarno_original_junior_6_x_400g|wet,animonda GranCarno Original Junior 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Animonda,animonda grancarno original junior 6 x,2,animonda|animonda_grancarno_original_junior_6_x_800g|wet,animonda GranCarno Original Junior 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Rosies Farm,rosies farm saver pack 24 x,2,rosiesfarm|rosies_farm_saver_pack_24_x_400g|wet,Rosies Farm Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,False,False,True,True
+Rosies Farm,rosies farm saver pack 24 x,2,rosiesfarm|rosies_farm_saver_pack_24_x_800g|wet,Rosies Farm Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,False,False,True,True
+Animonda,animonda grancarno sensitive adult 6 x,2,animonda|animonda_grancarno_sensitive_adult_6_x_800g|wet,animonda GranCarno Sensitive Adult 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Animonda,animonda grancarno sensitive adult 6 x,2,animonda|animonda_grancarno_sensitive_adult_6_x_400g|wet,animonda GranCarno Sensitive Adult 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness senior 6 x - with lots of fresh poultry,2,wolfofwilderness|wolf_of_wilderness_senior_6_x_800g_with_lots_of_fresh_poultry|wet,Wolf of Wilderness Senior 6 x 800g - With lots of fresh poultry,True,True,800g,True,6 x 800g,False,False,True,True
+Wolf of Wilderness,wolf of wilderness senior 6 x - with lots of fresh poultry,2,wolfofwilderness|wolf_of_wilderness_senior_6_x_400g_with_lots_of_fresh_poultry|wet,Wolf of Wilderness Senior 6 x 400g - With lots of fresh poultry,False,True,400g,True,6 x 400g,False,False,True,True
+Animonda,animonda grancarno adult single protein 6 x,2,animonda|animonda_grancarno_adult_single_protein_6_x_800g|wet,animonda GranCarno Adult Single Protein 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Animonda,animonda grancarno adult single protein 6 x,2,animonda|animonda_grancarno_adult_single_protein_6_x_400g|wet,animonda GranCarno Adult Single Protein 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness adult 6 x - with lots of fresh poultry,2,wolfofwilderness|wolf_of_wilderness_adult_6_x_400g_with_lots_of_fresh_poultry|wet,Wolf of Wilderness Adult 6 x 400g - With lots of fresh poultry,True,True,400g,True,6 x 400g,False,False,True,True
+Wolf of Wilderness,wolf of wilderness adult 6 x - with lots of fresh poultry,2,wolfofwilderness|wolf_of_wilderness_adult_6_x_800g_with_lots_of_fresh_poultry|wet,Wolf of Wilderness Adult 6 x 800g - With lots of fresh poultry,False,True,800g,True,6 x 800g,False,False,True,True
+Schesir,schesir 6 x,2,schesir|schesir_6_x_150g|wet,Schesir 6 x 150g,True,True,150g,True,6 x 150g,True,False,False,True
+Schesir,schesir 6 x,2,schesir|schesir_6_x_285g|wet,Schesir 6 x 285g,False,True,285g,True,6 x 285g,True,False,False,True
+Schesir,schesir saver pack 12 x,2,schesir|schesir_saver_pack_12_x_150g|wet,Schesir Saver Pack 12 x 150g,True,True,150g,True,12 x 150g,True,False,False,True
+Schesir,schesir saver pack 12 x,2,schesir|schesir_saver_pack_12_x_285g|wet,Schesir Saver Pack 12 x 285g,False,True,285g,True,12 x 285g,True,False,False,True
+Terra Canis,terra canis grain-free 6 x,2,terracanis|terra_canis_grain_free_6_x_400g|wet,Terra Canis Grain-Free 6 x 400g,True,True,400g,True,6 x 400g,True,False,True,True
+Terra Canis,terra canis grain-free 6 x,2,terracanis|terra_canis_grain_free_6_x_800g|wet,Terra Canis Grain-Free 6 x 800g,False,True,800g,True,6 x 800g,False,False,True,True
+Happy Dog,happy dog sensible pure 6 x,2,happydog|happy_dog_sensible_pure_6_x_400_g|wet,Happy Dog Sensible Pure 6 x 400 g,True,True,400 g,True,6 x 400 g,True,False,False,True
+Happy Dog,happy dog sensible pure 6 x,2,happydog|happy_dog_sensible_pure_6_x_800_g|wet,Happy Dog Sensible Pure 6 x 800 g,False,True,800 g,True,6 x 800 g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness adult saver pack 24 x,2,wolfofwilderness|wolf_of_wilderness_adult_saver_pack_24_x_150g|wet,Wolf of Wilderness Adult Saver Pack 24 x 150g,False,True,150g,True,24 x 150g,True,False,False,True
+Wolf of Wilderness,wolf of wilderness adult saver pack 24 x,2,wolfofwilderness|wolf_of_wilderness_adult_saver_pack_24_x_300g|wet,Wolf of Wilderness Adult Saver Pack 24 x 300g,True,True,300g,True,24 x 300g,True,True,False,True
+Integra,animonda integra protect dog renal 6 x,2,integra|animonda_integra_protect_dog_renal_6_x_400g|wet,animonda Integra Protect Dog Renal 6 x 400g,True,True,400g,True,6 x 400g,False,False,True,True
+Integra,animonda integra protect dog renal 6 x,2,integra|animonda_integra_protect_dog_renal_6_x_150g|wet,animonda Integra Protect Dog Renal 6 x 150g,False,True,150g,True,6 x 150g,False,False,True,True
+Integra,animonda integra protect dog sensitive 6 x,2,integra|animonda_integra_protect_dog_sensitive_6_x_400g|wet,animonda Integra Protect Dog Sensitive 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Integra,animonda integra protect dog sensitive 6 x,2,integra|animonda_integra_protect_dog_sensitive_6_x_150g|wet,animonda Integra Protect Dog Sensitive 6 x 150g,False,True,150g,True,6 x 150g,True,False,False,True
+Josera Wet,josera meatlovers menu 6 x,2,joserawet|josera_meatlovers_menu_6_x_400g|wet,Josera Meatlovers Menu 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Josera Wet,josera meatlovers menu 6 x,2,joserawet|josera_meatlovers_menu_6_x_800g|wet,Josera Meatlovers Menu 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Josera Wet,josera meatlovers menu saver pack 12 x,2,joserawet|josera_meatlovers_menu_saver_pack_12_x_400g|wet,Josera Meatlovers Menu Saver Pack 12 x 400g,True,True,400g,True,12 x 400g,True,False,False,True
+Josera Wet,josera meatlovers menu saver pack 12 x,2,joserawet|josera_meatlovers_menu_saver_pack_12_x_800g|wet,Josera Meatlovers Menu Saver Pack 12 x 800g,False,True,800g,True,12 x 800g,True,False,False,True
+Josera Wet,josera meatlovers pure 6 x,2,joserawet|josera_meatlovers_pure_6_x_400g|wet,Josera Meatlovers Pure 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Josera Wet,josera meatlovers pure 6 x,2,joserawet|josera_meatlovers_pure_6_x_800g|wet,Josera Meatlovers Pure 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Lukullus,lukullus junior saver pack 24 x,2,lukullus|lukullus_junior_saver_pack_24_x_800g|wet,Lukullus Junior Saver Pack 24 x 800g,True,True,800g,True,24 x 800g,False,False,True,True
+Lukullus,lukullus junior saver pack 24 x,2,lukullus|lukullus_junior_saver_pack_24_x_400g|wet,Lukullus Junior Saver Pack 24 x 400g,False,True,400g,True,24 x 400g,False,False,True,True
+Mjamjam Wet Dog Food,mjamjam pure single meat 6 x,2,mjamjamwetdogfood|mjamjam_pure_single_meat_6_x_800g|wet,MjAMjAM Pure Single Meat 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Mjamjam Wet Dog Food,mjamjam pure single meat 6 x,2,mjamjamwetdogfood|mjamjam_pure_single_meat_6_x_400g|wet,MjAMjAM Pure Single Meat 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Dogs N Tiger,dogsn tiger gourmet menu for dogs saver pack 12 x,2,dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_saver_pack_12_x_800g|wet,Dogsn Tiger Gourmet Menu for Dogs Saver Pack 12 x 800g,True,True,800g,True,12 x 800g,True,False,False,True
+Dogs N Tiger,dogsn tiger gourmet menu for dogs saver pack 12 x,2,dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_saver_pack_12_x_400g|wet,Dogsn Tiger Gourmet Menu for Dogs Saver Pack 12 x 400g,False,True,400g,True,12 x 400g,True,False,False,True
+Rocco,rocco classic pork saver pack 24 x,2,rocco|rocco_classic_pork_saver_pack_24_x_800g|wet,Rocco Classic Pork Saver Pack 24 x 800g,True,True,800g,True,24 x 800g,True,False,False,True
+Rocco,rocco classic pork saver pack 24 x,2,rocco|rocco_classic_pork_saver_pack_24_x_400g|wet,Rocco Classic Pork Saver Pack 24 x 400g,False,True,400g,True,24 x 400g,True,False,False,True
+Rocco,rocco real hearts 6 x,2,rocco|rocco_real_hearts_6_x_400g|wet,Rocco Real Hearts 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Rocco,rocco real hearts 6 x,2,rocco|rocco_real_hearts_6_x_800g|wet,Rocco Real Hearts 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Rocco,rocco real hearts saver pack 24 x,2,rocco|rocco_real_hearts_saver_pack_24_x_800g|wet,Rocco Real Hearts Saver Pack 24 x 800g,True,True,800g,True,24 x 800g,True,False,False,True
+Rocco,rocco real hearts saver pack 24 x,2,rocco|rocco_real_hearts_saver_pack_24_x_400g|wet,Rocco Real Hearts Saver Pack 24 x 400g,False,True,400g,True,24 x 400g,True,False,False,True
+Rocco,rocco classic saver pack 24 x,2,rocco|rocco_classic_saver_pack_24_x_400g|wet,Rocco Classic Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,True,False,False,True
+Rocco,rocco classic saver pack 24 x,2,rocco|rocco_classic_saver_pack_24_x_800g|wet,Rocco Classic Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,True,False,False,True
+Rocco,rocco classic 6 x,2,rocco|rocco_classic_6_x_800g|wet,Rocco Classic 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Rocco,rocco classic 6 x,2,rocco|rocco_classic_6_x_400g|wet,Rocco Classic 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Rocco,rocco junior 6 x,2,rocco|rocco_junior_6_x_800g|wet,Rocco Junior 6 x 800g,False,True,800g,True,6 x 800g,False,False,True,True
+Rocco,rocco junior 6 x,2,rocco|rocco_junior_6_x_400g|wet,Rocco Junior 6 x 400g,True,True,400g,True,6 x 400g,True,False,True,True
+Rocco,rocco menu 6 x,2,rocco|rocco_menu_6_x_800g|wet,Rocco Menu 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Rocco,rocco menu 6 x,2,rocco|rocco_menu_6_x_400g|wet,Rocco Menu 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Rocco,rocco menu saver pack 24 x,2,rocco|rocco_menu_saver_pack_24_x_800g|wet,Rocco Menu Saver Pack 24 x 800g,True,True,800g,True,24 x 800g,True,False,False,True
+Rocco,rocco menu saver pack 24 x,2,rocco|rocco_menu_saver_pack_24_x_400g|wet,Rocco Menu Saver Pack 24 x 400g,False,True,400g,True,24 x 400g,True,False,False,True
+Rocco,rocco senior 6 x,2,rocco|rocco_senior_6_x_800g|wet,Rocco Senior 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Rocco,rocco senior 6 x,2,rocco|rocco_senior_6_x_400g|wet,Rocco Senior 6 x 400g,True,True,400g,True,6 x 400g,True,True,False,True
+Rocco,rocco sensitive saver pack 24 x,2,rocco|rocco_sensitive_saver_pack_24_x_400g|wet,Rocco Sensitive Saver Pack 24 x 400g,True,True,400g,True,24 x 400g,False,False,True,True
+Rocco,rocco sensitive saver pack 24 x,2,rocco|rocco_sensitive_saver_pack_24_x_800g|wet,Rocco Sensitive Saver Pack 24 x 800g,False,True,800g,True,24 x 800g,False,False,True,True
+Rocco,rocco sensitive 6 x,2,rocco|rocco_sensitive_6_x_800g|wet,Rocco Sensitive 6 x 800g,True,True,800g,True,6 x 800g,False,False,True,True
+Rocco,rocco sensitive 6 x,2,rocco|rocco_sensitive_6_x_400g|wet,Rocco Sensitive 6 x 400g,False,True,400g,True,6 x 400g,False,False,True,True
+Rocco,rocco classic trio di carne 6 x,2,rocco|rocco_classic_trio_di_carne_6_x_800g|wet,Rocco Classic Trio di Carne 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Rocco,rocco classic trio di carne 6 x,2,rocco|rocco_classic_trio_di_carne_6_x_400g|wet,Rocco Classic Trio di Carne 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Rocco,rocco classic trio di carne saver pack 24 x,2,rocco|rocco_classic_trio_di_carne_saver_pack_24_x_800g|wet,Rocco Classic Trio di Carne Saver Pack 24 x 800g,True,True,800g,True,24 x 800g,True,False,False,True
+Rocco,rocco classic trio di carne saver pack 24 x,2,rocco|rocco_classic_trio_di_carne_saver_pack_24_x_400g|wet,Rocco Classic Trio di Carne Saver Pack 24 x 400g,False,True,400g,True,24 x 400g,True,False,False,True
+Terra Canis,terra canis 6 x,2,terracanis|terra_canis_6_x_200g|wet,Terra Canis 6 x 200g,True,True,200g,True,6 x 200g,True,False,False,True
+Terra Canis,terra canis 6 x,2,terracanis|terra_canis_6_x_800g|wet,Terra Canis 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Rinti,rinti canine kidney/renal with beef,2,rinti|rinti_canine_kidney_renal_with_beef_800_g|wet,RINTI Canine Kidney/Renal with beef 800 g,False,True,800 g,False,,False,False,True,True
+Rinti,rinti canine kidney/renal with beef,2,rinti|rinti_canine_kidney_renal_with_beef_400_g|wet,RINTI Canine Kidney/Renal with beef 400 g,True,True,400 g,False,,True,False,True,True
+Rinti,rinti sensible 6 x,2,rinti|rinti_sensible_6_x_400g|wet,RINTI Sensible 6 x 400g,True,True,400g,True,6 x 400g,True,False,False,True
+Rinti,rinti sensible 6 x,2,rinti|rinti_sensible_6_x_800g|wet,RINTI Sensible 6 x 800g,False,True,800g,True,6 x 800g,True,False,False,True
+Rocco,rocco classic pork 6 x,2,rocco|rocco_classic_pork_6_x_800g|wet,Rocco Classic Pork 6 x 800g,True,True,800g,True,6 x 800g,True,False,False,True
+Rocco,rocco classic pork 6 x,2,rocco|rocco_classic_pork_6_x_400g|wet,Rocco Classic Pork 6 x 400g,False,True,400g,True,6 x 400g,True,False,False,True
+Rosies Farm,rosies farm single meat adult 6 x,2,rosiesfarm|rosies_farm_single_meat_adult_6_x_195g|wet,Rosies Farm Single Meat Adult 6 x 195g,True,True,195g,True,6 x 195g,True,False,False,True
+Rosies Farm,rosies farm single meat adult 6 x,2,rosiesfarm|rosies_farm_single_meat_adult_6_x_395g|wet,Rosies Farm Single Meat Adult 6 x 395g,False,True,395g,True,6 x 395g,True,False,False,True
+Rosies Farm,rosies farm single meat senior 6 x,2,rosiesfarm|rosies_farm_single_meat_senior_6_x_395g|wet,Rosies Farm Single Meat Senior 6 x 395g,True,True,395g,True,6 x 395g,False,False,True,True
+Rosies Farm,rosies farm single meat senior 6 x,2,rosiesfarm|rosies_farm_single_meat_senior_6_x_195g|wet,Rosies Farm Single Meat Senior 6 x 195g,False,True,195g,True,6 x 195g,False,False,True,True
+Wolf of Wilderness,wolf of wilderness adult single protein 6 x,2,wolfofwilderness|wolf_of_wilderness_adult_single_protein_6_x_400g|wet,Wolf of Wilderness Adult Single Protein 6 x 400g,True,True,400g,True,6 x 400g,True,True,False,True
+Wolf of Wilderness,wolf of wilderness adult single protein 6 x,2,wolfofwilderness|wolf_of_wilderness_adult_single_protein_6_x_800g|wet,Wolf of Wilderness Adult Single Protein 6 x 800g,False,True,800g,True,6 x 800g,True,True,False,True
+Briantos,briantos delicious paté 6 x,2,briantos|briantos_delicious_pat_6_x_800g|wet,Briantos Delicious Paté 6 x 800g,True,True,800g,True,6 x 800g,True,True,True,True
+Briantos,briantos delicious paté 6 x,2,briantos|briantos_delicious_pat_6_x_400g|wet,Briantos Delicious Paté 6 x 400g,False,True,400g,True,6 x 400g,True,True,True,True

@@ -1,0 +1,463 @@
+{
+  "timestamp": "20250913_151847",
+  "session_id": "test_50_failed_20250913_151847",
+  "total": 50,
+  "successful": 50,
+  "with_ingredients": 40,
+  "with_nutrition": 48,
+  "wet_food_count": 8,
+  "dry_food_count": 42,
+  "accuracy": 80.0,
+  "results": [
+    {
+      "name": "Royal Canin Expert Canine Neutered Adult Large Dog",
+      "brand": "Royal Canin Veterinary & Expert",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_vet_diet/1949350?activeVariant=1949350.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Advance Veterinary Diets Hypoallergenic Mini (Variant 2)",
+      "brand": "Advance Veterinary Diets",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/advance_vet_diets/2159368?activeVariant=2159368.0",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Hypoallergenic Mini",
+      "brand": "Advance Veterinary Diets",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/advance_vet_diets/2159368?activeVariant=2159368.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Wolf of Wilderness Adult Single Protein Mixed Packs",
+      "brand": "Wolf of Wilderness",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/206790/497196?activeVariant=497196.13",
+      "is_wet": true,
+      "has_ingredients": true,
+      "has_nutrition": false,
+      "has_error": false
+    },
+    {
+      "name": "Royal Canin French Bulldog Puppy",
+      "brand": "Royal Canin",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_breed/french_bulldog/209128?activeVariant=209128.12",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Royal Canin Medium Sterilised",
+      "brand": "Royal Canin Care Nutrition",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_care_nutrition/296052?activeVariant=296052.8",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Royal Canin Medium Sterilised (Variant 2)",
+      "brand": "Royal Canin Care Nutrition",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_care_nutrition/296052?activeVariant=296052.9",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Baseline Young",
+      "brand": "Belcando",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/belcando/baseline/2176816?activeVariant=2176816.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Purizon Single Meat Adult Dog - Grain-Free Beef with Hibiscus Blossoms",
+      "brand": "Purizon",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/purizon/single_meat/2124227?activeVariant=2124227.2",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Wolf of Wilderness Senior 6 x 400g - Red Meat",
+      "brand": "Wolf of Wilderness",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/wolf_of_wilderness_red/1958908?activeVariant=1958908.0",
+      "is_wet": true,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Senior Age & Weight Dry Dog Food",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_life_protection/136396?activeVariant=136396.2",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Adult Mini Senior Dry Dog Food",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_senior/317406?activeVariant=317406.3",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "HPC Soft Maxi Water Buffalo & Sweet potato",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/2296076?activeVariant=2296076.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "HPC Adult Vegan Potato & Pea",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/1995623?activeVariant=1995623.4",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Adult Mini Poultry & Millet Dry Dog Food",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/323020?activeVariant=323020.4",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Grain Free Salmon & Beef for Small Dogs",
+      "brand": "Bozita",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/1488611?activeVariant=1488611.3",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Robur Puppy & Junior Chicken",
+      "brand": "Bozita",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_robur_dog_food/2311868?activeVariant=2311868.3",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Farmina N&D Pumpkin Puppy Medium & Maxi with lamb and blueberry",
+      "brand": "Farmina",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/pumpkin/1949844?activeVariant=1949844.0",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "WOW Senior duck 400g",
+      "brand": "Wow",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wow/1947711?activeVariant=1947711.0",
+      "is_wet": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "WOW Pure 6 x 400 g",
+      "brand": "Wow",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wow/1947746?activeVariant=1947746.0",
+      "is_wet": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Grain-Free Economy Pack",
+      "brand": "Briantos",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/briantos/saver_packs/999078?activeVariant=999078.1",
+      "is_wet": false,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "bosch HPC Adult Vegan Potato & Pea",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/1995623?activeVariant=1995623.4",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "N&D Dog Tropical Selection with Chicken",
+      "brand": "Farmina",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/tropical_selection/2097818?activeVariant=2097818.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "N&D Tropical Selection Adult Medium/Maxi with Lamb",
+      "brand": "Farmina",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/tropical_selection/2098208?activeVariant=2098208.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Care Dog Hypoallergenic Weight Loss Rabbit",
+      "brand": "Brit",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_care/1583559?activeVariant=1583559.1",
+      "is_wet": false,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Canine Diabetes with Chicken",
+      "brand": "Rinti",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/rinti/specialist_diet/1582654?activeVariant=1582654.0",
+      "is_wet": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "N&D Tropical Selection Adult Medium/Maxi with Salmon",
+      "brand": "Farmina",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/tropical_selection/2099166?activeVariant=2099166.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Premium by Nature Light",
+      "brand": "Brit",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_premium/1949070?activeVariant=1949070.2",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Royal Canin Labrador Retriever Adult 5+",
+      "brand": "Royal Canin",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_breed/labrador_retriever/961684?activeVariant=961684.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Energy Wonder",
+      "brand": "BugBell",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bugbell/2220539?activeVariant=2220539.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Magic Relax",
+      "brand": "BugBell",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bugbell/2220822?activeVariant=2220822.3",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Happy Mood",
+      "brand": "BugBell",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bugbell/2220470?activeVariant=2220470.3",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Life Senior Large Breed Fresh Beef",
+      "brand": "Calibra",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/calibra/1947655?activeVariant=1947655.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Veterinary Diet Hepatic Salmon",
+      "brand": "Calibra",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/calibra/1949240?activeVariant=1949240.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Simpsons Premium Sensitive Adult Duck & Potato Dry Dog Food",
+      "brand": "Simpsons Premium",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/simpsons_premium/sensitive/538330?activeVariant=538330.1",
+      "is_wet": false,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "dog food set",
+      "brand": "Carnilove",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/carnilove/1947561?activeVariant=1947561.0",
+      "is_wet": false,
+      "has_ingredients": false,
+      "has_nutrition": false,
+      "has_error": false
+    },
+    {
+      "name": "Natural Goodness Grain-Free with Superfoods",
+      "brand": "Cesar",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/cesar/adult_trays/1987430?activeVariant=1987430.0",
+      "is_wet": true,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "PURINA Dog Chow Large Breed Turkey",
+      "brand": "Purina Dog Chow",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/beta_dry_dog_food/adult/603109?activeVariant=603109.10",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Applaws Puppy Small & Medium Breed - Chicken",
+      "brand": "Applaws",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/applaws_dry_dog_food/354522",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Simpsons Premium Sensitive Adult Duck & Potato Dry Dog Food (Variant 2)",
+      "brand": "Simpsons Premium",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/simpsons_premium/sensitive/538330?activeVariant=538330.2",
+      "is_wet": false,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "for Life Large Adult",
+      "brand": "Concept For Life",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/concept_for_life/concept_for_life_large/561474?activeVariant=561474.6",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "for Life Labrador Retriever Adult",
+      "brand": "Concept For Life",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/concept_for_life/concept_for_life_breed/561473?activeVariant=561473.8",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Hypoallergenic - Kangaroo",
+      "brand": "Concept for Life Veterinary Diet",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/concept_for_life_vet_diet_dog_wet/hypoallergenic/760117?activeVariant=760117.5",
+      "is_wet": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Hypoallergenic Insect",
+      "brand": "Concept for Life Veterinary Diet",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/concept_for_life_vet_dog_dry/hypoallergenic/818920?activeVariant=818920.8",
+      "is_wet": false,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Renal",
+      "brand": "Concept for Life Veterinary Diet",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/concept_for_life_vet_diet_dog_wet/renal/760120",
+      "is_wet": true,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Weight Control",
+      "brand": "Concept for Life Veterinary Diet",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/concept_for_life_vet_dog_dry/weight_control/820209?activeVariant=820209.6",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Applaws Puppy Small & Medium Breed - Chicken (Variant 3)",
+      "brand": "Applaws",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/applaws_dry_dog_food/354522?activeVariant=354522.5",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "for Life Medium Puppy & Junior",
+      "brand": "Concept For Life",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/concept_for_life/concept_for_life_medium/561523?activeVariant=561523.6",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "for Life Mini Puppy & Junior",
+      "brand": "Concept For Life",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/concept_for_life/concept_for_life_mini/561528?activeVariant=561528.5",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Adult Innocent Lamb",
+      "brand": "Dogs'n Tiger",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/dogsn_tiger/2188952?activeVariant=2188952.1",
+      "is_wet": false,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    }
+  ]
+}

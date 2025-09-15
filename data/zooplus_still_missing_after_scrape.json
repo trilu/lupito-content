@@ -1,0 +1,965 @@
+{
+  "total_still_missing": 160,
+  "products": [
+    {
+      "product_key": "155444|12kg_iams_advanced_nutrition_dry_dog_food_10kg_2kg_free_|dry",
+      "product_name": "12kg IAMS Advanced Nutrition Dry Dog Food - 10kg + 2kg Free! *",
+      "brand": "155444",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/155444/853523?activeVariant=853523.12"
+    },
+    {
+      "product_key": "advanceveterinarydiets|18kg_14kg_adult_advance_dry_dog_food_3kg_2kg_free_|dry",
+      "product_name": "18kg/14kg Adult Advance Dry Dog Food - 3kg/2kg Free! *",
+      "brand": "Advance Veterinary Diets",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/advance_vet_diets/1988723?activeVariant=1988723.0"
+    },
+    {
+      "product_key": "alphaspirit|alpha_spirit_semi_moist_puppies_complete|dry",
+      "product_name": "Alpha Spirit Semi-Moist Puppies Complete",
+      "brand": "Alpha Spirit",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/alpha_spirit/semimoist/900814?activeVariant=900814.0"
+    },
+    {
+      "product_key": "arquivet|arquivet_fresh_ocean_fish|dry",
+      "product_name": "Arquivet Fresh Ocean Fish",
+      "brand": "Arquivet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/arquivet/2227183?activeVariant=2227183.0"
+    },
+    {
+      "product_key": "belcando|belcando_adult_iberico_rice|dry",
+      "product_name": "Belcando Adult Iberico & Rice",
+      "brand": "Belcando",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/belcando/adult/935709?activeVariant=935709.1"
+    },
+    {
+      "product_key": "bosch|bosch_plus_trout_potato_hpc_dry_dog_food|dry",
+      "product_name": "bosch Plus Trout & Potato HPC Dry Dog Food",
+      "brand": "Bosch",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/413776?activeVariant=413776.1"
+    },
+    {
+      "product_key": "bosch|boschhpcovenbakedbeef|dry",
+      "product_name": "bosch HPC Oven Baked beef",
+      "brand": "Bosch",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/1949500?activeVariant=1949500.0"
+    },
+    {
+      "product_key": "bozita|bozita_robur_sensitive_single_protein_lamb_rice|dry",
+      "product_name": "Bozita Robur Sensitive Single Protein Lamb & Rice",
+      "brand": "Bozita",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_robur_dog_food/593693?activeVariant=593693.6"
+    },
+    {
+      "product_key": "brit|britcaredogsustainablejuniorlargebreedchickeninsec|dry",
+      "product_name": "Brit Care Dog Sustainable Junior Large Breed Chicken & Insects",
+      "brand": "Brit",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_care/1948986?activeVariant=1948986.0"
+    },
+    {
+      "product_key": "brit|britcaredogsustainablepuppychickeninsects|dry",
+      "product_name": "Brit Care Dog Sustainable Puppy Chicken & Insects",
+      "brand": "Brit",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_care/1948987?activeVariant=1948987.1"
+    },
+    {
+      "product_key": "brit|britcareminigrainfreelightsterilized|dry",
+      "product_name": "Brit Care Mini Grain Free Light & Sterilized",
+      "brand": "Brit",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_care/1948991?activeVariant=1948991.1"
+    },
+    {
+      "product_key": "brit|britcareminigrainfreepuppylamb|dry",
+      "product_name": "Brit Care Mini Grain Free Puppy Lamb",
+      "brand": "Brit",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_care/1948992?activeVariant=1948992.0"
+    },
+    {
+      "product_key": "brit|britfreshturkeywithpealightfitslim|dry",
+      "product_name": "Brit Fresh Turkey with Pea Light Fit & Slim",
+      "brand": "Brit",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_fresh/1949123?activeVariant=1949123.0"
+    },
+    {
+      "product_key": "brit|britpremiumbynaturelight|dry",
+      "product_name": "Brit Premium by Nature Light",
+      "brand": "Brit",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_premium/1949070?activeVariant=1949070.2"
+    },
+    {
+      "product_key": "brit|britpremiumbynatureseniorsm|dry",
+      "product_name": "Brit Premium by Nature Senior S/M",
+      "brand": "Brit",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_premium/1947653?activeVariant=1947653.0"
+    },
+    {
+      "product_key": "brit|britpremiumbynaturesport|dry",
+      "product_name": "Brit Premium by Nature Sport",
+      "brand": "Brit",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit/brit_premium/1947654?activeVariant=1947654.0"
+    },
+    {
+      "product_key": "burns|burnsadultseniororiginaltoysmallbreedchickenrice|dry",
+      "product_name": "Burns Adult & Senior Original Toy & Small Breed - Chicken & Rice",
+      "brand": "Burns",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/burns/burns_adult/1108520?activeVariant=1108520.0"
+    },
+    {
+      "product_key": "burns|burnspuppyoriginalchickenrice|dry",
+      "product_name": "Burns Puppy Original - Chicken & Rice",
+      "brand": "Burns",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/burns/burns_puppy/390248?activeVariant=390248.5"
+    },
+    {
+      "product_key": "calibra|calibradoglifeseniormediumfreshbeef|dry",
+      "product_name": "Calibra Dog Life Senior Medium Fresh Beef",
+      "brand": "Calibra",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/calibra/1947491?activeVariant=1947491.0"
+    },
+    {
+      "product_key": "carnilove|carnilovefreshadultcarptroutfordogs|dry",
+      "product_name": "Carnilove Fresh Adult carp, trout for dogs",
+      "brand": "Carnilove",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/carnilove/1947495?activeVariant=1947495.1"
+    },
+    {
+      "product_key": "carnilove|carnilovefreshadultsmallbreedostrichlambfordogs|dry",
+      "product_name": "Carnilove Fresh Adult Small Breed ostrich, lamb for dogs",
+      "brand": "Carnilove",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/carnilove/1947564?activeVariant=1947564.0"
+    },
+    {
+      "product_key": "cavom|cavomcompletesenior|dry",
+      "product_name": "Cavom Complete Senior",
+      "brand": "Cavom",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/cavom/1949538?activeVariant=1949538.0"
+    },
+    {
+      "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_hypoallergenic_-_kangaroo|wet",
+      "product_name": "Hypoallergenic - Kangaroo",
+      "brand": "Concept for Life Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/concept_for_life_vet_diet_dog_wet/hypoallergenic/760117?activeVariant=760117.5"
+    },
+    {
+      "product_key": "concept_for_life_veterinary_diet|concept_for_life_veterinary_diet_hypoallergenic_insect|dry",
+      "product_name": "Hypoallergenic Insect",
+      "brand": "Concept for Life Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/concept_for_life_vet_dog_dry/hypoallergenic/818920?activeVariant=818920.8"
+    },
+    {
+      "product_key": "concept-for-life|concept_for_life_boxer_adult|dry",
+      "product_name": "for Life Boxer Adult",
+      "brand": "Concept For Life",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/concept_for_life/concept_for_life_breed/993420?activeVariant=993420.1"
+    },
+    {
+      "product_key": "conceptforlife|conceptforlifefrenchbulldogadult|dry",
+      "product_name": "Concept for Life French Bulldog Adult",
+      "brand": "Concept for Life",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/concept_for_life/concept_for_life_breed/949492?activeVariant=949492.0"
+    },
+    {
+      "product_key": "conceptforlifevetdietdogwet|concept_for_life_veterinary_diet_hypoallergenic_kangaroo|wet",
+      "product_name": "Concept for Life Veterinary Diet Hypoallergenic - Kangaroo",
+      "brand": "Concept For Life Vet Diet Dog Wet",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/concept_for_life_vet_diet_dog_wet/hypoallergenic/760117?activeVariant=760117.4"
+    },
+    {
+      "product_key": "conceptforlifevetdietdogwet|concept_for_life_veterinary_diet_mobility|wet",
+      "product_name": "Concept for Life Veterinary Diet Mobility",
+      "brand": "Concept For Life Vet Diet Dog Wet",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/concept_for_life_vet_diet_dog_wet/mobility/760119?activeVariant=760119.5"
+    },
+    {
+      "product_key": "conceptforlifevetdietdogwet|concept_for_life_veterinary_diet_weight_control|wet",
+      "product_name": "Concept for Life Veterinary Diet Weight Control",
+      "brand": "Concept For Life Vet Diet Dog Wet",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/concept_for_life_vet_diet_dog_wet/weight_control/760116?activeVariant=760116.4"
+    },
+    {
+      "product_key": "dingo||dry",
+      "product_name": "",
+      "brand": "Dingo",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/dingo/2389026?activeVariant=2389026.0"
+    },
+    {
+      "product_key": "dingo|gdingodrydogfood10off|dry",
+      "product_name": "g Dingo Dry Dog Food - 10% Off! *",
+      "brand": "Dingo",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/dingo/2389026?activeVariant=2389026.0"
+    },
+    {
+      "product_key": "dogrewardtreats|coya_adult_dog_topper|unknown",
+      "product_name": "Coya Adult Dog Topper",
+      "brand": "Dog Reward Treats",
+      "product_url": "https://www.zooplus.com/shop/dogs/dog_treats_chews/dog_reward_treats/other/2187525?activeVariant=2187525.1"
+    },
+    {
+      "product_key": "dogsntiger|dogsntigeradultinnocentlamb|dry",
+      "product_name": "Dogs'n Tiger Adult Innocent Lamb",
+      "brand": "Dogs'N Tiger",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/dogsn_tiger/2188952?activeVariant=2188952.1"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_caring_senior_large_breed_chicken|dry",
+      "product_name": "Caring Senior Large Breed Chicken",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/senior/701140?activeVariant=701140.3"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_caring_senior_medium_breed_chicken|dry",
+      "product_name": "Caring Senior Medium Breed Chicken",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/senior/701032?activeVariant=701032.2"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_daily_care_adult_mono-protein_with_salmon|dry",
+      "product_name": "Daily Care Adult Mono-Protein with Salmon",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/eukanuba_special_care/1383230?activeVariant=1383230.1"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_daily_care_mono-protein_with_duck|dry",
+      "product_name": "Daily Care Mono-Protein with Duck",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/eukanuba_special_care/1849031?activeVariant=1849031.1"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_medium_breed_adult_-_weight_control|dry",
+      "product_name": "Medium Breed Adult - Weight Control",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/light/128056?activeVariant=128056.13"
+    },
+    {
+      "product_key": "eukanuba|eukanuba_small_&_medium_breed_adult_-_lamb_&_rice|dry",
+      "product_name": "Small & Medium Breed Adult - Lamb & Rice",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/adult/128036?activeVariant=128036.13"
+    },
+    {
+      "product_key": "eukanuba|eukanubacaringseniorlargebreedchicken|dry",
+      "product_name": "Eukanuba Caring Senior Large Breed Chicken",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/senior/701140?activeVariant=701140.3"
+    },
+    {
+      "product_key": "eukanuba|eukanubacaringseniormediumbreedchicken|dry",
+      "product_name": "Eukanuba Caring Senior Medium Breed Chicken",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/senior/701032?activeVariant=701032.3"
+    },
+    {
+      "product_key": "eukanuba|eukanubacaringseniorsmallbreedchicken|dry",
+      "product_name": "Eukanuba Caring Senior Small Breed Chicken",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/senior/701121?activeVariant=701121.4"
+    },
+    {
+      "product_key": "eukanuba|eukanubadailycareadultmonoproteinwithsalmon|dry",
+      "product_name": "Eukanuba Daily Care Adult Mono-Protein with Salmon",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/eukanuba_special_care/1383230?activeVariant=1383230.1"
+    },
+    {
+      "product_key": "eukanuba|eukanubadailycaremonoproteinwithduck|dry",
+      "product_name": "Eukanuba Daily Care Mono-Protein with Duck",
+      "brand": "Eukanuba",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/eukanuba/eukanuba_special_care/1849031?activeVariant=1849031.1"
+    },
+    {
+      "product_key": "farmina_n&d|farmina_n&d_grain_free_pumpkin_adult_medium_&_maxi_with_lamb_&_blueberry|dry",
+      "product_name": "Grain Free Pumpkin Adult Medium & Maxi with Lamb & Blueberry",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/pumpkin/1584189?activeVariant=1584189.0"
+    },
+    {
+      "product_key": "farmina_n&d|farmina_n&d_ocean_salmon,_cod_&_melon_medium_&_maxi|dry",
+      "product_name": "Ocean Salmon, Cod & Melon Medium & Maxi",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/ocean/1949798?activeVariant=1949798.0"
+    },
+    {
+      "product_key": "farmina_n&d|farmina_n&d_prime_canine_chicken_&_pomegranate_puppy_medium/maxi|dry",
+      "product_name": "Prime Canine Chicken & Pomegranate Puppy Medium/Maxi",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/prime/1949799?activeVariant=1949799.0"
+    },
+    {
+      "product_key": "farmina_n&d|farmina_n&d_prime_grain_free_adult_medium_&_maxi_with_lamb_&_blueberry|dry",
+      "product_name": "Prime Grain Free Adult Medium & Maxi with Lamb & Blueberry",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/prime/1584180?activeVariant=1584180.0"
+    },
+    {
+      "product_key": "farmina_n&d|farmina_n&d_prime_grain_free_adult_medium_with_chicken_&_pomegranate|dry",
+      "product_name": "Prime Grain Free Adult Medium with Chicken & Pomegranate",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/prime/1584181?activeVariant=1584181.0"
+    },
+    {
+      "product_key": "farmina_n&d|farmina_n&d_prime_grain_free_mini_lamb_&_blueberries|dry",
+      "product_name": "Prime Grain Free Mini Lamb & Blueberries",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/prime/1949691?activeVariant=1949691.1"
+    },
+    {
+      "product_key": "farmina_n&d|farmina_vet_life_dog_ultrahypo|dry",
+      "product_name": "Vet Life Dog Ultrahypo",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/vet_life/1948955?activeVariant=1948955.0"
+    },
+    {
+      "product_key": "farmina_n&d|n&d_prime_grain_free_mini_chicken_&_pomegranate|dry",
+      "product_name": "Prime Grain Free Mini Chicken & Pomegranate",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/prime/1948091"
+    },
+    {
+      "product_key": "farmina|farmina_vet_life_dog_obesity|dry",
+      "product_name": "Farmina Vet Life Dog Obesity",
+      "brand": "Farmina",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/vet_life/1948783?activeVariant=1948783.0"
+    },
+    {
+      "product_key": "farminand|farminadoglowgrainchickenpomegranteadultmediumdog|dry",
+      "product_name": "Farmina Dog Low Grain Chicken & Pomegrante Adult Medium Dog",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/ancestral_grain/1584215?activeVariant=1584215.0"
+    },
+    {
+      "product_key": "farminand|farminandgrainfreeoceancodpumpkinorangemediummaxi|dry",
+      "product_name": "Farmina N&D Grain Free Ocean Cod, Pumpkin & Orange Medium & Maxi",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/ocean/1584191?activeVariant=1584191.0"
+    },
+    {
+      "product_key": "farminand|farminandgrainfreepumpkinadultmediummaxiwithboarap|dry",
+      "product_name": "Farmina N&D Grain Free Pumpkin Adult Medium & Maxi with Boar & Apple",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/pumpkin/1584188?activeVariant=1584188.0"
+    },
+    {
+      "product_key": "farminand|farminandgrainfreepumpkinadultmediummaxiwithlambbl|dry",
+      "product_name": "Farmina N&D Grain Free Pumpkin Adult Medium & Maxi with Lamb & Blueberry",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/pumpkin/1584189?activeVariant=1584189.0"
+    },
+    {
+      "product_key": "farminand|farminandmediummaxipumpkinvenisonapple|dry",
+      "product_name": "Farmina N&D Medium/Maxi Pumpkin, Venison & Apple",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/pumpkin/1584198?activeVariant=1584198.0"
+    },
+    {
+      "product_key": "farminand|farminandoceansalmoncodmelonmediummaxi|dry",
+      "product_name": "Farmina N&D Ocean Salmon, Cod & Melon Medium & Maxi",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/ocean/1949798?activeVariant=1949798.0"
+    },
+    {
+      "product_key": "farminand|farminandprimegrainfreeadultmediummaxiwithlambblue|dry",
+      "product_name": "Farmina N&D Prime Grain Free Adult Medium & Maxi with Lamb & Blueberry",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/prime/1584180?activeVariant=1584180.0"
+    },
+    {
+      "product_key": "farminand|farminandprimegrainfreeminilambblueberries|dry",
+      "product_name": "Farmina N&D Prime Grain Free Mini Lamb & Blueberries",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/prime/1949691?activeVariant=1949691.1"
+    },
+    {
+      "product_key": "farminand|farminavetlifedogultrahypo|dry",
+      "product_name": "Farmina Vet Life Dog Ultrahypo",
+      "brand": "Farmina N&D",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/vet_life/1948955?activeVariant=1948955.0"
+    },
+    {
+      "product_key": "fitactive|fitactive_croq_premium_beef_&_rice|dry",
+      "product_name": "CROQ Premium Beef & Rice",
+      "brand": "FitActive",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/fitactive/adult/1997638?activeVariant=1997638.1"
+    },
+    {
+      "product_key": "fitactive|fitactive_croq_premium_lamb_&_rice|dry",
+      "product_name": "CROQ Premium Lamb & Rice",
+      "brand": "FitActive",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/fitactive/adult/1997719?activeVariant=1997719.0"
+    },
+    {
+      "product_key": "fitactive|fitactivecroqpremiumbeefrice|dry",
+      "product_name": "FitActive CROQ Premium Beef & Rice",
+      "brand": "Fitactive",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/fitactive/adult/1997638?activeVariant=1997638.1"
+    },
+    {
+      "product_key": "fitactive|fitactivecroqpremiumlambrice|dry",
+      "product_name": "FitActive CROQ Premium Lamb & Rice",
+      "brand": "Fitactive",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/fitactive/adult/1997719?activeVariant=1997719.0"
+    },
+    {
+      "product_key": "forza10|forza10_bio_all_breeds_vegetal_with_seaweed_croquettes_for_dogs|dry",
+      "product_name": "Bio All Breeds Vegetal with Seaweed Croquettes for Dogs",
+      "brand": "Forza10",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/forza10/every_day/1947503?activeVariant=1947503.1"
+    },
+    {
+      "product_key": "forza10|forza10_mini_&_toy_diet_lamb_with_rice_croquettes_for_dogs|dry",
+      "product_name": "Mini & Toy Diet Lamb with Rice Croquettes for dogs",
+      "brand": "Forza10",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/forza10/forza_10_diet/1948053?activeVariant=1948053.0"
+    },
+    {
+      "product_key": "forza10|forza10activelinedermoactive|dry",
+      "product_name": "Forza 10 Active Line - Dermo Active",
+      "brand": "Forza10",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/forza10/active_line/1947833?activeVariant=1947833.0"
+    },
+    {
+      "product_key": "forza10|forza10activelineintestinalcolonphase1|dry",
+      "product_name": "Forza 10 Active Line Intestinal Colon Phase 1",
+      "brand": "Forza10",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/forza10/active_line/1948047?activeVariant=1948047.0"
+    },
+    {
+      "product_key": "forza10|forza10activelineminitoyintestinal|dry",
+      "product_name": "Forza10 Active Line Mini/Toy Intestinal",
+      "brand": "Forza10",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/forza10/active_line/2143347?activeVariant=2143347.0"
+    },
+    {
+      "product_key": "forza10|forza10bioallbreedsvegetalwithseaweedcroquettesfor|dry",
+      "product_name": "Forza10 Bio All Breeds Vegetal with Seaweed Croquettes for Dogs",
+      "brand": "Forza10",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/forza10/every_day/1947503?activeVariant=1947503.1"
+    },
+    {
+      "product_key": "forza10|forza10minitoydietlambwithricecroquettesfordogs|dry",
+      "product_name": "FORZA10 Mini & Toy Diet Lamb with Rice Croquettes for dogs",
+      "brand": "Forza10",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/forza10/forza_10_diet/1948053?activeVariant=1948053.0"
+    },
+    {
+      "product_key": "granatapet|granatapet_lieblings_mahlzeit_garden_mix|wet",
+      "product_name": "GranataPet Lieblings Mahlzeit - Garden Mix",
+      "brand": "Granatapet",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/granatapet/1582642?activeVariant=1582642.0"
+    },
+    {
+      "product_key": "greenwoods|greenwoods_veggie_with_cottage_cheese_egg_apple_broccoli|wet",
+      "product_name": "Greenwoods Veggie with Cottage Cheese, Egg, Apple & Broccoli",
+      "brand": "Greenwoods",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/greenwoods/greenwoods_veggie_wet/1367231?activeVariant=1367231.0"
+    },
+    {
+      "product_key": "greenwoods|greenwoods_veggie_with_cottage_cheese,_egg,_apple_&_broccoli|wet",
+      "product_name": "Veggie with Cottage Cheese, Egg, Apple & Broccoli",
+      "brand": "Greenwoods",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/greenwoods/greenwoods_veggie_wet/1367231?activeVariant=1367231.1"
+    },
+    {
+      "product_key": "greenwoods|greenwoods_veggie_with_yoghurt_potatoes_carrots_spinach|wet",
+      "product_name": "Greenwoods Veggie with Yoghurt, Potatoes, Carrots & Spinach",
+      "brand": "Greenwoods",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/greenwoods/greenwoods_veggie_wet/1367233?activeVariant=1367233.0"
+    },
+    {
+      "product_key": "happy_dog_supreme|happy_dog_sensible_mini_canada|dry",
+      "product_name": "Sensible Mini Canada",
+      "brand": "Happy Dog Supreme",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/happy_dog/1949013?activeVariant=1949013.0"
+    },
+    {
+      "product_key": "happydogsupreme|happydogsensibleminicanada|dry",
+      "product_name": "Happy Dog Sensible Mini Canada",
+      "brand": "Happy Dog Supreme",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/happy_dog/1949013?activeVariant=1949013.0"
+    },
+    {
+      "product_key": "happydogsupreme|happydogsupremesensitiveindia|dry",
+      "product_name": "Happy Dog Supreme Sensitive India",
+      "brand": "Happy Dog Supreme",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/happy_dog/1949022?activeVariant=1949022.0"
+    },
+    {
+      "product_key": "hillsprescriptiondiet|hillsprescriptiondietcaninekdmobilitykidneyjointca|dry",
+      "product_name": "Hill\u2019s Prescription Diet Canine k/d Mobility + Kidney + Joint Care",
+      "brand": "Hill'S Prescription Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/hills_prescription/renal/625553?activeVariant=625553.1"
+    },
+    {
+      "product_key": "hillsprescriptiondiet|hillsprescriptiondietdermcompletemini|dry",
+      "product_name": "Hill's Prescription Diet Derm Complete Mini",
+      "brand": "Hill'S Prescription Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/hills_prescription/allergies_intolerances/1083238?activeVariant=1083238.1"
+    },
+    {
+      "product_key": "hillsprescriptiondiet|hillsprescriptiondietzdfoodsensitivities|dry",
+      "product_name": "Hill's Prescription Diet z/d Food Sensitivities",
+      "brand": "Hill'S Prescription Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/hills_prescription/1949012?activeVariant=1949012.0"
+    },
+    {
+      "product_key": "hillsscienceplan|hillsscienceplanmatureadultseniorvitality7smallmin|dry",
+      "product_name": "Hill's Science Plan Mature Adult Senior Vitality 7+ Small & Mini with Chicken",
+      "brand": "Hill'S Science Plan",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/hills_science_plan/senior/937834?activeVariant=937834.1"
+    },
+    {
+      "product_key": "libra|libradogpuppychicken|dry",
+      "product_name": "Libra Dog Puppy Chicken",
+      "brand": "Libra",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/libra/libra_puppy/1920366?activeVariant=1920366.2"
+    },
+    {
+      "product_key": "lilyskitchen|lilyskitchengrainfreemenusfordogs|wet",
+      "product_name": "Lily's Kitchen Grain-Free Menus for Dogs",
+      "brand": "Lily'S Kitchen",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/lilys_kitchen_wet_dog_food/lilys_kitchen_can_dog_food/2093023?activeVariant=2093023.4"
+    },
+    {
+      "product_key": "lukullus|lukullus_veggie|wet",
+      "product_name": "Veggie",
+      "brand": "Lukullus",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/lukullus/veggie/1374121?activeVariant=1374121.0"
+    },
+    {
+      "product_key": "lukullus|lukulluscoldpressedbarbaryducklamb|dry",
+      "product_name": "Lukullus Cold-Pressed Barbary Duck & Lamb",
+      "brand": "Lukullus",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/lukullus/adult/444193"
+    },
+    {
+      "product_key": "lukullus|lukulluscoldpressedbeefwithgoose|dry",
+      "product_name": "Lukullus Cold-Pressed Beef with Goose",
+      "brand": "Lukullus",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/lukullus/adult/1903425"
+    },
+    {
+      "product_key": "lukullus|lukulluscoldpressedcharolaisbeeftrout|dry",
+      "product_name": "Lukullus Cold-Pressed Charolais Beef & Trout",
+      "brand": "Lukullus",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/lukullus/adult/156093?activeVariant=156093.8"
+    },
+    {
+      "product_key": "lukullus|lukulluscoldpressedchickenwithtrout|dry",
+      "product_name": "Lukullus Cold-Pressed Chicken with Trout",
+      "brand": "Lukullus",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/lukullus/adult/156094"
+    },
+    {
+      "product_key": "lukullus|lukulluscoldpressedsalmonwildboar|dry",
+      "product_name": "Lukullus Cold-Pressed Salmon & Wild Boar",
+      "brand": "Lukullus",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/lukullus/adult/1903426?activeVariant=1903426.0"
+    },
+    {
+      "product_key": "lukullus|lukullusjuniorcoldpressedchickenwithtrout|dry",
+      "product_name": "Lukullus Junior Cold-Pressed Chicken with Trout",
+      "brand": "Lukullus",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/lukullus/junior/448839?activeVariant=448839.13"
+    },
+    {
+      "product_key": "lukullus|lukullusvitalityadultgrainfreemobilitysupportbeef|dry",
+      "product_name": "Lukullus Vitality Adult Grain-Free Mobility Support Beef",
+      "brand": "Lukullus",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/lukullus/vitality/2129497"
+    },
+    {
+      "product_key": "markusmhle|markusmhleblackangusjunior|dry",
+      "product_name": "Markus-M\u00fchle Black Angus Junior",
+      "brand": "Markus M\u00fchle",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/markus_muehle/1949048?activeVariant=1949048.0"
+    },
+    {
+      "product_key": "mera|mera_care_junior_chicken|dry",
+      "product_name": "Care Junior Chicken",
+      "brand": "mera",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/mera_dog/classic/128517"
+    },
+    {
+      "product_key": "mera|meraessentialadultwithbeef|dry",
+      "product_name": "mera essential Adult with Beef",
+      "brand": "Mera",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/mera_dog/classic/1900043"
+    },
+    {
+      "product_key": "mera|merapuresensitivejuniorturkeyrice|dry",
+      "product_name": "mera Pure Sensitive Junior Turkey & Rice",
+      "brand": "Mera",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/mera_dog/1949061?activeVariant=1949061.1"
+    },
+    {
+      "product_key": "naturalgreatness|naturalgreatnesssalmon|dry",
+      "product_name": "Natural Greatness Salmon",
+      "brand": "Natural Greatness",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/naturalgreatness/1584313?activeVariant=1584313.0"
+    },
+    {
+      "product_key": "naturalgreatness|naturalgreatnessturkey|dry",
+      "product_name": "Natural Greatness Turkey",
+      "brand": "Natural Greatness",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/naturalgreatness/1584314?activeVariant=1584314.0"
+    },
+    {
+      "product_key": "naturesvariety|naturesvarietyfreezedriedtopperfordogs|dry",
+      "product_name": "Nature's Variety Freeze-Dried Topper for Dogs",
+      "brand": "Nature'S Variety",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/naturesvariety/freezedried/1766808?activeVariant=1766808.1"
+    },
+    {
+      "product_key": "nova_foods_natural_trainer|natural_trainer_sensitive_no_gluten_adult_medium/maxi_with_pork|dry",
+      "product_name": "Sensitive No Gluten Adult Medium/Maxi with pork",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1949156?activeVariant=1949156.0"
+    },
+    {
+      "product_key": "novafoodsnaturaltrainer|naturaltraineradultmaxiwithrawham|dry",
+      "product_name": "Natural Trainer Adult Maxi with Raw Ham",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1947690?activeVariant=1947690.0"
+    },
+    {
+      "product_key": "novafoodsnaturaltrainer|naturaltraineradultsmalltoywithprosciuttocrudo|dry",
+      "product_name": "Natural Trainer Adult Small & Toy with Prosciutto Crudo",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1949066?activeVariant=1949066.0"
+    },
+    {
+      "product_key": "novafoodsnaturaltrainer|naturaltrainerlightinfatadultmediummaxiwithturkey|dry",
+      "product_name": "Natural Trainer Light in Fat Adult Medium & Maxi with Turkey",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1947932?activeVariant=1947932.0"
+    },
+    {
+      "product_key": "novafoodsnaturaltrainer|naturaltrainermaturemediumwithchicken|dry",
+      "product_name": "Natural Trainer Mature Medium with Chicken",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1949103?activeVariant=1949103.0"
+    },
+    {
+      "product_key": "novafoodsnaturaltrainer|naturaltrainersensitiveadultmediummaxiwithduck|dry",
+      "product_name": "Natural Trainer Sensitive Adult Medium & Maxi with Duck",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1949100?activeVariant=1949100.0"
+    },
+    {
+      "product_key": "novafoodsnaturaltrainer|naturaltrainersensitiveadultsmalltoywithlamb|dry",
+      "product_name": "Natural Trainer Sensitive Adult Small & Toy with Lamb",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1949159?activeVariant=1949159.0"
+    },
+    {
+      "product_key": "novafoodsnaturaltrainer|naturaltrainersensitiveadultsmalltoywithpork|dry",
+      "product_name": "Natural Trainer Sensitive Adult Small & Toy with Pork",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1949101?activeVariant=1949101.1"
+    },
+    {
+      "product_key": "novafoodsnaturaltrainer|naturaltrainersensitiveadultsmalltoywithsalmon|dry",
+      "product_name": "Natural Trainer Sensitive Adult Small & Toy with Salmon",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1949157?activeVariant=1949157.1"
+    },
+    {
+      "product_key": "novafoodsnaturaltrainer|naturaltrainersensitivenoglutenadultmediummaxiwith|dry",
+      "product_name": "Natural Trainer Sensitive No Gluten Adult Medium/Maxi with pork",
+      "brand": "Nova Foods Natural Trainer",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/trainernatural/1949156?activeVariant=1949156.0"
+    },
+    {
+      "product_key": "optilife|optilifeadultmaxi|dry",
+      "product_name": "Opti Life Adult Maxi",
+      "brand": "Opti Life",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/optilife/1584373?activeVariant=1584373.0"
+    },
+    {
+      "product_key": "optilife|optilifeadultmedium|dry",
+      "product_name": "Opti Life Adult Medium",
+      "brand": "Opti Life",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/optilife/1584372?activeVariant=1584372.0"
+    },
+    {
+      "product_key": "optilife|optilifeadultskincaremediummaxi|dry",
+      "product_name": "Opti Life Adult Skin Care Medium & Maxi",
+      "brand": "Opti Life",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/optilife/1584376?activeVariant=1584376.0"
+    },
+    {
+      "product_key": "optilife|optilifedigestionadultmediummaxi|dry",
+      "product_name": "Opti Life Digestion Adult Medium & Maxi",
+      "brand": "Opti Life",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/optilife/1584375?activeVariant=1584375.0"
+    },
+    {
+      "product_key": "pro-plan|pro_plan_mobility_dog_supplement_powder|dry",
+      "product_name": "Mobility Dog Supplement Powder",
+      "brand": "Pro Plan",
+      "product_url": "https://www.zooplus.com/shop/dogs/supplements_specialty_food/purina/1379151?activeVariant=1379151.1"
+    },
+    {
+      "product_key": "proplan|16ggpurinaproplandrydogfood2ggfree|dry",
+      "product_name": "16.g/g PURINA PRO PLAN Dry Dog Food - 2.g/g Free! *",
+      "brand": "Pro Plan",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/purina_pro_plan/2203512?activeVariant=2203512.0"
+    },
+    {
+      "product_key": "proplan|proplanmobilitydogsupplementpowder|dry",
+      "product_name": "PRO PLAN Mobility Dog Supplement Powder",
+      "brand": "Pro Plan",
+      "product_url": "https://www.zooplus.com/shop/dogs/supplements_specialty_food/purina/1379151?activeVariant=1379151.1"
+    },
+    {
+      "product_key": "purina_veterinary_diets|purina_pro_plan_veterinary_diets_canine_mousse_en_gastrointestinal|wet",
+      "product_name": "Pro Plan Veterinary Diets Canine Mousse EN Gastrointestinal",
+      "brand": "Purina Veterinary Diets",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/purina_vet_diet_dog/gastrointestinal/762869?activeVariant=762869.0"
+    },
+    {
+      "product_key": "rocco|rocco_world_trip_spain_beef_with_fish_rice_peas|wet",
+      "product_name": "Rocco World Trip: Spain - Beef with Fish, Rice & Peas",
+      "brand": "Rocco",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/rocco/rocco_world_tour/1224630?activeVariant=1224630.0"
+    },
+    {
+      "product_key": "royal-canin|royal_canin_boxer_adult|dry",
+      "product_name": "Boxer Adult",
+      "brand": "Royal Canin",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_breed/boxer/128305"
+    },
+    {
+      "product_key": "royalcaninsize|groyalcanindrydogfoodggfree|dry",
+      "product_name": "g Royal Canin Dry Dog Food - g + g Free! *",
+      "brand": "Royal Canin Size",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_size/2150360?activeVariant=2150360.0"
+    },
+    {
+      "product_key": "royalcaninveterinarydiet|royal_canin_veterinary_dog_renal_loaf|wet",
+      "product_name": "Royal Canin Veterinary Dog - Renal Loaf",
+      "brand": "Royal Canin Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/royal_canin_veterinary_diet/renal/567733?activeVariant=567733.1"
+    },
+    {
+      "product_key": "royalcaninveterinarydiet|royal_canin_veterinary_dog_renal_special_loaf|wet",
+      "product_name": "Royal Canin Veterinary Dog - Renal Special Loaf",
+      "brand": "Royal Canin Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/royal_canin_veterinary_diet/renal/567741?activeVariant=567741.0"
+    },
+    {
+      "product_key": "royalcaninveterinarydiet|royal_canin_veterinary_dog_satiety_weight_management_loaf|wet",
+      "product_name": "Royal Canin Veterinary Dog - Satiety Weight Management Loaf",
+      "brand": "Royal Canin Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/royal_canin_veterinary_diet/obesity/854752?activeVariant=854752.1"
+    },
+    {
+      "product_key": "royalcaninveterinaryexpert|royalcaninexpertcanineadultlargedog|dry",
+      "product_name": "Royal Canin Expert Canine - Adult Large Dog",
+      "brand": "Royal Canin Veterinary & Expert",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_vet_diet/1966051?activeVariant=1966051.1"
+    },
+    {
+      "product_key": "royalcaninveterinaryexpert|royalcaninexpertcanineadultsmalldog|dry",
+      "product_name": "Royal Canin Expert Canine Adult Small Dog",
+      "brand": "Royal Canin Veterinary & Expert",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_vet_diet/2145820?activeVariant=2145820.0"
+    },
+    {
+      "product_key": "royalcaninveterinaryexpert|royalcaninveterinarycaninehypoallergenicmoderateca|dry",
+      "product_name": "Royal Canin Veterinary Canine Hypoallergenic Moderate Calorie",
+      "brand": "Royal Canin Veterinary & Expert",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_vet_diet/567855?activeVariant=567855.4"
+    },
+    {
+      "product_key": "royalcaninveterinaryexpert|royalcaninveterinarycanineskincare|dry",
+      "product_name": "Royal Canin Veterinary Canine Skin Care",
+      "brand": "Royal Canin Veterinary & Expert",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_vet_diet/570260?activeVariant=570260.5"
+    },
+    {
+      "product_key": "simpsons_premium|simpson_premium_sensitive_adult_salmon_&_potato_dry_dog_food|dry",
+      "product_name": "Simpson Premium Sensitive Adult Salmon & Potato Dry Dog Food",
+      "brand": "Simpsons Premium",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/simpsons_premium/sensitive/538327?activeVariant=538327.1"
+    },
+    {
+      "product_key": "simpsons_premium|simpsons_premium_sensitive_adult_duck_&_potato_dry_dog_food|dry",
+      "product_name": "Sensitive Adult Duck & Potato Dry Dog Food",
+      "brand": "Simpsons Premium",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/simpsons_premium/sensitive/538330?activeVariant=538330.1"
+    },
+    {
+      "product_key": "simpsonspremium|simpsonspremiumsensitiveadultduckpotatodrydogfood|dry",
+      "product_name": "Simpsons Premium Sensitive Adult Duck & Potato Dry Dog Food",
+      "brand": "Simpsons Premium",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/simpsons_premium/sensitive/538330?activeVariant=538330.1"
+    },
+    {
+      "product_key": "smlke|smlkedogadultgrainfree|dry",
+      "product_name": "Sm\u00f8lke Dog Adult Grain Free",
+      "brand": "Sm\u00f8lke",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/smolke/1584513?activeVariant=1584513.0"
+    },
+    {
+      "product_key": "smlke|smlkedogadultmaxi|dry",
+      "product_name": "Sm\u00f8lke Dog Adult Maxi",
+      "brand": "Sm\u00f8lke",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/smolke/1584512?activeVariant=1584512.0"
+    },
+    {
+      "product_key": "smlke|smlkedogadultmini|dry",
+      "product_name": "Sm\u00f8lke Dog Adult Mini",
+      "brand": "Sm\u00f8lke",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/smolke/1584404"
+    },
+    {
+      "product_key": "smlke|smlkedogseniormedium|dry",
+      "product_name": "Sm\u00f8lke Dog Senior Medium",
+      "brand": "Sm\u00f8lke",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/smolke/1584511?activeVariant=1584511.0"
+    },
+    {
+      "product_key": "smlke|smlkedogweightcontrol|dry",
+      "product_name": "Sm\u00f8lke Dog Weight Control",
+      "brand": "Sm\u00f8lke",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/smolke/1584510?activeVariant=1584510.0"
+    },
+    {
+      "product_key": "smlke|smlkepuppymaxioptimalgrowth|dry",
+      "product_name": "Sm\u00f8lke Puppy Maxi Optimal Growth",
+      "brand": "Sm\u00f8lke",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/smolke/1947557?activeVariant=1947557.0"
+    },
+    {
+      "product_key": "smlke|smlkepuppyminimedium|dry",
+      "product_name": "Sm\u00f8lke Puppy Mini-Medium",
+      "brand": "Sm\u00f8lke",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/smolke/1584426?activeVariant=1584426.0"
+    },
+    {
+      "product_key": "sm\u00f8lke|sm\u00f8lke_dog_adult_maxi|dry",
+      "product_name": "Dog Adult Maxi",
+      "brand": "Sm\u00f8lke",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/smolke/1584512?activeVariant=1584512.0"
+    },
+    {
+      "product_key": "specificveterinarydiet|specificdogccdstruvitemanagement|dry",
+      "product_name": "Specific Dog CCD Struvite Management",
+      "brand": "Specific Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/specific_veterinary_diet/1584432?activeVariant=1584432.0"
+    },
+    {
+      "product_key": "specificveterinarydiet|specificdogcddhyfoodallergenmanagement|dry",
+      "product_name": "Specific Dog CDD - HY Food Allergen Management",
+      "brand": "Specific Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/specific_veterinary_diet/1584381?activeVariant=1584381.0"
+    },
+    {
+      "product_key": "specificveterinarydiet|specificdogcgdmseniormediumbreed|dry",
+      "product_name": "Specific Dog CGD - M Senior Medium Breed",
+      "brand": "Specific Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/specific_veterinary_diet/1584518?activeVariant=1584518.0"
+    },
+    {
+      "product_key": "specificveterinarydiet|specificdogciddigestivesupport|dry",
+      "product_name": "Specific Dog CID Digestive Support",
+      "brand": "Specific Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/specific_veterinary_diet/1584433?activeVariant=1584433.0"
+    },
+    {
+      "product_key": "specificveterinarydiet|specificdogcjdjointsupport|dry",
+      "product_name": "Specific Dog CJD - Joint Support",
+      "brand": "Specific Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/specific_veterinary_diet/1584383?activeVariant=1584383.0"
+    },
+    {
+      "product_key": "specificveterinarydiet|specificdogcrd1weightreduction|dry",
+      "product_name": "Specific Dog CRD - 1 Weight Reduction",
+      "brand": "Specific Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/specific_veterinary_diet/1584382?activeVariant=1584382.0"
+    },
+    {
+      "product_key": "specificveterinarydiet|specificdogcxdmadultmediumbreed|dry",
+      "product_name": "Specific Dog CXD - M Adult Medium Breed",
+      "brand": "Specific Veterinary Diet",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/specific_veterinary_diet/1584431?activeVariant=1584431.0"
+    },
+    {
+      "product_key": "taste_of_the_wild|taste_of_the_wild_-_sierra_mountain_canine|dry",
+      "product_name": "- Sierra Mountain Canine",
+      "brand": "Taste of the Wild",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/taste_of_the_wild/409304?activeVariant=409304.7"
+    },
+    {
+      "product_key": "tasteofthewild|taste_of_the_wild_wetlands|wet",
+      "product_name": "Taste of the Wild Wetlands",
+      "brand": "Taste Of The Wild",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/taste_of_the_wild/1947863?activeVariant=1947863.0"
+    },
+    {
+      "product_key": "tasteofthewild|tasteofthewildsierramountaincanine|dry",
+      "product_name": "Taste of the Wild - Sierra Mountain Canine",
+      "brand": "Taste Of The Wild",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/taste_of_the_wild/409304?activeVariant=409304.7"
+    },
+    {
+      "product_key": "virbac_vetcomplex|virbac_veterinary_hpm_dog_weight_loss_&_control_w2|dry",
+      "product_name": "Veterinary HPM Dog Weight Loss & Control W2",
+      "brand": "Virbac Vetcomplex",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/virbac_dog_food/1583134?activeVariant=1583134.0"
+    },
+    {
+      "product_key": "virbacvetcomplex|virbacveterinaryhpmdogurologydissolutionprevention|dry",
+      "product_name": "Virbac Veterinary HPM Dog Urology Dissolution & Prevention U1",
+      "brand": "Virbac Vetcomplex",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/virbac_dog_food/1583133?activeVariant=1583133.0"
+    },
+    {
+      "product_key": "virbacvetcomplex|virbacveterinaryhpmdogweightlosscontrolw2|dry",
+      "product_name": "Virbac Veterinary HPM Dog Weight Loss & Control W2",
+      "brand": "Virbac Vetcomplex",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/virbac_dog_food/1583134?activeVariant=1583134.0"
+    },
+    {
+      "product_key": "wolf-of-wilderness|wolf_of_wilderness_\"triple_taste\"|wet",
+      "product_name": "\"Triple Taste\"",
+      "brand": "Wolf Of Wilderness",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/hundenassfuttermitdreifachenproteinenregionen/1952494?activeVariant=1952494.0"
+    },
+    {
+      "product_key": "wolf-of-wilderness|wolf_of_wilderness_\"velvet_gloom\"_-_turkey_&_trout_-_grain-free|dry",
+      "product_name": "\"Velvet Gloom\" - Turkey & Trout - Grain-free",
+      "brand": "Wolf Of Wilderness",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/wolf_of_wilderness/206814/1665014?activeVariant=1665014.1"
+    },
+    {
+      "product_key": "wolf-of-wilderness|wolf_of_wilderness_senior_\"green_fields\"_lamb_-_grain-free|dry",
+      "product_name": "Senior \"Green Fields\" Lamb - Grain-Free",
+      "brand": "Wolf Of Wilderness",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/wolf_of_wilderness/wolf_of_wilderness_senior/651110?activeVariant=651110.4"
+    },
+    {
+      "product_key": "wolf-of-wilderness|wolf_of_wilderness_senior|wet",
+      "product_name": "Senior",
+      "brand": "Wolf Of Wilderness",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/wolf_of_wilderness_senior/651160?activeVariant=651160.1"
+    },
+    {
+      "product_key": "wolfofwilderness|wolfofwildernesssoftgreenfieldslamb|dry",
+      "product_name": "Wolf of Wilderness Soft \u201cGreen Fields\u201d - Lamb",
+      "brand": "Wolf Of Wilderness",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/wolf_of_wilderness/semi_moist/684709"
+    },
+    {
+      "product_key": "wolfofwilderness|wolfofwildernesssoftwideacreschicken|dry",
+      "product_name": "Wolf of Wilderness Soft \"Wide Acres\" - Chicken",
+      "brand": "Wolf Of Wilderness",
+      "product_url": "https://www.zooplus.com/shop/dogs/dry_dog_food/wolf_of_wilderness/semi_moist/684637?activeVariant=684637.2"
+    },
+    {
+      "product_key": "wow|wow_senior_duck_400g|wet",
+      "product_name": "WOW Senior duck 400g",
+      "brand": "Wow",
+      "product_url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wow/1947711?activeVariant=1947711.0"
+    }
+  ]
+}
