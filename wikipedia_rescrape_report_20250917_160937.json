@@ -1,0 +1,33 @@
+{
+  "timestamp": "20250917_160937",
+  "stats": {
+    "total": 1,
+    "success": 1,
+    "failed": 0,
+    "skipped": 0,
+    "updated": 0,
+    "errors": []
+  },
+  "gcs_folder": "scraped/wikipedia_breeds/20250917_160937",
+  "results": [
+    {
+      "breed_slug": "affenpinscher",
+      "display_name": "Affenpinscher",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    }
+  ]
+}

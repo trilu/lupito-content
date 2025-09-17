@@ -1,0 +1,87 @@
+{
+  "timestamp": "20250917_154433",
+  "stats": {
+    "total": 5,
+    "success": 5,
+    "failed": 0,
+    "skipped": 0,
+    "updated": 0,
+    "errors": []
+  },
+  "gcs_folder": "scraped/wikipedia_breeds/20250917_154433",
+  "results": [
+    {
+      "breed_slug": "affenpinscher",
+      "display_name": "Affenpinscher",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "afghan-hound",
+      "display_name": "Afghan Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "africanis",
+      "display_name": "Africanis",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "aidi",
+      "display_name": "Aidi",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "airedale-terrier",
+      "display_name": "Airedale Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    }
+  ]
+}

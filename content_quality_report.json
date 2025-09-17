@@ -1,0 +1,99 @@
+{
+  "total_breeds": 583,
+  "critical_fields": {
+    "has_weight": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "has_size_category": {
+      "count": 583,
+      "percentage": 100.0
+    },
+    "has_life_stages": {
+      "count": 583,
+      "percentage": 100.0
+    },
+    "has_breed_slug": {
+      "count": 583,
+      "percentage": 100.0
+    },
+    "has_display_name": {
+      "count": 0,
+      "percentage": 0.0
+    }
+  },
+  "enrichment_fields": {
+    "has_specific_weight": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "has_height": {
+      "count": 518,
+      "percentage": 88.9
+    },
+    "has_energy_level": {
+      "count": 583,
+      "percentage": 100.0
+    },
+    "has_lifespan": {
+      "count": 345,
+      "percentage": 59.2
+    },
+    "has_origin": {
+      "count": 526,
+      "percentage": 90.2
+    },
+    "has_coat_info": {
+      "count": 409,
+      "percentage": 70.2
+    },
+    "has_trainability": {
+      "count": 583,
+      "percentage": 100.0
+    }
+  },
+  "content_fields": {
+    "has_personality": {
+      "count": 413,
+      "percentage": 70.8
+    },
+    "has_history": {
+      "count": 463,
+      "percentage": 79.4
+    },
+    "has_care_info": {
+      "count": 28,
+      "percentage": 4.8
+    },
+    "has_fun_facts": {
+      "count": 73,
+      "percentage": 12.5
+    },
+    "has_health_info": {
+      "count": 239,
+      "percentage": 41.0
+    },
+    "has_working_roles": {
+      "count": 494,
+      "percentage": 84.7
+    },
+    "has_good_with_children": {
+      "count": 59,
+      "percentage": 10.1
+    },
+    "has_good_with_pets": {
+      "count": 56,
+      "percentage": 9.6
+    },
+    "has_introduction": {
+      "count": 532,
+      "percentage": 91.3
+    }
+  },
+  "overall_scores": {
+    "critical_score": 60.0,
+    "enrichment_score": 72.6,
+    "content_score": 44.9,
+    "overall_weighted_score": 60.8
+  }
+}

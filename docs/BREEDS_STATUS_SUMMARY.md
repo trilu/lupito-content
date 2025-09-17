@@ -1,7 +1,7 @@
 # Breeds Content - Current Status Summary
-**Last Updated:** 2025-09-17 16:15 UTC
+**Last Updated:** 2025-09-17 17:40 UTC
 
-## ✅ Completed Work
+## ✅ Completed Work (September 17, 2025)
 
 ### 1. Database Infrastructure
 - **breeds_enrichment** table created
@@ -31,30 +31,56 @@
 - Smart detection for child/pet compatibility
 - Intelligence indicators and exercise levels
 
-### 4. Quality Assessment
-- **Current Score:** 85/100
+### 4. Wikipedia Scraping & Processing ✅ COMPLETE
+- **Runtime:** September 17, 16:28-17:31 UTC (~65 minutes)
+- **Successfully scraped:** 571/583 breeds (98%)
+- **Failed:** 12 breeds (mostly duplicates/variants)
+- **Full HTML backup:** Stored in GCS
+- **Database updated:** 571 breeds_details records
+- **Content created:** 566 breeds_comprehensive_content records
+- **GCS location:** `gs://lupito-content-raw-eu/scraped/wikipedia_breeds/20250917_162810/`
+
+### 5. Current Quality Assessment
+- **Quality Score:** 85/100 (unchanged - needs enrichment)
 - **583 breeds** in database
-- **42 breeds** missing weight data (7.2%)
-- **461 breeds** with default energy (79.1%)
+- **42 breeds** still missing weight data (7.2%)
+- **461 breeds** still with default energy (79.1%)
 - **92.8%** weight coverage
 - **100%** size category coverage
+- **Rich content:** 0% (extraction needed)
 
-## ⏳ Ready to Execute
+## 🎯 Next Steps to Reach 95% Quality
 
-### Production Wikipedia Scrape
+### ✅ Priority 1: Extract Rich Content from GCS (IN PROGRESS)
 ```bash
-# Run the comprehensive scraper for all 583 breeds
-./run_wikipedia_scrape.sh
-# OR
-python3 wikipedia_breed_rescraper_gcs.py
+# Re-process Wikipedia HTML for full text
+python3 extract_rich_content_from_gcs.py
 ```
+**Status:** RUNNING - Processing 571 breeds (~30% complete)
+**Target:** 50%+ breeds with personality/history descriptions
+**Impact:** Content richness 0% → 50%+
 
-**Expected Results:**
-- ~40-50 minutes runtime (with rate limiting)
-- Full HTML stored in GCS: `gs://lupito-content-raw-eu/scraped/wikipedia_breeds/`
-- Comprehensive content in `breeds_comprehensive_content` table
-- Weight/height/lifespan data updates in `breeds_details`
-- Quality score improvement to ~95/100
+### Priority 2: Fill Missing Weight Data (42 breeds)
+```bash
+# Use web search to find missing weights
+python3 enrich_missing_weights.py --source akc
+```
+**Target:** Get weight for 35+ of 42 breeds
+**Impact:** Weight coverage 92.8% → 98%+
+
+### Priority 3: Fix Energy Levels (461 breeds with defaults)
+```bash
+# Scrape AKC activity levels
+python3 scrape_akc_energy_levels.py
+```
+**Target:** Reduce defaults from 79% to <20%
+**Impact:** Energy accuracy 20.9% → 80%+
+
+### Expected Final Results:
+- **Weight coverage:** 98%+ ✅
+- **Energy accuracy:** 80%+ ✅
+- **Content richness:** 50%+ ✅
+- **Overall Quality:** 95%+ 🎯
 
 ## 📊 Current Data Quality
 
@@ -80,22 +106,33 @@ python3 wikipedia_breed_rescraper_gcs.py
 
 ## 📁 Key Files
 
-### Scripts
-- `breed_comprehensive_audit.py` - Quality assessment
-- `wikipedia_breed_rescraper_gcs.py` - Enhanced scraper
-- `run_wikipedia_scrape.sh` - Production run script
+### Working Scripts
+- ✅ `breed_comprehensive_audit.py` - Quality assessment
+- ✅ `wikipedia_breed_rescraper_gcs.py` - Enhanced scraper (COMPLETE)
+- ✅ `process_gcs_breeds.py` - GCS to database processor (COMPLETE)
+- ✅ `check_content_quality.py` - Detailed quality checker
+- ✅ `extract_rich_content_from_gcs.py` - Extract personality/history (RUNNING)
+- ✅ `check_extraction_results.py` - Verify rich content quality
+- ✅ `check_extraction_status.py` - Monitor extraction progress
+
+### Scripts Needed for 95% Goal
+- ⏳ `enrich_missing_weights.py` - Fill 42 missing weights
+- ⏳ `scrape_akc_energy_levels.py` - Fix 461 default energy levels
 
 ### SQL Files
-- `breeds_enrichment_tables_fixed.sql` - Core tables
-- `breeds_add_manual_overrides.sql` - Size corrections
-- `breeds_apply_overrides_fixed.sql` - Apply corrections
-- `breeds_comprehensive_content_table.sql` - Rich content storage
+- ✅ `breeds_enrichment_tables_fixed.sql` - Core tables
+- ✅ `breeds_add_manual_overrides.sql` - Size corrections
+- ✅ `breeds_apply_overrides_fixed.sql` - Apply corrections
+- ✅ `breeds_comprehensive_content_table.sql` - Rich content storage
 
-### Documentation
-- `docs/BREEDS_CONTENT_ANALYSIS_20250917.md` - Full analysis
-- `WIKIPEDIA_SCRAPE_README.md` - Scraper documentation
-- `breeds_audit_report_20250917_154317.md` - Latest audit
+### Latest Reports
+- `breeds_audit_report_20250917_173922.md` - Latest audit (85/100 score)
+- `wikipedia_gcs_only.log` - Scraping log (571 breeds)
+- `process_breeds.log` - Processing log (571 breeds updated)
+- `content_quality_report.json` - Detailed quality metrics
 
-## 🚀 Next Action
+## 🚀 Immediate Next Actions
 
-**Run the Wikipedia scraper** to populate comprehensive breed content and improve data quality to 95+/100.
+1. **Create weight enrichment script** - Use web search API for missing 42 breeds
+2. **Create AKC energy scraper** - Map breeds to proper activity levels
+3. **Re-process GCS HTML** - Extract full text content for user experience

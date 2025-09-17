@@ -1,0 +1,117 @@
+[
+  {
+    "product_key": "jollyes|k9_optimum_puppy_maxi|dry",
+    "product_name": "K9 Optimum Puppy Maxi",
+    "brand": "Jollyes",
+    "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0788/k9-optimum-puppy-maxi",
+    "ingredients_raw": "ChickenDried (18.5%),ChickenFreshly Prepared(18%),Rice,Maize,Chicken Gravy,SalmonFreshly Prepared(4.2%),Chicken Fat,Whole Oats,Prairie Meal,Salmon Meal,Brewers Yeast,Beet Pulp,Linseed(1%),Salmon Oil(1%),EggPowder, Marine Algae,Minerals, Marigold,Mannan Oligosaccharides,Glucosamine,Nucleotides, Turmeric, Blackcurrant,Yucca Schidigera,Green Lipped Mussel, Methylsulphonylmethane,Rosemary, Pomegranate.",
+    "ingredients_array": [
+      "ChickenDried",
+      "ChickenFreshly Prepared",
+      "Rice",
+      "Maize",
+      "Chicken Gravy",
+      "SalmonFreshly Prepared",
+      "Chicken Fat",
+      "Whole Oats",
+      "Prairie Meal",
+      "Salmon Meal",
+      "Brewers Yeast",
+      "Beet Pulp",
+      "Linseed",
+      "Salmon Oil",
+      "EggPowder",
+      "Marine Algae",
+      "Minerals",
+      "Marigold",
+      "Mannan Oligosaccharides",
+      "Glucosamine",
+      "Nucleotides",
+      "Turmeric",
+      "Blackcurrant",
+      "Yucca Schidigera",
+      "Green Lipped Mussel",
+      "Methylsulphonylmethane",
+      "Rosemary",
+      "Pomegranate"
+    ],
+    "nutrition": {},
+    "scraped_at": "2025-09-17T14:04:13.504622"
+  },
+  {
+    "product_key": "platinumcouk|platinum_menu_adult_wet|wet",
+    "product_name": "Platinum Menu Adult Wet",
+    "brand": "Platinum.co.uk",
+    "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0979/platinum-menu-adult-wet",
+    "ingredients_raw": "Fresh TurkeyMeat(63%),Fresh Salmon(20%), DehydratedPotato, DehydratedVegetables(Broccoli,Carrots, Leek),Olive Oil.",
+    "ingredients_array": [
+      "Fresh TurkeyMeat",
+      "Fresh Salmon",
+      "DehydratedPotato",
+      "DehydratedVegetables",
+      "Olive Oil"
+    ],
+    "nutrition": {},
+    "scraped_at": "2025-09-17T14:04:20.344365"
+  },
+  {
+    "product_key": "mcadams|mcadams_raw_preserve|dry",
+    "product_name": "McAdams Raw Preserve",
+    "brand": "McAdams",
+    "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/2492/mcadams-raw-preserve",
+    "ingredients_raw": "Whole British Free RangeChicken86%,Sweet Potato5%,Carrots5%,Cranberries1%,Glucosamine(750mg/kg),Chondroitin Sulphate(750mg/kg),Yucca,Green Tea, Dandelion Root, Hawthorn Leaf,Seaweed0.15%.",
+    "ingredients_array": [
+      "Whole British Free RangeChicken86%",
+      "Sweet Potato5%",
+      "Carrots5%",
+      "Cranberries1%",
+      "Glucosamine",
+      "Chondroitin Sulphate",
+      "Yucca",
+      "Green Tea",
+      "Dandelion Root",
+      "Hawthorn Leaf",
+      "Seaweed0.15%"
+    ],
+    "nutrition": {},
+    "scraped_at": "2025-09-17T14:04:26.215868"
+  },
+  {
+    "product_key": "hillsscienceplan|hills_science_plan_adult_1_oral_care|dry",
+    "product_name": "Hill's Science Plan Adult 1+ Oral Care",
+    "brand": "Hill's Science Plan",
+    "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0425/hills-science-plan-adult-1-oral-care",
+    "ingredients_raw": "Maize,ChickenandTurkey Meal, Brewers'Rice,Cellulose,Animal Fat,PeaBran Meal,Digest, DriedWhole Egg,Vegetable Oil,Minerals,Flaxseed.",
+    "ingredients_array": [
+      "Maize",
+      "ChickenandTurkey Meal",
+      "Brewers'Rice",
+      "Cellulose",
+      "Animal Fat",
+      "PeaBran Meal",
+      "Digest",
+      "DriedWhole Egg",
+      "Vegetable Oil",
+      "Minerals",
+      "Flaxseed"
+    ],
+    "nutrition": {},
+    "scraped_at": "2025-09-17T14:04:31.476412"
+  },
+  {
+    "product_key": "bob_lush_puppy_wet|wet",
+    "product_name": "Bob & Lush Puppy Wet",
+    "brand": "Unknown",
+    "url": "https://www.allaboutdogfood.co.uk/dog-food-reviews/0546/bob-and-lush-puppy-wet",
+    "ingredients_raw": "Lamb70% (Meat, Heart,Liver,Tripe),LambBroth(23%),Carrots(5%),Minerals(1%),Linseed Oil(1%).",
+    "ingredients_array": [
+      "Lamb70%",
+      "LambBroth",
+      "Carrots",
+      "Minerals",
+      "Linseed Oil"
+    ],
+    "nutrition": {},
+    "scraped_at": "2025-09-17T14:04:37.592035"
+  }
+]

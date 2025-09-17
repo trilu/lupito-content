@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-09-16T22:15:27.742079",
+  "stats": {
+    "total": 5,
+    "success": 0,
+    "pattern_8_matched": 0,
+    "ingredients_found": 0,
+    "nutrition_found": 0,
+    "image_found": 0
+  },
+  "results": [
+    {
+      "product_key": "terra-canis|terra_canis_essential_8_6_x_780g|wet",
+      "product_name": "Terra Canis Essential 8+ 6 x 780g",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/terra_canis/terracanis_menu/1948338?activeVariant=1948338.1",
+      "success": false,
+      "pattern_8_matched": false,
+      "ingredients_found": false,
+      "nutrition_found": false,
+      "image_found": false,
+      "error": "HTTP 400"
+    },
+    {
+      "product_key": "almo-nature-holistic|almo_nature_holistic_small_adult_dog_beef_rice|dry",
+      "product_name": "Almo Nature Holistic Small Adult Dog \u2013 Beef & Rice",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/almo_nature_holistic/small/536525?activeVariant=536525.1",
+      "success": false,
+      "pattern_8_matched": false,
+      "ingredients_found": false,
+      "nutrition_found": false,
+      "image_found": false,
+      "error": "HTTP 400"
+    },
+    {
+      "product_key": "purizon-wet-dog-food|purizon_adult_6_x_300g|wet",
+      "product_name": "Purizon Adult 6 x 300g",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/purizon_wet_dog_food/adult/1549511?activeVariant=1549511.5",
+      "success": false,
+      "pattern_8_matched": false,
+      "ingredients_found": false,
+      "nutrition_found": false,
+      "image_found": false,
+      "error": "HTTP 400"
+    },
+    {
+      "product_key": "wow|wow_senior_duck_400g|wet",
+      "product_name": "WOW Senior duck 400g",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wow/1947711?activeVariant=1947711.0",
+      "success": false,
+      "pattern_8_matched": false,
+      "ingredients_found": false,
+      "nutrition_found": false,
+      "image_found": false,
+      "error": "HTTP 400"
+    },
+    {
+      "product_key": "dogs-n-tiger|saver_pack_dogsn_tiger_junior_12_x_400g|wet",
+      "product_name": "Saver Pack Dogs N Tiger Junior 12 x 400g",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/dogs_n_tiger/puppy/1966735?activeVariant=1966735.0",
+      "success": false,
+      "pattern_8_matched": false,
+      "ingredients_found": false,
+      "nutrition_found": false,
+      "image_found": false,
+      "error": "HTTP 400"
+    }
+  ]
+}

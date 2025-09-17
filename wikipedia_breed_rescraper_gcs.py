@@ -9,6 +9,7 @@ import sys
 import re
 import json
 import time
+import random
 import hashlib
 import logging
 from datetime import datetime
@@ -555,25 +556,25 @@ class WikipediaBreedRescraperGCS:
         # Prepare update data
         update_data = {}
 
-        # Weight data
+        # Weight data - Fixed column names for breeds_details table
         if 'weight_min_kg' in extracted:
-            update_data['adult_weight_min_kg'] = extracted['weight_min_kg']
+            update_data['weight_kg_min'] = extracted['weight_min_kg']
         if 'weight_max_kg' in extracted:
-            update_data['adult_weight_max_kg'] = extracted['weight_max_kg']
+            update_data['weight_kg_max'] = extracted['weight_max_kg']
         if 'weight_avg_kg' in extracted:
             update_data['adult_weight_avg_kg'] = extracted['weight_avg_kg']
 
-        # Height data
+        # Height data - Fixed column names for breeds_details table (convert to int)
         if 'height_min_cm' in extracted:
-            update_data['height_min_cm'] = extracted['height_min_cm']
+            update_data['height_cm_min'] = int(extracted['height_min_cm'])
         if 'height_max_cm' in extracted:
-            update_data['height_max_cm'] = extracted['height_max_cm']
+            update_data['height_cm_max'] = int(extracted['height_max_cm'])
 
-        # Lifespan data
+        # Lifespan data - Fixed column names for breeds_details table (convert to int)
         if 'lifespan_min_years' in extracted:
-            update_data['lifespan_min_years'] = extracted['lifespan_min_years']
+            update_data['lifespan_years_min'] = int(extracted['lifespan_min_years'])
         if 'lifespan_max_years' in extracted:
-            update_data['lifespan_max_years'] = extracted['lifespan_max_years']
+            update_data['lifespan_years_max'] = int(extracted['lifespan_max_years'])
         if 'lifespan_avg_years' in extracted:
             update_data['lifespan_avg_years'] = extracted['lifespan_avg_years']
 
@@ -581,13 +582,11 @@ class WikipediaBreedRescraperGCS:
         if 'energy_level' in extracted:
             update_data['energy'] = extracted['energy_level']
 
-        # Additional fields
-        if extracted.get('temperament'):
-            update_data['temperament'] = extracted['temperament']
-        if extracted.get('health_issues'):
-            update_data['health_issues'] = extracted['health_issues']
+        # Additional fields - only add origin which exists in breeds_details
         if extracted.get('origin'):
             update_data['origin'] = extracted['origin']
+
+        # Note: temperament and health_issues go to comprehensive_content table, not breeds_details
 
         # Mark source
         update_data['weight_from'] = 'wikipedia'
@@ -677,8 +676,9 @@ class WikipediaBreedRescraperGCS:
                 breed_data['gcs_html_path'] = html_path
                 breed_data['gcs_json_path'] = json_path
 
-                # Update database
-                self.update_database(breed_data)
+                # Skip database update - we'll process from GCS later
+                # self.update_database(breed_data)
+                logger.info(f"Skipping database update - GCS data saved for later processing")
 
                 self.stats['success'] += 1
                 results.append({
@@ -690,9 +690,16 @@ class WikipediaBreedRescraperGCS:
                 self.stats['failed'] += 1
                 logger.warning(f"Failed to scrape {display_name}")
 
-            # Rate limiting
+            # Rate limiting - be respectful to Wikipedia
             if i < self.stats['total']:
-                time.sleep(2)
+                # Take a longer break every 25 breeds
+                if i % 25 == 0 and i > 0:
+                    logger.info(f"Taking a 30-second break after {i} breeds...")
+                    time.sleep(30)
+                else:
+                    # Random delay between 3-6 seconds to appear more human
+                    delay = 3 + random.uniform(0, 3)
+                    time.sleep(delay)
 
         # Save summary report
         self.save_summary_report(results)

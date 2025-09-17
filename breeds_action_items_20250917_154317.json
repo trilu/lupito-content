@@ -1,0 +1,256 @@
+{
+  "missing_weight": [
+    {
+      "breed_slug": "africanis",
+      "display_name": "Africanis"
+    },
+    {
+      "breed_slug": "anglo-fran-ais-de-petite-v-nerie",
+      "display_name": "Anglo-Fran\u00e7ais de Petite V\u00e9nerie"
+    },
+    {
+      "breed_slug": "argentine-pila",
+      "display_name": "Argentine Pila"
+    },
+    {
+      "breed_slug": "ari-ge-pointer",
+      "display_name": "Ari\u00e8ge Pointer"
+    },
+    {
+      "breed_slug": "australian-silky-terrier",
+      "display_name": "Australian Silky Terrier"
+    },
+    {
+      "breed_slug": "australian-stumpy-tail-cattle-dog",
+      "display_name": "Australian Stumpy Tail Cattle Dog"
+    },
+    {
+      "breed_slug": "austrian-pinscher",
+      "display_name": "Austrian Pinscher"
+    },
+    {
+      "breed_slug": "basset-bleu-de-gascogne",
+      "display_name": "Basset Bleu de Gascogne"
+    },
+    {
+      "breed_slug": "basset-fauve-de-bretagne",
+      "display_name": "Basset Fauve de Bretagne"
+    },
+    {
+      "breed_slug": "bavarian-mountain-hound",
+      "display_name": "Bavarian Mountain Hound"
+    },
+    {
+      "breed_slug": "beagle-harrier",
+      "display_name": "Beagle-Harrier"
+    },
+    {
+      "breed_slug": "bichon-fris",
+      "display_name": "Bichon Fris\u00e9"
+    },
+    {
+      "breed_slug": "bohemian-spotted-dog",
+      "display_name": "Bohemian Spotted Dog"
+    },
+    {
+      "breed_slug": "braque-d-auvergne",
+      "display_name": "Braque d'Auvergne"
+    },
+    {
+      "breed_slug": "braque-du-bourbonnais",
+      "display_name": "Braque du Bourbonnais"
+    },
+    {
+      "breed_slug": "braque-fran-ais",
+      "display_name": "Braque Fran\u00e7ais"
+    },
+    {
+      "breed_slug": "braque-saint-germain",
+      "display_name": "Braque Saint-Germain"
+    },
+    {
+      "breed_slug": "briquet-griffon-vend-en",
+      "display_name": "Briquet Griffon Vend\u00e9en"
+    },
+    {
+      "breed_slug": "bulgarian-scenthound",
+      "display_name": "Bulgarian Scenthound"
+    },
+    {
+      "breed_slug": "calupoh",
+      "display_name": "Calupoh"
+    },
+    {
+      "breed_slug": "catalan-sheepdog",
+      "display_name": "Catalan Sheepdog"
+    },
+    {
+      "breed_slug": "chukotka-sled-dog",
+      "display_name": "Chukotka sled dog"
+    },
+    {
+      "breed_slug": "croatian-sheepdog",
+      "display_name": "Croatian Sheepdog"
+    },
+    {
+      "breed_slug": "danish-swedish-farmdog",
+      "display_name": "Danish\u2013Swedish Farmdog"
+    },
+    {
+      "breed_slug": "east-european-shepherd",
+      "display_name": "East European Shepherd"
+    },
+    {
+      "breed_slug": "galgo-espa-ol",
+      "display_name": "Galgo Espa\u00f1ol"
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vend-en",
+      "display_name": "Grand Basset Griffon Vend\u00e9en"
+    },
+    {
+      "breed_slug": "h-llefors-elkhound",
+      "display_name": "H\u00e4llefors Elkhound"
+    },
+    {
+      "breed_slug": "lupo-italiano",
+      "display_name": "Lupo Italiano"
+    },
+    {
+      "breed_slug": "mahratta-hound",
+      "display_name": "Mahratta Hound"
+    },
+    {
+      "breed_slug": "nenets-herding-laika",
+      "display_name": "Nenets Herding Laika"
+    },
+    {
+      "breed_slug": "petit-basset-griffon-vend-en",
+      "display_name": "Petit Basset Griffon Vend\u00e9en"
+    },
+    {
+      "breed_slug": "petit-bleu-de-gascogne",
+      "display_name": "Petit Bleu de Gascogne"
+    },
+    {
+      "breed_slug": "porcelaine",
+      "display_name": "Porcelaine"
+    },
+    {
+      "breed_slug": "rastreador-brasileiro",
+      "display_name": "Rastreador Brasileiro"
+    },
+    {
+      "breed_slug": "romanian-raven-shepherd-dog",
+      "display_name": "Romanian Raven Shepherd Dog"
+    },
+    {
+      "breed_slug": "schweizer-laufhund",
+      "display_name": "Schweizer Laufhund"
+    },
+    {
+      "breed_slug": "silken-windhound",
+      "display_name": "Silken Windhound"
+    },
+    {
+      "breed_slug": "small-me-imurje-dog",
+      "display_name": "Small Me\u0111imurje Dog"
+    },
+    {
+      "breed_slug": "villano-de-las-encartaciones",
+      "display_name": "Villano de Las Encartaciones"
+    },
+    {
+      "breed_slug": "volpino-italiano",
+      "display_name": "Volpino Italiano"
+    },
+    {
+      "breed_slug": "yakutian-laika",
+      "display_name": "Yakutian Laika"
+    }
+  ],
+  "default_energy": [
+    {
+      "breed_slug": "affenpinscher",
+      "display_name": "Affenpinscher"
+    },
+    {
+      "breed_slug": "afghan-hound",
+      "display_name": "Afghan Hound"
+    },
+    {
+      "breed_slug": "africanis",
+      "display_name": "Africanis"
+    },
+    {
+      "breed_slug": "aidi",
+      "display_name": "Aidi"
+    },
+    {
+      "breed_slug": "airedale-terrier",
+      "display_name": "Airedale Terrier"
+    },
+    {
+      "breed_slug": "akbash",
+      "display_name": "Akbash"
+    },
+    {
+      "breed_slug": "akita",
+      "display_name": "Akita"
+    },
+    {
+      "breed_slug": "aksaray-malaklisi",
+      "display_name": "Aksaray Malaklisi"
+    },
+    {
+      "breed_slug": "alano-espa-ol",
+      "display_name": "Alano Espa\u00f1ol"
+    },
+    {
+      "breed_slug": "alapaha-blue-blood-bulldog",
+      "display_name": "Alapaha Blue Blood Bulldog"
+    },
+    {
+      "breed_slug": "alaskan-husky",
+      "display_name": "Alaskan Husky"
+    },
+    {
+      "breed_slug": "alaskan-klee-kai",
+      "display_name": "Alaskan Klee Kai"
+    },
+    {
+      "breed_slug": "alpine-dachsbracke",
+      "display_name": "Alpine Dachsbracke"
+    },
+    {
+      "breed_slug": "american-bully",
+      "display_name": "American Bully"
+    },
+    {
+      "breed_slug": "american-cocker-spaniel",
+      "display_name": "American Cocker Spaniel"
+    },
+    {
+      "breed_slug": "american-english-coonhound",
+      "display_name": "American English Coonhound"
+    },
+    {
+      "breed_slug": "american-eskimo-dog",
+      "display_name": "American Eskimo Dog"
+    },
+    {
+      "breed_slug": "american-foxhound",
+      "display_name": "American Foxhound"
+    },
+    {
+      "breed_slug": "american-hairless-terrier",
+      "display_name": "American Hairless Terrier"
+    },
+    {
+      "breed_slug": "american-leopard-hound",
+      "display_name": "American Leopard Hound"
+    }
+  ],
+  "no_wikipedia": [],
+  "quality_issues": []
+}

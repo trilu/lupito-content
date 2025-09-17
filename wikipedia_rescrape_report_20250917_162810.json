@@ -1,0 +1,7276 @@
+{
+  "timestamp": "20250917_162810",
+  "stats": {
+    "total": 583,
+    "success": 571,
+    "failed": 12,
+    "skipped": 0,
+    "updated": 0,
+    "errors": []
+  },
+  "gcs_folder": "scraped/wikipedia_breeds/20250917_162810",
+  "results": [
+    {
+      "breed_slug": "affenpinscher",
+      "display_name": "Affenpinscher",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "afghan-hound",
+      "display_name": "Afghan Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_pets",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "africanis",
+      "display_name": "Africanis",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted"
+      ]
+    },
+    {
+      "breed_slug": "aidi",
+      "display_name": "Aidi",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "airedale-terrier",
+      "display_name": "Airedale Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "akbash",
+      "display_name": "Akbash",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "akita",
+      "display_name": "Akita",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "aksaray-malaklisi",
+      "display_name": "Aksaray Malaklisi",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "alano-espa-ol",
+      "display_name": "Alano Espa\u00f1ol",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "alapaha-blue-blood-bulldog",
+      "display_name": "Alapaha Blue Blood Bulldog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "alaskan-husky",
+      "display_name": "Alaskan Husky",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "has_world_records",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "alaskan-klee-kai",
+      "display_name": "Alaskan Klee Kai",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "alaskan-malamute",
+      "display_name": "Alaskan Malamute",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "alopekis",
+      "display_name": "Alopekis",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "good_with_children",
+        "exercise_level",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "alpine-dachsbracke",
+      "display_name": "Alpine Dachsbracke",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-bulldog",
+      "display_name": "American Bulldog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-bully",
+      "display_name": "American Bully",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_children",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-cocker-spaniel",
+      "display_name": "American Cocker Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-english-coonhound",
+      "display_name": "American English Coonhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "good_with_children",
+        "good_with_pets",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-eskimo-dog",
+      "display_name": "American Eskimo Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-foxhound",
+      "display_name": "American Foxhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "grooming_frequency",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-hairless-terrier",
+      "display_name": "American Hairless Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-leopard-hound",
+      "display_name": "American Leopard Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-pit-bull-terrier",
+      "display_name": "American Pit Bull Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-staffordshire-terrier",
+      "display_name": "American Staffordshire Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "american-water-spaniel",
+      "display_name": "American Water Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "anatolian-shepherd",
+      "display_name": "Anatolian Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "andalusian-terrier",
+      "display_name": "Andalusian Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "anglo-fran-ais-de-petite-v-nerie",
+      "display_name": "Anglo-Fran\u00e7ais de Petite V\u00e9nerie",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "appenzeller-sennenhund",
+      "display_name": "Appenzeller Sennenhund",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "argentine-pila",
+      "display_name": "Argentine Pila",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "ari-ge-pointer",
+      "display_name": "Ari\u00e8ge Pointer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "ari-geois",
+      "display_name": "Ari\u00e9geois",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "armant",
+      "display_name": "Armant",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "armenian-gampr",
+      "display_name": "Armenian Gampr",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "artois-hound",
+      "display_name": "Artois Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "australian-cattle-dog",
+      "display_name": "Australian Cattle Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "australian-kelpie",
+      "display_name": "Australian Kelpie",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "has_world_records",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "australian-shepherd",
+      "display_name": "Australian Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "australian-silky-terrier",
+      "display_name": "Australian Silky Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "australian-stumpy-tail-cattle-dog",
+      "display_name": "Australian Stumpy Tail Cattle Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "australian-terrier",
+      "display_name": "Australian Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "austrian-black-and-tan-hound",
+      "display_name": "Austrian Black and Tan Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "austrian-pinscher",
+      "display_name": "Austrian Pinscher",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "azawakh",
+      "display_name": "Azawakh",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "b-c-h",
+      "display_name": "B\u1eafc H\u00e0",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "bakharwal",
+      "display_name": "Bakharwal",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "banjara-hound",
+      "display_name": "Banjara Hound",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "bankhar-dog",
+      "display_name": "Bankhar Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "barak-hound",
+      "display_name": "Barak hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "barbado-da-terceira",
+      "display_name": "Barbado da Terceira",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "barbet",
+      "display_name": "Barbet",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "basenji",
+      "display_name": "Basenji",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "basque-shepherd-dog",
+      "display_name": "Basque Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "basset-art-sien-normand",
+      "display_name": "Basset Art\u00e9sien Normand",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "basset-bleu-de-gascogne",
+      "display_name": "Basset Bleu de Gascogne",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "basset-fauve-de-bretagne",
+      "display_name": "Basset Fauve de Bretagne",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "basset-hound",
+      "display_name": "Basset Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bavarian-mountain-hound",
+      "display_name": "Bavarian Mountain Hound",
+      "extracted_fields": [
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "beagle",
+      "display_name": "Beagle",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "beagle-harrier",
+      "display_name": "Beagle-Harrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bearded-collie",
+      "display_name": "Bearded Collie",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "grooming_frequency",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "beauceron",
+      "display_name": "Beauceron",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bedlington-terrier",
+      "display_name": "Bedlington Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_children",
+        "good_with_pets",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "belgian-laekenois",
+      "display_name": "Belgian Laekenois",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "belgian-malinois",
+      "display_name": "Belgian Malinois",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "belgian-sheepdog",
+      "display_name": "Belgian Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "belgian-shepherd",
+      "display_name": "Belgian Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "belgian-tervuren",
+      "display_name": "Belgian Tervuren",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bergamasco",
+      "display_name": "Bergamasco",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "bergamasco-shepherd",
+      "display_name": "Bergamasco Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "berger-picard",
+      "display_name": "Berger Picard",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bernese-mountain-dog",
+      "display_name": "Bernese Mountain Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bichon-frise",
+      "display_name": "Bichon Frise",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bichon-fris",
+      "display_name": "Bichon Fris\u00e9",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "biewer-terrier",
+      "display_name": "Biewer Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "billy",
+      "display_name": "Billy",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "black-and-tan-coonhound",
+      "display_name": "Black And Tan Coonhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "black-mouth-cur",
+      "display_name": "Black Mouth Cur",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "black-norwegian-elkhound",
+      "display_name": "Black Norwegian Elkhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "black-russian-terrier",
+      "display_name": "Black Russian Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bloodhound",
+      "display_name": "Bloodhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "blue-lacy",
+      "display_name": "Blue Lacy",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "grooming_frequency",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "blue-picardy-spaniel",
+      "display_name": "Blue Picardy Spaniel",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bluetick-coonhound",
+      "display_name": "Bluetick Coonhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "boerboel",
+      "display_name": "Boerboel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bohemian-shepherd",
+      "display_name": "Bohemian Shepherd",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bohemian-spotted-dog",
+      "display_name": "Bohemian Spotted Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "exercise_level",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bolognese",
+      "display_name": "Bolognese",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "border-collie",
+      "display_name": "Border Collie",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "border-terrier",
+      "display_name": "Border Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "borzoi",
+      "display_name": "Borzoi",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "boston-terrier",
+      "display_name": "Boston Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "has_world_records",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bouvier-des-ardennes",
+      "display_name": "Bouvier des Ardennes",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bouvier-des-flandres",
+      "display_name": "Bouvier Des Flandres",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_pets",
+        "grooming_frequency",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "boxer",
+      "display_name": "Boxer",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "boykin-spaniel",
+      "display_name": "Boykin Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bracco-italiano",
+      "display_name": "Bracco Italiano",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "braque-d-auvergne",
+      "display_name": "Braque d'Auvergne",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "braque-du-bourbonnais",
+      "display_name": "Braque du Bourbonnais",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "braque-fran-ais",
+      "display_name": "Braque Fran\u00e7ais",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "braque-saint-germain",
+      "display_name": "Braque Saint-Germain",
+      "extracted_fields": [
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "brazilian-terrier",
+      "display_name": "Brazilian Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "briard",
+      "display_name": "Briard",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "briquet-de-provence",
+      "display_name": "Briquet de Provence",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "briquet-griffon-vend-en",
+      "display_name": "Briquet Griffon Vend\u00e9en",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "brittany",
+      "display_name": "Brittany",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "broholmer",
+      "display_name": "Broholmer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bruno-jura-hound",
+      "display_name": "Bruno Jura Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "brussels-griffon",
+      "display_name": "Brussels Griffon",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bucovina-shepherd-dog",
+      "display_name": "Bucovina Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bulgarian-hound",
+      "display_name": "Bulgarian Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bulgarian-scenthound",
+      "display_name": "Bulgarian Scenthound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "bull-arab",
+      "display_name": "Bull Arab",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bull-terrier",
+      "display_name": "Bull Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bulldog",
+      "display_name": "Bulldog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bullmastiff",
+      "display_name": "Bullmastiff",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "bully-kutta",
+      "display_name": "Bully Kutta",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "burgos-pointer",
+      "display_name": "Burgos Pointer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "ca-de-bou",
+      "display_name": "Ca de Bou",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "ca-m-mallorqu",
+      "display_name": "Ca M\u00e8 Mallorqu\u00ed",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "ca-rater-mallorqu",
+      "display_name": "Ca Rater Mallorqu\u00ed",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cairn-terrier",
+      "display_name": "Cairn Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cairn-terriers",
+      "display_name": "Cairn Terriers",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "calupoh",
+      "display_name": "Calupoh",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "campeiro-bulldog",
+      "display_name": "Campeiro Bulldog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "can-de-chira",
+      "display_name": "Can de Chira",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "can-de-palleiro",
+      "display_name": "Can de Palleiro",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "canaan-dog",
+      "display_name": "Canaan Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "canadian-eskimo-dog",
+      "display_name": "Canadian Eskimo Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cane-corso",
+      "display_name": "Cane Corso",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cane-di-oropa",
+      "display_name": "Cane di Oropa",
+      "extracted_fields": [
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cane-paratore",
+      "display_name": "Cane Paratore",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cantabrian-water-dog",
+      "display_name": "Cantabrian Water Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "c-o-de-gado-transmontano",
+      "display_name": "C\u00e3o de Gado Transmontano",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cardigan-welsh-corgi",
+      "display_name": "Cardigan Welsh Corgi",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "carea-leon-s",
+      "display_name": "Carea Leon\u00e9s",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "carolina-dog",
+      "display_name": "Carolina Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "carpathian-shepherd-dog",
+      "display_name": "Carpathian Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "castro-laboreiro-dog",
+      "display_name": "Castro Laboreiro Dog",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "catahoula-leopard-dog",
+      "display_name": "Catahoula Leopard Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "catalan-sheepdog",
+      "display_name": "Catalan Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "caucasian-shepherd-dog",
+      "display_name": "Caucasian Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cavalier-king-charles-spaniel",
+      "display_name": "Cavalier King Charles Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "good_with_children",
+        "grooming_frequency",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "central-asian-shepherd-dog",
+      "display_name": "Central Asian Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "esk-fousek",
+      "display_name": "\u010cesk\u00fd fousek",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cesky-terrier",
+      "display_name": "Cesky Terrier",
+      "extracted_fields": [
+        "origin",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chesapeake-bay-retriever",
+      "display_name": "Chesapeake Bay Retriever",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-noir",
+      "display_name": "Chien Fran\u00e7ais Blanc et Noir",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-orange",
+      "display_name": "Chien Fran\u00e7ais Blanc et Orange",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chien-fran-ais-tricolore",
+      "display_name": "Chien Fran\u00e7ais Tricolore",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chihuahua",
+      "display_name": "Chihuahua",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "chilean-terrier",
+      "display_name": "Chilean Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chinese-crested",
+      "display_name": "Chinese Crested",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "exercise_level",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chinese-crested-dog",
+      "display_name": "Chinese Crested Dog",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "exercise_level",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chinese-shar-pei",
+      "display_name": "Chinese Shar Pei",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "has_world_records",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chinook",
+      "display_name": "Chinook",
+      "extracted_fields": [
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "chippiparai",
+      "display_name": "Chippiparai",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "chongqing",
+      "display_name": "Chongqing",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted"
+      ]
+    },
+    {
+      "breed_slug": "chortai",
+      "display_name": "Chortai",
+      "extracted_fields": [
+        "origin",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "chow-chow",
+      "display_name": "Chow Chow",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "chukotka-sled-dog",
+      "display_name": "Chukotka sled dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cimarr-n-uruguayo",
+      "display_name": "Cimarr\u00f3n Uruguayo",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cirneco-dell-etna",
+      "display_name": "Cirneco dell'Etna",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "clumber-spaniel",
+      "display_name": "Clumber Spaniel",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cocker-spaniel",
+      "display_name": "Cocker Spaniel",
+      "extracted_fields": [
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "collie",
+      "display_name": "Collie",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "colombian-fino-hound",
+      "display_name": "Colombian Fino Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "continental-bulldog",
+      "display_name": "Continental bulldog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "corsican-dog",
+      "display_name": "Corsican Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "coton-de-tulear",
+      "display_name": "Coton De Tulear",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "grooming_frequency",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "cretan-hound",
+      "display_name": "Cretan Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "croatian-sheepdog",
+      "display_name": "Croatian Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "curly-coated-retriever",
+      "display_name": "Curly-coated Retriever",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "czechoslovakian-wolfdog",
+      "display_name": "Czechoslovakian Wolfdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dachshund",
+      "display_name": "Dachshund",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dalmatian",
+      "display_name": "Dalmatian",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "dandie-dinmont-terrier",
+      "display_name": "Dandie Dinmont Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "danish-spitz",
+      "display_name": "Danish Spitz",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "danish-swedish-farmdog",
+      "display_name": "Danish\u2013Swedish Farmdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "denmark-feist",
+      "display_name": "Denmark Feist",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "dikkulak",
+      "display_name": "Dikkulak",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "dingo",
+      "display_name": "Dingo",
+      "extracted_fields": [
+        "intelligence_noted"
+      ]
+    },
+    {
+      "breed_slug": "doberman-pinscher",
+      "display_name": "Doberman Pinscher",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dobermann",
+      "display_name": "Dobermann",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dogo-argentino",
+      "display_name": "Dogo Argentino",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dogo-sardesco",
+      "display_name": "Dogo Sardesco",
+      "extracted_fields": [
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dogue-brasileiro",
+      "display_name": "Dogue Brasileiro",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dogue-de-bordeaux",
+      "display_name": "Dogue De Bordeaux",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "donggyeongi",
+      "display_name": "Donggyeongi",
+      "extracted_fields": [
+        "origin",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "drentse-patrijshond",
+      "display_name": "Drentse Patrijshond",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "drever",
+      "display_name": "Drever",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dunker",
+      "display_name": "Dunker",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dutch-shepherd",
+      "display_name": "Dutch Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "dutch-smoushond",
+      "display_name": "Dutch Smoushond",
+      "extracted_fields": [
+        "origin",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "east-european-shepherd",
+      "display_name": "East European Shepherd",
+      "extracted_fields": [
+        "temperament",
+        "height_text",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "east-siberian-laika",
+      "display_name": "East Siberian Laika",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "ecuadorian-hairless-dog",
+      "display_name": "Ecuadorian Hairless Dog",
+      "extracted_fields": [
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "english-cocker-spaniel",
+      "display_name": "English Cocker Spaniel",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "english-foxhound",
+      "display_name": "English Foxhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "english-mastiff",
+      "display_name": "English Mastiff",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "has_world_records",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "english-setter",
+      "display_name": "English Setter",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "english-shepherd",
+      "display_name": "English Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "english-springer-spaniel",
+      "display_name": "English Springer Spaniel",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "english-toy-spaniel",
+      "display_name": "English Toy Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "english-toy-terrier-black-tan",
+      "display_name": "English Toy Terrier (Black & Tan)",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "entlebucher-mountain-dog",
+      "display_name": "Entlebucher Mountain Dog",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "erbi-txakur",
+      "display_name": "Erbi Txakur",
+      "extracted_fields": [
+        "origin",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "estonian-hound",
+      "display_name": "Estonian Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "good_with_pets",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "estrela-mountain-dog",
+      "display_name": "Estrela Mountain Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "eurasier",
+      "display_name": "Eurasier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "faroese-sheepdog",
+      "display_name": "Faroese Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "field-spaniel",
+      "display_name": "Field Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "good_with_pets",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "fila-brasileiro",
+      "display_name": "Fila Brasileiro",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "finnish-hound",
+      "display_name": "Finnish Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "finnish-lapphund",
+      "display_name": "Finnish Lapphund",
+      "extracted_fields": [
+        "grooming_frequency",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "finnish-spitz",
+      "display_name": "Finnish Spitz",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "flat-coated-retriever",
+      "display_name": "Flat-coated Retriever",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "fox-terrier",
+      "display_name": "Fox Terrier",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "french-bulldog",
+      "display_name": "French Bulldog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "french-spaniel",
+      "display_name": "French Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "galgo-espa-ol",
+      "display_name": "Galgo Espa\u00f1ol",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "gascon-saintongeois",
+      "display_name": "Gascon Saintongeois",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "gaucho-sheepdog",
+      "display_name": "Gaucho sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "georgian-shepherd",
+      "display_name": "Georgian Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "german-hound",
+      "display_name": "German Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "german-longhaired-pointer",
+      "display_name": "German Longhaired Pointer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "german-pinscher",
+      "display_name": "German Pinscher",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "german-roughhaired-pointer",
+      "display_name": "German Roughhaired Pointer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "german-shepherd",
+      "display_name": "German Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "german-shorthaired-pointer",
+      "display_name": "German Shorthaired Pointer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "german-spaniel",
+      "display_name": "German Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "german-spitz",
+      "display_name": "German Spitz",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "german-wirehaired-pointer",
+      "display_name": "German Wirehaired Pointer",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "giant-schnauzer",
+      "display_name": "Giant Schnauzer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "golden-retriever",
+      "display_name": "Golden Retriever",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "go-czy-polski",
+      "display_name": "Go\u0144czy Polski",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "grooming_frequency",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "gordon-setter",
+      "display_name": "Gordon Setter",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-noir",
+      "display_name": "Grand Anglo-Fran\u00e7ais Blanc et Noir",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-orange",
+      "display_name": "Grand Anglo-Fran\u00e7ais Blanc et Orange",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vendeen",
+      "display_name": "Grand Basset Griffon Vendeen",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vend-en",
+      "display_name": "Grand Basset Griffon Vend\u00e9en",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "grand-bleu-de-gascogne",
+      "display_name": "Grand Bleu de Gascogne",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "grand-griffon-vend-en",
+      "display_name": "Grand Griffon Vend\u00e9en",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "great-dane",
+      "display_name": "Great Dane",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "has_world_records",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "great-pyrenees",
+      "display_name": "Great Pyrenees",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "greater-swiss-mountain-dog",
+      "display_name": "Greater Swiss Mountain Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "greek-harehound",
+      "display_name": "Greek Harehound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "greek-shepherd",
+      "display_name": "Greek Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "greenland-dog",
+      "display_name": "Greenland Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "has_world_records",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "greyhound",
+      "display_name": "Greyhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "griffon-bleu-de-gascogne",
+      "display_name": "Griffon Bleu de Gascogne",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "griffon-bruxellois",
+      "display_name": "Griffon Bruxellois",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "griffon-fauve-de-bretagne",
+      "display_name": "Griffon Fauve de Bretagne",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "griffon-nivernais",
+      "display_name": "Griffon Nivernais",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "gull-dong",
+      "display_name": "Gull Dong",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "gull-terrier",
+      "display_name": "Gull Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "halden-hound",
+      "display_name": "Halden Hound",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "h-llefors-elkhound",
+      "display_name": "H\u00e4llefors Elkhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "hamiltonst-vare",
+      "display_name": "Hamiltonst\u00f6vare",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "hanover-hound",
+      "display_name": "Hanover Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "harrier",
+      "display_name": "Harrier",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "havanese",
+      "display_name": "Havanese",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "himalayan-sheepdog",
+      "display_name": "Himalayan Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "hmong-bobtail-dog",
+      "display_name": "Hmong bobtail dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "hokkaido",
+      "display_name": "Hokkaido",
+      "extracted_fields": [
+        "origin",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "hovawart",
+      "display_name": "Hovawart",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "huntaway",
+      "display_name": "Huntaway",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "hygen-hound",
+      "display_name": "Hygen Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "ibizan-hound",
+      "display_name": "Ibizan Hound",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "icelandic-sheepdog",
+      "display_name": "Icelandic Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "indian-pariah-dog",
+      "display_name": "Indian pariah dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "indian-spitz",
+      "display_name": "Indian Spitz",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "good_with_children",
+        "exercise_level",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "irish-red-and-white-setter",
+      "display_name": "Irish Red and White Setter",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "irish-setter",
+      "display_name": "Irish Setter",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "irish-terrier",
+      "display_name": "Irish Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "irish-water-spaniel",
+      "display_name": "Irish Water Spaniel",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "irish-wolfhound",
+      "display_name": "Irish Wolfhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "has_world_records",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "istrian-coarse-haired-hound",
+      "display_name": "Istrian Coarse-haired Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "istrian-shorthaired-hound",
+      "display_name": "Istrian Shorthaired Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "italian-greyhound",
+      "display_name": "Italian Greyhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "jack-russell-terrier",
+      "display_name": "Jack Russell Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "jagdterrier",
+      "display_name": "Jagdterrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "j-mthund",
+      "display_name": "J\u00e4mthund",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "japanese-chin",
+      "display_name": "Japanese Chin",
+      "extracted_fields": [
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "japanese-spitz",
+      "display_name": "Japanese Spitz",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "japanese-terrier",
+      "display_name": "Japanese Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "exercise_level",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "jeju",
+      "display_name": "Jeju",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "jindo",
+      "display_name": "Jindo",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "jonangi",
+      "display_name": "Jonangi",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "kai-ken",
+      "display_name": "Kai Ken",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kaikadi",
+      "display_name": "Kaikadi",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "kamchatka-sled-dog",
+      "display_name": "Kamchatka Sled Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "good_with_pets",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "kangal-shepherd-dog",
+      "display_name": "Kangal Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kanni",
+      "display_name": "Kanni",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "karakachan",
+      "display_name": "Karakachan",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "karelian-bear-dog",
+      "display_name": "Karelian Bear Dog",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "karelo-finnish-laika",
+      "display_name": "Karelo-Finnish Laika",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "kars",
+      "display_name": "Kars",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "karst-shepherd",
+      "display_name": "Karst Shepherd",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kazakh-tazy",
+      "display_name": "Kazakh Tazy",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "keeshond",
+      "display_name": "Keeshond",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kerry-beagle",
+      "display_name": "Kerry Beagle",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "kerry-blue-terrier",
+      "display_name": "Kerry Blue Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "khala",
+      "display_name": "Khala",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "king-charles-spaniel",
+      "display_name": "King Charles Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "king-shepherd",
+      "display_name": "King Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kintamani",
+      "display_name": "Kintamani",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "kishu",
+      "display_name": "Kishu",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kokoni",
+      "display_name": "Kokoni",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kombai",
+      "display_name": "Kombai",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "komondor",
+      "display_name": "Komondor",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kooikerhondje",
+      "display_name": "Kooikerhondje",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "koolie",
+      "display_name": "Koolie",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kromfohrl-nder",
+      "display_name": "Kromfohrl\u00e4nder",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "kuchi",
+      "display_name": "Kuchi",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "kunming",
+      "display_name": "Kunming",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "kurdish-mastiff",
+      "display_name": "Kurdish Mastiff",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "kuvasz",
+      "display_name": "Kuvasz",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "labrador-retriever",
+      "display_name": "Labrador Retriever",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "lagotto-romagnolo",
+      "display_name": "Lagotto Romagnolo",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "lakeland-terrier",
+      "display_name": "Lakeland Terrier",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "lancashire-heeler",
+      "display_name": "Lancashire Heeler",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "landseer",
+      "display_name": "Landseer",
+      "extracted_fields": [
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "lapponian-herder",
+      "display_name": "Lapponian Herder",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "large-m-nsterl-nder",
+      "display_name": "Large M\u00fcnsterl\u00e4nder",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "leonberger",
+      "display_name": "Leonberger",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "levriero-sardo",
+      "display_name": "Levriero Sardo",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "lhasa-apso",
+      "display_name": "Lhasa Apso",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "liangshan-dog",
+      "display_name": "Liangshan Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "lithuanian-hound",
+      "display_name": "Lithuanian Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "lobito-herre-o",
+      "display_name": "Lobito Herre\u00f1o",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "lowchen",
+      "display_name": "Lowchen",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "intelligence_noted",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "l-wchen",
+      "display_name": "L\u00f6wchen",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "intelligence_noted",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "lucas-terrier",
+      "display_name": "Lucas Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "lupo-italiano",
+      "display_name": "Lupo Italiano",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "mackenzie-river-husky",
+      "display_name": "Mackenzie River Husky",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "magyar-ag-r",
+      "display_name": "Magyar Ag\u00e1r",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "mahratta-hound",
+      "display_name": "Mahratta Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "majorca-shepherd-dog",
+      "display_name": "Majorca Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "maltese",
+      "display_name": "Maltese",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "manchester-terrier",
+      "display_name": "Manchester Terrier",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "maneto",
+      "display_name": "Maneto",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "maremmano-abruzzese-sheepdog",
+      "display_name": "Maremmano-Abruzzese Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "markiesje",
+      "display_name": "Markiesje",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "mastiff",
+      "display_name": "Mastiff",
+      "extracted_fields": [
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "mcnab",
+      "display_name": "McNab",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "miniature-american-shepherd",
+      "display_name": "Miniature American Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "miniature-bull-terrier",
+      "display_name": "Miniature Bull Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "grooming_frequency",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "miniature-fox-terrier",
+      "display_name": "Miniature Fox Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "miniature-pinscher",
+      "display_name": "Miniature Pinscher",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "miniature-schnauzer",
+      "display_name": "Miniature Schnauzer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_pets",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "molossus-of-epirus",
+      "display_name": "Molossus of Epirus",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "mongrel",
+      "display_name": "Mongrel",
+      "extracted_fields": [
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "montenegrin-mountain-hound",
+      "display_name": "Montenegrin Mountain Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "moscow-watchdog",
+      "display_name": "Moscow Watchdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "mountain-cur",
+      "display_name": "Mountain Cur",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "mountain-feist",
+      "display_name": "Mountain Feist",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "mudhol-hound",
+      "display_name": "Mudhol Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "mudi",
+      "display_name": "Mudi",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "neapolitan-mastiff",
+      "display_name": "Neapolitan Mastiff",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "nederlandse-kooikerhondje",
+      "display_name": "Nederlandse Kooikerhondje",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "nenets-herding-laika",
+      "display_name": "Nenets Herding Laika",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "new-guinea-singing-dog",
+      "display_name": "New Guinea singing dog",
+      "extracted_fields": [
+        "origin",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "new-zealand-heading-dog",
+      "display_name": "New Zealand Heading Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "newfoundland",
+      "display_name": "Newfoundland",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "norfolk-terrier",
+      "display_name": "Norfolk Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "norrbottenspets",
+      "display_name": "Norrbottenspets",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "northern-inuit-dog",
+      "display_name": "Northern Inuit Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "norwegian-buhund",
+      "display_name": "Norwegian Buhund",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "norwegian-elkhound",
+      "display_name": "Norwegian Elkhound",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "norwegian-lundehund",
+      "display_name": "Norwegian Lundehund",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "norwich-terrier",
+      "display_name": "Norwich Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "nova-scotia-duck-tolling-retriever",
+      "display_name": "Nova Scotia Duck Tolling Retriever",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "nureongi",
+      "display_name": "Nureongi",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "old-danish-pointer",
+      "display_name": "Old Danish Pointer",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "old-english-sheepdog",
+      "display_name": "Old English Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "olde-english-bulldogge",
+      "display_name": "Olde English Bulldogge",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "otterhound",
+      "display_name": "Otterhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pampas-deerhound",
+      "display_name": "Pampas Deerhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "papillon",
+      "display_name": "Papillon",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "parson-russell-terrier",
+      "display_name": "Parson Russell Terrier",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pastor-garafiano",
+      "display_name": "Pastor Garafiano",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "pastore-della-lessinia-e-del-lagorai",
+      "display_name": "Pastore della Lessinia e del Lagorai",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "patagonian-sheepdog",
+      "display_name": "Patagonian Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "patterdale-terrier",
+      "display_name": "Patterdale Terrier",
+      "extracted_fields": [
+        "origin",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pekingese",
+      "display_name": "Pekingese",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "grooming_frequency",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pembroke-welsh-corgi",
+      "display_name": "Pembroke Welsh Corgi",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "perdigueiro-galego",
+      "display_name": "Perdigueiro Galego",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "perro-majorero",
+      "display_name": "Perro Majorero",
+      "extracted_fields": [
+        "origin",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "peruvian-hairless-dog",
+      "display_name": "Peruvian Hairless Dog",
+      "extracted_fields": [
+        "origin",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "petit-basset-griffon-vendeen",
+      "display_name": "Petit Basset Griffon Vendeen",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "petit-basset-griffon-vend-en",
+      "display_name": "Petit Basset Griffon Vend\u00e9en",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "petit-bleu-de-gascogne",
+      "display_name": "Petit Bleu de Gascogne",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "phal-ne",
+      "display_name": "Phal\u00e8ne",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "exercise_level",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pharaoh-hound",
+      "display_name": "Pharaoh Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "philippine-forest-dog",
+      "display_name": "Philippine forest dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "phu-quoc-ridgeback",
+      "display_name": "Phu Quoc Ridgeback",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "picardy-spaniel",
+      "display_name": "Picardy Spaniel",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "plott",
+      "display_name": "Plott",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "plott-hound",
+      "display_name": "Plott Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "plummer-terrier",
+      "display_name": "Plummer Terrier",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "podenco-andaluz",
+      "display_name": "Podenco Andaluz",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "podenco-canario",
+      "display_name": "Podenco Canario",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "podenco-valenciano",
+      "display_name": "Podenco Valenciano",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "pointer",
+      "display_name": "Pointer",
+      "extracted_fields": [
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "poitevin",
+      "display_name": "Poitevin",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "polish-greyhound",
+      "display_name": "Polish Greyhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "polish-hound",
+      "display_name": "Polish Hound",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "polish-lowland-sheepdog",
+      "display_name": "Polish Lowland Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pomeranian",
+      "display_name": "Pomeranian",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "pont-audemer-spaniel",
+      "display_name": "Pont-Audemer Spaniel",
+      "extracted_fields": [
+        "origin",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "poodle",
+      "display_name": "Poodle",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "porcelaine",
+      "display_name": "Porcelaine",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "portuguese-podengo",
+      "display_name": "Portuguese Podengo",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "portuguese-podengo-pequeno",
+      "display_name": "Portuguese Podengo Pequeno",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "portuguese-pointer",
+      "display_name": "Portuguese Pointer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "portuguese-sheepdog",
+      "display_name": "Portuguese Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "portuguese-water-dog",
+      "display_name": "Portuguese Water Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "posavac-hound",
+      "display_name": "Posavac Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pra-sk-krysa-k",
+      "display_name": "Pra\u017esk\u00fd Krysa\u0159\u00edk",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_pets",
+        "intelligence_noted",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "presa-canario",
+      "display_name": "Presa Canario",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pudelpointer",
+      "display_name": "Pudelpointer",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pug",
+      "display_name": "Pug",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "puli",
+      "display_name": "Puli",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "pumi",
+      "display_name": "Pumi",
+      "extracted_fields": [
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "pungsan",
+      "display_name": "Pungsan",
+      "extracted_fields": [
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "pyrenean-mastiff",
+      "display_name": "Pyrenean Mastiff",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pyrenean-mountain-dog",
+      "display_name": "Pyrenean Mountain Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pyrenean-sheepdog",
+      "display_name": "Pyrenean Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "pyrenean-shepherd",
+      "display_name": "Pyrenean Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "rafeiro-do-alentejo",
+      "display_name": "Rafeiro do Alentejo",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "has_world_records",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "rajapalayam",
+      "display_name": "Rajapalayam",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "rampur-greyhound",
+      "display_name": "Rampur Greyhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "rastreador-brasileiro",
+      "display_name": "Rastreador Brasileiro",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "rat-terrier",
+      "display_name": "Rat Terrier",
+      "extracted_fields": [
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "ratonero-murciano",
+      "display_name": "Ratonero Murciano",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "redbone-coonhound",
+      "display_name": "Redbone Coonhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "rhodesian-ridgeback",
+      "display_name": "Rhodesian Ridgeback",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "rize-koyun",
+      "display_name": "Rize Koyun",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "romanian-mioritic-shepherd-dog",
+      "display_name": "Romanian Mioritic Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "romanian-raven-shepherd-dog",
+      "display_name": "Romanian Raven Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "rottweiler",
+      "display_name": "Rottweiler",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "rough-collie",
+      "display_name": "Rough Collie",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "russell-terrier",
+      "display_name": "Russell Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "russian-spaniel",
+      "display_name": "Russian Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "russian-toy",
+      "display_name": "Russian Toy",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "russkiy-toy",
+      "display_name": "Russkiy Toy",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "russo-european-laika",
+      "display_name": "Russo-European Laika",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "ryukyu",
+      "display_name": "Ryukyu",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "saarloos-wolfdog",
+      "display_name": "Saarloos Wolfdog",
+      "extracted_fields": [
+        "origin",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "sabueso-espa-ol",
+      "display_name": "Sabueso Espa\u00f1ol",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "saint-bernard",
+      "display_name": "Saint Bernard",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "saint-miguel-cattle-dog",
+      "display_name": "Saint Miguel Cattle Dog",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "saint-usuge-spaniel",
+      "display_name": "Saint-Usuge Spaniel",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "sakhalin-husky",
+      "display_name": "Sakhalin Husky",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_pets",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "saluki",
+      "display_name": "Saluki",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "has_world_records",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "samoyed",
+      "display_name": "Samoyed",
+      "extracted_fields": [
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "sapsali",
+      "display_name": "Sapsali",
+      "extracted_fields": [
+        "origin",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "sarabi",
+      "display_name": "Sarabi",
+      "extracted_fields": [
+        "intelligence_noted"
+      ]
+    },
+    {
+      "breed_slug": "sarail-hound",
+      "display_name": "Sarail Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "sardinian-shepherd-dog",
+      "display_name": "Sardinian Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "arplaninac",
+      "display_name": "\u0160arplaninac",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "schapendoes",
+      "display_name": "Schapendoes",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "schillerst-vare",
+      "display_name": "Schillerst\u00f6vare",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "schipperke",
+      "display_name": "Schipperke",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "schweizer-laufhund",
+      "display_name": "Schweizer Laufhund",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "schweizerischer-niederlaufhund",
+      "display_name": "Schweizerischer Niederlaufhund",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "scottish-deerhound",
+      "display_name": "Scottish Deerhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "scottish-terrier",
+      "display_name": "Scottish Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "sealyham-terrier",
+      "display_name": "Sealyham Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "segugio-dell-appennino",
+      "display_name": "Segugio dell'Appennino",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "segugio-italiano",
+      "display_name": "Segugio Italiano",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "segugio-maremmano",
+      "display_name": "Segugio Maremmano",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "serbian-hound",
+      "display_name": "Serbian Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "serbian-tricolour-hound",
+      "display_name": "Serbian Tricolour Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "serrano-bulldog",
+      "display_name": "Serrano Bulldog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "shar-pei",
+      "display_name": "Shar Pei",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "has_world_records",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "shetland-sheepdog",
+      "display_name": "Shetland Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "shiba-inu",
+      "display_name": "Shiba Inu",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "shih-tzu",
+      "display_name": "Shih Tzu",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "shikoku",
+      "display_name": "Shikoku",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "shiloh-shepherd",
+      "display_name": "Shiloh Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "siberian-husky",
+      "display_name": "Siberian Husky",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "silken-windhound",
+      "display_name": "Silken Windhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "silky-terrier",
+      "display_name": "Silky Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "sinhala-hound",
+      "display_name": "Sinhala Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "skye-terrier",
+      "display_name": "Skye Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "sloughi",
+      "display_name": "Sloughi",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "good_with_pets",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "slovak-cuvac",
+      "display_name": "Slovak Cuvac",
+      "extracted_fields": [
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "slovak-rough-haired-pointer",
+      "display_name": "Slovak Rough-haired Pointer",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "slovensk-kopov",
+      "display_name": "Slovensk\u00fd kopov",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "smaland-hound",
+      "display_name": "Smaland Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "small-me-imurje-dog",
+      "display_name": "Small Me\u0111imurje Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "small-m-nsterl-nder",
+      "display_name": "Small M\u00fcnsterl\u00e4nder",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "smithfield",
+      "display_name": "Smithfield",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "smooth-collie",
+      "display_name": "Smooth Collie",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "smooth-fox-terrier",
+      "display_name": "Smooth Fox Terrier",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "soft-coated-wheaten-terrier",
+      "display_name": "Soft-coated Wheaten Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "grooming_frequency",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "south-russian-ovcharka",
+      "display_name": "South Russian Ovcharka",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "spanish-mastiff",
+      "display_name": "Spanish Mastiff",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "spanish-water-dog",
+      "display_name": "Spanish Water Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "spino-degli-iblei",
+      "display_name": "Spino degli Iblei",
+      "extracted_fields": [
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "spinone-italiano",
+      "display_name": "Spinone Italiano",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "sporting-lucas-terrier",
+      "display_name": "Sporting Lucas Terrier",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "st-bernard",
+      "display_name": "St. Bernard",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "st-hubert-jura-hound",
+      "display_name": "St. Hubert Jura Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "stabyhoun",
+      "display_name": "Stabyhoun",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "staffordshire-bull-terrier",
+      "display_name": "Staffordshire Bull Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "standard-schnauzer",
+      "display_name": "Standard Schnauzer",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "stephens-stock",
+      "display_name": "Stephens Stock",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "styrian-coarse-haired-hound",
+      "display_name": "Styrian Coarse-haired Hound",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "sussex-spaniel",
+      "display_name": "Sussex Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "swedish-lapphund",
+      "display_name": "Swedish Lapphund",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "swedish-vallhund",
+      "display_name": "Swedish Vallhund",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "taigan",
+      "display_name": "Taigan",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "taiwan-dog",
+      "display_name": "Taiwan Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "colors",
+        "intelligence_noted",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "tamaskan-dog",
+      "display_name": "Tamaskan Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "tang-dog",
+      "display_name": "Tang Dog",
+      "extracted_fields": [
+        "origin"
+      ]
+    },
+    {
+      "breed_slug": "tarsus-atalburun",
+      "display_name": "Tarsus \u00e7atalburun",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "colors",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "tatra-shepherd-dog",
+      "display_name": "Tatra Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "teddy-roosevelt-terrier",
+      "display_name": "Teddy Roosevelt Terrier",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "telomian",
+      "display_name": "Telomian",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg"
+      ]
+    },
+    {
+      "breed_slug": "tenterfield-terrier",
+      "display_name": "Tenterfield Terrier",
+      "extracted_fields": [
+        "origin",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "thai-bangkaew-dog",
+      "display_name": "Thai Bangkaew Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "thai-ridgeback",
+      "display_name": "Thai Ridgeback",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_pets",
+        "intelligence_noted",
+        "grooming_frequency",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "tibetan-kyi-apso",
+      "display_name": "Tibetan Kyi Apso",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "intelligence_noted"
+      ]
+    },
+    {
+      "breed_slug": "tibetan-mastiff",
+      "display_name": "Tibetan Mastiff",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "tibetan-spaniel",
+      "display_name": "Tibetan Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "tibetan-terrier",
+      "display_name": "Tibetan Terrier",
+      "extracted_fields": [
+        "origin",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "tonya-finosu",
+      "display_name": "Tonya Finosu",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "exercise_level",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "tornjak",
+      "display_name": "Tornjak",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "tosa",
+      "display_name": "Tosa",
+      "extracted_fields": []
+    },
+    {
+      "breed_slug": "toy-fox-terrier",
+      "display_name": "Toy Fox Terrier",
+      "extracted_fields": [
+        "origin",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "toy-manchester-terrier",
+      "display_name": "Toy Manchester Terrier",
+      "extracted_fields": [
+        "origin",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "transylvanian-hound",
+      "display_name": "Transylvanian Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "treeing-cur",
+      "display_name": "Treeing Cur",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "treeing-feist",
+      "display_name": "Treeing Feist",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "treeing-tennessee-brindle",
+      "display_name": "Treeing Tennessee Brindle",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "treeing-walker-coonhound",
+      "display_name": "Treeing Walker Coonhound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "trigg-hound",
+      "display_name": "Trigg Hound",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "grooming_frequency",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "tyrolean-hound",
+      "display_name": "Tyrolean Hound",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "valencian-terrier",
+      "display_name": "Valencian Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "vikhan",
+      "display_name": "Vikhan",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "colors"
+      ]
+    },
+    {
+      "breed_slug": "villano-de-las-encartaciones",
+      "display_name": "Villano de Las Encartaciones",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text"
+      ]
+    },
+    {
+      "breed_slug": "villanuco-de-las-encartaciones",
+      "display_name": "Villanuco de Las Encartaciones",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg"
+      ]
+    },
+    {
+      "breed_slug": "vizsla",
+      "display_name": "Vizsla",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "good_with_children",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "volkosob",
+      "display_name": "Volkosob",
+      "extracted_fields": [
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "volpino-italiano",
+      "display_name": "Volpino Italiano",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "weimaraner",
+      "display_name": "Weimaraner",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "welsh-hound",
+      "display_name": "Welsh Hound",
+      "extracted_fields": [
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "welsh-sheepdog",
+      "display_name": "Welsh Sheepdog",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "welsh-springer-spaniel",
+      "display_name": "Welsh Springer Spaniel",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "welsh-terrier",
+      "display_name": "Welsh Terrier",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "west-country-harrier",
+      "display_name": "West Country Harrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "west-highland-white-terrier",
+      "display_name": "West Highland White Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "height_min_cm",
+        "height_max_cm",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_children",
+        "good_with_pets",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "west-siberian-laika",
+      "display_name": "West Siberian Laika",
+      "extracted_fields": [
+        "origin",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "westphalian-dachsbracke",
+      "display_name": "Westphalian Dachsbracke",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "wetterhoun",
+      "display_name": "Wetterhoun",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "whippet",
+      "display_name": "Whippet",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "weight_min_kg",
+        "weight_max_kg",
+        "weight_avg_kg",
+        "coat",
+        "colors",
+        "good_with_pets",
+        "grooming_frequency",
+        "exercise_level",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "white-shepherd",
+      "display_name": "White Shepherd",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "white-swiss-shepherd-dog",
+      "display_name": "White Swiss Shepherd Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "wire-fox-terrier",
+      "display_name": "Wire Fox Terrier",
+      "extracted_fields": [
+        "origin",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "wirehaired-pointing-griffon",
+      "display_name": "Wirehaired Pointing Griffon",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "intelligence_noted",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "wirehaired-vizsla",
+      "display_name": "Wirehaired Vizsla",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "xiasi-dog",
+      "display_name": "Xiasi Dog",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    },
+    {
+      "breed_slug": "xoloitzcuintle",
+      "display_name": "Xoloitzcuintle",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "xoloitzcuintli",
+      "display_name": "Xoloitzcuintli",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "coat",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "yakutian-laika",
+      "display_name": "Yakutian Laika",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "height_text",
+        "coat",
+        "colors",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "yorkshire-terrier",
+      "display_name": "Yorkshire Terrier",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "working_roles",
+        "recognized_by"
+      ]
+    },
+    {
+      "breed_slug": "zerdava",
+      "display_name": "Zerdava",
+      "extracted_fields": [
+        "origin",
+        "temperament",
+        "weight_text",
+        "coat",
+        "colors",
+        "working_roles"
+      ]
+    }
+  ]
+}
