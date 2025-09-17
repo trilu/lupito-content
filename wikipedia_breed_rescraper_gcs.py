@@ -135,7 +135,7 @@ class WikipediaBreedRescraperGCS:
         return None
 
     def extract_breed_data(self, soup: BeautifulSoup) -> Dict:
-        """Extract structured data from Wikipedia page"""
+        """Extract ALL structured data from Wikipedia page for comprehensive breed profile"""
         data = {}
 
         # Extract from infobox
@@ -143,8 +143,15 @@ class WikipediaBreedRescraperGCS:
         if infobox:
             data.update(self.parse_infobox(infobox))
 
-        # Extract from article content
+        # Extract from article content - ALL sections
         data.update(self.extract_from_content(soup))
+
+        # Extract additional rich content for user experience
+        data.update(self.extract_history(soup))
+        data.update(self.extract_personality_traits(soup))
+        data.update(self.extract_care_requirements(soup))
+        data.update(self.extract_fun_facts(soup))
+        data.update(self.extract_breed_standards(soup))
 
         return data
 
@@ -296,6 +303,224 @@ class WikipediaBreedRescraperGCS:
 
         return data if data else None
 
+    def extract_history(self, soup) -> Dict:
+        """Extract breed history and origin story"""
+        data = {}
+
+        # Look for History section
+        history_sections = ['history', 'origin', 'origins', 'background']
+        for section_name in history_sections:
+            for heading in soup.find_all(['h2', 'h3']):
+                heading_text = heading.get_text(strip=True).lower()
+                if section_name in heading_text:
+                    paragraphs = []
+                    next_elem = heading.find_next_sibling()
+                    while next_elem and next_elem.name not in ['h2', 'h3'] and len(paragraphs) < 5:
+                        if next_elem.name == 'p':
+                            text = next_elem.get_text(strip=True)
+                            if text and len(text) > 50:  # Skip very short paragraphs
+                                paragraphs.append(text)
+                        next_elem = next_elem.find_next_sibling()
+
+                    if paragraphs:
+                        data['history'] = ' '.join(paragraphs[:3])  # First 3 paragraphs
+                        data['history_brief'] = paragraphs[0][:500] if paragraphs else ''  # First 500 chars for quick display
+                        break
+
+        # Extract notable facts from introduction
+        intro = soup.find('div', {'id': 'mw-content-text'})
+        if intro:
+            first_p = intro.find('p', recursive=False)
+            if first_p:
+                data['introduction'] = first_p.get_text(strip=True)[:1000]
+
+        return data
+
+    def extract_personality_traits(self, soup) -> Dict:
+        """Extract detailed personality and temperament information"""
+        data = {}
+        traits = []
+
+        # Look for temperament/personality sections
+        personality_sections = ['temperament', 'personality', 'characteristics', 'behavior', 'behaviour', 'traits']
+        for section_name in personality_sections:
+            for heading in soup.find_all(['h2', 'h3']):
+                heading_text = heading.get_text(strip=True).lower()
+                if section_name in heading_text:
+                    content = []
+                    next_elem = heading.find_next_sibling()
+                    while next_elem and next_elem.name not in ['h2', 'h3']:
+                        if next_elem.name == 'p':
+                            content.append(next_elem.get_text(strip=True))
+                        elif next_elem.name == 'ul':
+                            # Extract list items as traits
+                            for li in next_elem.find_all('li'):
+                                traits.append(li.get_text(strip=True))
+                        next_elem = next_elem.find_next_sibling()
+
+                    if content:
+                        data['personality_description'] = ' '.join(content[:3])
+
+        if traits:
+            data['personality_traits'] = traits[:10]  # Top 10 traits
+
+        # Extract specific behavioral keywords
+        full_text = soup.get_text().lower()
+
+        # Check for family friendliness
+        if 'good with children' in full_text or 'family dog' in full_text or 'gentle with kids' in full_text:
+            data['good_with_children'] = True
+        elif 'not recommended for families' in full_text or 'not good with children' in full_text:
+            data['good_with_children'] = False
+
+        # Check for other pet compatibility
+        if 'good with other dogs' in full_text or 'gets along with cats' in full_text:
+            data['good_with_pets'] = True
+        elif 'dog aggressive' in full_text or 'high prey drive' in full_text:
+            data['good_with_pets'] = False
+
+        # Intelligence indicators
+        intelligence_keywords = ['intelligent', 'smart', 'clever', 'quick learner', 'highly trainable']
+        for keyword in intelligence_keywords:
+            if keyword in full_text:
+                data['intelligence_noted'] = True
+                break
+
+        return data
+
+    def extract_care_requirements(self, soup) -> Dict:
+        """Extract grooming, exercise, and care needs"""
+        data = {}
+
+        # Look for care-related sections
+        care_sections = ['care', 'grooming', 'exercise', 'training', 'maintenance']
+        for section_name in care_sections:
+            for heading in soup.find_all(['h2', 'h3']):
+                heading_text = heading.get_text().lower()
+                if section_name in heading_text:
+                    content = []
+                    next_elem = heading.find_next_sibling()
+                    while next_elem and next_elem.name not in ['h2', 'h3'] and len(content) < 3:
+                        if next_elem.name == 'p':
+                            content.append(next_elem.get_text(strip=True))
+                        next_elem = next_elem.find_next_sibling()
+
+                    if content:
+                        if 'grooming' in heading_text:
+                            data['grooming_needs'] = ' '.join(content)
+                        elif 'exercise' in heading_text:
+                            data['exercise_needs_detail'] = ' '.join(content)
+                        elif 'training' in heading_text:
+                            data['training_tips'] = ' '.join(content)
+                        elif 'care' in heading_text:
+                            data['general_care'] = ' '.join(content)
+
+        # Extract specific care indicators from text
+        full_text = soup.get_text().lower()
+
+        # Grooming frequency
+        if 'daily brushing' in full_text or 'daily grooming' in full_text:
+            data['grooming_frequency'] = 'daily'
+        elif 'weekly brushing' in full_text:
+            data['grooming_frequency'] = 'weekly'
+        elif 'minimal grooming' in full_text or 'low maintenance coat' in full_text:
+            data['grooming_frequency'] = 'minimal'
+
+        # Exercise intensity
+        if 'high energy' in full_text or 'very active' in full_text or 'needs lots of exercise' in full_text:
+            data['exercise_level'] = 'high'
+        elif 'moderate exercise' in full_text or 'moderate activity' in full_text:
+            data['exercise_level'] = 'moderate'
+        elif 'low energy' in full_text or 'minimal exercise' in full_text:
+            data['exercise_level'] = 'low'
+
+        return data
+
+    def extract_fun_facts(self, soup) -> Dict:
+        """Extract interesting trivia and fun facts about the breed"""
+        data = {}
+        fun_facts = []
+
+        # Look for trivia, popular culture, famous dogs sections
+        trivia_sections = ['trivia', 'popular culture', 'famous', 'notable', 'in media', 'cultural impact']
+        for section_name in trivia_sections:
+            for heading in soup.find_all(['h2', 'h3']):
+                heading_text = heading.get_text(strip=True).lower()
+                if section_name in heading_text:
+                    next_elem = heading.find_next_sibling()
+                    while next_elem and next_elem.name not in ['h2', 'h3']:
+                        if next_elem.name == 'p':
+                            fun_facts.append(next_elem.get_text(strip=True))
+                        elif next_elem.name == 'ul':
+                            for li in next_elem.find_all('li')[:5]:  # Limit to 5 facts
+                                fun_facts.append(li.get_text(strip=True))
+                        next_elem = next_elem.find_next_sibling()
+
+        if fun_facts:
+            data['fun_facts'] = fun_facts[:5]  # Top 5 fun facts
+
+        # Extract any notable achievements or records
+        full_text = soup.get_text()
+        if 'world record' in full_text.lower() or 'guinness' in full_text.lower():
+            data['has_world_records'] = True
+
+        # Check if breed was used for specific work
+        work_roles = ['police dog', 'military dog', 'service dog', 'therapy dog', 'search and rescue',
+                     'hunting dog', 'herding dog', 'guard dog', 'sled dog', 'water rescue']
+        found_roles = []
+        for role in work_roles:
+            if role in full_text.lower():
+                found_roles.append(role)
+
+        if found_roles:
+            data['working_roles'] = found_roles
+
+        return data
+
+    def extract_breed_standards(self, soup) -> Dict:
+        """Extract breed standard information and variations"""
+        data = {}
+
+        # Look for breed standard sections
+        standard_sections = ['breed standard', 'standard', 'varieties', 'types', 'recognition']
+        for section_name in standard_sections:
+            for heading in soup.find_all(['h2', 'h3']):
+                heading_text = heading.get_text(strip=True).lower()
+                if section_name in heading_text:
+                    content = []
+                    next_elem = heading.find_next_sibling()
+                    while next_elem and next_elem.name not in ['h2', 'h3'] and len(content) < 2:
+                        if next_elem.name == 'p':
+                            content.append(next_elem.get_text(strip=True))
+                        next_elem = next_elem.find_next_sibling()
+
+                    if content:
+                        data['breed_standard'] = ' '.join(content)
+
+        # Extract kennel club recognition
+        full_text = soup.get_text()
+        recognized_by = []
+        kennel_clubs = ['AKC', 'American Kennel Club', 'UKC', 'United Kennel Club',
+                       'FCI', 'The Kennel Club', 'Canadian Kennel Club', 'ANKC']
+
+        for club in kennel_clubs:
+            if club in full_text:
+                recognized_by.append(club)
+
+        if recognized_by:
+            data['recognized_by'] = recognized_by
+
+        # Check for color varieties
+        color_section = soup.find(text=re.compile(r'Colo[u]?rs?', re.IGNORECASE))
+        if color_section:
+            parent = color_section.parent
+            if parent and parent.name in ['th', 'td', 'b', 'strong']:
+                next_elem = parent.find_next_sibling()
+                if next_elem:
+                    data['color_varieties'] = next_elem.get_text(strip=True)
+
+        return data
+
     def save_to_gcs(self, breed_data: Dict):
         """Save breed data and HTML to GCS"""
         breed_slug = breed_data['breed_slug']
@@ -321,7 +546,7 @@ class WikipediaBreedRescraperGCS:
         return html_blob_name, json_blob_name
 
     def update_database(self, breed_data: Dict):
-        """Update breeds_enrichment table (create if needed)"""
+        """Update both breeds_details and comprehensive content table"""
         extracted = breed_data.get('extracted_data', {})
 
         if not extracted:
@@ -372,10 +597,53 @@ class WikipediaBreedRescraperGCS:
 
         if update_data and not self.test_mode:
             try:
-                # Update breeds_published
-                self.supabase.table('breeds_published').update(
+                # Update breeds_details (underlying table for breeds_published view)
+                self.supabase.table('breeds_details').update(
                     update_data
                 ).eq('breed_slug', breed_data['breed_slug']).execute()
+
+                # Also update/insert comprehensive content
+                comprehensive_data = {
+                    'breed_slug': breed_data['breed_slug'],
+                    'wikipedia_url': breed_data.get('wikipedia_url'),
+                    'gcs_html_path': breed_data.get('gcs_html_path'),
+                    'gcs_json_path': breed_data.get('gcs_json_path'),
+                    'scraped_at': breed_data.get('scraped_at'),
+
+                    # Rich content fields
+                    'introduction': extracted.get('introduction'),
+                    'history': extracted.get('history'),
+                    'history_brief': extracted.get('history_brief'),
+                    'personality_description': extracted.get('personality_description'),
+                    'personality_traits': extracted.get('personality_traits'),
+                    'temperament': extracted.get('temperament'),
+                    'good_with_children': extracted.get('good_with_children'),
+                    'good_with_pets': extracted.get('good_with_pets'),
+                    'intelligence_noted': extracted.get('intelligence_noted'),
+                    'grooming_needs': extracted.get('grooming_needs'),
+                    'grooming_frequency': extracted.get('grooming_frequency'),
+                    'exercise_needs_detail': extracted.get('exercise_needs_detail'),
+                    'exercise_level': extracted.get('exercise_level'),
+                    'training_tips': extracted.get('training_tips'),
+                    'general_care': extracted.get('general_care'),
+                    'fun_facts': extracted.get('fun_facts'),
+                    'has_world_records': extracted.get('has_world_records'),
+                    'working_roles': extracted.get('working_roles'),
+                    'breed_standard': extracted.get('breed_standard'),
+                    'recognized_by': extracted.get('recognized_by'),
+                    'color_varieties': extracted.get('color_varieties'),
+                    'health_issues': extracted.get('health_issues'),
+                    'coat': extracted.get('coat'),
+                    'colors': extracted.get('colors')
+                }
+
+                # Remove None values
+                comprehensive_data = {k: v for k, v in comprehensive_data.items() if v is not None}
+
+                # Upsert to breeds_comprehensive_content
+                self.supabase.table('breeds_comprehensive_content').upsert(
+                    comprehensive_data
+                ).execute()
 
                 logger.info(f"Updated database for {breed_data['breed_slug']}")
                 self.stats['updated'] += 1
@@ -405,7 +673,9 @@ class WikipediaBreedRescraperGCS:
 
             if breed_data:
                 # Save to GCS
-                self.save_to_gcs(breed_data)
+                html_path, json_path = self.save_to_gcs(breed_data)
+                breed_data['gcs_html_path'] = html_path
+                breed_data['gcs_json_path'] = json_path
 
                 # Update database
                 self.update_database(breed_data)
