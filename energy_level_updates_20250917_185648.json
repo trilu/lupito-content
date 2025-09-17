@@ -1,0 +1,1807 @@
+{
+  "timestamp": "2025-09-17T18:56:48.422637",
+  "total_processed": 257,
+  "successful": 257,
+  "failed": 0,
+  "results": [
+    {
+      "breed_slug": "afghan-hound",
+      "display_name": "Afghan Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "aidi",
+      "display_name": "Aidi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "airedale-terrier",
+      "display_name": "Airedale Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "akita",
+      "display_name": "Akita",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "alano-espa-ol",
+      "display_name": "Alano Espa\u00f1ol",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "alaskan-husky",
+      "display_name": "Alaskan Husky",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "alpine-dachsbracke",
+      "display_name": "Alpine Dachsbracke",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-english-coonhound",
+      "display_name": "American English Coonhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-eskimo-dog",
+      "display_name": "American Eskimo Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-foxhound",
+      "display_name": "American Foxhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-leopard-hound",
+      "display_name": "American Leopard Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "anglo-fran-ais-de-petite-v-nerie",
+      "display_name": "Anglo-Fran\u00e7ais de Petite V\u00e9nerie",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "argentine-pila",
+      "display_name": "Argentine Pila",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ari-geois",
+      "display_name": "Ari\u00e9geois",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "armant",
+      "display_name": "Armant",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "armenian-gampr",
+      "display_name": "Armenian Gampr",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "artois-hound",
+      "display_name": "Artois Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "australian-cattle-dog",
+      "display_name": "Australian Cattle Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "australian-kelpie",
+      "display_name": "Australian Kelpie",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "australian-shepherd",
+      "display_name": "Australian Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "austrian-black-and-tan-hound",
+      "display_name": "Austrian Black and Tan Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "austrian-pinscher",
+      "display_name": "Austrian Pinscher",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "azawakh",
+      "display_name": "Azawakh",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "b-c-h",
+      "display_name": "B\u1eafc H\u00e0",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "banjara-hound",
+      "display_name": "Banjara Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "barak-hound",
+      "display_name": "Barak hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "barbado-da-terceira",
+      "display_name": "Barbado da Terceira",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "barbet",
+      "display_name": "Barbet",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "basenji",
+      "display_name": "Basenji",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "beagle",
+      "display_name": "Beagle",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "belgian-laekenois",
+      "display_name": "Belgian Laekenois",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "belgian-malinois",
+      "display_name": "Belgian Malinois",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bergamasco",
+      "display_name": "Bergamasco",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "berger-picard",
+      "display_name": "Berger Picard",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "billy",
+      "display_name": "Billy",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "border-collie",
+      "display_name": "Border Collie",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "borzoi",
+      "display_name": "Borzoi",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bouvier-des-ardennes",
+      "display_name": "Bouvier des Ardennes",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bracco-italiano",
+      "display_name": "Bracco Italiano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "briquet-griffon-vend-en",
+      "display_name": "Briquet Griffon Vend\u00e9en",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "brittany",
+      "display_name": "Brittany",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bruno-jura-hound",
+      "display_name": "Bruno Jura Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bulgarian-hound",
+      "display_name": "Bulgarian Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bulgarian-scenthound",
+      "display_name": "Bulgarian Scenthound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ca-de-bou",
+      "display_name": "Ca de Bou",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ca-m-mallorqu",
+      "display_name": "Ca M\u00e8 Mallorqu\u00ed",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "calupoh",
+      "display_name": "Calupoh",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "can-de-chira",
+      "display_name": "Can de Chira",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "can-de-palleiro",
+      "display_name": "Can de Palleiro",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "canaan-dog",
+      "display_name": "Canaan Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cane-di-oropa",
+      "display_name": "Cane di Oropa",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cane-paratore",
+      "display_name": "Cane Paratore",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cantabrian-water-dog",
+      "display_name": "Cantabrian Water Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "carolina-dog",
+      "display_name": "Carolina Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "castro-laboreiro-dog",
+      "display_name": "Castro Laboreiro Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "esk-fousek",
+      "display_name": "\u010cesk\u00fd fousek",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chesapeake-bay-retriever",
+      "display_name": "Chesapeake Bay Retriever",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-noir",
+      "display_name": "Chien Fran\u00e7ais Blanc et Noir",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-orange",
+      "display_name": "Chien Fran\u00e7ais Blanc et Orange",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chien-fran-ais-tricolore",
+      "display_name": "Chien Fran\u00e7ais Tricolore",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chinook",
+      "display_name": "Chinook",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chinook-a-distinctive-and-versatile-dog-breed",
+      "display_name": "Chinook: A Distinctive and Versatile Dog Breed",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chippiparai",
+      "display_name": "Chippiparai",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chongqing",
+      "display_name": "Chongqing",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chortai",
+      "display_name": "Chortai",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chukotka-sled-dog",
+      "display_name": "Chukotka sled dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "colombian-fino-hound",
+      "display_name": "Colombian Fino Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cretan-hound",
+      "display_name": "Cretan Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "curly-coated-retriever",
+      "display_name": "Curly-coated Retriever",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "czechoslovakian-wolfdog",
+      "display_name": "Czechoslovakian Wolfdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "danish-spitz",
+      "display_name": "Danish Spitz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "danish-swedish-farmdog",
+      "display_name": "Danish\u2013Swedish Farmdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "denmark-feist",
+      "display_name": "Denmark Feist",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dikkulak",
+      "display_name": "Dikkulak",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dingo",
+      "display_name": "Dingo",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dogo-sardesco",
+      "display_name": "Dogo Sardesco",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "donggyeongi",
+      "display_name": "Donggyeongi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "drentse-patrijshond",
+      "display_name": "Drentse Patrijshond",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "drever",
+      "display_name": "Drever",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dunker",
+      "display_name": "Dunker",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dutch-smoushond",
+      "display_name": "Dutch Smoushond",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "east-siberian-laika",
+      "display_name": "East Siberian Laika",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ecuadorian-hairless-dog",
+      "display_name": "Ecuadorian Hairless Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-setter",
+      "display_name": "English Setter",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-springer-spaniel",
+      "display_name": "English Springer Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "erbi-txakur",
+      "display_name": "Erbi Txakur",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "faroese-sheepdog",
+      "display_name": "Faroese Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "finnish-lapphund",
+      "display_name": "Finnish Lapphund",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "finnish-spitz",
+      "display_name": "Finnish Spitz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "flat-coated-retriever",
+      "display_name": "Flat-coated Retriever",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "galgo-espa-ol",
+      "display_name": "Galgo Espa\u00f1ol",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "gaucho-sheepdog",
+      "display_name": "Gaucho sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-hound",
+      "display_name": "German Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-pinscher",
+      "display_name": "German Pinscher",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-spitz",
+      "display_name": "German Spitz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-noir",
+      "display_name": "Grand Anglo-Fran\u00e7ais Blanc et Noir",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-orange",
+      "display_name": "Grand Anglo-Fran\u00e7ais Blanc et Orange",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-tricolore",
+      "display_name": "Grand Anglo-Fran\u00e7ais Tricolore",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-griffon-vend-en",
+      "display_name": "Grand Griffon Vend\u00e9en",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "greek-harehound",
+      "display_name": "Greek Harehound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "greenland-dog",
+      "display_name": "Greenland Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "greyhound",
+      "display_name": "Greyhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-bleu-de-gascogne",
+      "display_name": "Griffon Bleu de Gascogne",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-fauve-de-bretagne",
+      "display_name": "Griffon Fauve de Bretagne",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-nivernais",
+      "display_name": "Griffon Nivernais",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "gull-dong",
+      "display_name": "Gull Dong",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "h-llefors-elkhound",
+      "display_name": "H\u00e4llefors Elkhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "hamiltonst-vare",
+      "display_name": "Hamiltonst\u00f6vare",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "harrier",
+      "display_name": "Harrier",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "hmong-bobtail-dog",
+      "display_name": "Hmong bobtail dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "hokkaido",
+      "display_name": "Hokkaido",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "huntaway",
+      "display_name": "Huntaway",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "hygen-hound",
+      "display_name": "Hygen Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ibizan-hound",
+      "display_name": "Ibizan Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "indian-pariah-dog",
+      "display_name": "Indian pariah dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "indian-spitz",
+      "display_name": "Indian Spitz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "istrian-coarse-haired-hound",
+      "display_name": "Istrian Coarse-haired Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "italian-greyhound",
+      "display_name": "Italian Greyhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "jeju",
+      "display_name": "Jeju",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "jindo",
+      "display_name": "Jindo",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kai-ken",
+      "display_name": "Kai Ken",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kaikadi",
+      "display_name": "Kaikadi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kamchatka-sled-dog",
+      "display_name": "Kamchatka Sled Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kanni",
+      "display_name": "Kanni",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "karakachan",
+      "display_name": "Karakachan",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "karelian-bear-dog",
+      "display_name": "Karelian Bear Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "karelo-finnish-laika",
+      "display_name": "Karelo-Finnish Laika",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kars",
+      "display_name": "Kars",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kazakh-tazy",
+      "display_name": "Kazakh Tazy",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "keeshond",
+      "display_name": "Keeshond",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "khala",
+      "display_name": "Khala",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kintamani",
+      "display_name": "Kintamani",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kishu",
+      "display_name": "Kishu",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kombai",
+      "display_name": "Kombai",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "koolie",
+      "display_name": "Koolie",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kromfohrl-nder",
+      "display_name": "Kromfohrl\u00e4nder",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kunming",
+      "display_name": "Kunming",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lakeland-terrier",
+      "display_name": "Lakeland Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "large-m-nsterl-nder",
+      "display_name": "Large M\u00fcnsterl\u00e4nder",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "levriero-sardo",
+      "display_name": "Levriero Sardo",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "liangshan-dog",
+      "display_name": "Liangshan Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lithuanian-hound",
+      "display_name": "Lithuanian Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lobito-herre-o",
+      "display_name": "Lobito Herre\u00f1o",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lupo-italiano",
+      "display_name": "Lupo Italiano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mahratta-hound",
+      "display_name": "Mahratta Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "maneto",
+      "display_name": "Maneto",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "markiesje",
+      "display_name": "Markiesje",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mcnab",
+      "display_name": "McNab",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mongrel",
+      "display_name": "Mongrel",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "montenegrin-mountain-hound",
+      "display_name": "Montenegrin Mountain Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mountain-feist",
+      "display_name": "Mountain Feist",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mudhol-hound",
+      "display_name": "Mudhol Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mudi",
+      "display_name": "Mudi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "nederlandse-kooikerhondje",
+      "display_name": "Nederlandse Kooikerhondje",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "nenets-herding-laika",
+      "display_name": "Nenets Herding Laika",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "new-guinea-singing-dog",
+      "display_name": "New Guinea singing dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "new-zealand-heading-dog",
+      "display_name": "New Zealand Heading Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norrbottenspets",
+      "display_name": "Norrbottenspets",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwegian-buhund",
+      "display_name": "Norwegian Buhund",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwegian-elkhound",
+      "display_name": "Norwegian Elkhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "nova-scotia-duck-tolling-retriever",
+      "display_name": "Nova Scotia Duck Tolling Retriever",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "nureongi",
+      "display_name": "Nureongi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "otterhound",
+      "display_name": "Otterhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pach-n-navarro",
+      "display_name": "Pach\ufffd\ufffdn Navarro",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pampas-deerhound",
+      "display_name": "Pampas Deerhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pastor-garafiano",
+      "display_name": "Pastor Garafiano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pastore-della-lessinia-e-del-lagorai",
+      "display_name": "Pastore della Lessinia e del Lagorai",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "patagonian-sheepdog",
+      "display_name": "Patagonian Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "perdigueiro-galego",
+      "display_name": "Perdigueiro Galego",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "perro-majorero",
+      "display_name": "Perro Majorero",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "peruvian-hairless-dog",
+      "display_name": "Peruvian Hairless Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "petit-bleu-de-gascogne",
+      "display_name": "Petit Bleu de Gascogne",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "phal-ne",
+      "display_name": "Phal\u00e8ne",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pharaoh-hound",
+      "display_name": "Pharaoh Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "philippine-forest-dog",
+      "display_name": "Philippine forest dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "phu-quoc-ridgeback",
+      "display_name": "Phu Quoc Ridgeback",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "plott",
+      "display_name": "Plott",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "plott-hound",
+      "display_name": "Plott Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "podenco-andaluz",
+      "display_name": "Podenco Andaluz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "podenco-canario",
+      "display_name": "Podenco Canario",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "podenco-valenciano",
+      "display_name": "Podenco Valenciano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pointer",
+      "display_name": "Pointer",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "poitevin",
+      "display_name": "Poitevin",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "polish-greyhound",
+      "display_name": "Polish Greyhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "porcelaine",
+      "display_name": "Porcelaine",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-podengo",
+      "display_name": "Portuguese Podengo",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-sheepdog",
+      "display_name": "Portuguese Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "posavac-hound",
+      "display_name": "Posavac Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "puli",
+      "display_name": "Puli",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pumi",
+      "display_name": "Pumi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pungsan",
+      "display_name": "Pungsan",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pyrenean-sheepdog",
+      "display_name": "Pyrenean Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rajapalayam",
+      "display_name": "Rajapalayam",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rampur-greyhound",
+      "display_name": "Rampur Greyhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rastreador-brasileiro",
+      "display_name": "Rastreador Brasileiro",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ratonero-murciano",
+      "display_name": "Ratonero Murciano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rize-koyun",
+      "display_name": "Rize Koyun",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ryukyu",
+      "display_name": "Ryukyu",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "saarloos-wolfdog",
+      "display_name": "Saarloos Wolfdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sabueso-espa-ol",
+      "display_name": "Sabueso Espa\u00f1ol",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "saluki",
+      "display_name": "Saluki",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "samoyed",
+      "display_name": "Samoyed",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sapsali",
+      "display_name": "Sapsali",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sarabi",
+      "display_name": "Sarabi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sarail-hound",
+      "display_name": "Sarail Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "schapendoes",
+      "display_name": "Schapendoes",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "schillerst-vare",
+      "display_name": "Schillerst\u00f6vare",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "schweizer-laufhund",
+      "display_name": "Schweizer Laufhund",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "scottish-deerhound",
+      "display_name": "Scottish Deerhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "segugio-dell-appennino",
+      "display_name": "Segugio dell'Appennino",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "segugio-italiano",
+      "display_name": "Segugio Italiano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "segugio-maremmano",
+      "display_name": "Segugio Maremmano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "serbian-hound",
+      "display_name": "Serbian Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "serbian-tricolour-hound",
+      "display_name": "Serbian Tricolour Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "shiba-inu",
+      "display_name": "Shiba Inu",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "shikoku",
+      "display_name": "Shikoku",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "silken-windhound",
+      "display_name": "Silken Windhound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sinhala-hound",
+      "display_name": "Sinhala Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sloughi",
+      "display_name": "Sloughi",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "slovensk-kopov",
+      "display_name": "Slovensk\u00fd kopov",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "smaland-hound",
+      "display_name": "Smaland Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "small-m-nsterl-nder",
+      "display_name": "Small M\u00fcnsterl\u00e4nder",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "smithfield",
+      "display_name": "Smithfield",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "spino-degli-iblei",
+      "display_name": "Spino degli Iblei",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "st-hubert-jura-hound",
+      "display_name": "St. Hubert Jura Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "stephens-stock",
+      "display_name": "Stephens Stock",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "styrian-coarse-haired-hound",
+      "display_name": "Styrian Coarse-haired Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "swedish-lapphund",
+      "display_name": "Swedish Lapphund",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "swedish-vallhund",
+      "display_name": "Swedish Vallhund",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "taigan",
+      "display_name": "Taigan",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tang-dog",
+      "display_name": "Tang Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tarsus-atalburun",
+      "display_name": "Tarsus \u00e7atalburun",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "telomian",
+      "display_name": "Telomian",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "thai-ridgeback",
+      "display_name": "Thai Ridgeback",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tonya-finosu",
+      "display_name": "Tonya Finosu",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tornjak",
+      "display_name": "Tornjak",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "transylvanian-hound",
+      "display_name": "Transylvanian Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "treeing-cur",
+      "display_name": "Treeing Cur",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "treeing-feist",
+      "display_name": "Treeing Feist",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "treeing-tennessee-brindle",
+      "display_name": "Treeing Tennessee Brindle",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "trigg-hound",
+      "display_name": "Trigg Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "vikhan",
+      "display_name": "Vikhan",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "vizsla",
+      "display_name": "Vizsla",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "volkosob",
+      "display_name": "Volkosob",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "welsh-hound",
+      "display_name": "Welsh Hound",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "welsh-terrier",
+      "display_name": "Welsh Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "west-country-harrier",
+      "display_name": "West Country Harrier",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "west-siberian-laika",
+      "display_name": "West Siberian Laika",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "westphalian-dachsbracke",
+      "display_name": "Westphalian Dachsbracke",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "wetterhoun",
+      "display_name": "Wetterhoun",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "whippet",
+      "display_name": "Whippet",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "wire-fox-terrier",
+      "display_name": "Wire Fox Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "xiasi-dog",
+      "display_name": "Xiasi Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "xoloitzcuintle",
+      "display_name": "Xoloitzcuintle",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "xoloitzcuintli",
+      "display_name": "Xoloitzcuintli",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "yakutian-laika",
+      "display_name": "Yakutian Laika",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "zerdava",
+      "display_name": "Zerdava",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    }
+  ]
+}
