@@ -1,0 +1,218 @@
+{
+  "timestamp": "2025-09-17T18:45:21.464938",
+  "total_breeds": 42,
+  "successful": 0,
+  "failed": 42,
+  "results": [
+    {
+      "breed_slug": "africanis",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "anglo-fran-ais-de-petite-v-nerie",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "argentine-pila",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "ari-ge-pointer",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "australian-silky-terrier",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "australian-stumpy-tail-cattle-dog",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "austrian-pinscher",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "basset-bleu-de-gascogne",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "basset-fauve-de-bretagne",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "bavarian-mountain-hound",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "beagle-harrier",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "bichon-fris",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "bohemian-spotted-dog",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "braque-d-auvergne",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "braque-du-bourbonnais",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "braque-fran-ais",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "braque-saint-germain",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "briquet-griffon-vend-en",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "bulgarian-scenthound",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "calupoh",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "catalan-sheepdog",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "chukotka-sled-dog",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "croatian-sheepdog",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "danish-swedish-farmdog",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "east-european-shepherd",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "galgo-espa-ol",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vend-en",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "h-llefors-elkhound",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "lupo-italiano",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "mahratta-hound",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "nenets-herding-laika",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "petit-basset-griffon-vend-en",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "petit-bleu-de-gascogne",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "porcelaine",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "rastreador-brasileiro",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "romanian-raven-shepherd-dog",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "schweizer-laufhund",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "silken-windhound",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "small-me-imurje-dog",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "villano-de-las-encartaciones",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "volpino-italiano",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    },
+    {
+      "breed_slug": "yakutian-laika",
+      "status": "error",
+      "error": "{'code': 'PGRST204', 'details': None, 'hint': None, 'message': \"Could not find the 'weight_kg_avg' column of 'breeds_details' in the schema cache\"}"
+    }
+  ]
+}

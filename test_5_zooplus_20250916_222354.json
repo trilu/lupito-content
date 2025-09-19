@@ -1,0 +1,92 @@
+{
+  "timestamp": "2025-09-16T22:23:54.851654",
+  "stats": {
+    "success": 5,
+    "image": 5,
+    "ingredients": 5,
+    "nutrition": 5,
+    "pattern_8": 5
+  },
+  "results": [
+    {
+      "name": "Wolf of Wilderness Senior",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/wolf_of_wilderness_senior/651160?activeVariant=651160.0",
+      "image_found": true,
+      "ingredients_found": true,
+      "nutrition_found": true,
+      "pattern_8_matched": true,
+      "image_url": "data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740...",
+      "ingredients_preview": "Go to analytical constituents...",
+      "other_pattern_matched": true,
+      "nutrition": {
+        "protein": 10.3,
+        "fat": 6.2,
+        "fiber": 0.4
+      }
+    },
+    {
+      "name": "Wolf of Wilderness Junior",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/junior/2178870?activeVariant=2178870.2",
+      "image_found": true,
+      "ingredients_found": true,
+      "nutrition_found": true,
+      "pattern_8_matched": true,
+      "image_url": "data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740...",
+      "ingredients_preview": "Go to analytical constituents...",
+      "other_pattern_matched": true,
+      "nutrition": {
+        "protein": 10.1,
+        "fat": 5.8,
+        "fiber": 0.3
+      }
+    },
+    {
+      "name": "Rocco Diet Care",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/rocco/rocco_diet_care/2152397?activeVariant=2152397.0",
+      "image_found": true,
+      "ingredients_found": true,
+      "nutrition_found": true,
+      "pattern_8_matched": true,
+      "image_url": "data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740...",
+      "ingredients_preview": "No chemical flavourings, colourings or attractants...",
+      "other_pattern_matched": true,
+      "nutrition": {
+        "protein": 10.8,
+        "fat": 4.5,
+        "fiber": 2.2
+      }
+    },
+    {
+      "name": "Dogs N Tiger Puppy",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/dogs_n_tiger/puppy/1966735?activeVariant=1966735.0",
+      "image_found": true,
+      "ingredients_found": true,
+      "nutrition_found": true,
+      "pattern_8_matched": true,
+      "image_url": "data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740...",
+      "ingredients_preview": "Go to analytical constituents...",
+      "other_pattern_matched": true,
+      "nutrition": {
+        "protein": 10.6,
+        "fat": 5.5,
+        "fiber": 0.4
+      }
+    },
+    {
+      "name": "Natures Variety",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/naturesvariety/1584332?activeVariant=1584332.0",
+      "image_found": true,
+      "ingredients_found": true,
+      "nutrition_found": true,
+      "pattern_8_matched": true,
+      "image_url": "data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740...",
+      "ingredients_preview": ", gently steam-cooked, from Germany...",
+      "other_pattern_matched": true,
+      "nutrition": {
+        "protein": 10.2,
+        "fat": 5.2,
+        "fiber": 0.4
+      }
+    }
+  ]
+}

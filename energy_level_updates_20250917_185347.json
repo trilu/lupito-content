@@ -1,0 +1,3155 @@
+{
+  "timestamp": "2025-09-17T18:53:47.864816",
+  "total_processed": 461,
+  "successful": 381,
+  "failed": 80,
+  "results": [
+    {
+      "breed_slug": "affenpinscher",
+      "display_name": "Affenpinscher",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "afghan-hound",
+      "display_name": "Afghan Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "africanis",
+      "display_name": "Africanis",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "aidi",
+      "display_name": "Aidi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "airedale-terrier",
+      "display_name": "Airedale Terrier",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "akbash",
+      "display_name": "Akbash",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "akita",
+      "display_name": "Akita",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "aksaray-malaklisi",
+      "display_name": "Aksaray Malaklisi",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "alano-espa-ol",
+      "display_name": "Alano Espa\u00f1ol",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "alapaha-blue-blood-bulldog",
+      "display_name": "Alapaha Blue Blood Bulldog",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "alaskan-husky",
+      "display_name": "Alaskan Husky",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "alaskan-klee-kai",
+      "display_name": "Alaskan Klee Kai",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "alpine-dachsbracke",
+      "display_name": "Alpine Dachsbracke",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-bully",
+      "display_name": "American Bully",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-cocker-spaniel",
+      "display_name": "American Cocker Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-english-coonhound",
+      "display_name": "American English Coonhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "american-eskimo-dog",
+      "display_name": "American Eskimo Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-foxhound",
+      "display_name": "American Foxhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "american-hairless-terrier",
+      "display_name": "American Hairless Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-leopard-hound",
+      "display_name": "American Leopard Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "american-pit-bull-terrier",
+      "display_name": "American Pit Bull Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-staffordshire-terrier",
+      "display_name": "American Staffordshire Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-water-spaniel",
+      "display_name": "American Water Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "anatolian-shepherd",
+      "display_name": "Anatolian Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "andalusian-terrier",
+      "display_name": "Andalusian Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "anglo-fran-ais-de-petite-v-nerie",
+      "display_name": "Anglo-Fran\u00e7ais de Petite V\u00e9nerie",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "argentine-pila",
+      "display_name": "Argentine Pila",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ari-ge-pointer",
+      "display_name": "Ari\u00e8ge Pointer",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ari-geois",
+      "display_name": "Ari\u00e9geois",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "armant",
+      "display_name": "Armant",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "armenian-gampr",
+      "display_name": "Armenian Gampr",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "artois-hound",
+      "display_name": "Artois Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "australian-cattle-dog",
+      "display_name": "Australian Cattle Dog",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "australian-kelpie",
+      "display_name": "Australian Kelpie",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "australian-shepherd",
+      "display_name": "Australian Shepherd",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "australian-terrier",
+      "display_name": "Australian Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "austrian-black-and-tan-hound",
+      "display_name": "Austrian Black and Tan Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "austrian-pinscher",
+      "display_name": "Austrian Pinscher",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "azawakh",
+      "display_name": "Azawakh",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "b-c-h",
+      "display_name": "B\u1eafc H\u00e0",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bakharwal",
+      "display_name": "Bakharwal",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "banjara-hound",
+      "display_name": "Banjara Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "bankhar-dog",
+      "display_name": "Bankhar Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "barak-hound",
+      "display_name": "Barak hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "barbado-da-terceira",
+      "display_name": "Barbado da Terceira",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "barbet",
+      "display_name": "Barbet",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "basenji",
+      "display_name": "Basenji",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "basque-shepherd-dog",
+      "display_name": "Basque Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "basset-art-sien-normand",
+      "display_name": "Basset Art\u00e9sien Normand",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "basset-bleu-de-gascogne",
+      "display_name": "Basset Bleu de Gascogne",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "basset-fauve-de-bretagne",
+      "display_name": "Basset Fauve de Bretagne",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "basset-hound",
+      "display_name": "Basset Hound",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "beagle",
+      "display_name": "Beagle",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bearded-collie",
+      "display_name": "Bearded Collie",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bedlington-terrier",
+      "display_name": "Bedlington Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "belgian-laekenois",
+      "display_name": "Belgian Laekenois",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "belgian-malinois",
+      "display_name": "Belgian Malinois",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "belgian-tervuren",
+      "display_name": "Belgian Tervuren",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bergamasco",
+      "display_name": "Bergamasco",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bergamasco-shepherd",
+      "display_name": "Bergamasco Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "berger-picard",
+      "display_name": "Berger Picard",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bichon-frise",
+      "display_name": "Bichon Frise",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bichon-fris",
+      "display_name": "Bichon Fris\u00e9",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "biewerterrier",
+      "display_name": "Biewerterrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "billy",
+      "display_name": "Billy",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "black-mouth-cur",
+      "display_name": "Black Mouth Cur",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "black-russian-terrier",
+      "display_name": "Black Russian Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bloodhound",
+      "display_name": "Bloodhound",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "blue-picardy-spaniel",
+      "display_name": "Blue Picardy Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "boerboel",
+      "display_name": "Boerboel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bolognese",
+      "display_name": "Bolognese",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "border-collie",
+      "display_name": "Border Collie",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "border-terrier",
+      "display_name": "Border Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "borzoi",
+      "display_name": "Borzoi",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "boston-terrier",
+      "display_name": "Boston Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bouvier-des-ardennes",
+      "display_name": "Bouvier des Ardennes",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bouvier-des-flandres",
+      "display_name": "Bouvier Des Flandres",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "boxer",
+      "display_name": "Boxer",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "boykin-spaniel",
+      "display_name": "Boykin Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bracco-italiano",
+      "display_name": "Bracco Italiano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "braque-d-auvergne",
+      "display_name": "Braque d'Auvergne",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "braque-du-bourbonnais",
+      "display_name": "Braque du Bourbonnais",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "braque-fran-ais",
+      "display_name": "Braque Fran\u00e7ais",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "braque-saint-germain",
+      "display_name": "Braque Saint-Germain",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "brazilian-terrier",
+      "display_name": "Brazilian Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "briard",
+      "display_name": "Briard",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "briquet-griffon-vend-en",
+      "display_name": "Briquet Griffon Vend\u00e9en",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "brittany",
+      "display_name": "Brittany",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "broholmer",
+      "display_name": "Broholmer",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bruno-jura-hound",
+      "display_name": "Bruno Jura Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "brussels-griffon",
+      "display_name": "Brussels Griffon",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bucovina-shepherd-dog",
+      "display_name": "Bucovina Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bulgarian-hound",
+      "display_name": "Bulgarian Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "bulgarian-scenthound",
+      "display_name": "Bulgarian Scenthound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "bull-arab",
+      "display_name": "Bull Arab",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bull-terrier",
+      "display_name": "Bull Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bulldog",
+      "display_name": "Bulldog",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "bullmastiff",
+      "display_name": "Bullmastiff",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "burgos-pointer",
+      "display_name": "Burgos Pointer",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ca-de-bou",
+      "display_name": "Ca de Bou",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ca-m-mallorqu",
+      "display_name": "Ca M\u00e8 Mallorqu\u00ed",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ca-rater-mallorqu",
+      "display_name": "Ca Rater Mallorqu\u00ed",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "calupoh",
+      "display_name": "Calupoh",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "can-de-chira",
+      "display_name": "Can de Chira",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "can-de-palleiro",
+      "display_name": "Can de Palleiro",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "canaan-dog",
+      "display_name": "Canaan Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cane-corso",
+      "display_name": "Cane Corso",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cane-di-oropa",
+      "display_name": "Cane di Oropa",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cane-paratore",
+      "display_name": "Cane Paratore",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cantabrian-water-dog",
+      "display_name": "Cantabrian Water Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cardigan-welsh-corgi",
+      "display_name": "Cardigan Welsh Corgi",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "carolina-dog",
+      "display_name": "Carolina Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "carpathian-shepherd-dog",
+      "display_name": "Carpathian Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "castro-laboreiro-dog",
+      "display_name": "Castro Laboreiro Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "catahoula-leopard-dog",
+      "display_name": "Catahoula Leopard Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "catalan-sheepdog",
+      "display_name": "Catalan Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "caucasian-shepherd-dog",
+      "display_name": "Caucasian Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cavalier-king-charles-spaniel",
+      "display_name": "Cavalier King Charles Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "central-asian-shepherd-dog",
+      "display_name": "Central Asian Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "esk-fousek",
+      "display_name": "\u010cesk\u00fd fousek",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cesky-terrier",
+      "display_name": "Cesky Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chesapeake-bay-retriever",
+      "display_name": "Chesapeake Bay Retriever",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-noir",
+      "display_name": "Chien Fran\u00e7ais Blanc et Noir",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-orange",
+      "display_name": "Chien Fran\u00e7ais Blanc et Orange",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chien-fran-ais-tricolore",
+      "display_name": "Chien Fran\u00e7ais Tricolore",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chihuahua",
+      "display_name": "Chihuahua",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chilean-terrier",
+      "display_name": "Chilean Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chinese-crested",
+      "display_name": "Chinese Crested",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chinese-crested-dog",
+      "display_name": "Chinese Crested Dog",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chinese-shar-pei",
+      "display_name": "Chinese Shar Pei",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chinook",
+      "display_name": "Chinook",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chinook-a-distinctive-and-versatile-dog-breed",
+      "display_name": "Chinook: A Distinctive and Versatile Dog Breed",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chippiparai",
+      "display_name": "Chippiparai",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chongqing",
+      "display_name": "Chongqing",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chortai",
+      "display_name": "Chortai",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chow-chow",
+      "display_name": "Chow Chow",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "chukotka-sled-dog",
+      "display_name": "Chukotka sled dog",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "clumber-spaniel",
+      "display_name": "Clumber Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cocker-spaniel",
+      "display_name": "Cocker Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "collie",
+      "display_name": "Collie",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "colombian-fino-hound",
+      "display_name": "Colombian Fino Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "coton-de-tulear",
+      "display_name": "Coton De Tulear",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "cretan-hound",
+      "display_name": "Cretan Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "croatian-sheepdog",
+      "display_name": "Croatian Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "curly-coated-retriever",
+      "display_name": "Curly-coated Retriever",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "czechoslovakian-wolfdog",
+      "display_name": "Czechoslovakian Wolfdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dachshund",
+      "display_name": "Dachshund",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dandie-dinmont-terrier",
+      "display_name": "Dandie Dinmont Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "danish-spitz",
+      "display_name": "Danish Spitz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "danish-swedish-farmdog",
+      "display_name": "Danish\u2013Swedish Farmdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "denmark-feist",
+      "display_name": "Denmark Feist",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dikkulak",
+      "display_name": "Dikkulak",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dingo",
+      "display_name": "Dingo",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dogo-argentino",
+      "display_name": "Dogo Argentino",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dogo-sardesco",
+      "display_name": "Dogo Sardesco",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dogue-brasileiro",
+      "display_name": "Dogue Brasileiro",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dogue-de-bordeaux",
+      "display_name": "Dogue De Bordeaux",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "donggyeongi",
+      "display_name": "Donggyeongi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "drentse-patrijshond",
+      "display_name": "Drentse Patrijshond",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "drever",
+      "display_name": "Drever",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dunker",
+      "display_name": "Dunker",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dutch-shepherd",
+      "display_name": "Dutch Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "dutch-smoushond",
+      "display_name": "Dutch Smoushond",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "east-european-shepherd",
+      "display_name": "East European Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "east-siberian-laika",
+      "display_name": "East Siberian Laika",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "ecuadorian-hairless-dog",
+      "display_name": "Ecuadorian Hairless Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-cocker-spaniel",
+      "display_name": "English Cocker Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-setter",
+      "display_name": "English Setter",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "english-shepherd",
+      "display_name": "English Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-springer-spaniel",
+      "display_name": "English Springer Spaniel",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "english-toy-spaniel",
+      "display_name": "English Toy Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-toy-terrier-black-tan",
+      "display_name": "English Toy Terrier (Black & Tan)",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "entlebucher-mountain-dog",
+      "display_name": "Entlebucher Mountain Dog",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "erbi-txakur",
+      "display_name": "Erbi Txakur",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "faroese-sheepdog",
+      "display_name": "Faroese Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "field-spaniel",
+      "display_name": "Field Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "finnish-lapphund",
+      "display_name": "Finnish Lapphund",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "finnish-spitz",
+      "display_name": "Finnish Spitz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "flat-coated-retriever",
+      "display_name": "Flat-coated Retriever",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "fox-terrier",
+      "display_name": "Fox Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "french-bulldog",
+      "display_name": "French Bulldog",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "galgo-espa-ol",
+      "display_name": "Galgo Espa\u00f1ol",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "gascon-saintongeois",
+      "display_name": "Gascon Saintongeois",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "gaucho-sheepdog",
+      "display_name": "Gaucho sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-hound",
+      "display_name": "German Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "german-longhaired-pointer",
+      "display_name": "German Longhaired Pointer",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-pinscher",
+      "display_name": "German Pinscher",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-spaniel",
+      "display_name": "German Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-spitz",
+      "display_name": "German Spitz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "glen-of-imaal-terrier",
+      "display_name": "Glen Of Imaal Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-noir",
+      "display_name": "Grand Anglo-Fran\u00e7ais Blanc et Noir",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-orange",
+      "display_name": "Grand Anglo-Fran\u00e7ais Blanc et Orange",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-tricolore",
+      "display_name": "Grand Anglo-Fran\u00e7ais Tricolore",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vendeen",
+      "display_name": "Grand Basset Griffon Vendeen",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vend-en",
+      "display_name": "Grand Basset Griffon Vend\u00e9en",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-bleu-de-gascogne",
+      "display_name": "Grand Bleu de Gascogne",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-griffon-vend-en",
+      "display_name": "Grand Griffon Vend\u00e9en",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "great-dane",
+      "display_name": "Great Dane",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "greater-swiss-mountain-dog",
+      "display_name": "Greater Swiss Mountain Dog",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "greek-harehound",
+      "display_name": "Greek Harehound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "greek-shepherd",
+      "display_name": "Greek Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "greenland-dog",
+      "display_name": "Greenland Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "greyhound",
+      "display_name": "Greyhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "griffon-bleu-de-gascogne",
+      "display_name": "Griffon Bleu de Gascogne",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-bruxellois",
+      "display_name": "Griffon Bruxellois",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-fauve-de-bretagne",
+      "display_name": "Griffon Fauve de Bretagne",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-nivernais",
+      "display_name": "Griffon Nivernais",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "gull-dong",
+      "display_name": "Gull Dong",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "gull-terrier",
+      "display_name": "Gull Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "h-llefors-elkhound",
+      "display_name": "H\u00e4llefors Elkhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "hamiltonst-vare",
+      "display_name": "Hamiltonst\u00f6vare",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "harrier",
+      "display_name": "Harrier",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "havanese",
+      "display_name": "Havanese",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "himalayan-sheepdog",
+      "display_name": "Himalayan Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "hmong-bobtail-dog",
+      "display_name": "Hmong bobtail dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "hokkaido",
+      "display_name": "Hokkaido",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "huntaway",
+      "display_name": "Huntaway",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "hygen-hound",
+      "display_name": "Hygen Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "ibizan-hound",
+      "display_name": "Ibizan Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "icelandic-sheepdog",
+      "display_name": "Icelandic Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "indian-pariah-dog",
+      "display_name": "Indian pariah dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "indian-spitz",
+      "display_name": "Indian Spitz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "irish-red-white-setter",
+      "display_name": "Irish Red White Setter",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "irish-terrier",
+      "display_name": "Irish Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "irish-water-spaniel",
+      "display_name": "Irish Water Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "istrian-coarse-haired-hound",
+      "display_name": "Istrian Coarse-haired Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "italian-greyhound",
+      "display_name": "Italian Greyhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "jagdterrier",
+      "display_name": "Jagdterrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "japanese-spitz",
+      "display_name": "Japanese Spitz",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "japanese-terrier",
+      "display_name": "Japanese Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "jeju",
+      "display_name": "Jeju",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "jindo",
+      "display_name": "Jindo",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kai-ken",
+      "display_name": "Kai Ken",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kaikadi",
+      "display_name": "Kaikadi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kamchatka-sled-dog",
+      "display_name": "Kamchatka Sled Dog",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "kangal-shepherd-dog",
+      "display_name": "Kangal Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kanni",
+      "display_name": "Kanni",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "karakachan",
+      "display_name": "Karakachan",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "karelian-bear-dog",
+      "display_name": "Karelian Bear Dog",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "karelo-finnish-laika",
+      "display_name": "Karelo-Finnish Laika",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kars",
+      "display_name": "Kars",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "karst-shepherd",
+      "display_name": "Karst Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kazakh-tazy",
+      "display_name": "Kazakh Tazy",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "keeshond",
+      "display_name": "Keeshond",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kerry-blue-terrier",
+      "display_name": "Kerry Blue Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "khala",
+      "display_name": "Khala",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kintamani",
+      "display_name": "Kintamani",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kishu",
+      "display_name": "Kishu",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kokoni",
+      "display_name": "Kokoni",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kombai",
+      "display_name": "Kombai",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "komondor",
+      "display_name": "Komondor",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "koolie",
+      "display_name": "Koolie",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kromfohrl-nder",
+      "display_name": "Kromfohrl\u00e4nder",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kuchi",
+      "display_name": "Kuchi",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kunming",
+      "display_name": "Kunming",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kurdish-mastiff",
+      "display_name": "Kurdish Mastiff",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "kuvasz",
+      "display_name": "Kuvasz",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lagotto-romagnolo",
+      "display_name": "Lagotto Romagnolo",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lakeland-terrier",
+      "display_name": "Lakeland Terrier",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "lancashire-heeler",
+      "display_name": "Lancashire Heeler",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "landseer",
+      "display_name": "Landseer",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "large-m-nsterl-nder",
+      "display_name": "Large M\u00fcnsterl\u00e4nder",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "leonberger",
+      "display_name": "Leonberger",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "levriero-sardo",
+      "display_name": "Levriero Sardo",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lhasa-apso",
+      "display_name": "Lhasa Apso",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "liangshan-dog",
+      "display_name": "Liangshan Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lithuanian-hound",
+      "display_name": "Lithuanian Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "lobito-herre-o",
+      "display_name": "Lobito Herre\u00f1o",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lowchen",
+      "display_name": "Lowchen",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "l-wchen",
+      "display_name": "L\u00f6wchen",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lucas-terrier",
+      "display_name": "Lucas Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "lupo-italiano",
+      "display_name": "Lupo Italiano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mackenzie-river-husky",
+      "display_name": "Mackenzie River Husky",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mahratta-hound",
+      "display_name": "Mahratta Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "majorca-shepherd-dog",
+      "display_name": "Majorca Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "manchester-terrier",
+      "display_name": "Manchester Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "maneto",
+      "display_name": "Maneto",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "maremmano-abruzzese-sheepdog",
+      "display_name": "Maremmano-Abruzzese Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "markiesje",
+      "display_name": "Markiesje",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mcnab",
+      "display_name": "McNab",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "miniature-american-shepherd",
+      "display_name": "Miniature American Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "miniature-bull-terrier",
+      "display_name": "Miniature Bull Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "miniature-fox-terrier",
+      "display_name": "Miniature Fox Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "miniature-pinscher",
+      "display_name": "Miniature Pinscher",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "miniature-schnauzer",
+      "display_name": "Miniature Schnauzer",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "molossus-of-epirus",
+      "display_name": "Molossus of Epirus",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mongrel",
+      "display_name": "Mongrel",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "montenegrin-mountain-hound",
+      "display_name": "Montenegrin Mountain Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "moscow-watchdog",
+      "display_name": "Moscow Watchdog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mountain-feist",
+      "display_name": "Mountain Feist",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "mudhol-hound",
+      "display_name": "Mudhol Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "mudi",
+      "display_name": "Mudi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "neapolitan-mastiff",
+      "display_name": "Neapolitan Mastiff",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "nederlandse-kooikerhondje",
+      "display_name": "Nederlandse Kooikerhondje",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "nenets-herding-laika",
+      "display_name": "Nenets Herding Laika",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "new-guinea-singing-dog",
+      "display_name": "New Guinea singing dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "new-zealand-heading-dog",
+      "display_name": "New Zealand Heading Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norfolk-terrier",
+      "display_name": "Norfolk Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norfolk-terriers",
+      "display_name": "Norfolk Terriers",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norrbottenspets",
+      "display_name": "Norrbottenspets",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "northern-inuit-dog",
+      "display_name": "Northern Inuit Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwegian-buhund",
+      "display_name": "Norwegian Buhund",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwegian-elkhound",
+      "display_name": "Norwegian Elkhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "norwegian-lundehund",
+      "display_name": "Norwegian Lundehund",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwich-terrier",
+      "display_name": "Norwich Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwich-terriers",
+      "display_name": "Norwich Terriers",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "nova-scotia-duck-tolling-retriever",
+      "display_name": "Nova Scotia Duck Tolling Retriever",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "nureongi",
+      "display_name": "Nureongi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "old-english-sheepdog",
+      "display_name": "Old English Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "otterhound",
+      "display_name": "Otterhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "pach-n-navarro",
+      "display_name": "Pach\ufffd\ufffdn Navarro",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pampas-deerhound",
+      "display_name": "Pampas Deerhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "pastor-garafiano",
+      "display_name": "Pastor Garafiano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pastore-della-lessinia-e-del-lagorai",
+      "display_name": "Pastore della Lessinia e del Lagorai",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "patagonian-sheepdog",
+      "display_name": "Patagonian Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pembroke-welsh-corgi",
+      "display_name": "Pembroke Welsh Corgi",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "perdigueiro-galego",
+      "display_name": "Perdigueiro Galego",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "perro-majorero",
+      "display_name": "Perro Majorero",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "peruvian-hairless-dog",
+      "display_name": "Peruvian Hairless Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "petit-basset-griffon-vend-en",
+      "display_name": "Petit Basset Griffon Vend\u00e9en",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "petit-bleu-de-gascogne",
+      "display_name": "Petit Bleu de Gascogne",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "phal-ne",
+      "display_name": "Phal\u00e8ne",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pharaoh-hound",
+      "display_name": "Pharaoh Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "philippine-forest-dog",
+      "display_name": "Philippine forest dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "phu-quoc-ridgeback",
+      "display_name": "Phu Quoc Ridgeback",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "plott",
+      "display_name": "Plott",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "plott-hound",
+      "display_name": "Plott Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "plummer-terrier",
+      "display_name": "Plummer Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "podenco-andaluz",
+      "display_name": "Podenco Andaluz",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "podenco-canario",
+      "display_name": "Podenco Canario",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "podenco-valenciano",
+      "display_name": "Podenco Valenciano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pointer",
+      "display_name": "Pointer",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "poitevin",
+      "display_name": "Poitevin",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "polish-greyhound",
+      "display_name": "Polish Greyhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "polish-lowland-sheepdog",
+      "display_name": "Polish Lowland Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pomeranian",
+      "display_name": "Pomeranian",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pont-audemer-spaniel",
+      "display_name": "Pont-Audemer Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "porcelaine",
+      "display_name": "Porcelaine",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-podengo",
+      "display_name": "Portuguese Podengo",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-sheepdog",
+      "display_name": "Portuguese Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-water-dog",
+      "display_name": "Portuguese Water Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "posavac-hound",
+      "display_name": "Posavac Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "pra-sk-krysa-k",
+      "display_name": "Pra\u017esk\u00fd Krysa\u0159\u00edk",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "presa-canario",
+      "display_name": "Presa Canario",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pug",
+      "display_name": "Pug",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "puli",
+      "display_name": "Puli",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pumi",
+      "display_name": "Pumi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pungsan",
+      "display_name": "Pungsan",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pyrenean-mastiff",
+      "display_name": "Pyrenean Mastiff",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pyrenean-mountain-dog",
+      "display_name": "Pyrenean Mountain Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "pyrenean-sheepdog",
+      "display_name": "Pyrenean Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rafeiro-do-alentejo",
+      "display_name": "Rafeiro do Alentejo",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rajapalayam",
+      "display_name": "Rajapalayam",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rampur-greyhound",
+      "display_name": "Rampur Greyhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "rastreador-brasileiro",
+      "display_name": "Rastreador Brasileiro",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rat-terrier",
+      "display_name": "Rat Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ratonero-murciano",
+      "display_name": "Ratonero Murciano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rize-koyun",
+      "display_name": "Rize Koyun",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "rottweiler",
+      "display_name": "Rottweiler",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "russell-terrier",
+      "display_name": "Russell Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "russian-toy",
+      "display_name": "Russian Toy",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "russkiy-toy",
+      "display_name": "Russkiy Toy",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "ryukyu",
+      "display_name": "Ryukyu",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "saarloos-wolfdog",
+      "display_name": "Saarloos Wolfdog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sabueso-espa-ol",
+      "display_name": "Sabueso Espa\u00f1ol",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "saint-usuge-spaniel",
+      "display_name": "Saint-Usuge Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "saluki",
+      "display_name": "Saluki",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "samoyed",
+      "display_name": "Samoyed",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "sapsali",
+      "display_name": "Sapsali",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sarabi",
+      "display_name": "Sarabi",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sarail-hound",
+      "display_name": "Sarail Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "sardinian-shepherd-dog",
+      "display_name": "Sardinian Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "arplaninac",
+      "display_name": "\u0160arplaninac",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "schapendoes",
+      "display_name": "Schapendoes",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "schillerst-vare",
+      "display_name": "Schillerst\u00f6vare",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "schipperke",
+      "display_name": "Schipperke",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "schweizer-laufhund",
+      "display_name": "Schweizer Laufhund",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "scottish-deerhound",
+      "display_name": "Scottish Deerhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "scottish-terrier",
+      "display_name": "Scottish Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sealyham-terrier",
+      "display_name": "Sealyham Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "segugio-dell-appennino",
+      "display_name": "Segugio dell'Appennino",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "segugio-italiano",
+      "display_name": "Segugio Italiano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "segugio-maremmano",
+      "display_name": "Segugio Maremmano",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "serbian-hound",
+      "display_name": "Serbian Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "serbian-tricolour-hound",
+      "display_name": "Serbian Tricolour Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "shar-pei",
+      "display_name": "Shar Pei",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "shetland-sheepdog",
+      "display_name": "Shetland Sheepdog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "shiba-inu",
+      "display_name": "Shiba Inu",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "shih-tzu",
+      "display_name": "Shih Tzu",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "shikoku",
+      "display_name": "Shikoku",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "silken-windhound",
+      "display_name": "Silken Windhound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "sinhala-hound",
+      "display_name": "Sinhala Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "skye-terrier",
+      "display_name": "Skye Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sloughi",
+      "display_name": "Sloughi",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "slovak-cuvac",
+      "display_name": "Slovak Cuvac",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "slovensk-kopov",
+      "display_name": "Slovensk\u00fd kopov",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "smaland-hound",
+      "display_name": "Smaland Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "small-me-imurje-dog",
+      "display_name": "Small Me\u0111imurje Dog",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "small-m-nsterl-nder",
+      "display_name": "Small M\u00fcnsterl\u00e4nder",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "smithfield",
+      "display_name": "Smithfield",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "south-russian-ovcharka",
+      "display_name": "South Russian Ovcharka",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "spanish-water-dog",
+      "display_name": "Spanish Water Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "spino-degli-iblei",
+      "display_name": "Spino degli Iblei",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "spinone-italiano",
+      "display_name": "Spinone Italiano",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "sporting-lucas-terrier",
+      "display_name": "Sporting Lucas Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "st-bernard",
+      "display_name": "St. Bernard",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "st-hubert-jura-hound",
+      "display_name": "St. Hubert Jura Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "staffordshire-bull-terrier",
+      "display_name": "Staffordshire Bull Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "standard-manchester-terrier",
+      "display_name": "Standard Manchester Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "standard-schnauzer",
+      "display_name": "Standard Schnauzer",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "stephens-stock",
+      "display_name": "Stephens Stock",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "styrian-coarse-haired-hound",
+      "display_name": "Styrian Coarse-haired Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "sussex-spaniel",
+      "display_name": "Sussex Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "swedish-lapphund",
+      "display_name": "Swedish Lapphund",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "swedish-vallhund",
+      "display_name": "Swedish Vallhund",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "taigan",
+      "display_name": "Taigan",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tamaskan-dog",
+      "display_name": "Tamaskan Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tang-dog",
+      "display_name": "Tang Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tarsus-atalburun",
+      "display_name": "Tarsus \u00e7atalburun",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tatra-shepherd-dog",
+      "display_name": "Tatra Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "teddy-roosevelt-terrier",
+      "display_name": "Teddy Roosevelt Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "telomian",
+      "display_name": "Telomian",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tenterfield-terrier",
+      "display_name": "Tenterfield Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "thai-ridgeback",
+      "display_name": "Thai Ridgeback",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tibetan-kyi-apso",
+      "display_name": "Tibetan Kyi Apso",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tibetan-spaniel",
+      "display_name": "Tibetan Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tibetan-terrier",
+      "display_name": "Tibetan Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tonya-finosu",
+      "display_name": "Tonya Finosu",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tornjak",
+      "display_name": "Tornjak",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "tosa",
+      "display_name": "Tosa",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "toy-manchester-terrier",
+      "display_name": "Toy Manchester Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "transylvanian-hound",
+      "display_name": "Transylvanian Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "treeing-cur",
+      "display_name": "Treeing Cur",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "treeing-feist",
+      "display_name": "Treeing Feist",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "treeing-tennessee-brindle",
+      "display_name": "Treeing Tennessee Brindle",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "trigg-hound",
+      "display_name": "Trigg Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "valencian-terrier",
+      "display_name": "Valencian Terrier",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "vikhan",
+      "display_name": "Vikhan",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "villanuco-de-las-encartaciones",
+      "display_name": "Villanuco de Las Encartaciones",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "vizsla",
+      "display_name": "Vizsla",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "volkosob",
+      "display_name": "Volkosob",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "volpino-italiano",
+      "display_name": "Volpino Italiano",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "welsh-hound",
+      "display_name": "Welsh Hound",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "welsh-springer-spaniel",
+      "display_name": "Welsh Springer Spaniel",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "welsh-terrier",
+      "display_name": "Welsh Terrier",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "west-country-harrier",
+      "display_name": "West Country Harrier",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "west-highland-white-terrier",
+      "display_name": "West Highland White Terrier",
+      "old_energy": "moderate",
+      "new_energy": "low",
+      "status": "success"
+    },
+    {
+      "breed_slug": "west-siberian-laika",
+      "display_name": "West Siberian Laika",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "westphalian-dachsbracke",
+      "display_name": "Westphalian Dachsbracke",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "wetterhoun",
+      "display_name": "Wetterhoun",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "whippet",
+      "display_name": "Whippet",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "white-shepherd",
+      "display_name": "White Shepherd",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "white-swiss-shepherd-dog",
+      "display_name": "White Swiss Shepherd Dog",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "wire-fox-terrier",
+      "display_name": "Wire Fox Terrier",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "wirehaired-pointing-griffon",
+      "display_name": "Wirehaired Pointing Griffon",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "wirehaired-vizsla",
+      "display_name": "Wirehaired Vizsla",
+      "old_energy": "moderate",
+      "new_energy": "high",
+      "status": "success"
+    },
+    {
+      "breed_slug": "xiasi-dog",
+      "display_name": "Xiasi Dog",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "xoloitzcuintle",
+      "display_name": "Xoloitzcuintle",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "xoloitzcuintli",
+      "display_name": "Xoloitzcuintli",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    },
+    {
+      "breed_slug": "yakutian-laika",
+      "display_name": "Yakutian Laika",
+      "status": "error",
+      "error": "{'code': '22P02', 'details': None, 'hint': None, 'message': 'invalid input value for enum energy_enum: \"very-high\"'}"
+    },
+    {
+      "breed_slug": "zerdava",
+      "display_name": "Zerdava",
+      "old_energy": "moderate",
+      "new_energy": "moderate",
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,2803 @@
+{
+  "timestamp": "2025-09-17T19:06:02.760902",
+  "total_processed": 571,
+  "successful": 559,
+  "failed": 0,
+  "results": [
+    {
+      "breed_slug": "afghan-hound",
+      "content_length": 1957,
+      "status": "success"
+    },
+    {
+      "breed_slug": "akbash",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "akita",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "aksaray-malaklisi",
+      "content_length": 469,
+      "status": "success"
+    },
+    {
+      "breed_slug": "alopekis",
+      "content_length": 389,
+      "status": "success"
+    },
+    {
+      "breed_slug": "manchester-terrier",
+      "content_length": 762,
+      "status": "success"
+    },
+    {
+      "breed_slug": "appenzeller-sennenhund",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "australian-shepherd",
+      "content_length": 1122,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bavarian-mountain-hound",
+      "content_length": 441,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bergamasco",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bluetick-coonhound",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "hmong-bobtail-dog",
+      "content_length": 457,
+      "status": "success"
+    },
+    {
+      "breed_slug": "argentine-pila",
+      "content_length": 239,
+      "status": "success"
+    },
+    {
+      "breed_slug": "australian-silky-terrier",
+      "content_length": 396,
+      "status": "success"
+    },
+    {
+      "breed_slug": "beagle-harrier",
+      "content_length": 449,
+      "status": "success"
+    },
+    {
+      "breed_slug": "boxer",
+      "content_length": 378,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bruno-jura-hound",
+      "content_length": 467,
+      "status": "success"
+    },
+    {
+      "breed_slug": "hokkaido",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "ari-ge-pointer",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "artois-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "b-c-h",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "beagle",
+      "content_length": 1800,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bernese-mountain-dog",
+      "content_length": 454,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bolognese",
+      "content_length": 451,
+      "status": "success"
+    },
+    {
+      "breed_slug": "hovawart",
+      "content_length": 444,
+      "status": "success"
+    },
+    {
+      "breed_slug": "andalusian-terrier",
+      "content_length": 615,
+      "status": "success"
+    },
+    {
+      "breed_slug": "barbet",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "basset-fauve-de-bretagne",
+      "content_length": 619,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bedlington-terrier",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "black-and-tan-coonhound",
+      "content_length": 643,
+      "status": "success"
+    },
+    {
+      "breed_slug": "armant",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "banjara-hound",
+      "content_length": 382,
+      "status": "success"
+    },
+    {
+      "breed_slug": "beauceron",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bichon-frise",
+      "content_length": 986,
+      "status": "success"
+    },
+    {
+      "breed_slug": "billy",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "borzoi",
+      "content_length": 802,
+      "status": "success"
+    },
+    {
+      "breed_slug": "huntaway",
+      "content_length": 633,
+      "status": "success"
+    },
+    {
+      "breed_slug": "brazilian-terrier",
+      "content_length": 466,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bulgarian-scenthound",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "can-de-chira",
+      "content_length": 355,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cane-di-oropa",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-noir",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "miniature-american-shepherd",
+      "content_length": 373,
+      "status": "success"
+    },
+    {
+      "breed_slug": "braque-du-bourbonnais",
+      "content_length": 275,
+      "status": "success"
+    },
+    {
+      "breed_slug": "c-o-de-gado-transmontano",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cantabrian-water-dog",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chien-fran-ais-tricolore",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chippiparai",
+      "content_length": 272,
+      "status": "success"
+    },
+    {
+      "breed_slug": "brittany",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bulgarian-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "campeiro-bulldog",
+      "content_length": 448,
+      "status": "success"
+    },
+    {
+      "breed_slug": "carea-leon-s",
+      "content_length": 390,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chortai",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "miniature-bull-terrier",
+      "content_length": 1751,
+      "status": "success"
+    },
+    {
+      "breed_slug": "braque-fran-ais",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bucovina-shepherd-dog",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "calupoh",
+      "content_length": 241,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cesky-terrier",
+      "content_length": 833,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-orange",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chihuahua",
+      "content_length": 372,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chinook",
+      "content_length": 276,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cirneco-dell-etna",
+      "content_length": 469,
+      "status": "success"
+    },
+    {
+      "breed_slug": "croatian-sheepdog",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dalmatian",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dandie-dinmont-terrier",
+      "content_length": 1095,
+      "status": "success"
+    },
+    {
+      "breed_slug": "denmark-feist",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dingo",
+      "content_length": 276,
+      "status": "success"
+    },
+    {
+      "breed_slug": "himalayan-sheepdog",
+      "content_length": 461,
+      "status": "success"
+    },
+    {
+      "breed_slug": "hygen-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "jeju",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tibetan-mastiff",
+      "content_length": 394,
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-cocker-spaniel",
+      "content_length": 1685,
+      "status": "success"
+    },
+    {
+      "breed_slug": "flat-coated-retriever",
+      "content_length": 889,
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-orange",
+      "content_length": 603,
+      "status": "success"
+    },
+    {
+      "breed_slug": "irish-setter",
+      "content_length": 1124,
+      "status": "success"
+    },
+    {
+      "breed_slug": "estonian-hound",
+      "content_length": 448,
+      "status": "success"
+    },
+    {
+      "breed_slug": "gaucho-sheepdog",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "great-pyrenees",
+      "content_length": 699,
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-bruxellois",
+      "content_length": 753,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tibetan-spaniel",
+      "content_length": 546,
+      "status": "success"
+    },
+    {
+      "breed_slug": "estrela-mountain-dog",
+      "content_length": 390,
+      "status": "success"
+    },
+    {
+      "breed_slug": "georgian-shepherd",
+      "content_length": 373,
+      "status": "success"
+    },
+    {
+      "breed_slug": "giant-schnauzer",
+      "content_length": 1483,
+      "status": "success"
+    },
+    {
+      "breed_slug": "gull-dong",
+      "content_length": 345,
+      "status": "success"
+    },
+    {
+      "breed_slug": "j-mthund",
+      "content_length": 442,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kaikadi",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwegian-buhund",
+      "content_length": 637,
+      "status": "success"
+    },
+    {
+      "breed_slug": "finnish-lapphund",
+      "content_length": 1720,
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-hound",
+      "content_length": 820,
+      "status": "success"
+    },
+    {
+      "breed_slug": "greek-harehound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "harrier",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "havanese",
+      "content_length": 1246,
+      "status": "success"
+    },
+    {
+      "breed_slug": "jack-russell-terrier",
+      "content_length": 983,
+      "status": "success"
+    },
+    {
+      "breed_slug": "trigg-hound",
+      "content_length": 1278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "ecuadorian-hairless-dog",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "faroese-sheepdog",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "galgo-espa-ol",
+      "content_length": 417,
+      "status": "success"
+    },
+    {
+      "breed_slug": "golden-retriever",
+      "content_length": 1657,
+      "status": "success"
+    },
+    {
+      "breed_slug": "ibizan-hound",
+      "content_length": 916,
+      "status": "success"
+    },
+    {
+      "breed_slug": "indian-spitz",
+      "content_length": 1164,
+      "status": "success"
+    },
+    {
+      "breed_slug": "khala",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "l-wchen",
+      "content_length": 570,
+      "status": "success"
+    },
+    {
+      "breed_slug": "maremmano-abruzzese-sheepdog",
+      "content_length": 461,
+      "status": "success"
+    },
+    {
+      "breed_slug": "welsh-sheepdog",
+      "content_length": 390,
+      "status": "success"
+    },
+    {
+      "breed_slug": "icelandic-sheepdog",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "karakachan",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kombai",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kuchi",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "liangshan-dog",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "maneto",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "indian-pariah-dog",
+      "content_length": 873,
+      "status": "success"
+    },
+    {
+      "breed_slug": "irish-wolfhound",
+      "content_length": 1407,
+      "status": "success"
+    },
+    {
+      "breed_slug": "jindo",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kars",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lancashire-heeler",
+      "content_length": 1055,
+      "status": "success"
+    },
+    {
+      "breed_slug": "levriero-sardo",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "maltese",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "irish-red-and-white-setter",
+      "content_length": 382,
+      "status": "success"
+    },
+    {
+      "breed_slug": "istrian-shorthaired-hound",
+      "content_length": 687,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kintamani",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lucas-terrier",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "markiesje",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "mahratta-hound",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "mcnab",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "molossus-of-epirus",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "mountain-cur",
+      "content_length": 524,
+      "status": "success"
+    },
+    {
+      "breed_slug": "neapolitan-mastiff",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "new-zealand-heading-dog",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "petit-basset-griffon-vend-en",
+      "content_length": 351,
+      "status": "success"
+    },
+    {
+      "breed_slug": "poitevin",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pont-audemer-spaniel",
+      "content_length": 814,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pyrenean-mountain-dog",
+      "content_length": 795,
+      "status": "success"
+    },
+    {
+      "breed_slug": "rajapalayam",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "villanuco-de-las-encartaciones",
+      "content_length": 451,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pastor-garafiano",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "petit-basset-griffon-vendeen",
+      "content_length": 564,
+      "status": "success"
+    },
+    {
+      "breed_slug": "poodle",
+      "content_length": 1754,
+      "status": "success"
+    },
+    {
+      "breed_slug": "posavac-hound",
+      "content_length": 677,
+      "status": "success"
+    },
+    {
+      "breed_slug": "puli",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "rampur-greyhound",
+      "content_length": 459,
+      "status": "success"
+    },
+    {
+      "breed_slug": "smithfield",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pastore-della-lessinia-e-del-lagorai",
+      "content_length": 355,
+      "status": "success"
+    },
+    {
+      "breed_slug": "picardy-spaniel",
+      "content_length": 739,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pumi",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "rastreador-brasileiro",
+      "content_length": 237,
+      "status": "success"
+    },
+    {
+      "breed_slug": "smooth-collie",
+      "content_length": 537,
+      "status": "success"
+    },
+    {
+      "breed_slug": "papillon",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pointer",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pomeranian",
+      "content_length": 451,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pyrenean-mastiff",
+      "content_length": 454,
+      "status": "success"
+    },
+    {
+      "breed_slug": "ratonero-murciano",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "russkiy-toy",
+      "content_length": 1388,
+      "status": "success"
+    },
+    {
+      "breed_slug": "samoyed",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sarabi",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sardinian-shepherd-dog",
+      "content_length": 461,
+      "status": "success"
+    },
+    {
+      "breed_slug": "schweizer-laufhund",
+      "content_length": 160,
+      "status": "success"
+    },
+    {
+      "breed_slug": "perro-majorero",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "presa-canario",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pungsan",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "romanian-mioritic-shepherd-dog",
+      "content_length": 532,
+      "status": "success"
+    },
+    {
+      "breed_slug": "russian-toy",
+      "content_length": 1310,
+      "status": "success"
+    },
+    {
+      "breed_slug": "saint-bernard",
+      "content_length": 375,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sapsali",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "west-country-harrier",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "irish-water-spaniel",
+      "content_length": 783,
+      "status": "success"
+    },
+    {
+      "breed_slug": "serbian-tricolour-hound",
+      "content_length": 467,
+      "status": "success"
+    },
+    {
+      "breed_slug": "shiba-inu",
+      "content_length": 1061,
+      "status": "success"
+    },
+    {
+      "breed_slug": "skye-terrier",
+      "content_length": 1116,
+      "status": "success"
+    },
+    {
+      "breed_slug": "st-bernard",
+      "content_length": 452,
+      "status": "success"
+    },
+    {
+      "breed_slug": "serbian-hound",
+      "content_length": 467,
+      "status": "success"
+    },
+    {
+      "breed_slug": "shiloh-shepherd",
+      "content_length": 1894,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sinhala-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "spinone-italiano",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "st-hubert-jura-hound",
+      "content_length": 467,
+      "status": "success"
+    },
+    {
+      "breed_slug": "stephens-stock",
+      "content_length": 345,
+      "status": "success"
+    },
+    {
+      "breed_slug": "istrian-coarse-haired-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "japanese-chin",
+      "content_length": 691,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kai-ken",
+      "content_length": 276,
+      "status": "success"
+    },
+    {
+      "breed_slug": "spino-degli-iblei",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tibetan-kyi-apso",
+      "content_length": 444,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tibetan-terrier",
+      "content_length": 1387,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tosa",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "swedish-lapphund",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tang-dog",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tatra-shepherd-dog",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lhasa-apso",
+      "content_length": 543,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tyrolean-hound",
+      "content_length": 799,
+      "status": "success"
+    },
+    {
+      "breed_slug": "westphalian-dachsbracke",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "wirehaired-pointing-griffon",
+      "content_length": 1198,
+      "status": "success"
+    },
+    {
+      "breed_slug": "mongrel",
+      "content_length": 2662,
+      "status": "success"
+    },
+    {
+      "breed_slug": "valencian-terrier",
+      "content_length": 466,
+      "status": "success"
+    },
+    {
+      "breed_slug": "welsh-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "wetterhoun",
+      "content_length": 276,
+      "status": "success"
+    },
+    {
+      "breed_slug": "wirehaired-vizsla",
+      "content_length": 529,
+      "status": "success"
+    },
+    {
+      "breed_slug": "italian-greyhound",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "japanese-terrier",
+      "content_length": 470,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kamchatka-sled-dog",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "montenegrin-mountain-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "airedale-terrier",
+      "content_length": 958,
+      "status": "success"
+    },
+    {
+      "breed_slug": "jagdterrier",
+      "content_length": 470,
+      "status": "success"
+    },
+    {
+      "breed_slug": "affenpinscher",
+      "content_length": 997,
+      "status": "success"
+    },
+    {
+      "breed_slug": "africanis",
+      "content_length": 192,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-cocker-spaniel",
+      "content_length": 1298,
+      "status": "success"
+    },
+    {
+      "breed_slug": "jonangi",
+      "content_length": 459,
+      "status": "success"
+    },
+    {
+      "breed_slug": "aidi",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "alapaha-blue-blood-bulldog",
+      "content_length": 440,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-foxhound",
+      "content_length": 1225,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kangal-shepherd-dog",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "moscow-watchdog",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "alano-espa-ol",
+      "content_length": 345,
+      "status": "success"
+    },
+    {
+      "breed_slug": "alaskan-husky",
+      "content_length": 2081,
+      "status": "success"
+    },
+    {
+      "breed_slug": "alaskan-klee-kai",
+      "content_length": 372,
+      "status": "success"
+    },
+    {
+      "breed_slug": "alaskan-malamute",
+      "content_length": 1260,
+      "status": "success"
+    },
+    {
+      "breed_slug": "alpine-dachsbracke",
+      "content_length": 272,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-bulldog",
+      "content_length": 800,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-pit-bull-terrier",
+      "content_length": 2617,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kanni",
+      "content_length": 272,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kazakh-tazy",
+      "content_length": 264,
+      "status": "success"
+    },
+    {
+      "breed_slug": "mudhol-hound",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-bully",
+      "content_length": 684,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-leopard-hound",
+      "content_length": 467,
+      "status": "success"
+    },
+    {
+      "breed_slug": "karelian-bear-dog",
+      "content_length": 991,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kerry-beagle",
+      "content_length": 452,
+      "status": "success"
+    },
+    {
+      "breed_slug": "nova-scotia-duck-tolling-retriever",
+      "content_length": 1593,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-english-coonhound",
+      "content_length": 923,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-water-spaniel",
+      "content_length": 1509,
+      "status": "success"
+    },
+    {
+      "breed_slug": "karelo-finnish-laika",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kerry-blue-terrier",
+      "content_length": 761,
+      "status": "success"
+    },
+    {
+      "breed_slug": "nureongi",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-eskimo-dog",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-staffordshire-terrier",
+      "content_length": 1054,
+      "status": "success"
+    },
+    {
+      "breed_slug": "karst-shepherd",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "king-charles-spaniel",
+      "content_length": 1115,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kunming",
+      "content_length": 1516,
+      "status": "success"
+    },
+    {
+      "breed_slug": "american-hairless-terrier",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "anatolian-shepherd",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "anglo-fran-ais-de-petite-v-nerie",
+      "content_length": 557,
+      "status": "success"
+    },
+    {
+      "breed_slug": "ari-geois",
+      "content_length": 345,
+      "status": "success"
+    },
+    {
+      "breed_slug": "armenian-gampr",
+      "content_length": 355,
+      "status": "success"
+    },
+    {
+      "breed_slug": "arplaninac",
+      "content_length": 461,
+      "status": "success"
+    },
+    {
+      "breed_slug": "australian-cattle-dog",
+      "content_length": 2657,
+      "status": "success"
+    },
+    {
+      "breed_slug": "australian-stumpy-tail-cattle-dog",
+      "content_length": 273,
+      "status": "success"
+    },
+    {
+      "breed_slug": "austrian-black-and-tan-hound",
+      "content_length": 640,
+      "status": "success"
+    },
+    {
+      "breed_slug": "australian-kelpie",
+      "content_length": 864,
+      "status": "success"
+    },
+    {
+      "breed_slug": "australian-terrier",
+      "content_length": 985,
+      "status": "success"
+    },
+    {
+      "breed_slug": "austrian-pinscher",
+      "content_length": 412,
+      "status": "success"
+    },
+    {
+      "breed_slug": "azawakh",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bakharwal",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "basenji",
+      "content_length": 741,
+      "status": "success"
+    },
+    {
+      "breed_slug": "belgian-laekenois",
+      "content_length": 995,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bloodhound",
+      "content_length": 2681,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bankhar-dog",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "basset-art-sien-normand",
+      "content_length": 448,
+      "status": "success"
+    },
+    {
+      "breed_slug": "belgian-sheepdog",
+      "content_length": 994,
+      "status": "success"
+    },
+    {
+      "breed_slug": "blue-lacy",
+      "content_length": 803,
+      "status": "success"
+    },
+    {
+      "breed_slug": "carolina-dog",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "barak-hound",
+      "content_length": 469,
+      "status": "success"
+    },
+    {
+      "breed_slug": "basset-bleu-de-gascogne",
+      "content_length": 255,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bearded-collie",
+      "content_length": 532,
+      "status": "success"
+    },
+    {
+      "breed_slug": "belgian-shepherd",
+      "content_length": 985,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chinese-shar-pei",
+      "content_length": 373,
+      "status": "success"
+    },
+    {
+      "breed_slug": "barbado-da-terceira",
+      "content_length": 347,
+      "status": "success"
+    },
+    {
+      "breed_slug": "belgian-tervuren",
+      "content_length": 995,
+      "status": "success"
+    },
+    {
+      "breed_slug": "black-norwegian-elkhound",
+      "content_length": 985,
+      "status": "success"
+    },
+    {
+      "breed_slug": "boerboel",
+      "content_length": 609,
+      "status": "success"
+    },
+    {
+      "breed_slug": "basque-shepherd-dog",
+      "content_length": 461,
+      "status": "success"
+    },
+    {
+      "breed_slug": "belgian-malinois",
+      "content_length": 994,
+      "status": "success"
+    },
+    {
+      "breed_slug": "berger-picard",
+      "content_length": 941,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bohemian-spotted-dog",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "basset-hound",
+      "content_length": 758,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bergamasco-shepherd",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "biewer-terrier",
+      "content_length": 671,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bohemian-shepherd",
+      "content_length": 699,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bichon-fris",
+      "content_length": 872,
+      "status": "success"
+    },
+    {
+      "breed_slug": "black-mouth-cur",
+      "content_length": 459,
+      "status": "success"
+    },
+    {
+      "breed_slug": "blue-picardy-spaniel",
+      "content_length": 390,
+      "status": "success"
+    },
+    {
+      "breed_slug": "border-collie",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "shar-pei",
+      "content_length": 448,
+      "status": "success"
+    },
+    {
+      "breed_slug": "border-terrier",
+      "content_length": 1049,
+      "status": "success"
+    },
+    {
+      "breed_slug": "briquet-griffon-vend-en",
+      "content_length": 320,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bull-terrier",
+      "content_length": 1829,
+      "status": "success"
+    },
+    {
+      "breed_slug": "ca-de-bou",
+      "content_length": 345,
+      "status": "success"
+    },
+    {
+      "breed_slug": "boston-terrier",
+      "content_length": 1358,
+      "status": "success"
+    },
+    {
+      "breed_slug": "braque-d-auvergne",
+      "content_length": 192,
+      "status": "success"
+    },
+    {
+      "breed_slug": "briard",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bully-kutta",
+      "content_length": 388,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cane-corso",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bouvier-des-ardennes",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bull-arab",
+      "content_length": 378,
+      "status": "success"
+    },
+    {
+      "breed_slug": "keeshond",
+      "content_length": 1227,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kooikerhondje",
+      "content_length": 1017,
+      "status": "success"
+    },
+    {
+      "breed_slug": "old-danish-pointer",
+      "content_length": 444,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bouvier-des-flandres",
+      "content_length": 607,
+      "status": "success"
+    },
+    {
+      "breed_slug": "briquet-de-provence",
+      "content_length": 548,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bullmastiff",
+      "content_length": 931,
+      "status": "success"
+    },
+    {
+      "breed_slug": "ca-rater-mallorqu",
+      "content_length": 447,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bracco-italiano",
+      "content_length": 345,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cairn-terriers",
+      "content_length": 696,
+      "status": "success"
+    },
+    {
+      "breed_slug": "braque-saint-germain",
+      "content_length": 490,
+      "status": "success"
+    },
+    {
+      "breed_slug": "broholmer",
+      "content_length": 469,
+      "status": "success"
+    },
+    {
+      "breed_slug": "brussels-griffon",
+      "content_length": 675,
+      "status": "success"
+    },
+    {
+      "breed_slug": "bulldog",
+      "content_length": 452,
+      "status": "success"
+    },
+    {
+      "breed_slug": "ca-m-mallorqu",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cairn-terrier",
+      "content_length": 775,
+      "status": "success"
+    },
+    {
+      "breed_slug": "canaan-dog",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "king-shepherd",
+      "content_length": 1894,
+      "status": "success"
+    },
+    {
+      "breed_slug": "komondor",
+      "content_length": 1455,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kurdish-mastiff",
+      "content_length": 454,
+      "status": "success"
+    },
+    {
+      "breed_slug": "can-de-palleiro",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cane-paratore",
+      "content_length": 783,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kishu",
+      "content_length": 3357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "koolie",
+      "content_length": 1124,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lapponian-herder",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cardigan-welsh-corgi",
+      "content_length": 1060,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kokoni",
+      "content_length": 451,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kromfohrl-nder",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "labrador-retriever",
+      "content_length": 1872,
+      "status": "success"
+    },
+    {
+      "breed_slug": "carpathian-shepherd-dog",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "castro-laboreiro-dog",
+      "content_length": 812,
+      "status": "success"
+    },
+    {
+      "breed_slug": "catahoula-leopard-dog",
+      "content_length": 638,
+      "status": "success"
+    },
+    {
+      "breed_slug": "catalan-sheepdog",
+      "content_length": 320,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chesapeake-bay-retriever",
+      "content_length": 1523,
+      "status": "success"
+    },
+    {
+      "breed_slug": "caucasian-shepherd-dog",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cavalier-king-charles-spaniel",
+      "content_length": 2671,
+      "status": "success"
+    },
+    {
+      "breed_slug": "central-asian-shepherd-dog",
+      "content_length": 461,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chilean-terrier",
+      "content_length": 466,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chongqing",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cocker-spaniel",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cretan-hound",
+      "content_length": 467,
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-foxhound",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chow-chow",
+      "content_length": 586,
+      "status": "success"
+    },
+    {
+      "breed_slug": "collie",
+      "content_length": 2299,
+      "status": "success"
+    },
+    {
+      "breed_slug": "danish-spitz",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "chukotka-sled-dog",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "colombian-fino-hound",
+      "content_length": 467,
+      "status": "success"
+    },
+    {
+      "breed_slug": "curly-coated-retriever",
+      "content_length": 644,
+      "status": "success"
+    },
+    {
+      "breed_slug": "danish-swedish-farmdog",
+      "content_length": 237,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dogo-argentino",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "cimarr-n-uruguayo",
+      "content_length": 791,
+      "status": "success"
+    },
+    {
+      "breed_slug": "continental-bulldog",
+      "content_length": 448,
+      "status": "success"
+    },
+    {
+      "breed_slug": "czechoslovakian-wolfdog",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dogo-sardesco",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "drever",
+      "content_length": 544,
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-springer-spaniel",
+      "content_length": 1352,
+      "status": "success"
+    },
+    {
+      "breed_slug": "clumber-spaniel",
+      "content_length": 1371,
+      "status": "success"
+    },
+    {
+      "breed_slug": "coton-de-tulear",
+      "content_length": 885,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dogue-brasileiro",
+      "content_length": 459,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dutch-shepherd",
+      "content_length": 1884,
+      "status": "success"
+    },
+    {
+      "breed_slug": "corsican-dog",
+      "content_length": 921,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dachshund",
+      "content_length": 1802,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dikkulak",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dunker",
+      "content_length": 272,
+      "status": "success"
+    },
+    {
+      "breed_slug": "doberman-pinscher",
+      "content_length": 2185,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dogue-de-bordeaux",
+      "content_length": 372,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dutch-smoushond",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-mastiff",
+      "content_length": 1774,
+      "status": "success"
+    },
+    {
+      "breed_slug": "dobermann",
+      "content_length": 2260,
+      "status": "success"
+    },
+    {
+      "breed_slug": "donggyeongi",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "east-european-shepherd",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-setter",
+      "content_length": 1377,
+      "status": "success"
+    },
+    {
+      "breed_slug": "teddy-roosevelt-terrier",
+      "content_length": 1009,
+      "status": "success"
+    },
+    {
+      "breed_slug": "drentse-patrijshond",
+      "content_length": 814,
+      "status": "success"
+    },
+    {
+      "breed_slug": "east-siberian-laika",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-shepherd",
+      "content_length": 469,
+      "status": "success"
+    },
+    {
+      "breed_slug": "esk-fousek",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-spitz",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-toy-spaniel",
+      "content_length": 1098,
+      "status": "success"
+    },
+    {
+      "breed_slug": "finnish-hound",
+      "content_length": 817,
+      "status": "success"
+    },
+    {
+      "breed_slug": "french-spaniel",
+      "content_length": 1204,
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-nivernais",
+      "content_length": 591,
+      "status": "success"
+    },
+    {
+      "breed_slug": "english-toy-terrier-black-tan",
+      "content_length": 451,
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-pinscher",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-wirehaired-pointer",
+      "content_length": 615,
+      "status": "success"
+    },
+    {
+      "breed_slug": "greyhound",
+      "content_length": 1352,
+      "status": "success"
+    },
+    {
+      "breed_slug": "h-llefors-elkhound",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "entlebucher-mountain-dog",
+      "content_length": 904,
+      "status": "success"
+    },
+    {
+      "breed_slug": "eurasier",
+      "content_length": 1416,
+      "status": "success"
+    },
+    {
+      "breed_slug": "finnish-spitz",
+      "content_length": 897,
+      "status": "success"
+    },
+    {
+      "breed_slug": "gascon-saintongeois",
+      "content_length": 452,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pembroke-welsh-corgi",
+      "content_length": 1164,
+      "status": "success"
+    },
+    {
+      "breed_slug": "erbi-txakur",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-shepherd",
+      "content_length": 1894,
+      "status": "success"
+    },
+    {
+      "breed_slug": "go-czy-polski",
+      "content_length": 495,
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vendeen",
+      "content_length": 373,
+      "status": "success"
+    },
+    {
+      "breed_slug": "peruvian-hairless-dog",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "field-spaniel",
+      "content_length": 1062,
+      "status": "success"
+    },
+    {
+      "breed_slug": "fox-terrier",
+      "content_length": 1236,
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-shorthaired-pointer",
+      "content_length": 444,
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-bleu-de-gascogne",
+      "content_length": 644,
+      "status": "success"
+    },
+    {
+      "breed_slug": "nederlandse-kooikerhondje",
+      "content_length": 824,
+      "status": "success"
+    },
+    {
+      "breed_slug": "fila-brasileiro",
+      "content_length": 469,
+      "status": "success"
+    },
+    {
+      "breed_slug": "french-bulldog",
+      "content_length": 1539,
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-spaniel",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "gordon-setter",
+      "content_length": 1012,
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-griffon-vend-en",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "german-roughhaired-pointer",
+      "content_length": 444,
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vend-en",
+      "content_length": 257,
+      "status": "success"
+    },
+    {
+      "breed_slug": "greater-swiss-mountain-dog",
+      "content_length": 582,
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-bleu-de-gascogne",
+      "content_length": 636,
+      "status": "success"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-noir",
+      "content_length": 723,
+      "status": "success"
+    },
+    {
+      "breed_slug": "great-dane",
+      "content_length": 1304,
+      "status": "success"
+    },
+    {
+      "breed_slug": "greenland-dog",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "kuvasz",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "landseer",
+      "content_length": 390,
+      "status": "success"
+    },
+    {
+      "breed_slug": "greek-shepherd",
+      "content_length": 473,
+      "status": "success"
+    },
+    {
+      "breed_slug": "griffon-fauve-de-bretagne",
+      "content_length": 694,
+      "status": "success"
+    },
+    {
+      "breed_slug": "hamiltonst-vare",
+      "content_length": 264,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lagotto-romagnolo",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "gull-terrier",
+      "content_length": 459,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lakeland-terrier",
+      "content_length": 564,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lithuanian-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lowchen",
+      "content_length": 573,
+      "status": "success"
+    },
+    {
+      "breed_slug": "halden-hound",
+      "content_length": 611,
+      "status": "success"
+    },
+    {
+      "breed_slug": "large-m-nsterl-nder",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lupo-italiano",
+      "content_length": 241,
+      "status": "success"
+    },
+    {
+      "breed_slug": "magyar-ag-r",
+      "content_length": 359,
+      "status": "success"
+    },
+    {
+      "breed_slug": "miniature-fox-terrier",
+      "content_length": 447,
+      "status": "success"
+    },
+    {
+      "breed_slug": "hanover-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "leonberger",
+      "content_length": 1275,
+      "status": "success"
+    },
+    {
+      "breed_slug": "lobito-herre-o",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "mackenzie-river-husky",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pharaoh-hound",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "majorca-shepherd-dog",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "mastiff",
+      "content_length": 375,
+      "status": "success"
+    },
+    {
+      "breed_slug": "miniature-schnauzer",
+      "content_length": 2121,
+      "status": "success"
+    },
+    {
+      "breed_slug": "mountain-feist",
+      "content_length": 352,
+      "status": "success"
+    },
+    {
+      "breed_slug": "mudi",
+      "content_length": 893,
+      "status": "success"
+    },
+    {
+      "breed_slug": "newfoundland",
+      "content_length": 375,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pampas-deerhound",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "patterdale-terrier",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "vizsla",
+      "content_length": 1549,
+      "status": "success"
+    },
+    {
+      "breed_slug": "nenets-herding-laika",
+      "content_length": 241,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pekingese",
+      "content_length": 1218,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tonya-finosu",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "treeing-cur",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "new-guinea-singing-dog",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "norrbottenspets",
+      "content_length": 588,
+      "status": "success"
+    },
+    {
+      "breed_slug": "northern-inuit-dog",
+      "content_length": 1078,
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwegian-lundehund",
+      "content_length": 588,
+      "status": "success"
+    },
+    {
+      "breed_slug": "norfolk-terrier",
+      "content_length": 2122,
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwegian-elkhound",
+      "content_length": 958,
+      "status": "success"
+    },
+    {
+      "breed_slug": "norwich-terrier",
+      "content_length": 934,
+      "status": "success"
+    },
+    {
+      "breed_slug": "old-english-sheepdog",
+      "content_length": 1237,
+      "status": "success"
+    },
+    {
+      "breed_slug": "olde-english-bulldogge",
+      "content_length": 1556,
+      "status": "success"
+    },
+    {
+      "breed_slug": "treeing-feist",
+      "content_length": 352,
+      "status": "success"
+    },
+    {
+      "breed_slug": "vikhan",
+      "content_length": 355,
+      "status": "success"
+    },
+    {
+      "breed_slug": "volpino-italiano",
+      "content_length": 257,
+      "status": "success"
+    },
+    {
+      "breed_slug": "otterhound",
+      "content_length": 675,
+      "status": "success"
+    },
+    {
+      "breed_slug": "patagonian-sheepdog",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "toy-fox-terrier",
+      "content_length": 730,
+      "status": "success"
+    },
+    {
+      "breed_slug": "treeing-walker-coonhound",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "parson-russell-terrier",
+      "content_length": 975,
+      "status": "success"
+    },
+    {
+      "breed_slug": "perdigueiro-galego",
+      "content_length": 345,
+      "status": "success"
+    },
+    {
+      "breed_slug": "phal-ne",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "plott",
+      "content_length": 278,
+      "status": "success"
+    },
+    {
+      "breed_slug": "toy-manchester-terrier",
+      "content_length": 543,
+      "status": "success"
+    },
+    {
+      "breed_slug": "petit-bleu-de-gascogne",
+      "content_length": 483,
+      "status": "success"
+    },
+    {
+      "breed_slug": "plott-hound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pra-sk-krysa-k",
+      "content_length": 547,
+      "status": "success"
+    },
+    {
+      "breed_slug": "redbone-coonhound",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "saint-usuge-spaniel",
+      "content_length": 390,
+      "status": "success"
+    },
+    {
+      "breed_slug": "philippine-forest-dog",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "phu-quoc-ridgeback",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "podenco-andaluz",
+      "content_length": 356,
+      "status": "success"
+    },
+    {
+      "breed_slug": "podenco-canario",
+      "content_length": 762,
+      "status": "success"
+    },
+    {
+      "breed_slug": "scottish-deerhound",
+      "content_length": 1212,
+      "status": "success"
+    },
+    {
+      "breed_slug": "plummer-terrier",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "podenco-valenciano",
+      "content_length": 355,
+      "status": "success"
+    },
+    {
+      "breed_slug": "polish-greyhound",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "porcelaine",
+      "content_length": 241,
+      "status": "success"
+    },
+    {
+      "breed_slug": "polish-hound",
+      "content_length": 363,
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-podengo-pequeno",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pug",
+      "content_length": 372,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pyrenean-sheepdog",
+      "content_length": 274,
+      "status": "success"
+    },
+    {
+      "breed_slug": "polish-lowland-sheepdog",
+      "content_length": 708,
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-podengo",
+      "content_length": 349,
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-water-dog",
+      "content_length": 803,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pyrenean-shepherd",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-pointer",
+      "content_length": 440,
+      "status": "success"
+    },
+    {
+      "breed_slug": "rafeiro-do-alentejo",
+      "content_length": 469,
+      "status": "success"
+    },
+    {
+      "breed_slug": "rottweiler",
+      "content_length": 2208,
+      "status": "success"
+    },
+    {
+      "breed_slug": "russo-european-laika",
+      "content_length": 685,
+      "status": "success"
+    },
+    {
+      "breed_slug": "portuguese-sheepdog",
+      "content_length": 570,
+      "status": "success"
+    },
+    {
+      "breed_slug": "rhodesian-ridgeback",
+      "content_length": 740,
+      "status": "success"
+    },
+    {
+      "breed_slug": "rough-collie",
+      "content_length": 2275,
+      "status": "success"
+    },
+    {
+      "breed_slug": "ryukyu",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sakhalin-husky",
+      "content_length": 495,
+      "status": "success"
+    },
+    {
+      "breed_slug": "pudelpointer",
+      "content_length": 444,
+      "status": "success"
+    },
+    {
+      "breed_slug": "rize-koyun",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "russell-terrier",
+      "content_length": 896,
+      "status": "success"
+    },
+    {
+      "breed_slug": "saarloos-wolfdog",
+      "content_length": 458,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tenterfield-terrier",
+      "content_length": 806,
+      "status": "success"
+    },
+    {
+      "breed_slug": "rat-terrier",
+      "content_length": 876,
+      "status": "success"
+    },
+    {
+      "breed_slug": "romanian-raven-shepherd-dog",
+      "content_length": 178,
+      "status": "success"
+    },
+    {
+      "breed_slug": "schipperke",
+      "content_length": 1952,
+      "status": "success"
+    },
+    {
+      "breed_slug": "segugio-dell-appennino",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "weimaraner",
+      "content_length": 391,
+      "status": "success"
+    },
+    {
+      "breed_slug": "russian-spaniel",
+      "content_length": 862,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sabueso-espa-ol",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "schillerst-vare",
+      "content_length": 558,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sealyham-terrier",
+      "content_length": 914,
+      "status": "success"
+    },
+    {
+      "breed_slug": "saint-miguel-cattle-dog",
+      "content_length": 700,
+      "status": "success"
+    },
+    {
+      "breed_slug": "shikoku",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "small-m-nsterl-nder",
+      "content_length": 860,
+      "status": "success"
+    },
+    {
+      "breed_slug": "south-russian-ovcharka",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sporting-lucas-terrier",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "saluki",
+      "content_length": 1466,
+      "status": "success"
+    },
+    {
+      "breed_slug": "schapendoes",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "scottish-terrier",
+      "content_length": 1023,
+      "status": "success"
+    },
+    {
+      "breed_slug": "segugio-italiano",
+      "content_length": 355,
+      "status": "success"
+    },
+    {
+      "breed_slug": "shetland-sheepdog",
+      "content_length": 1038,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sarail-hound",
+      "content_length": 378,
+      "status": "success"
+    },
+    {
+      "breed_slug": "schweizerischer-niederlaufhund",
+      "content_length": 452,
+      "status": "success"
+    },
+    {
+      "breed_slug": "serrano-bulldog",
+      "content_length": 448,
+      "status": "success"
+    },
+    {
+      "breed_slug": "shih-tzu",
+      "content_length": 774,
+      "status": "success"
+    },
+    {
+      "breed_slug": "smaland-hound",
+      "content_length": 902,
+      "status": "success"
+    },
+    {
+      "breed_slug": "segugio-maremmano",
+      "content_length": 353,
+      "status": "success"
+    },
+    {
+      "breed_slug": "siberian-husky",
+      "content_length": 1527,
+      "status": "success"
+    },
+    {
+      "breed_slug": "slovak-cuvac",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "spanish-water-dog",
+      "content_length": 547,
+      "status": "success"
+    },
+    {
+      "breed_slug": "staffordshire-bull-terrier",
+      "content_length": 1323,
+      "status": "success"
+    },
+    {
+      "breed_slug": "silken-windhound",
+      "content_length": 756,
+      "status": "success"
+    },
+    {
+      "breed_slug": "slovak-rough-haired-pointer",
+      "content_length": 444,
+      "status": "success"
+    },
+    {
+      "breed_slug": "standard-schnauzer",
+      "content_length": 392,
+      "status": "success"
+    },
+    {
+      "breed_slug": "swedish-vallhund",
+      "content_length": 906,
+      "status": "success"
+    },
+    {
+      "breed_slug": "taigan",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "silky-terrier",
+      "content_length": 591,
+      "status": "success"
+    },
+    {
+      "breed_slug": "slovensk-kopov",
+      "content_length": 276,
+      "status": "success"
+    },
+    {
+      "breed_slug": "smooth-fox-terrier",
+      "content_length": 1039,
+      "status": "success"
+    },
+    {
+      "breed_slug": "telomian",
+      "content_length": 357,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sloughi",
+      "content_length": 1029,
+      "status": "success"
+    },
+    {
+      "breed_slug": "small-me-imurje-dog",
+      "content_length": 176,
+      "status": "success"
+    },
+    {
+      "breed_slug": "spanish-mastiff",
+      "content_length": 775,
+      "status": "success"
+    },
+    {
+      "breed_slug": "taiwan-dog",
+      "content_length": 390,
+      "status": "success"
+    },
+    {
+      "breed_slug": "soft-coated-wheaten-terrier",
+      "content_length": 1935,
+      "status": "success"
+    },
+    {
+      "breed_slug": "styrian-coarse-haired-hound",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tamaskan-dog",
+      "content_length": 1078,
+      "status": "success"
+    },
+    {
+      "breed_slug": "tarsus-atalburun",
+      "content_length": 476,
+      "status": "success"
+    },
+    {
+      "breed_slug": "stabyhoun",
+      "content_length": 1727,
+      "status": "success"
+    },
+    {
+      "breed_slug": "sussex-spaniel",
+      "content_length": 1386,
+      "status": "success"
+    },
+    {
+      "breed_slug": "transylvanian-hound",
+      "content_length": 467,
+      "status": "success"
+    },
+    {
+      "breed_slug": "volkosob",
+      "content_length": 948,
+      "status": "success"
+    },
+    {
+      "breed_slug": "thai-bangkaew-dog",
+      "content_length": 1425,
+      "status": "success"
+    },
+    {
+      "breed_slug": "thai-ridgeback",
+      "content_length": 1151,
+      "status": "success"
+    },
+    {
+      "breed_slug": "treeing-tennessee-brindle",
+      "content_length": 272,
+      "status": "success"
+    },
+    {
+      "breed_slug": "villano-de-las-encartaciones",
+      "content_length": 277,
+      "status": "success"
+    },
+    {
+      "breed_slug": "welsh-springer-spaniel",
+      "content_length": 1036,
+      "status": "success"
+    },
+    {
+      "breed_slug": "zerdava",
+      "content_length": 804,
+      "status": "success"
+    },
+    {
+      "breed_slug": "welsh-terrier",
+      "content_length": 775,
+      "status": "success"
+    },
+    {
+      "breed_slug": "whippet",
+      "content_length": 1835,
+      "status": "success"
+    },
+    {
+      "breed_slug": "xiasi-dog",
+      "content_length": 509,
+      "status": "success"
+    },
+    {
+      "breed_slug": "west-highland-white-terrier",
+      "content_length": 2245,
+      "status": "success"
+    },
+    {
+      "breed_slug": "white-swiss-shepherd-dog",
+      "content_length": 461,
+      "status": "success"
+    },
+    {
+      "breed_slug": "xoloitzcuintli",
+      "content_length": 953,
+      "status": "success"
+    },
+    {
+      "breed_slug": "west-siberian-laika",
+      "content_length": 471,
+      "status": "success"
+    },
+    {
+      "breed_slug": "wire-fox-terrier",
+      "content_length": 1002,
+      "status": "success"
+    },
+    {
+      "breed_slug": "yakutian-laika",
+      "content_length": 275,
+      "status": "success"
+    },
+    {
+      "breed_slug": "white-shepherd",
+      "content_length": 463,
+      "status": "success"
+    },
+    {
+      "breed_slug": "xoloitzcuintle",
+      "content_length": 1032,
+      "status": "success"
+    }
+  ]
+}

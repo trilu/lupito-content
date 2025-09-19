@@ -139,13 +139,31 @@ class OrchestratedScraper:
         # Extract ingredients
         import re
         ingredients_patterns = [
-            # Pattern for "Ingredients:" with colon after "Go to analytical constituents"
-            r'Go to analytical constituents\s*\n\s*Ingredients:\s*\n([A-Za-z][^\n]{20,}?)(?:\n(?:Protein source|Carbohydrate|Analytical|Additives|Nutritional)|$)',
-            # New pattern to handle "Ingredients\nGo to...\nIngredients\nActual ingredients"
-            r'Ingredients\s*(?:Go to[^\n]+\n)?(?:Ingredients\s*\n)?([A-Za-z][^\n]{20,}?)(?:\n(?:Analytical|Additives|Nutritional|\*L\.I\.P)|$)',
-            # Pattern with colon
-            r'Ingredients:\s*\n([A-Za-z][^\n]{20,}?)(?:\n(?:Protein source|Analytical|Additives|Nutritional)|$)',
-            # Original patterns
+            # Pattern 1: "Ingredients / composition" followed by ingredients on next line
+            r'Ingredients\s*/\s*composition\s*\n([^\n]+(?:\([^)]+\))?(?:[,.]?\s*[^\n]+(?:\([^)]+\))?)*?)(?:\n\nAdditives|\nAdditives|\nAnalytical|\n\n)',
+            
+            # Pattern 2: "Ingredients:" with optional product description, then ingredients
+            r'Ingredients:\s*\n(?:[^\n]*?(?:wet food|complete|diet)[^\n]*\n)?(\d+%[^\n]+(?:[,.]?\s*[^\n]+)*?)(?:\n\nAdditives|\nAdditives)',
+            
+            # Pattern 3: "Ingredients:" with variant info (e.g., "1.5kg bags:")
+            r'Ingredients:\s*\n(?:\d+(?:\.\d+)?kg bags?:\s*\n)?([A-Z][^\n]+(?:[,.]?\s*[^\n]+)*?)(?:\n\d+(?:\.\d+)?kg bags?:|\n\nAdditives|\nAdditives)',
+            
+            # Pattern 4: Simple "Ingredients:" followed directly by ingredients
+            r'Ingredients:\s*\n([A-Z][^\n]+(?:\([^)]+\))?[,.]?\s*)(?:\n\nAdditives per kg:|\nAdditives|\n\n)',
+            
+            # Pattern 5: General "Ingredients:" with multiline capture
+            r'Ingredients:\s*\n([^\n]+(?:\([^)]+\))?(?:[,.]?\s*[^\n]+(?:\([^)]+\))?)*?)(?:\n\nAdditives|\nAdditives|\n\nAnalytical|\nAnalytical)',
+            
+            # Pattern 6: "Ingredients" (no colon) followed by meat/duck/chicken
+            r'Ingredients\s*\n((?:Meat|Duck|Chicken)[^\n]+(?:\([^)]+\))?(?:[,.]?\s*[^\n]+)*)(?:\n\nAdditives|\nAdditives)',
+            
+            # Pattern 7: "Ingredients:" with Duck/Chicken/Meat starting
+            r'Ingredients:\s*\n((?:Duck|Chicken|Meat|Lamb|Beef|Turkey|Salmon|Fish)[^\n]+(?:\([^)]+\))?(?:[,.]?\s*[^\n]+)*)(?:\n\nAdditives|\nAdditives)',
+            
+            # Pattern 8: Relaxed capture from "Go to analytical constituents" onwards
+            r'Go to analytical constituents\s*\n(.*?)(?:Analytical constituents|$)',
+            
+            # Original patterns as fallback
             r'(?:Composition|Ingredients)[:\s]*\n?([^\n]{20,}?)(?:\n(?:Analytical|Additives|Nutritional)|$)',
             r'(?:Composition|Ingredients)[:\s]*([A-Za-z][^.]{30,}(?:\.[^.]{20,})*?)(?:Analytical|$)',
         ]

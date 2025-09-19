@@ -1,0 +1,350 @@
+{
+  "timestamp": "2025-09-15T13:51:05.208312",
+  "dry_run": true,
+  "statistics": {
+    "total": 50,
+    "new_products": 15,
+    "duplicates": 31,
+    "fuzzy_matches": 4,
+    "updated": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "log": [
+    {
+      "action": "duplicate",
+      "product_key": "royalcanin|royal_canin_xsmall_adult|dry",
+      "matched_key": "royalcanin|xsmalladult|wet",
+      "match_type": "url",
+      "product_name": "Royal Canin X-Small Adult"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "bosch|bosch_puppy|dry",
+      "matched_key": "bosch|puppy|dry",
+      "match_type": "url",
+      "product_name": "Bosch Puppy"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "cotswoldraw|cotswold_raw_active_8020_wild|raw",
+      "matched_key": "cotswold|rawactive8020wild|dry",
+      "match_type": "url",
+      "product_name": "Cotswold Raw Active 80/20 Wild"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "edmondsons|edmondsons_puppy|dry",
+      "matched_key": "edmondsons|puppy|dry",
+      "match_type": "url",
+      "product_name": "Edmondson's Puppy"
+    },
+    {
+      "action": "imported",
+      "product_key": "simpsons|simpsons_premium_puppy_wet_food|wet",
+      "product_name": "Simpsons Premium Puppy Wet Food",
+      "brand": "Simpsons"
+    },
+    {
+      "action": "fuzzy_match",
+      "product_key": "hillsscienceplan|hills_science_plan_adult_16_light_medium|dry",
+      "matched_key": "hillsscienceplan|hillsscienceplanadult16lightmediumwithchicken|dry",
+      "score": 87,
+      "product_name": "Hill's Science Plan Adult 1-6 Light Medium"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "tillyted|tilly_ted_adult_cans|wet",
+      "matched_key": "tilly|andtedadultcans|wet",
+      "match_type": "url",
+      "product_name": "Tilly & Ted Adult Cans"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "naturesvariety|natures_variety_selected_adult_mini|dry",
+      "matched_key": "naturesmenu|varietyselectedadultmini|dry",
+      "match_type": "url",
+      "product_name": "Nature's Variety Selected Adult Mini"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "nutriment|nutriment_leo_wolf_meatballs|raw",
+      "matched_key": "nutriment|leoandwolfmeatballs|dry",
+      "match_type": "url",
+      "product_name": "Nutriment Leo & Wolf Meatballs"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "pedigree|pedigree_senior_dry|dry",
+      "matched_key": "pedigree|senior|dry",
+      "match_type": "url",
+      "product_name": "Pedigree Senior Dry"
+    },
+    {
+      "action": "imported",
+      "product_key": "natures_deli_puppyjunior|dry",
+      "product_name": "Natures Deli Puppy/Junior",
+      "brand": "Unknown"
+    },
+    {
+      "action": "fuzzy_match",
+      "product_key": "guru|guru_top_of_the_crops_cold_pressed|dry",
+      "matched_key": "guru|topofthecropscoldpressed|dry",
+      "score": 92,
+      "product_name": "Guru Top Of The Crops Cold Pressed"
+    },
+    {
+      "action": "fuzzy_match",
+      "product_key": "seven|seven_grain_free_puppy_large_breed|dry",
+      "matched_key": "seven|grainfreepuppylargebreed|dry",
+      "score": 90,
+      "product_name": "Seven Grain Free Puppy Large Breed"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "southend_dog_cold_pressed|dry",
+      "matched_key": "southend|dogcoldpressed|dry",
+      "match_type": "url",
+      "product_name": "Southend Dog Cold Pressed"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "lukullus|lukullus_veggie|dry",
+      "matched_key": "lukullus|lukullusveggie|wet",
+      "match_type": "normalized",
+      "product_name": "Lukullus Veggie"
+    },
+    {
+      "action": "imported",
+      "product_key": "hillsscienceplan|hills_science_plan_adult_16_medium|dry",
+      "product_name": "Hill's Science Plan Adult 1-6 Medium",
+      "brand": "Hill's Science Plan"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "hillsscienceplan|hills_science_plan_mature_adult_7_youthful_vitalit|dry",
+      "matched_key": "hillsscienceplan|matureadult7youthfulvitalitysmallandmini|dry",
+      "match_type": "url",
+      "product_name": "Hill's Science Plan Mature Adult 7+ Youthful Vitality Small & Mini"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "royalcanin|royal_canin_maxi_starter|dry",
+      "matched_key": "royalcanin|maxistarter|wet",
+      "match_type": "url",
+      "product_name": "Royal Canin Maxi Starter"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "jameswellbeloved|james_wellbeloved_senior_wet_food|wet",
+      "matched_key": "jameswellbeloved|seniorwetfood|wet",
+      "match_type": "url",
+      "product_name": "James Wellbeloved Senior Wet Food"
+    },
+    {
+      "action": "fuzzy_match",
+      "product_key": "eukanuba|eukanuba_thriving_mature_medium_breed|dry",
+      "matched_key": "eukanuba|thrivingmaturemediumbreed|dry",
+      "score": 86,
+      "product_name": "Eukanuba Thriving Mature Medium Breed"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "wainwrights|wainwrights_dry_adult_grain_free_small_breed|dry",
+      "matched_key": "wainwrights|dryadultgrainfreesmallbreed|dry",
+      "match_type": "url",
+      "product_name": "Wainwright's Dry Adult Grain Free Small Breed"
+    },
+    {
+      "action": "imported",
+      "product_key": "nourish|nourish_grain_free_puppy_large_breed|dry",
+      "product_name": "Nourish Grain Free Puppy Large Breed",
+      "brand": "Nourish"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "lunaandme|luna_me_superblends_seniors_club|raw",
+      "matched_key": "luna|andmesuperblendsseniorsclub|dry",
+      "match_type": "url",
+      "product_name": "Luna & Me Superblends Senior's Club"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "royalcanin|royal_canin_german_shepherd_adult|dry",
+      "matched_key": "royalcanin|royalcaningermanshepherdadult|dry",
+      "match_type": "normalized",
+      "product_name": "Royal Canin German Shepherd Adult"
+    },
+    {
+      "action": "imported",
+      "product_key": "lilyskitchen|lilys_kitchen_the_ultimate_dinner|wet",
+      "product_name": "Lily's Kitchen the Ultimate Dinner",
+      "brand": "Lily's Kitchen"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "lovejoys_hearty_wholesome_wet|wet",
+      "matched_key": "lovejoys|heartyandwholesome|wet",
+      "match_type": "url",
+      "product_name": "Lovejoys Hearty & Wholesome Wet"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "laughing_dog_grain_free_adult_complete_wet|wet",
+      "matched_key": "laughing|doggrainfreeadultcomplete|wet",
+      "match_type": "url",
+      "product_name": "Laughing Dog Grain Free Adult Complete Wet"
+    },
+    {
+      "action": "imported",
+      "product_key": "hilife_feed_me|unknown",
+      "product_name": "HiLife FEED ME",
+      "brand": "Unknown"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "moleonline|country_dog_premium_adult_1|dry",
+      "matched_key": "countryvalue|dogpremiumadult1|dry",
+      "match_type": "url",
+      "product_name": "Country Dog Premium Adult 1+"
+    },
+    {
+      "action": "imported",
+      "product_key": "orijen|orijen_puppy|dry",
+      "product_name": "Orijen Puppy",
+      "brand": "Orijen"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "salters_senior|dry",
+      "matched_key": "salters|senior|dry",
+      "match_type": "url",
+      "product_name": "Salters Senior"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "moleonline|country_dog_original_adult_1|dry",
+      "matched_key": "countryvalue|dogoriginaladult1|dry",
+      "match_type": "url",
+      "product_name": "Country Dog Original Adult 1+"
+    },
+    {
+      "action": "imported",
+      "product_key": "jollyes|nutriment_core_range_adult|raw",
+      "product_name": "Nutriment Core Range Adult",
+      "brand": "Jollyes"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "royalcanin|royal_canin_miniature_schnauzer_adult|dry",
+      "matched_key": "royalcanin|miniatureschnauzeradult|wet",
+      "match_type": "url",
+      "product_name": "Royal Canin Miniature Schnauzer Adult"
+    },
+    {
+      "action": "imported",
+      "product_key": "edmondsons|edmondsons_puppy_large_breed|dry",
+      "product_name": "Edmondson's Puppy Large Breed",
+      "brand": "Edmondson's"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "virbac_veterinary_hpm_baby_large_medium|dry",
+      "matched_key": "virbac|veterinaryhpmbabylargeandmedium|dry",
+      "match_type": "url",
+      "product_name": "Virbac Veterinary HPM Baby Large & Medium"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "essential|essential_nautical_living_pate|wet",
+      "matched_key": "essential|nauticallivingpate|dry",
+      "match_type": "url",
+      "product_name": "Essential Nautical Living Pate"
+    },
+    {
+      "action": "imported",
+      "product_key": "eukanuba|eukanuba_working_endurance|dry",
+      "product_name": "Eukanuba Working & Endurance",
+      "brand": "Eukanuba"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "farmina_natural_delicious_puppy_maxi|dry",
+      "matched_key": "farmina|naturalanddeliciouspuppymaxi|dry",
+      "match_type": "url",
+      "product_name": "Farmina Natural & Delicious Puppy Maxi"
+    },
+    {
+      "action": "imported",
+      "product_key": "fish4dogs|fish4dogs_finest_puppy_complete_large_bite|dry",
+      "product_name": "Fish4Dogs Finest Puppy Complete Large Bite",
+      "brand": "Fish4Dogs"
+    },
+    {
+      "action": "imported",
+      "product_key": "royalcanin|royal_canin_medium_starter|dry",
+      "product_name": "Royal Canin Medium Starter",
+      "brand": "Royal Canin"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "chudleys|chudleys_working_crunch|dry",
+      "matched_key": "chudleys|workingcrunch|dry",
+      "match_type": "url",
+      "product_name": "Chudleys Working Crunch"
+    },
+    {
+      "action": "imported",
+      "product_key": "applaws|applaws_adult_small_medium|dry",
+      "product_name": "Applaws Adult Small & Medium",
+      "brand": "Applaws"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "belladuke|bella_duke_adult_complete_premium|raw",
+      "matched_key": "bella|anddukeadultcomplete7cpremium|dry",
+      "match_type": "url",
+      "product_name": "Bella + Duke Adult Complete | Premium"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "natures_way_80_recipes|dry",
+      "matched_key": "naturesmenu|way80percentrecipes|dry",
+      "match_type": "url",
+      "product_name": "Nature's Way 80% Recipes"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "royalcanin|royal_canin_maxi_dermacomfort|dry",
+      "matched_key": "royalcanin|maxidermacomfort|wet",
+      "match_type": "url",
+      "product_name": "Royal Canin Maxi Dermacomfort"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "husse|husse_adult_pat\u00e9|wet",
+      "matched_key": "husse|adultpate|dry",
+      "match_type": "url",
+      "product_name": "Husse Adult Pat\u00e9"
+    },
+    {
+      "action": "imported",
+      "product_key": "opti_life_prime_puppy|dry",
+      "product_name": "Opti Life Prime Puppy",
+      "brand": "Unknown"
+    },
+    {
+      "action": "duplicate",
+      "product_key": "lupo_natural_swiss_chicken|dry",
+      "matched_key": "lupo|naturalswisschicken|dry",
+      "match_type": "url",
+      "product_name": "Lupo Natural Swiss Chicken"
+    },
+    {
+      "action": "imported",
+      "product_key": "specific_adult_medium_breed_cxdm|dry",
+      "product_name": "Specific Adult Medium Breed CXD-M",
+      "brand": "Unknown"
+    }
+  ]
+}

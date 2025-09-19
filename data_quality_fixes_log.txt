@@ -1,0 +1,15 @@
+Data Quality Fixes - 2025-09-17T18:38:52.049284
+============================================================
+Successful: 9/9
+Failed: 0/9
+
+Corrections applied:
+- black-and-tan-coonhound: Coonhounds are large dogs, not extra small
+- boerboel: Boerboels are extra large mastiff-type dogs
+- doberman-pinscher: Weight was incorrectly set to ~5kg instead of 32-45kg
+- english-toy-spaniel: Toy breeds are extra small, not medium
+- giant-schnauzer: Giant Schnauzers are extra large dogs, not extra small
+- leonberger: Leonbergers are giant dogs weighing 45-77kg, not 13-27kg
+- norwegian-lundehund: Lundehunds are small dogs, not medium
+- portuguese-podengo-pequeno: Pequeno (small) variety weighs 4-6kg, not 20-30kg
+- tibetan-mastiff: Tibetan Mastiffs are giant dogs weighing 45-73kg, not 5kg

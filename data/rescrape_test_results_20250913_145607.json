@@ -1,0 +1,151 @@
+{
+  "timestamp": "20250913_145607",
+  "session_id": "rescrape_test_20250913_144534",
+  "total": 20,
+  "successful": 20,
+  "with_ingredients": 13,
+  "with_nutrition": 12,
+  "accuracy": 65.0,
+  "results": [
+    {
+      "name": "Purizon Grain-free Trial Packs",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/purizon/trial_packs/1191314",
+      "has_ingredients": false,
+      "has_nutrition": false,
+      "has_error": false
+    },
+    {
+      "name": "Royal Canin Expert Neutered",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_vet_diet/1949350",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Advance Hypoallergenic Mini",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/advance_vet_diets/2159368",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Belcando Baseline Young",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/belcando/baseline/2176816",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Bosch Adult Mini Poultry",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/323020",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Bosch Adult Mini Senior",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_senior/317406",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Bosch HPC Adult Vegan",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/1995623",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Bosch Senior Age & Weight",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_life_protection/136396",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Bozita Grain Free Salmon",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/1488611",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Purizon Single Meat Beef",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/purizon/single_meat/2124227",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Royal Canin French Bulldog",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_breed/french_bulldog/209128",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Royal Canin Medium Sterilised",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_care_nutrition/296052",
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Wolf of Wilderness Senior",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/wolf_of_wilderness_red/1958908",
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "has_error": false
+    },
+    {
+      "name": "Farmina N&D Pumpkin",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/farmina_nd_puppy/1852834",
+      "has_ingredients": false,
+      "has_nutrition": false,
+      "has_error": false
+    },
+    {
+      "name": "Bosch HPC Soft Maxi",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_soft/1942621",
+      "has_ingredients": false,
+      "has_nutrition": false,
+      "has_error": false
+    },
+    {
+      "name": "Wolf of Wilderness Single",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/wolf_of_wilderness_adult_single_protein/2155922",
+      "has_ingredients": false,
+      "has_nutrition": false,
+      "has_error": false
+    },
+    {
+      "name": "Bozita Robur Puppy",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_puppy_junior/2180468",
+      "has_ingredients": true,
+      "has_nutrition": false,
+      "has_error": false
+    },
+    {
+      "name": "Advance Medium Adult",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/advance/advance_medium/1848",
+      "has_ingredients": false,
+      "has_nutrition": false,
+      "has_error": false
+    },
+    {
+      "name": "Brit Care Adult Large",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/brit_care/brit_care_adult/2178624",
+      "has_ingredients": false,
+      "has_nutrition": false,
+      "has_error": false
+    },
+    {
+      "name": "Lukullus Cold Pressed",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/lukullus/lukullus_cold_pressed/1919268",
+      "has_ingredients": true,
+      "has_nutrition": false,
+      "has_error": false
+    }
+  ]
+}

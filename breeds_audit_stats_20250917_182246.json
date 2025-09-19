@@ -1,0 +1,194 @@
+{
+  "breeds_published": {
+    "total": 583,
+    "coverage": {
+      "id": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "breed_slug": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "display_name": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "aliases": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "size_category": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "growth_end_months": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "senior_start_months": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "adult_weight_min_kg": {
+        "count": "541",
+        "percentage": 92.7958833619211
+      },
+      "adult_weight_max_kg": {
+        "count": "541",
+        "percentage": 92.7958833619211
+      },
+      "adult_weight_avg_kg": {
+        "count": "541",
+        "percentage": 92.7958833619211
+      },
+      "height_min_cm": {
+        "count": "518",
+        "percentage": 88.8507718696398
+      },
+      "height_max_cm": {
+        "count": "518",
+        "percentage": 88.8507718696398
+      },
+      "lifespan_min_years": {
+        "count": "345",
+        "percentage": 59.17667238421955
+      },
+      "lifespan_max_years": {
+        "count": "345",
+        "percentage": 59.17667238421955
+      },
+      "lifespan_avg_years": {
+        "count": "345",
+        "percentage": 59.17667238421955
+      },
+      "energy": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "trainability": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "coat_length": {
+        "count": "409",
+        "percentage": 70.15437392795883
+      },
+      "shedding": {
+        "count": "0",
+        "percentage": 0.0
+      },
+      "bark_level": {
+        "count": "409",
+        "percentage": 70.15437392795883
+      },
+      "origin": {
+        "count": "526",
+        "percentage": 90.2229845626072
+      },
+      "friendliness_to_dogs": {
+        "count": "427",
+        "percentage": 73.2418524871355
+      },
+      "friendliness_to_humans": {
+        "count": "565",
+        "percentage": 96.91252144082333
+      },
+      "comprehensive_content": {
+        "count": "577",
+        "percentage": 98.97084048027445
+      },
+      "size_from": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "weight_from": {
+        "count": "541",
+        "percentage": 92.7958833619211
+      },
+      "height_from": {
+        "count": "214",
+        "percentage": 36.706689536878216
+      },
+      "lifespan_from": {
+        "count": "345",
+        "percentage": 59.17667238421955
+      },
+      "age_bounds_from": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "conflict_flags": {
+        "count": "0",
+        "percentage": 0.0
+      },
+      "override_reason": {
+        "count": "22",
+        "percentage": 3.7735849056603774
+      },
+      "created_at": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "updated_at": {
+        "count": "583",
+        "percentage": 100.0
+      },
+      "data_quality_grade": {
+        "count": "583",
+        "percentage": 100.0
+      }
+    },
+    "size_distribution": {
+      "m": 323,
+      "l": 106,
+      "xs": 64,
+      "xl": 50,
+      "s": 40
+    },
+    "energy_distribution": {
+      "moderate": 461,
+      "high": 80,
+      "low": 42
+    },
+    "weight_stats": {
+      "min_weight_range": 0.45,
+      "max_weight_range": 120.0,
+      "avg_weight": 21.712772643253235,
+      "missing_weight": "42"
+    },
+    "age_stats": {
+      "growth_end_avg": 12.445969125214408,
+      "senior_start_avg": 96.20583190394511,
+      "growth_end_min": "8",
+      "growth_end_max": "18",
+      "senior_start_min": "72",
+      "senior_start_max": "120"
+    },
+    "energy_values": {
+      "moderate": 461,
+      "high": 80,
+      "low": 42
+    }
+  },
+  "breeds_details": {
+    "total": 583,
+    "field_coverage": {}
+  },
+  "missing_data": {
+    "no_weight": 42,
+    "default_energy": 461,
+    "no_energy": 0,
+    "no_wikipedia": 0
+  },
+  "quality_issues": {
+    "size_weight_inconsistent": 9,
+    "growth_outliers": 0,
+    "senior_outliers": 0
+  },
+  "dogs_linkage": {
+    "total_dogs": 38,
+    "has_breed": "35",
+    "percentage": 92.10526315789474
+  }
+}

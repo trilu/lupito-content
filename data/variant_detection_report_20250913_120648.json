@@ -1,0 +1,4910 @@
+{
+  "summary": {
+    "total_products": 9092,
+    "variant_groups": 96,
+    "products_to_migrate": 110,
+    "products_after_migration": 8982
+  },
+  "groups": [
+    {
+      "brand": "Purizon Wet Dog Food",
+      "base_name": "purizon adult 6 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "purizonwetdogfood|purizon_adult_6_x_300g|wet",
+        "product_name": "Purizon Adult 6 x 300g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "purizonwetdogfood|purizon_adult_6_x_300g|wet",
+          "product_name": "Purizon Adult 6 x 300g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "300g",
+            "pack_value": "6 x 300g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_adult_6_x_800g|wet",
+          "product_name": "Purizon Adult 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_adult_6_x_400g|wet",
+          "product_name": "Purizon Adult 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Mjamjam Wet Dog Food",
+      "base_name": "mjamjam adult dog 6 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "mjamjamwetdogfood|mjamjam_adult_dog_6_x_800g|wet",
+        "product_name": "MjAMjAM Adult Dog 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_adult_dog_6_x_800g|wet",
+          "product_name": "MjAMjAM Adult Dog 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_adult_dog_6_x_400g|wet",
+          "product_name": "MjAMjAM Adult Dog 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_adult_dog_6_x_200g|wet",
+          "product_name": "MjAMjAM Adult Dog 6 x 200g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "200g",
+            "pack_value": "6 x 200g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Animonda",
+      "base_name": "animonda grancarno adult single protein supreme 6 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "animonda|animonda_grancarno_adult_single_protein_supreme_6_x_400g|wet",
+        "product_name": "animonda GranCarno Adult Single Protein Supreme 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "animonda|animonda_grancarno_adult_single_protein_supreme_6_x_400g|wet",
+          "product_name": "animonda GranCarno Adult Single Protein Supreme 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_adult_single_protein_supreme_6_x_800g|wet",
+          "product_name": "animonda GranCarno Adult Single Protein Supreme 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_adult_single_protein_supreme_6_x_400_g|wet",
+          "product_name": "animonda GranCarno Adult Single Protein Supreme 6 x 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400 g",
+            "pack_value": "6 x 400 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Doggy Dog",
+      "base_name": "doggy dog adult saver pack 24 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "doggydog|doggy_dog_adult_saver_pack_24_x_400g|wet",
+        "product_name": "Doggy Dog Adult Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "doggydog|doggy_dog_adult_saver_pack_24_x_400g|wet",
+          "product_name": "Doggy Dog Adult Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "doggydog|doggy_dog_adult_saver_pack_24_x_150g|wet",
+          "product_name": "Doggy Dog Adult Saver Pack 24 x 150g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "150g",
+            "pack_value": "24 x 150g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "doggydog|doggy_dog_adult_saver_pack_24_x_800g|wet",
+          "product_name": "Doggy Dog Adult Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Doggy Dog",
+      "base_name": "doggy dog adult 6 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "doggydog|doggy_dog_adult_6_x_400g|wet",
+        "product_name": "Doggy Dog Adult 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "doggydog|doggy_dog_adult_6_x_400g|wet",
+          "product_name": "Doggy Dog Adult 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "doggydog|doggy_dog_adult_6_x_150g|wet",
+          "product_name": "Doggy Dog Adult 6 x 150g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "150g",
+            "pack_value": "6 x 150g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "doggydog|doggy_dog_adult_6_x_800g|wet",
+          "product_name": "Doggy Dog Adult 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Purizon Wet Dog Food",
+      "base_name": "purizon organic 6 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "purizonwetdogfood|purizon_organic_6_x_200g|wet",
+        "product_name": "Purizon Organic 6 x 200g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "purizonwetdogfood|purizon_organic_6_x_200g|wet",
+          "product_name": "Purizon Organic 6 x 200g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "200g",
+            "pack_value": "6 x 200g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_organic_6_x_800g|wet",
+          "product_name": "Purizon Organic 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_organic_6_x_400g|wet",
+          "product_name": "Purizon Organic 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti canine intestinal with lamb",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "rinti|rinti_canine_intestinal_with_lamb_800_g|wet",
+        "product_name": "RINTI Canine Intestinal with lamb 800 g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 1
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rinticanineintestinalwithlamb400g|wet",
+          "product_name": "RINTI Canine Intestinal with Lamb 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "400 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": false,
+          "has_nutrition": true,
+          "is_parent": false
+        },
+        {
+          "product_key": "rinti|rinti_canine_intestinal_with_lamb_800_g|wet",
+          "product_name": "RINTI Canine Intestinal with lamb 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "800 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rinti|rinti_canine_intestinal_with_lamb_400_g|wet",
+          "product_name": "RINTI Canine Intestinal with Lamb 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "400 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Animonda",
+      "base_name": "animonda grancarno original adult 6 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "animonda|animonda_grancarno_original_adult_6_x_400g|wet",
+        "product_name": "animonda GranCarno Original Adult 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "animonda|animonda_grancarno_original_adult_6_x_800_g|wet",
+          "product_name": "animonda GranCarno Original Adult 6 x 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800 g",
+            "pack_value": "6 x 800 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_original_adult_6_x_400g|wet",
+          "product_name": "animonda GranCarno Original Adult 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_original_adult_6_x_800g|wet",
+          "product_name": "animonda GranCarno Original Adult 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Beneful",
+      "base_name": "saver pack beneful 2 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "beneful|saver_pack_beneful_2_x|dry",
+        "product_name": "Saver Pack Beneful 2 x",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 2
+      },
+      "variants": [
+        {
+          "product_key": "beneful|saverpackbeneful2x12kg|dry",
+          "product_name": "Saver Pack Beneful 2 x 12 kg",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "12 kg",
+            "pack_value": "2 x 12 kg",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": true,
+          "is_parent": false
+        },
+        {
+          "product_key": "beneful|saver_pack_beneful_2_x|dry",
+          "product_name": "Saver Pack Beneful 2 x",
+          "size_info": {
+            "has_size": false,
+            "has_pack": false,
+            "size_value": null,
+            "pack_value": null,
+            "variant_type": null
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        },
+        {
+          "product_key": "beneful|saver_pack_beneful_2_x_12_kg|dry",
+          "product_name": "Saver Pack Beneful 2 x 12 kg",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "12 kg",
+            "pack_value": "2 x 12 kg",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Mjamjam Wet Dog Food",
+      "base_name": "mjamjam adult dog saver pack 24 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "mjamjamwetdogfood|mjamjam_adult_dog_saver_pack_24_x_400g|wet",
+        "product_name": "MjAMjAM Adult Dog Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_adult_dog_saver_pack_24_x_400g|wet",
+          "product_name": "MjAMjAM Adult Dog Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_adult_dog_saver_pack_24_x_800g|wet",
+          "product_name": "MjAMjAM Adult Dog Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_adult_dog_saver_pack_24_x_200g|wet",
+          "product_name": "MjAMjAM Adult Dog Saver Pack 24 x 200g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "200g",
+            "pack_value": "24 x 200g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Mjamjam Wet Dog Food",
+      "base_name": "mjamjam junior 6 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "mjamjamwetdogfood|mjamjam_junior_6_x_800g|wet",
+        "product_name": "MjAMjAM Junior 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_junior_6_x_800g|wet",
+          "product_name": "MjAMjAM Junior 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_junior_6_x_400g|wet",
+          "product_name": "MjAMjAM Junior 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_junior_6_x_200g|wet",
+          "product_name": "MjAMjAM Junior 6 x 200g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "200g",
+            "pack_value": "6 x 200g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Purizon Wet Dog Food",
+      "base_name": "purizon puppy 6 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "purizonwetdogfood|purizon_puppy_6_x_400g|wet",
+        "product_name": "Purizon Puppy 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "purizonwetdogfood|purizon_puppy_6_x_400g|wet",
+          "product_name": "Purizon Puppy 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_puppy_6_x_800g|wet",
+          "product_name": "Purizon Puppy 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_puppy_6_x_300g|wet",
+          "product_name": "Purizon Puppy 6 x 300g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "300g",
+            "pack_value": "6 x 300g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Purizon Wet Dog Food",
+      "base_name": "purizon organic saver pack 24 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "purizonwetdogfood|purizon_organic_saver_pack_24_x_400g|wet",
+        "product_name": "Purizon Organic Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 3,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 3,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "purizonwetdogfood|purizon_organic_saver_pack_24_x_400g|wet",
+          "product_name": "Purizon Organic Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_organic_saver_pack_24_x_200g|wet",
+          "product_name": "Purizon Organic Saver Pack 24 x 200g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "200g",
+            "pack_value": "24 x 200g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_organic_saver_pack_24_x_800g|wet",
+          "product_name": "Purizon Organic Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Purizon Wet Dog Food",
+      "base_name": "purizon senior 6 x",
+      "variant_count": 3,
+      "selected_parent": {
+        "product_key": "purizonwetdogfood|purizon_senior_6_x_300g|wet",
+        "product_name": "Purizon Senior 6 x 300g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "purizonwetdogfood|purizon_senior_6_x_300g|wet",
+          "product_name": "Purizon Senior 6 x 300g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "300g",
+            "pack_value": "6 x 300g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_senior_6_x_400g|wet",
+          "product_name": "Purizon Senior 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_senior_6_x_800g|wet",
+          "product_name": "Purizon Senior 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Terra Canis",
+      "base_name": "terra canis essential 8+ 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "terracanis|terra_canis_essential_8_6_x_780g|wet",
+        "product_name": "Terra Canis Essential 8+ 6 x 780g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "terracanis|terra_canis_essential_8_6_x_780g|wet",
+          "product_name": "Terra Canis Essential 8+ 6 x 780g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "780g",
+            "pack_value": "6 x 780g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "terracanis|terra_canis_essential_8_6_x_385_g|wet",
+          "product_name": "Terra Canis Essential 8+ 6 x 385 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "385 g",
+            "pack_value": "6 x 385 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness adult expedition, 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_adult_expedition_6_x_800_g|wet",
+        "product_name": "Wolf of Wilderness Adult Expedition, 6 x 800 g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": false,
+        "unique_ingredients": 1,
+        "unique_nutrition": 2,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 2
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_expedition_6_x_800_g|wet",
+          "product_name": "Wolf of Wilderness Adult Expedition, 6 x 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800 g",
+            "pack_value": "6 x 800 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_expedition_6_x_400_g|wet",
+          "product_name": "Wolf of Wilderness Adult Expedition, 6 x 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400 g",
+            "pack_value": "6 x 400 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness adult single protein saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_adult_single_protein_saver_pack_24_x_400g|wet",
+        "product_name": "Wolf of Wilderness Adult Single Protein Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_single_protein_saver_pack_24_x_400g|wet",
+          "product_name": "Wolf of Wilderness Adult Single Protein Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_single_protein_saver_pack_24_x_800g|wet",
+          "product_name": "Wolf of Wilderness Adult Single Protein Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "little wolf of wilderness saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|little_wolf_of_wilderness_saver_pack_24_x_400g|wet",
+        "product_name": "Little Wolf of Wilderness Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|little_wolf_of_wilderness_saver_pack_24_x_400g|wet",
+          "product_name": "Little Wolf of Wilderness Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|little_wolf_of_wilderness_saver_pack_24_x_800g|wet",
+          "product_name": "Little Wolf of Wilderness Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness senior saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_senior_saver_pack_24_x_400g|wet",
+        "product_name": "Wolf of Wilderness Senior Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 1
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_senior_saver_pack_24_x_800g|wet",
+          "product_name": "Wolf of Wilderness Senior Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_senior_saver_pack_24_x_400g|wet",
+          "product_name": "Wolf of Wilderness Senior Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness the taste of saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_the_taste_of_saver_pack_24_x_400g|wet",
+        "product_name": "Wolf of Wilderness The Taste of Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_the_taste_of_saver_pack_24_x_400g|wet",
+          "product_name": "Wolf of Wilderness The Taste of Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_the_taste_of_saver_pack_24_x_800g|wet",
+          "product_name": "Wolf of Wilderness The Taste of Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "little wolf of wilderness 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|little_wolf_of_wilderness_6_x_400g|wet",
+        "product_name": "Little Wolf of Wilderness 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 1
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|little_wolf_of_wilderness_6_x_800g|wet",
+          "product_name": "Little Wolf of Wilderness 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "wolfofwilderness|little_wolf_of_wilderness_6_x_400g|wet",
+          "product_name": "Little Wolf of Wilderness 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness senior 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_senior_6_x_800g|wet",
+        "product_name": "Wolf of Wilderness Senior 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_senior_6_x_800g|wet",
+          "product_name": "Wolf of Wilderness Senior 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_senior_6_x_400g|wet",
+          "product_name": "Wolf of Wilderness Senior 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness adult the taste of 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_adult_the_taste_of_6_x_400g|wet",
+        "product_name": "Wolf of Wilderness Adult The Taste of 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_the_taste_of_6_x_400g|wet",
+          "product_name": "Wolf of Wilderness Adult The Taste of 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_the_taste_of_6_x_800g|wet",
+          "product_name": "Wolf of Wilderness Adult The Taste of 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wow",
+      "base_name": "wow adult 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wow|wow_adult_6_x_400_g|wet",
+        "product_name": "WOW Adult 6 x 400 g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wow|wow_adult_6_x_400_g|wet",
+          "product_name": "WOW Adult 6 x 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400 g",
+            "pack_value": "6 x 400 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "wow|wow_adult_6_x_800_g|wet",
+          "product_name": "WOW Adult 6 x 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800 g",
+            "pack_value": "6 x 800 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wow",
+      "base_name": "wow senior duck",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wow|wow_senior_duck_800_g|wet",
+        "product_name": "WOW Senior duck 800 g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wow|wow_senior_duck_400g|wet",
+          "product_name": "WOW Senior duck 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "400g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "wow|wow_senior_duck_800_g|wet",
+          "product_name": "WOW Senior duck 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "800 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Animonda",
+      "base_name": "animonda grancarno adult single protein saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "animonda|animonda_grancarno_adult_single_protein_saver_pack_24_x_400g|wet",
+        "product_name": "animonda GranCarno Adult Single Protein Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "animonda|animonda_grancarno_adult_single_protein_saver_pack_24_x_400g|wet",
+          "product_name": "animonda GranCarno Adult Single Protein Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_adult_single_protein_saver_pack_24_x_800g|wet",
+          "product_name": "animonda GranCarno Adult Single Protein Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti gold 12 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rinti_gold_12_x_185g|wet",
+        "product_name": "RINTI Gold 12 x 185g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rinti_gold_12_x_185_g|wet",
+          "product_name": "RINTI Gold 12 x 185 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "185 g",
+            "pack_value": "12 x 185 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "rinti|rinti_gold_12_x_185g|wet",
+          "product_name": "RINTI Gold 12 x 185g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "185g",
+            "pack_value": "12 x 185g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti adult 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rinti_adult_6_x_800g|wet",
+        "product_name": "RINTI Adult 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rinti_adult_6_x_800g|wet",
+          "product_name": "RINTI Adult 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rinti|rinti_adult_6_x_400g|wet",
+          "product_name": "RINTI Adult 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Happy Dog",
+      "base_name": "happy dog pure 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "happydog|happy_dog_pure_6_x_800g|wet",
+        "product_name": "Happy Dog Pure 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "happydog|happy_dog_pure_6_x_800g|wet",
+          "product_name": "Happy Dog Pure 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "happydog|happy_dog_pure_6_x_400g|wet",
+          "product_name": "Happy Dog Pure 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti single meat 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rinti_single_meat_6_x_800g|wet",
+        "product_name": "RINTI Single Meat 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rinti_single_meat_6_x_800g|wet",
+          "product_name": "RINTI Single Meat 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rinti|rinti_single_meat_6_x_400g|wet",
+          "product_name": "RINTI Single Meat 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Purizon Wet Dog Food",
+      "base_name": "purizon adult saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "purizonwetdogfood|purizon_adult_saver_pack_24_x_800g|wet",
+        "product_name": "Purizon Adult Saver Pack 24 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "purizonwetdogfood|purizon_adult_saver_pack_24_x_800g|wet",
+          "product_name": "Purizon Adult Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "purizonwetdogfood|purizon_adult_saver_pack_24_x_400g|wet",
+          "product_name": "Purizon Adult Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Lukullus",
+      "base_name": "lukullus menu gustico saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "lukullus|lukullus_menu_gustico_saver_pack_24_x_400g|wet",
+        "product_name": "Lukullus Menu Gustico Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "lukullus|lukullus_menu_gustico_saver_pack_24_x_400g|wet",
+          "product_name": "Lukullus Menu Gustico Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "lukullus|lukullus_menu_gustico_saver_pack_24_x_800g|wet",
+          "product_name": "Lukullus Menu Gustico Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti canine intestinal with chicken",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rinti_canine_intestinal_with_chicken_800_g|wet",
+        "product_name": "RINTI Canine Intestinal with chicken 800 g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rinti_canine_intestinal_with_chicken_800_g|wet",
+          "product_name": "RINTI Canine Intestinal with chicken 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "800 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rinti|rinti_canine_intestinal_with_chicken_400_g|wet",
+          "product_name": "RINTI Canine Intestinal with Chicken 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "400 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Animonda",
+      "base_name": "animonda grancarno adult single protein supreme saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "animonda|animonda_grancarno_adult_single_protein_supreme_saver_pack_24_x_400g|wet",
+        "product_name": "animonda GranCarno Adult Single Protein Supreme Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "animonda|animonda_grancarno_adult_single_protein_supreme_saver_pack_24_x_400g|wet",
+          "product_name": "animonda GranCarno Adult Single Protein Supreme Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_adult_single_protein_supreme_saver_pack_24_x_800g|wet",
+          "product_name": "animonda GranCarno Adult Single Protein Supreme Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Animonda",
+      "base_name": "animonda grancarno superfoods adult 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "animonda|animonda_grancarno_superfoods_adult_6_x_800g|wet",
+        "product_name": "animonda GranCarno Superfoods Adult 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "animonda|animonda_grancarno_superfoods_adult_6_x_800g|wet",
+          "product_name": "animonda GranCarno Superfoods Adult 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_superfoods_adult_6_x_400g|wet",
+          "product_name": "animonda GranCarno Superfoods Adult 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco senior saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_senior_saver_pack_24_x_400g|wet",
+        "product_name": "Rocco Senior Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_senior_saver_pack_24_x_400g|wet",
+          "product_name": "Rocco Senior Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_senior_saver_pack_24_x_800g|wet",
+          "product_name": "Rocco Senior Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Belcando",
+      "base_name": "belcando baseline saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "belcando|belcando_baseline_saver_pack_24_x_400g|wet",
+        "product_name": "Belcando Baseline Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "belcando|belcando_baseline_saver_pack_24_x_400g|wet",
+          "product_name": "Belcando Baseline Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "belcando|belcando_baseline_saver_pack_24_x_800g|wet",
+          "product_name": "Belcando Baseline Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Belcando",
+      "base_name": "belcando baseline 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "belcando|belcando_baseline_6_x_400g|wet",
+        "product_name": "Belcando Baseline 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "belcando|belcando_baseline_6_x_400g|wet",
+          "product_name": "Belcando Baseline 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "belcando|belcando_baseline_6_x_800g|wet",
+          "product_name": "Belcando Baseline 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco single meat 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_single_meat_6_x_400g|wet",
+        "product_name": "Rocco Single Meat 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_single_meat_6_x_400g|wet",
+          "product_name": "Rocco Single Meat 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_single_meat_6_x_800g|wet",
+          "product_name": "Rocco Single Meat 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Briantos",
+      "base_name": "briantos delicious pat\u00e9 saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "briantos|briantos_delicious_pat_saver_pack_24_x_800g|wet",
+        "product_name": "Briantos Delicious Pat\u00e9 Saver Pack 24 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 1
+      },
+      "variants": [
+        {
+          "product_key": "briantos|briantos_delicious_pat_saver_pack_24_x_400g|wet",
+          "product_name": "Briantos Delicious Pat\u00e9 Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "briantos|briantos_delicious_pat_saver_pack_24_x_800g|wet",
+          "product_name": "Briantos Delicious Pat\u00e9 Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Dogs N Tiger",
+      "base_name": "dogsn tiger adult saver pack 12 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "dogsntiger|dogsn_tiger_adult_saver_pack_12_x_400g|wet",
+        "product_name": "Dogsn Tiger Adult Saver Pack 12 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "dogsntiger|dogsn_tiger_adult_saver_pack_12_x_400g|wet",
+          "product_name": "Dogsn Tiger Adult Saver Pack 12 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "12 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "dogsntiger|dogsn_tiger_adult_saver_pack_12_x_800g|wet",
+          "product_name": "Dogsn Tiger Adult Saver Pack 12 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "12 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Dogs N Tiger",
+      "base_name": "dogsn tiger adult 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "dogsntiger|dogsn_tiger_adult_6_x_400g|wet",
+        "product_name": "Dogsn Tiger Adult 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "dogsntiger|dogsn_tiger_adult_6_x_400g|wet",
+          "product_name": "Dogsn Tiger Adult 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "dogsntiger|dogsn_tiger_adult_6_x_800g|wet",
+          "product_name": "Dogsn Tiger Adult 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Dogs N Tiger",
+      "base_name": "dogsn tiger gourmet menu for dogs 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_6_x_400g|wet",
+        "product_name": "Dogsn Tiger Gourmet Menu for Dogs 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_6_x_400g|wet",
+          "product_name": "Dogsn Tiger Gourmet Menu for Dogs 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_6_x_800g|wet",
+          "product_name": "Dogsn Tiger Gourmet Menu for Dogs 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Dogs N Tiger",
+      "base_name": "dogsn tiger junior 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "dogsntiger|dogsn_tiger_junior_6_x_800g|wet",
+        "product_name": "Dogsn Tiger Junior 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "dogsntiger|dogsn_tiger_junior_6_x_800g|wet",
+          "product_name": "Dogsn Tiger Junior 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "dogsntiger|dogsn_tiger_junior_6_x_400g|wet",
+          "product_name": "Dogsn Tiger Junior 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Encore",
+      "base_name": "encore dog jelly pouch multipack",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "encore|encore_dog_jelly_pouch_multipack_100g|wet",
+        "product_name": "Encore Dog Jelly Pouch Multipack 100g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "encore|encore_dog_jelly_pouch_multipack_100g|wet",
+          "product_name": "Encore Dog Jelly Pouch Multipack 100g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "100g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "encore|encoredogjellypouchmultipack|wet",
+          "product_name": "Encore Dog Jelly Pouch Multipack",
+          "size_info": {
+            "has_size": false,
+            "has_pack": false,
+            "size_value": null,
+            "pack_value": null,
+            "variant_type": null
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti kennerfleisch 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rinti_kennerfleisch_6_x_800_g|wet",
+        "product_name": "RINTI Kennerfleisch 6 x 800 g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rinti_kennerfleisch_6_x_800_g|wet",
+          "product_name": "RINTI Kennerfleisch 6 x 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800 g",
+            "pack_value": "6 x 800 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rinti|rinti_kennerfleisch_6_x_400_g|wet",
+          "product_name": "RINTI Kennerfleisch 6 x 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400 g",
+            "pack_value": "6 x 400 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Lukullus",
+      "base_name": "lukullus senior saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "lukullus|lukullus_senior_saver_pack_24_x_400g|wet",
+        "product_name": "Lukullus Senior Saver Pack 24 x 400g",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "lukullus|lukullus_senior_saver_pack_24_x_400g|wet",
+          "product_name": "Lukullus Senior Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "lukullus|lukullus_senior_saver_pack_24_x_800g|wet",
+          "product_name": "Lukullus Senior Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti kennerfleisch",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rinti_kennerfleisch_800g|wet",
+        "product_name": "RINTI Kennerfleisch 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 1
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rintikennerfleisch|wet",
+          "product_name": "RINTI Kennerfleisch",
+          "size_info": {
+            "has_size": false,
+            "has_pack": false,
+            "size_value": null,
+            "pack_value": null,
+            "variant_type": null
+          },
+          "has_ingredients": false,
+          "has_nutrition": true,
+          "is_parent": false
+        },
+        {
+          "product_key": "rinti|rinti_kennerfleisch_800g|wet",
+          "product_name": "RINTI Kennerfleisch 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "800g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Briantos",
+      "base_name": "briantos delicious pat\u00e9",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "briantos|briantos_delicious_pat_12x100g|wet",
+        "product_name": "Briantos Delicious Pat\u00e9 12x100g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": false,
+        "unique_ingredients": 1,
+        "unique_nutrition": 2,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 2
+      },
+      "variants": [
+        {
+          "product_key": "briantos|briantosdeliciouspat|wet",
+          "product_name": "Briantos Delicious Pat\u00e9",
+          "size_info": {
+            "has_size": false,
+            "has_pack": false,
+            "size_value": null,
+            "pack_value": null,
+            "variant_type": null
+          },
+          "has_ingredients": false,
+          "has_nutrition": true,
+          "is_parent": false
+        },
+        {
+          "product_key": "briantos|briantos_delicious_pat_12x100g|wet",
+          "product_name": "Briantos Delicious Pat\u00e9 12x100g",
+          "size_info": {
+            "has_size": false,
+            "has_pack": true,
+            "size_value": null,
+            "pack_value": "12x100g",
+            "variant_type": "pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Lukullus",
+      "base_name": "lukullus saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "lukullus|lukullus_saver_pack_24_x_800g|wet",
+        "product_name": "Lukullus Saver Pack 24 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "lukullus|lukullus_saver_pack_24_x_800g|wet",
+          "product_name": "Lukullus Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "lukullus|lukullus_saver_pack_24_x_400g|wet",
+          "product_name": "Lukullus Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti gold 10 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rintigold10x100g|wet",
+        "product_name": "RINTI Gold 10 x 100 g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 1
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rintigold10x100g|wet",
+          "product_name": "RINTI Gold 10 x 100 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "100 g",
+            "pack_value": "10 x 100 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        },
+        {
+          "product_key": "rinti|rinti_gold_10_x_100_g|wet",
+          "product_name": "RINTI Gold 10 x 100 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "100 g",
+            "pack_value": "10 x 100 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "MAC's",
+      "base_name": "macs superfood 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "macs|macs_superfood_6_x_800g|wet",
+        "product_name": "MACs Superfood 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "macs|macs_superfood_6_x_800g|wet",
+          "product_name": "MACs Superfood 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "macs|macs_superfood_6_x_400g|wet",
+          "product_name": "MACs Superfood 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Almo Nature",
+      "base_name": "almo nature hfc 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "almonature|almo_nature_hfc_6_x_95g|wet",
+        "product_name": "Almo Nature HFC 6 x 95g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "almonature|almo_nature_hfc_6_x_95g|wet",
+          "product_name": "Almo Nature HFC 6 x 95g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "95g",
+            "pack_value": "6 x 95g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "almonature|almo_nature_hfc_6_x_290g|wet",
+          "product_name": "Almo Nature HFC 6 x 290g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "290g",
+            "pack_value": "6 x 290g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness junior expedition 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_junior_expedition_6_x_400g|wet",
+        "product_name": "Wolf of Wilderness Junior Expedition 6 x 400g",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_junior_expedition_6_x_400g|wet",
+          "product_name": "Wolf of Wilderness Junior Expedition 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_junior_expedition_6_x_800g|wet",
+          "product_name": "Wolf of Wilderness Junior Expedition 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti canine weight with chicken",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rinti_canine_weight_with_chicken_800_g|wet",
+        "product_name": "RINTI Canine Weight with chicken 800 g",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rinti_canine_weight_with_chicken_800_g|wet",
+          "product_name": "RINTI Canine Weight with chicken 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "800 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rinti|rinti_canine_weight_with_chicken_400_g|wet",
+          "product_name": "RINTI Canine Weight with Chicken 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "400 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Animonda",
+      "base_name": "animonda grancarno original saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "animonda|animonda_grancarno_original_saver_pack_24_x_400g|wet",
+        "product_name": "animonda GranCarno Original Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "animonda|animonda_grancarno_original_saver_pack_24_x_400g|wet",
+          "product_name": "animonda GranCarno Original Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_original_saver_pack_24_x_800g|wet",
+          "product_name": "animonda GranCarno Original Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Animonda",
+      "base_name": "animonda grancarno original junior 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "animonda|animonda_grancarno_original_junior_6_x_400g|wet",
+        "product_name": "animonda GranCarno Original Junior 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "animonda|animonda_grancarno_original_junior_6_x_400g|wet",
+          "product_name": "animonda GranCarno Original Junior 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_original_junior_6_x_800g|wet",
+          "product_name": "animonda GranCarno Original Junior 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rosies Farm",
+      "base_name": "rosies farm saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rosiesfarm|rosies_farm_saver_pack_24_x_400g|wet",
+        "product_name": "Rosies Farm Saver Pack 24 x 400g",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rosiesfarm|rosies_farm_saver_pack_24_x_400g|wet",
+          "product_name": "Rosies Farm Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rosiesfarm|rosies_farm_saver_pack_24_x_800g|wet",
+          "product_name": "Rosies Farm Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Animonda",
+      "base_name": "animonda grancarno sensitive adult 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "animonda|animonda_grancarno_sensitive_adult_6_x_800g|wet",
+        "product_name": "animonda GranCarno Sensitive Adult 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "animonda|animonda_grancarno_sensitive_adult_6_x_800g|wet",
+          "product_name": "animonda GranCarno Sensitive Adult 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_sensitive_adult_6_x_400g|wet",
+          "product_name": "animonda GranCarno Sensitive Adult 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness senior 6 x - with lots of fresh poultry",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_senior_6_x_800g_with_lots_of_fresh_poultry|wet",
+        "product_name": "Wolf of Wilderness Senior 6 x 800g - With lots of fresh poultry",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_senior_6_x_800g_with_lots_of_fresh_poultry|wet",
+          "product_name": "Wolf of Wilderness Senior 6 x 800g - With lots of fresh poultry",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_senior_6_x_400g_with_lots_of_fresh_poultry|wet",
+          "product_name": "Wolf of Wilderness Senior 6 x 400g - With lots of fresh poultry",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Animonda",
+      "base_name": "animonda grancarno adult single protein 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "animonda|animonda_grancarno_adult_single_protein_6_x_800g|wet",
+        "product_name": "animonda GranCarno Adult Single Protein 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "animonda|animonda_grancarno_adult_single_protein_6_x_800g|wet",
+          "product_name": "animonda GranCarno Adult Single Protein 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "animonda|animonda_grancarno_adult_single_protein_6_x_400g|wet",
+          "product_name": "animonda GranCarno Adult Single Protein 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness adult 6 x - with lots of fresh poultry",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_adult_6_x_400g_with_lots_of_fresh_poultry|wet",
+        "product_name": "Wolf of Wilderness Adult 6 x 400g - With lots of fresh poultry",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_6_x_400g_with_lots_of_fresh_poultry|wet",
+          "product_name": "Wolf of Wilderness Adult 6 x 400g - With lots of fresh poultry",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_6_x_800g_with_lots_of_fresh_poultry|wet",
+          "product_name": "Wolf of Wilderness Adult 6 x 800g - With lots of fresh poultry",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Schesir",
+      "base_name": "schesir 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "schesir|schesir_6_x_150g|wet",
+        "product_name": "Schesir 6 x 150g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "schesir|schesir_6_x_150g|wet",
+          "product_name": "Schesir 6 x 150g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "150g",
+            "pack_value": "6 x 150g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "schesir|schesir_6_x_285g|wet",
+          "product_name": "Schesir 6 x 285g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "285g",
+            "pack_value": "6 x 285g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Schesir",
+      "base_name": "schesir saver pack 12 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "schesir|schesir_saver_pack_12_x_150g|wet",
+        "product_name": "Schesir Saver Pack 12 x 150g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "schesir|schesir_saver_pack_12_x_150g|wet",
+          "product_name": "Schesir Saver Pack 12 x 150g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "150g",
+            "pack_value": "12 x 150g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "schesir|schesir_saver_pack_12_x_285g|wet",
+          "product_name": "Schesir Saver Pack 12 x 285g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "285g",
+            "pack_value": "12 x 285g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Terra Canis",
+      "base_name": "terra canis grain-free 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "terracanis|terra_canis_grain_free_6_x_400g|wet",
+        "product_name": "Terra Canis Grain-Free 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "terracanis|terra_canis_grain_free_6_x_400g|wet",
+          "product_name": "Terra Canis Grain-Free 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "terracanis|terra_canis_grain_free_6_x_800g|wet",
+          "product_name": "Terra Canis Grain-Free 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Happy Dog",
+      "base_name": "happy dog sensible pure 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "happydog|happy_dog_sensible_pure_6_x_400_g|wet",
+        "product_name": "Happy Dog Sensible Pure 6 x 400 g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "happydog|happy_dog_sensible_pure_6_x_400_g|wet",
+          "product_name": "Happy Dog Sensible Pure 6 x 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400 g",
+            "pack_value": "6 x 400 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "happydog|happy_dog_sensible_pure_6_x_800_g|wet",
+          "product_name": "Happy Dog Sensible Pure 6 x 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800 g",
+            "pack_value": "6 x 800 g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness adult saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_adult_saver_pack_24_x_300g|wet",
+        "product_name": "Wolf of Wilderness Adult Saver Pack 24 x 300g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 1
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_saver_pack_24_x_150g|wet",
+          "product_name": "Wolf of Wilderness Adult Saver Pack 24 x 150g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "150g",
+            "pack_value": "24 x 150g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_saver_pack_24_x_300g|wet",
+          "product_name": "Wolf of Wilderness Adult Saver Pack 24 x 300g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "300g",
+            "pack_value": "24 x 300g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Integra",
+      "base_name": "animonda integra protect dog renal 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "integra|animonda_integra_protect_dog_renal_6_x_400g|wet",
+        "product_name": "animonda Integra Protect Dog Renal 6 x 400g",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "integra|animonda_integra_protect_dog_renal_6_x_400g|wet",
+          "product_name": "animonda Integra Protect Dog Renal 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "integra|animonda_integra_protect_dog_renal_6_x_150g|wet",
+          "product_name": "animonda Integra Protect Dog Renal 6 x 150g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "150g",
+            "pack_value": "6 x 150g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Integra",
+      "base_name": "animonda integra protect dog sensitive 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "integra|animonda_integra_protect_dog_sensitive_6_x_400g|wet",
+        "product_name": "animonda Integra Protect Dog Sensitive 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "integra|animonda_integra_protect_dog_sensitive_6_x_400g|wet",
+          "product_name": "animonda Integra Protect Dog Sensitive 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "integra|animonda_integra_protect_dog_sensitive_6_x_150g|wet",
+          "product_name": "animonda Integra Protect Dog Sensitive 6 x 150g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "150g",
+            "pack_value": "6 x 150g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Josera Wet",
+      "base_name": "josera meatlovers menu 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "joserawet|josera_meatlovers_menu_6_x_400g|wet",
+        "product_name": "Josera Meatlovers Menu 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "joserawet|josera_meatlovers_menu_6_x_400g|wet",
+          "product_name": "Josera Meatlovers Menu 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "joserawet|josera_meatlovers_menu_6_x_800g|wet",
+          "product_name": "Josera Meatlovers Menu 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Josera Wet",
+      "base_name": "josera meatlovers menu saver pack 12 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "joserawet|josera_meatlovers_menu_saver_pack_12_x_400g|wet",
+        "product_name": "Josera Meatlovers Menu Saver Pack 12 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "joserawet|josera_meatlovers_menu_saver_pack_12_x_400g|wet",
+          "product_name": "Josera Meatlovers Menu Saver Pack 12 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "12 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "joserawet|josera_meatlovers_menu_saver_pack_12_x_800g|wet",
+          "product_name": "Josera Meatlovers Menu Saver Pack 12 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "12 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Josera Wet",
+      "base_name": "josera meatlovers pure 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "joserawet|josera_meatlovers_pure_6_x_400g|wet",
+        "product_name": "Josera Meatlovers Pure 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "joserawet|josera_meatlovers_pure_6_x_400g|wet",
+          "product_name": "Josera Meatlovers Pure 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "joserawet|josera_meatlovers_pure_6_x_800g|wet",
+          "product_name": "Josera Meatlovers Pure 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Lukullus",
+      "base_name": "lukullus junior saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "lukullus|lukullus_junior_saver_pack_24_x_800g|wet",
+        "product_name": "Lukullus Junior Saver Pack 24 x 800g",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "lukullus|lukullus_junior_saver_pack_24_x_800g|wet",
+          "product_name": "Lukullus Junior Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "lukullus|lukullus_junior_saver_pack_24_x_400g|wet",
+          "product_name": "Lukullus Junior Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Mjamjam Wet Dog Food",
+      "base_name": "mjamjam pure single meat 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "mjamjamwetdogfood|mjamjam_pure_single_meat_6_x_800g|wet",
+        "product_name": "MjAMjAM Pure Single Meat 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_pure_single_meat_6_x_800g|wet",
+          "product_name": "MjAMjAM Pure Single Meat 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "mjamjamwetdogfood|mjamjam_pure_single_meat_6_x_400g|wet",
+          "product_name": "MjAMjAM Pure Single Meat 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Dogs N Tiger",
+      "base_name": "dogsn tiger gourmet menu for dogs saver pack 12 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_saver_pack_12_x_800g|wet",
+        "product_name": "Dogsn Tiger Gourmet Menu for Dogs Saver Pack 12 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_saver_pack_12_x_800g|wet",
+          "product_name": "Dogsn Tiger Gourmet Menu for Dogs Saver Pack 12 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "12 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "dogsntiger|dogsn_tiger_gourmet_menu_for_dogs_saver_pack_12_x_400g|wet",
+          "product_name": "Dogsn Tiger Gourmet Menu for Dogs Saver Pack 12 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "12 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco classic pork saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_classic_pork_saver_pack_24_x_800g|wet",
+        "product_name": "Rocco Classic Pork Saver Pack 24 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_classic_pork_saver_pack_24_x_800g|wet",
+          "product_name": "Rocco Classic Pork Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_classic_pork_saver_pack_24_x_400g|wet",
+          "product_name": "Rocco Classic Pork Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco real hearts 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_real_hearts_6_x_400g|wet",
+        "product_name": "Rocco Real Hearts 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_real_hearts_6_x_400g|wet",
+          "product_name": "Rocco Real Hearts 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_real_hearts_6_x_800g|wet",
+          "product_name": "Rocco Real Hearts 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco real hearts saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_real_hearts_saver_pack_24_x_800g|wet",
+        "product_name": "Rocco Real Hearts Saver Pack 24 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_real_hearts_saver_pack_24_x_800g|wet",
+          "product_name": "Rocco Real Hearts Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_real_hearts_saver_pack_24_x_400g|wet",
+          "product_name": "Rocco Real Hearts Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco classic saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_classic_saver_pack_24_x_400g|wet",
+        "product_name": "Rocco Classic Saver Pack 24 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_classic_saver_pack_24_x_400g|wet",
+          "product_name": "Rocco Classic Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_classic_saver_pack_24_x_800g|wet",
+          "product_name": "Rocco Classic Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco classic 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_classic_6_x_800g|wet",
+        "product_name": "Rocco Classic 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_classic_6_x_800g|wet",
+          "product_name": "Rocco Classic 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_classic_6_x_400g|wet",
+          "product_name": "Rocco Classic 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco junior 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_junior_6_x_400g|wet",
+        "product_name": "Rocco Junior 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_junior_6_x_800g|wet",
+          "product_name": "Rocco Junior 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "rocco|rocco_junior_6_x_400g|wet",
+          "product_name": "Rocco Junior 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco menu 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_menu_6_x_800g|wet",
+        "product_name": "Rocco Menu 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_menu_6_x_800g|wet",
+          "product_name": "Rocco Menu 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_menu_6_x_400g|wet",
+          "product_name": "Rocco Menu 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco menu saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_menu_saver_pack_24_x_800g|wet",
+        "product_name": "Rocco Menu Saver Pack 24 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_menu_saver_pack_24_x_800g|wet",
+          "product_name": "Rocco Menu Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_menu_saver_pack_24_x_400g|wet",
+          "product_name": "Rocco Menu Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco senior 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_senior_6_x_400g|wet",
+        "product_name": "Rocco Senior 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 1
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_senior_6_x_800g|wet",
+          "product_name": "Rocco Senior 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "rocco|rocco_senior_6_x_400g|wet",
+          "product_name": "Rocco Senior 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco sensitive saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_sensitive_saver_pack_24_x_400g|wet",
+        "product_name": "Rocco Sensitive Saver Pack 24 x 400g",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_sensitive_saver_pack_24_x_400g|wet",
+          "product_name": "Rocco Sensitive Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_sensitive_saver_pack_24_x_800g|wet",
+          "product_name": "Rocco Sensitive Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco sensitive 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_sensitive_6_x_800g|wet",
+        "product_name": "Rocco Sensitive 6 x 800g",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_sensitive_6_x_800g|wet",
+          "product_name": "Rocco Sensitive 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_sensitive_6_x_400g|wet",
+          "product_name": "Rocco Sensitive 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco classic trio di carne 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_classic_trio_di_carne_6_x_800g|wet",
+        "product_name": "Rocco Classic Trio di Carne 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_classic_trio_di_carne_6_x_800g|wet",
+          "product_name": "Rocco Classic Trio di Carne 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_classic_trio_di_carne_6_x_400g|wet",
+          "product_name": "Rocco Classic Trio di Carne 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco classic trio di carne saver pack 24 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_classic_trio_di_carne_saver_pack_24_x_800g|wet",
+        "product_name": "Rocco Classic Trio di Carne Saver Pack 24 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_classic_trio_di_carne_saver_pack_24_x_800g|wet",
+          "product_name": "Rocco Classic Trio di Carne Saver Pack 24 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "24 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_classic_trio_di_carne_saver_pack_24_x_400g|wet",
+          "product_name": "Rocco Classic Trio di Carne Saver Pack 24 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "24 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Terra Canis",
+      "base_name": "terra canis 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "terracanis|terra_canis_6_x_200g|wet",
+        "product_name": "Terra Canis 6 x 200g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "terracanis|terra_canis_6_x_200g|wet",
+          "product_name": "Terra Canis 6 x 200g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "200g",
+            "pack_value": "6 x 200g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "terracanis|terra_canis_6_x_800g|wet",
+          "product_name": "Terra Canis 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti canine kidney/renal with beef",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rinti_canine_kidney_renal_with_beef_400_g|wet",
+        "product_name": "RINTI Canine Kidney/Renal with beef 400 g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 1,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rinti_canine_kidney_renal_with_beef_800_g|wet",
+          "product_name": "RINTI Canine Kidney/Renal with beef 800 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "800 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        },
+        {
+          "product_key": "rinti|rinti_canine_kidney_renal_with_beef_400_g|wet",
+          "product_name": "RINTI Canine Kidney/Renal with beef 400 g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": false,
+            "size_value": "400 g",
+            "pack_value": null,
+            "variant_type": "size"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        }
+      ]
+    },
+    {
+      "brand": "Rinti",
+      "base_name": "rinti sensible 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rinti|rinti_sensible_6_x_400g|wet",
+        "product_name": "RINTI Sensible 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rinti|rinti_sensible_6_x_400g|wet",
+          "product_name": "RINTI Sensible 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rinti|rinti_sensible_6_x_800g|wet",
+          "product_name": "RINTI Sensible 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rocco",
+      "base_name": "rocco classic pork 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rocco|rocco_classic_pork_6_x_800g|wet",
+        "product_name": "Rocco Classic Pork 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rocco|rocco_classic_pork_6_x_800g|wet",
+          "product_name": "Rocco Classic Pork 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rocco|rocco_classic_pork_6_x_400g|wet",
+          "product_name": "Rocco Classic Pork 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rosies Farm",
+      "base_name": "rosies farm single meat adult 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rosiesfarm|rosies_farm_single_meat_adult_6_x_195g|wet",
+        "product_name": "Rosies Farm Single Meat Adult 6 x 195g",
+        "has_ingredients": true,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rosiesfarm|rosies_farm_single_meat_adult_6_x_195g|wet",
+          "product_name": "Rosies Farm Single Meat Adult 6 x 195g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "195g",
+            "pack_value": "6 x 195g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rosiesfarm|rosies_farm_single_meat_adult_6_x_395g|wet",
+          "product_name": "Rosies Farm Single Meat Adult 6 x 395g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "395g",
+            "pack_value": "6 x 395g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Rosies Farm",
+      "base_name": "rosies farm single meat senior 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "rosiesfarm|rosies_farm_single_meat_senior_6_x_395g|wet",
+        "product_name": "Rosies Farm Single Meat Senior 6 x 395g",
+        "has_ingredients": false,
+        "has_nutrition": false
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 0,
+        "unique_nutrition": 0,
+        "products_with_ingredients": 0,
+        "products_with_nutrition": 0
+      },
+      "variants": [
+        {
+          "product_key": "rosiesfarm|rosies_farm_single_meat_senior_6_x_395g|wet",
+          "product_name": "Rosies Farm Single Meat Senior 6 x 395g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "395g",
+            "pack_value": "6 x 395g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": true
+        },
+        {
+          "product_key": "rosiesfarm|rosies_farm_single_meat_senior_6_x_195g|wet",
+          "product_name": "Rosies Farm Single Meat Senior 6 x 195g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "195g",
+            "pack_value": "6 x 195g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": false,
+          "has_nutrition": false,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Wolf of Wilderness",
+      "base_name": "wolf of wilderness adult single protein 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "wolfofwilderness|wolf_of_wilderness_adult_single_protein_6_x_400g|wet",
+        "product_name": "Wolf of Wilderness Adult Single Protein 6 x 400g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": false,
+        "nutrition_consistent": true,
+        "unique_ingredients": 2,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 2
+      },
+      "variants": [
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_single_protein_6_x_400g|wet",
+          "product_name": "Wolf of Wilderness Adult Single Protein 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        },
+        {
+          "product_key": "wolfofwilderness|wolf_of_wilderness_adult_single_protein_6_x_800g|wet",
+          "product_name": "Wolf of Wilderness Adult Single Protein 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": false
+        }
+      ]
+    },
+    {
+      "brand": "Briantos",
+      "base_name": "briantos delicious pat\u00e9 6 x",
+      "variant_count": 2,
+      "selected_parent": {
+        "product_key": "briantos|briantos_delicious_pat_6_x_800g|wet",
+        "product_name": "Briantos Delicious Pat\u00e9 6 x 800g",
+        "has_ingredients": true,
+        "has_nutrition": true
+      },
+      "data_consistency": {
+        "ingredients_consistent": true,
+        "nutrition_consistent": true,
+        "unique_ingredients": 1,
+        "unique_nutrition": 1,
+        "products_with_ingredients": 2,
+        "products_with_nutrition": 2
+      },
+      "variants": [
+        {
+          "product_key": "briantos|briantos_delicious_pat_6_x_800g|wet",
+          "product_name": "Briantos Delicious Pat\u00e9 6 x 800g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "800g",
+            "pack_value": "6 x 800g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": true
+        },
+        {
+          "product_key": "briantos|briantos_delicious_pat_6_x_400g|wet",
+          "product_name": "Briantos Delicious Pat\u00e9 6 x 400g",
+          "size_info": {
+            "has_size": true,
+            "has_pack": true,
+            "size_value": "400g",
+            "pack_value": "6 x 400g",
+            "variant_type": "size_and_pack"
+          },
+          "has_ingredients": true,
+          "has_nutrition": true,
+          "is_parent": false
+        }
+      ]
+    }
+  ]
+}

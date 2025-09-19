@@ -1,0 +1,233 @@
+{
+  "session_id": "test_improved_20250913_142643",
+  "timestamp": "20250913_143815",
+  "stats": {
+    "total": 20,
+    "successful": 20,
+    "with_ingredients": 4,
+    "with_nutrition": 17,
+    "extraction_rate": 20.0
+  },
+  "results": [
+    {
+      "product_key": "purizon|purizongrainfreetrialpacks|dry",
+      "product_name": "Purizon Grain-free Trial Packs",
+      "brand": "Purizon",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/purizon/trial_packs/1191314",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": false,
+      "ingredients_preview": null,
+      "nutrition_count": 0
+    },
+    {
+      "product_key": "royalcaninveterinaryexpert|royalcaninexpertcanineneuteredadultlargedog|dry",
+      "product_name": "Royal Canin Expert Canine Neutered Adult Large Dog",
+      "brand": "Royal Canin Veterinary & Expert",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_vet_diet/1949350?activeVariant=1949350.1",
+      "scraped": true,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "ingredients_preview": "Dried poultry protein, maize, barley, wheat gluten feed, lignocellulose, wheat gluten feed*, pork pr",
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "advanceveterinarydiets|advanceveterinarydietshypoallergenicmini_v2|dry",
+      "product_name": "Advance Veterinary Diets Hypoallergenic Mini (Vari",
+      "brand": "Advance Veterinary Diets",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/advance_vet_diets/2159368?activeVariant=2159368.0",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "advance_veterinary_diets|advance_veterinary_diets_hypoallergenic_mini|dry",
+      "product_name": "Hypoallergenic Mini",
+      "brand": "Advance Veterinary Diets",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/advance_vet_diets/2159368?activeVariant=2159368.1",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "wolfofwilderness|wolf_of_wilderness_adult_single_protein_mixed_packs|wet",
+      "product_name": "Wolf of Wilderness Adult Single Protein Mixed Pack",
+      "brand": "Wolf of Wilderness",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/206790/497196?activeVariant=497196.13",
+      "scraped": true,
+      "has_ingredients": true,
+      "has_nutrition": false,
+      "ingredients_preview": "and feeding instructions, can be found here:\nWolf of Wilderness Dog Food\nWolf of Wilderness \u2013 Wild &",
+      "nutrition_count": 0
+    },
+    {
+      "product_key": "royalcanin|royalcaninfrenchbulldogpuppy|dry",
+      "product_name": "Royal Canin French Bulldog Puppy",
+      "brand": "Royal Canin",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_breed/french_bulldog/209128?activeVariant=209128.12",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "royalcanincarenutrition|royalcaninmediumsterilised|dry",
+      "product_name": "Royal Canin Medium Sterilised",
+      "brand": "Royal Canin Care Nutrition",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_care_nutrition/296052?activeVariant=296052.8",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "royalcanincarenutrition|royalcaninmediumsterilised_v2|dry",
+      "product_name": "Royal Canin Medium Sterilised (Variant 2)",
+      "brand": "Royal Canin Care Nutrition",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/royal_canin_care_nutrition/296052?activeVariant=296052.9",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "belcando|belcando_baseline_young|dry",
+      "product_name": "Baseline Young",
+      "brand": "Belcando",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/belcando/baseline/2176816?activeVariant=2176816.1",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 5
+    },
+    {
+      "product_key": "purizon|purizongrainfreetrialpacks_v2|dry",
+      "product_name": "Purizon Grain-free Trial Packs (Variant 2)",
+      "brand": "Purizon",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/purizon/trial_packs/1191314?activeVariant=1191314.1",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": false,
+      "ingredients_preview": null,
+      "nutrition_count": 0
+    },
+    {
+      "product_key": "purizon|purizonsinglemeatadultdoggrainfreebeefwithhibiscus|dry",
+      "product_name": "Purizon Single Meat Adult Dog - Grain-Free Beef wi",
+      "brand": "Purizon",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/purizon/single_meat/2124227?activeVariant=2124227.2",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "wolfofwilderness|wolf_of_wilderness_senior_6_x_400g_red_meat|wet",
+      "product_name": "Wolf of Wilderness Senior 6 x 400g - Red Meat",
+      "brand": "Wolf of Wilderness",
+      "url": "https://www.zooplus.com/shop/dogs/canned_dog_food/wolf_of_wilderness/wolf_of_wilderness_red/1958908?activeVariant=1958908.0",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 5
+    },
+    {
+      "product_key": "bosch|bosch_senior_age_&_weight_dry_dog_food|dry",
+      "product_name": "Senior Age & Weight Dry Dog Food",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_life_protection/136396?activeVariant=136396.2",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "bosch|bosch_adult_mini_senior_dry_dog_food|dry",
+      "product_name": "Adult Mini Senior Dry Dog Food",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_senior/317406?activeVariant=317406.3",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "bosch|bosch_hpc_soft_maxi_water_buffalo_&_sweet_potato|dry",
+      "product_name": "HPC Soft Maxi Water Buffalo & Sweet potato",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/2296076?activeVariant=2296076.1",
+      "scraped": true,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "ingredients_preview": "Fresh water buffalo (40%), potato starch, sweet potato (dried, 7.5%), pea protein, peas (dried), dri",
+      "nutrition_count": 5
+    },
+    {
+      "product_key": "bosch|bosch_hpc_adult_vegan_potato_&_pea|dry",
+      "product_name": "HPC Adult Vegan Potato & Pea",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/1995623?activeVariant=1995623.4",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "bosch|bosch_adult_mini_poultry_&_millet_dry_dog_food|dry",
+      "product_name": "Adult Mini Poultry & Millet Dry Dog Food",
+      "brand": "Bosch",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bosch/bosch_adult/323020?activeVariant=323020.4",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 4
+    },
+    {
+      "product_key": "bozita|bozita_grain_free_salmon_&_beef_for_small_dogs|dry",
+      "product_name": "Grain Free Salmon & Beef for Small Dogs",
+      "brand": "Bozita",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_dog_food/1488611?activeVariant=1488611.3",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 5
+    },
+    {
+      "product_key": "bozita|bozita_robur_puppy_&_junior_chicken|dry",
+      "product_name": "Robur Puppy & Junior Chicken",
+      "brand": "Bozita",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/bozita/bozita_robur_dog_food/2311868?activeVariant=2311868.3",
+      "scraped": true,
+      "has_ingredients": false,
+      "has_nutrition": true,
+      "ingredients_preview": null,
+      "nutrition_count": 5
+    },
+    {
+      "product_key": "farmina|farmina_n_d_pumpkin_puppy_medium_maxi_with_lamb_and_blueberry|dry",
+      "product_name": "Farmina N&D Pumpkin Puppy Medium & Maxi with lamb ",
+      "brand": "Farmina",
+      "url": "https://www.zooplus.com/shop/dogs/dry_dog_food/farmina/pumpkin/1949844?activeVariant=1949844.0",
+      "scraped": true,
+      "has_ingredients": true,
+      "has_nutrition": true,
+      "ingredients_preview": "Fresh boneless lamb (24%), dried lamb (24%), pea starch, chicken fat, dried herring, dried squash (5",
+      "nutrition_count": 5
+    }
+  ]
+}
