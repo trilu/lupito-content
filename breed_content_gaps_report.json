@@ -1,0 +1,231 @@
+{
+  "summary": {
+    "total_breeds": 583,
+    "average_completeness": 57.32418524871355,
+    "low_quality_count": 41,
+    "medium_quality_count": 364,
+    "high_quality_count": 178
+  },
+  "missing_fields": {
+    "Exercise Details": 575,
+    "Training Tips": 573,
+    "Grooming Needs": 569,
+    "Good with Pets": 527,
+    "Good with Children": 524,
+    "Fun Facts": 510,
+    "Health Information": 344,
+    "Temperament": 193,
+    "Personality Description": 170,
+    "History": 120,
+    "Working Roles": 89,
+    "Introduction": 51,
+    "Care Content": 12
+  },
+  "low_quality_breeds": [
+    {
+      "breed": "Argentine Pila",
+      "slug": "argentine-pila",
+      "score": 20
+    },
+    {
+      "breed": "Calupoh",
+      "slug": "calupoh",
+      "score": 20
+    },
+    {
+      "breed": "Chinook: A Distinctive and Versatile Dog Breed",
+      "slug": "chinook-a-distinctive-and-versatile-dog-breed",
+      "score": 20
+    },
+    {
+      "breed": "Grand Anglo-Fran\u00e7ais Tricolore",
+      "slug": "grand-anglo-fran-ais-tricolore",
+      "score": 20
+    },
+    {
+      "breed": "Pach\ufffd\ufffdn Navarro",
+      "slug": "pach-n-navarro",
+      "score": 20
+    },
+    {
+      "breed": "Akita",
+      "slug": "akita",
+      "score": 30
+    },
+    {
+      "breed": "Armant",
+      "slug": "armant",
+      "score": 30
+    },
+    {
+      "breed": "B\u1eafc H\u00e0",
+      "slug": "b-c-h",
+      "score": 30
+    },
+    {
+      "breed": "Barbet",
+      "slug": "barbet",
+      "score": 30
+    },
+    {
+      "breed": "Bergamasco",
+      "slug": "bergamasco",
+      "score": 30
+    },
+    {
+      "breed": "Biewerterrier",
+      "slug": "biewerterrier",
+      "score": 30
+    },
+    {
+      "breed": "Billy",
+      "slug": "billy",
+      "score": 30
+    },
+    {
+      "breed": "Cardigan Welsh Corgis",
+      "slug": "cardigan-welsh-corgis",
+      "score": 30
+    },
+    {
+      "breed": "Chongqing",
+      "slug": "chongqing",
+      "score": 30
+    },
+    {
+      "breed": "Denmark Feist",
+      "slug": "denmark-feist",
+      "score": 30
+    },
+    {
+      "breed": "Dutch Smoushond",
+      "slug": "dutch-smoushond",
+      "score": 30
+    },
+    {
+      "breed": "German Shorthaired Pointers",
+      "slug": "german-shorthaired-pointers",
+      "score": 30
+    },
+    {
+      "breed": "German Wirehaired Pointers",
+      "slug": "german-wirehaired-pointers",
+      "score": 30
+    },
+    {
+      "breed": "Glen Of Imaal Terrier",
+      "slug": "glen-of-imaal-terrier",
+      "score": 30
+    },
+    {
+      "breed": "Gull Dong",
+      "slug": "gull-dong",
+      "score": 30
+    },
+    {
+      "breed": "Harrier",
+      "slug": "harrier",
+      "score": 30
+    },
+    {
+      "breed": "Irish Red White Setter",
+      "slug": "irish-red-white-setter",
+      "score": 30
+    },
+    {
+      "breed": "Jeju",
+      "slug": "jeju",
+      "score": 30
+    },
+    {
+      "breed": "Jindo",
+      "slug": "jindo",
+      "score": 30
+    },
+    {
+      "breed": "Kaikadi",
+      "slug": "kaikadi",
+      "score": 30
+    },
+    {
+      "breed": "Karakachan",
+      "slug": "karakachan",
+      "score": 30
+    },
+    {
+      "breed": "Kars",
+      "slug": "kars",
+      "score": 30
+    },
+    {
+      "breed": "Khala",
+      "slug": "khala",
+      "score": 30
+    },
+    {
+      "breed": "Kintamani",
+      "slug": "kintamani",
+      "score": 30
+    },
+    {
+      "breed": "Kombai",
+      "slug": "kombai",
+      "score": 30
+    },
+    {
+      "breed": "McNab",
+      "slug": "mcnab",
+      "score": 30
+    },
+    {
+      "breed": "Norfolk Terriers",
+      "slug": "norfolk-terriers",
+      "score": 30
+    },
+    {
+      "breed": "Norwich Terriers",
+      "slug": "norwich-terriers",
+      "score": 30
+    },
+    {
+      "breed": "Poitevin",
+      "slug": "poitevin",
+      "score": 30
+    },
+    {
+      "breed": "Puli",
+      "slug": "puli",
+      "score": 30
+    },
+    {
+      "breed": "Rajapalayam",
+      "slug": "rajapalayam",
+      "score": 30
+    },
+    {
+      "breed": "Ryukyu",
+      "slug": "ryukyu",
+      "score": 30
+    },
+    {
+      "breed": "Sarabi",
+      "slug": "sarabi",
+      "score": 30
+    },
+    {
+      "breed": "Smithfield",
+      "slug": "smithfield",
+      "score": 30
+    },
+    {
+      "breed": "Standard Manchester Terrier",
+      "slug": "standard-manchester-terrier",
+      "score": 30
+    },
+    {
+      "breed": "Tang Dog",
+      "slug": "tang-dog",
+      "score": 30
+    }
+  ]
+}

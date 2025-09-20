@@ -1,0 +1,4115 @@
+{
+  "source": "hills",
+  "generation_date": "2025-09-19",
+  "target_count": 447,
+  "breeds": [
+    {
+      "breed_slug": "armant",
+      "display_name": "Armant",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "b-c-h",
+      "display_name": "B\u1eafc H\u00e0",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "barbet",
+      "display_name": "Barbet",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "bergamasco",
+      "display_name": "Bergamasco",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "biewerterrier",
+      "display_name": "Biewerterrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "billy",
+      "display_name": "Billy",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "cane-di-oropa",
+      "display_name": "Cane di Oropa",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "cardigan-welsh-corgis",
+      "display_name": "Cardigan Welsh Corgis",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "chinook",
+      "display_name": "Chinook",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "chinook-a-distinctive-and-versatile-dog-breed",
+      "display_name": "Chinook: A Distinctive and Versatile Dog Breed",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "dogo-sardesco",
+      "display_name": "Dogo Sardesco",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "ecuadorian-hairless-dog",
+      "display_name": "Ecuadorian Hairless Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "english-toy-terrier-black-tan",
+      "display_name": "English Toy Terrier (Black & Tan)",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "erbi-txakur",
+      "display_name": "Erbi Txakur",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "faroese-sheepdog",
+      "display_name": "Faroese Sheepdog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "german-shorthaired-pointers",
+      "display_name": "German Shorthaired Pointers",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "german-spitz",
+      "display_name": "German Spitz",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "german-wirehaired-pointers",
+      "display_name": "German Wirehaired Pointers",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "glen-of-imaal-terrier",
+      "display_name": "Glen Of Imaal Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-tricolore",
+      "display_name": "Grand Anglo-Fran\u00e7ais Tricolore",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "grand-griffon-vend-en",
+      "display_name": "Grand Griffon Vend\u00e9en",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "greek-harehound",
+      "display_name": "Greek Harehound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "harrier",
+      "display_name": "Harrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "irish-red-white-setter",
+      "display_name": "Irish Red White Setter",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "istrian-coarse-haired-hound",
+      "display_name": "Istrian Coarse-haired Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "jeju",
+      "display_name": "Jeju",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "jindo",
+      "display_name": "Jindo",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "kaikadi",
+      "display_name": "Kaikadi",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "karst-shepherd",
+      "display_name": "Karst Shepherd",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "khala",
+      "display_name": "Khala",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "kintamani",
+      "display_name": "Kintamani",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "kombai",
+      "display_name": "Kombai",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "majorca-shepherd-dog",
+      "display_name": "Majorca Shepherd Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "mcnab",
+      "display_name": "McNab",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "norfolk-terriers",
+      "display_name": "Norfolk Terriers",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "norwich-terriers",
+      "display_name": "Norwich Terriers",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "pach-n-navarro",
+      "display_name": "Pach\ufffd\ufffdn Navarro",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "perro-majorero",
+      "display_name": "Perro Majorero",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "peruvian-hairless-dog",
+      "display_name": "Peruvian Hairless Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "plummer-terrier",
+      "display_name": "Plummer Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "poitevin",
+      "display_name": "Poitevin",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "puli",
+      "display_name": "Puli",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "pumi",
+      "display_name": "Pumi",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "pungsan",
+      "display_name": "Pungsan",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "saint-bernard",
+      "display_name": "Saint Bernard",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "samoyed",
+      "display_name": "Samoyed",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "schapendoes",
+      "display_name": "Schapendoes",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "sinhala-hound",
+      "display_name": "Sinhala Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "smithfield",
+      "display_name": "Smithfield",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "spino-degli-iblei",
+      "display_name": "Spino degli Iblei",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "sporting-lucas-terrier",
+      "display_name": "Sporting Lucas Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "st-bernard",
+      "display_name": "St. Bernard",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "standard-manchester-terrier",
+      "display_name": "Standard Manchester Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "tosa",
+      "display_name": "Tosa",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "wetterhoun",
+      "display_name": "Wetterhoun",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs",
+        "health_issues"
+      ],
+      "priority_score": 4
+    },
+    {
+      "breed_slug": "aksaray-malaklisi",
+      "display_name": "Aksaray Malaklisi",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "alano-espa-ol",
+      "display_name": "Alano Espa\u00f1ol",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "alapaha-blue-blood-bulldog",
+      "display_name": "Alapaha Blue Blood Bulldog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "alpine-dachsbracke",
+      "display_name": "Alpine Dachsbracke",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "american-leopard-hound",
+      "display_name": "American Leopard Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "argentine-pila",
+      "display_name": "Argentine Pila",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "armenian-gampr",
+      "display_name": "Armenian Gampr",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "artois-hound",
+      "display_name": "Artois Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "bakharwal",
+      "display_name": "Bakharwal",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "banjara-hound",
+      "display_name": "Banjara Hound",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "barak-hound",
+      "display_name": "Barak hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "barbado-da-terceira",
+      "display_name": "Barbado da Terceira",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "basset-bleu-de-gascogne",
+      "display_name": "Basset Bleu de Gascogne",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "blue-picardy-spaniel",
+      "display_name": "Blue Picardy Spaniel",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "bracco-italiano",
+      "display_name": "Bracco Italiano",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "braque-d-auvergne",
+      "display_name": "Braque d'Auvergne",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "braque-fran-ais",
+      "display_name": "Braque Fran\u00e7ais",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "brazilian-terrier",
+      "display_name": "Brazilian Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "bulgarian-hound",
+      "display_name": "Bulgarian Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "bulgarian-scenthound",
+      "display_name": "Bulgarian Scenthound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "calupoh",
+      "display_name": "Calupoh",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "campeiro-bulldog",
+      "display_name": "Campeiro Bulldog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "can-de-chira",
+      "display_name": "Can de Chira",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "cantabrian-water-dog",
+      "display_name": "Cantabrian Water Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "carpathian-shepherd-dog",
+      "display_name": "Carpathian Shepherd Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "castro-laboreiro-dog",
+      "display_name": "Castro Laboreiro Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-noir",
+      "display_name": "Chien Fran\u00e7ais Blanc et Noir",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "chien-fran-ais-blanc-et-orange",
+      "display_name": "Chien Fran\u00e7ais Blanc et Orange",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "chien-fran-ais-tricolore",
+      "display_name": "Chien Fran\u00e7ais Tricolore",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "chortai",
+      "display_name": "Chortai",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "cimarr-n-uruguayo",
+      "display_name": "Cimarr\u00f3n Uruguayo",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "croatian-sheepdog",
+      "display_name": "Croatian Sheepdog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "danish-swedish-farmdog",
+      "display_name": "Danish\u2013Swedish Farmdog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "donggyeongi",
+      "display_name": "Donggyeongi",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "dutch-smoushond",
+      "display_name": "Dutch Smoushond",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "english-foxhound",
+      "display_name": "English Foxhound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "english-shepherd",
+      "display_name": "English Shepherd",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "fox-terrier",
+      "display_name": "Fox Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "gascon-saintongeois",
+      "display_name": "Gascon Saintongeois",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "german-roughhaired-pointer",
+      "display_name": "German Roughhaired Pointer",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "german-spaniel",
+      "display_name": "German Spaniel",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-noir",
+      "display_name": "Grand Anglo-Fran\u00e7ais Blanc et Noir",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-blanc-et-orange",
+      "display_name": "Grand Anglo-Fran\u00e7ais Blanc et Orange",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vendeen",
+      "display_name": "Grand Basset Griffon Vendeen",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "grand-basset-griffon-vend-en",
+      "display_name": "Grand Basset Griffon Vend\u00e9en",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "griffon-bleu-de-gascogne",
+      "display_name": "Griffon Bleu de Gascogne",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "hamiltonst-vare",
+      "display_name": "Hamiltonst\u00f6vare",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "hanover-hound",
+      "display_name": "Hanover Hound",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "hygen-hound",
+      "display_name": "Hygen Hound",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "kai-ken",
+      "display_name": "Kai Ken",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "karakachan",
+      "display_name": "Karakachan",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "kerry-beagle",
+      "display_name": "Kerry Beagle",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "kooikerhondje",
+      "display_name": "Kooikerhondje",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "kromfohrl-nder",
+      "display_name": "Kromfohrl\u00e4nder",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "kuchi",
+      "display_name": "Kuchi",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "kurdish-mastiff",
+      "display_name": "Kurdish Mastiff",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "lagotto-romagnolo",
+      "display_name": "Lagotto Romagnolo",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "landseer",
+      "display_name": "Landseer",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "levriero-sardo",
+      "display_name": "Levriero Sardo",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "mackenzie-river-husky",
+      "display_name": "Mackenzie River Husky",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "mahratta-hound",
+      "display_name": "Mahratta Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "maneto",
+      "display_name": "Maneto",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "markiesje",
+      "display_name": "Markiesje",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "montenegrin-mountain-hound",
+      "display_name": "Montenegrin Mountain Hound",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "mudhol-hound",
+      "display_name": "Mudhol Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "nederlandse-kooikerhondje",
+      "display_name": "Nederlandse Kooikerhondje",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "nureongi",
+      "display_name": "Nureongi",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "old-danish-pointer",
+      "display_name": "Old Danish Pointer",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "pastor-garafiano",
+      "display_name": "Pastor Garafiano",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "patagonian-sheepdog",
+      "display_name": "Patagonian Sheepdog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "patterdale-terrier",
+      "display_name": "Patterdale Terrier",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "phal-ne",
+      "display_name": "Phal\u00e8ne",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "picardy-spaniel",
+      "display_name": "Picardy Spaniel",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "podenco-canario",
+      "display_name": "Podenco Canario",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "polish-hound",
+      "display_name": "Polish Hound",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "pont-audemer-spaniel",
+      "display_name": "Pont-Audemer Spaniel",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "porcelaine",
+      "display_name": "Porcelaine",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "portuguese-pointer",
+      "display_name": "Portuguese Pointer",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "posavac-hound",
+      "display_name": "Posavac Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "pyrenean-mastiff",
+      "display_name": "Pyrenean Mastiff",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "rajapalayam",
+      "display_name": "Rajapalayam",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "rampur-greyhound",
+      "display_name": "Rampur Greyhound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "rastreador-brasileiro",
+      "display_name": "Rastreador Brasileiro",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "romanian-mioritic-shepherd-dog",
+      "display_name": "Romanian Mioritic Shepherd Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "russo-european-laika",
+      "display_name": "Russo-European Laika",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "saarloos-wolfdog",
+      "display_name": "Saarloos Wolfdog",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "saint-usuge-spaniel",
+      "display_name": "Saint-Usuge Spaniel",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "sapsali",
+      "display_name": "Sapsali",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "sardinian-shepherd-dog",
+      "display_name": "Sardinian Shepherd Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "arplaninac",
+      "display_name": "\u0160arplaninac",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "schweizerischer-niederlaufhund",
+      "display_name": "Schweizerischer Niederlaufhund",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "segugio-dell-appennino",
+      "display_name": "Segugio dell'Appennino",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "segugio-maremmano",
+      "display_name": "Segugio Maremmano",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "serrano-bulldog",
+      "display_name": "Serrano Bulldog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "shar-pei",
+      "display_name": "Shar Pei",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "south-russian-ovcharka",
+      "display_name": "South Russian Ovcharka",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "styrian-coarse-haired-hound",
+      "display_name": "Styrian Coarse-haired Hound",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "swedish-lapphund",
+      "display_name": "Swedish Lapphund",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "tang-dog",
+      "display_name": "Tang Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "tatra-shepherd-dog",
+      "display_name": "Tatra Shepherd Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "valencian-terrier",
+      "display_name": "Valencian Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "vikhan",
+      "display_name": "Vikhan",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "villanuco-de-las-encartaciones",
+      "display_name": "Villanuco de Las Encartaciones",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "volpino-italiano",
+      "display_name": "Volpino Italiano",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "welsh-hound",
+      "display_name": "Welsh Hound",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "welsh-sheepdog",
+      "display_name": "Welsh Sheepdog",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "westphalian-dachsbracke",
+      "display_name": "Westphalian Dachsbracke",
+      "target_fields": [
+        "grooming_needs",
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "white-shepherd",
+      "display_name": "White Shepherd",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "white-swiss-shepherd-dog",
+      "display_name": "White Swiss Shepherd Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 3
+    },
+    {
+      "breed_slug": "aidi",
+      "display_name": "Aidi",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "akbash",
+      "display_name": "Akbash",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "alaskan-klee-kai",
+      "display_name": "Alaskan Klee Kai",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "ari-ge-pointer",
+      "display_name": "Ari\u00e8ge Pointer",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "ari-geois",
+      "display_name": "Ari\u00e9geois",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "azawakh",
+      "display_name": "Azawakh",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "bankhar-dog",
+      "display_name": "Bankhar Dog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "basque-shepherd-dog",
+      "display_name": "Basque Shepherd Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "basset-art-sien-normand",
+      "display_name": "Basset Art\u00e9sien Normand",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "bavarian-mountain-hound",
+      "display_name": "Bavarian Mountain Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "beagle-harrier",
+      "display_name": "Beagle-Harrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "bergamasco-shepherd",
+      "display_name": "Bergamasco Shepherd",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "bichon-fris",
+      "display_name": "Bichon Fris\u00e9",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "black-mouth-cur",
+      "display_name": "Black Mouth Cur",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "bohemian-shepherd",
+      "display_name": "Bohemian Shepherd",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "bohemian-spotted-dog",
+      "display_name": "Bohemian Spotted Dog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "bolognese",
+      "display_name": "Bolognese",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "braque-du-bourbonnais",
+      "display_name": "Braque du Bourbonnais",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "briquet-griffon-vend-en",
+      "display_name": "Briquet Griffon Vend\u00e9en",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "broholmer",
+      "display_name": "Broholmer",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "bruno-jura-hound",
+      "display_name": "Bruno Jura Hound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "bully-kutta",
+      "display_name": "Bully Kutta",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "burgos-pointer",
+      "display_name": "Burgos Pointer",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "ca-de-bou",
+      "display_name": "Ca de Bou",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "ca-m-mallorqu",
+      "display_name": "Ca M\u00e8 Mallorqu\u00ed",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "can-de-palleiro",
+      "display_name": "Can de Palleiro",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "canaan-dog",
+      "display_name": "Canaan Dog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "cane-paratore",
+      "display_name": "Cane Paratore",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "c-o-de-gado-transmontano",
+      "display_name": "C\u00e3o de Gado Transmontano",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "carea-leon-s",
+      "display_name": "Carea Leon\u00e9s",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "central-asian-shepherd-dog",
+      "display_name": "Central Asian Shepherd Dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "esk-fousek",
+      "display_name": "\u010cesk\u00fd fousek",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "chilean-terrier",
+      "display_name": "Chilean Terrier",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "chippiparai",
+      "display_name": "Chippiparai",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "chongqing",
+      "display_name": "Chongqing",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "chukotka-sled-dog",
+      "display_name": "Chukotka sled dog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "cirneco-dell-etna",
+      "display_name": "Cirneco dell'Etna",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "cocker-spaniel",
+      "display_name": "Cocker Spaniel",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "colombian-fino-hound",
+      "display_name": "Colombian Fino Hound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "continental-bulldog",
+      "display_name": "Continental bulldog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "danish-spitz",
+      "display_name": "Danish Spitz",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "denmark-feist",
+      "display_name": "Denmark Feist",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "dikkulak",
+      "display_name": "Dikkulak",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "dingo",
+      "display_name": "Dingo",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "dogue-de-bordeaux",
+      "display_name": "Dogue De Bordeaux",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "drever",
+      "display_name": "Drever",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "dunker",
+      "display_name": "Dunker",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "east-european-shepherd",
+      "display_name": "East European Shepherd",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "east-siberian-laika",
+      "display_name": "East Siberian Laika",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "entlebucher-mountain-dog",
+      "display_name": "Entlebucher Mountain Dog",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "finnish-hound",
+      "display_name": "Finnish Hound",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "gaucho-sheepdog",
+      "display_name": "Gaucho sheepdog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "grand-bleu-de-gascogne",
+      "display_name": "Grand Bleu de Gascogne",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "griffon-bruxellois",
+      "display_name": "Griffon Bruxellois",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "griffon-fauve-de-bretagne",
+      "display_name": "Griffon Fauve de Bretagne",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "griffon-nivernais",
+      "display_name": "Griffon Nivernais",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "gull-dong",
+      "display_name": "Gull Dong",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "gull-terrier",
+      "display_name": "Gull Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "h-llefors-elkhound",
+      "display_name": "H\u00e4llefors Elkhound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "hmong-bobtail-dog",
+      "display_name": "Hmong bobtail dog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "hokkaido",
+      "display_name": "Hokkaido",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "hovawart",
+      "display_name": "Hovawart",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "ibizan-hound",
+      "display_name": "Ibizan Hound",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "icelandic-sheepdog",
+      "display_name": "Icelandic Sheepdog",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "istrian-shorthaired-hound",
+      "display_name": "Istrian Shorthaired Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "jagdterrier",
+      "display_name": "Jagdterrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "j-mthund",
+      "display_name": "J\u00e4mthund",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "jonangi",
+      "display_name": "Jonangi",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "kanni",
+      "display_name": "Kanni",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "karelo-finnish-laika",
+      "display_name": "Karelo-Finnish Laika",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "kars",
+      "display_name": "Kars",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "kazakh-tazy",
+      "display_name": "Kazakh Tazy",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "kokoni",
+      "display_name": "Kokoni",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "komondor",
+      "display_name": "Komondor",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "kuvasz",
+      "display_name": "Kuvasz",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "lancashire-heeler",
+      "display_name": "Lancashire Heeler",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "lapponian-herder",
+      "display_name": "Lapponian Herder",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "liangshan-dog",
+      "display_name": "Liangshan Dog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "lobito-herre-o",
+      "display_name": "Lobito Herre\u00f1o",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "lucas-terrier",
+      "display_name": "Lucas Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "magyar-ag-r",
+      "display_name": "Magyar Ag\u00e1r",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "maremmano-abruzzese-sheepdog",
+      "display_name": "Maremmano-Abruzzese Sheepdog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "miniature-fox-terrier",
+      "display_name": "Miniature Fox Terrier",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "mountain-cur",
+      "display_name": "Mountain Cur",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "mountain-feist",
+      "display_name": "Mountain Feist",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "mudi",
+      "display_name": "Mudi",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "nenets-herding-laika",
+      "display_name": "Nenets Herding Laika",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "new-guinea-singing-dog",
+      "display_name": "New Guinea singing dog",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "new-zealand-heading-dog",
+      "display_name": "New Zealand Heading Dog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "pampas-deerhound",
+      "display_name": "Pampas Deerhound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "pastore-della-lessinia-e-del-lagorai",
+      "display_name": "Pastore della Lessinia e del Lagorai",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "perdigueiro-galego",
+      "display_name": "Perdigueiro Galego",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "petit-bleu-de-gascogne",
+      "display_name": "Petit Bleu de Gascogne",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "pharaoh-hound",
+      "display_name": "Pharaoh Hound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "philippine-forest-dog",
+      "display_name": "Philippine forest dog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "plott",
+      "display_name": "Plott",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "plott-hound",
+      "display_name": "Plott Hound",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "podenco-andaluz",
+      "display_name": "Podenco Andaluz",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "podenco-valenciano",
+      "display_name": "Podenco Valenciano",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "polish-greyhound",
+      "display_name": "Polish Greyhound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "polish-lowland-sheepdog",
+      "display_name": "Polish Lowland Sheepdog",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "portuguese-podengo",
+      "display_name": "Portuguese Podengo",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "portuguese-podengo-pequeno",
+      "display_name": "Portuguese Podengo Pequeno",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "portuguese-sheepdog",
+      "display_name": "Portuguese Sheepdog",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "presa-canario",
+      "display_name": "Presa Canario",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "pudelpointer",
+      "display_name": "Pudelpointer",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "pyrenean-sheepdog",
+      "display_name": "Pyrenean Sheepdog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "pyrenean-shepherd",
+      "display_name": "Pyrenean Shepherd",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "rafeiro-do-alentejo",
+      "display_name": "Rafeiro do Alentejo",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "ratonero-murciano",
+      "display_name": "Ratonero Murciano",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "redbone-coonhound",
+      "display_name": "Redbone Coonhound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "rize-koyun",
+      "display_name": "Rize Koyun",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "romanian-raven-shepherd-dog",
+      "display_name": "Romanian Raven Shepherd Dog",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "ryukyu",
+      "display_name": "Ryukyu",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "sabueso-espa-ol",
+      "display_name": "Sabueso Espa\u00f1ol",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "sarabi",
+      "display_name": "Sarabi",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "sarail-hound",
+      "display_name": "Sarail Hound",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "schillerst-vare",
+      "display_name": "Schillerst\u00f6vare",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "segugio-italiano",
+      "display_name": "Segugio Italiano",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "serbian-hound",
+      "display_name": "Serbian Hound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "serbian-tricolour-hound",
+      "display_name": "Serbian Tricolour Hound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "shikoku",
+      "display_name": "Shikoku",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "skye-terrier",
+      "display_name": "Skye Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "slovak-rough-haired-pointer",
+      "display_name": "Slovak Rough-haired Pointer",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "slovensk-kopov",
+      "display_name": "Slovensk\u00fd kopov",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "spinone-italiano",
+      "display_name": "Spinone Italiano",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "st-hubert-jura-hound",
+      "display_name": "St. Hubert Jura Hound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "standard-schnauzer",
+      "display_name": "Standard Schnauzer",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "stephens-stock",
+      "display_name": "Stephens Stock",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "swedish-vallhund",
+      "display_name": "Swedish Vallhund",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "taigan",
+      "display_name": "Taigan",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "teddy-roosevelt-terrier",
+      "display_name": "Teddy Roosevelt Terrier",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "telomian",
+      "display_name": "Telomian",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "tibetan-kyi-apso",
+      "display_name": "Tibetan Kyi Apso",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "tibetan-spaniel",
+      "display_name": "Tibetan Spaniel",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "tonya-finosu",
+      "display_name": "Tonya Finosu",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "tornjak",
+      "display_name": "Tornjak",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "toy-fox-terrier",
+      "display_name": "Toy Fox Terrier",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "toy-manchester-terrier",
+      "display_name": "Toy Manchester Terrier",
+      "target_fields": [
+        "exercise_needs_detail",
+        "temperament"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "transylvanian-hound",
+      "display_name": "Transylvanian Hound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "treeing-cur",
+      "display_name": "Treeing Cur",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "treeing-feist",
+      "display_name": "Treeing Feist",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "treeing-tennessee-brindle",
+      "display_name": "Treeing Tennessee Brindle",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "treeing-walker-coonhound",
+      "display_name": "Treeing Walker Coonhound",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "villano-de-las-encartaciones",
+      "display_name": "Villano de Las Encartaciones",
+      "target_fields": [
+        "exercise_needs_detail",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "volkosob",
+      "display_name": "Volkosob",
+      "target_fields": [
+        "temperament",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "west-country-harrier",
+      "display_name": "West Country Harrier",
+      "target_fields": [
+        "health_issues",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "west-siberian-laika",
+      "display_name": "West Siberian Laika",
+      "target_fields": [
+        "temperament",
+        "health_issues"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "wirehaired-vizsla",
+      "display_name": "Wirehaired Vizsla",
+      "target_fields": [
+        "exercise_needs_detail",
+        "grooming_needs"
+      ],
+      "priority_score": 2
+    },
+    {
+      "breed_slug": "africanis",
+      "display_name": "Africanis",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "akita",
+      "display_name": "Akita",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "alopekis",
+      "display_name": "Alopekis",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "american-cocker-spaniel",
+      "display_name": "American Cocker Spaniel",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "american-english-coonhound",
+      "display_name": "American English Coonhound",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "american-water-spaniel",
+      "display_name": "American Water Spaniel",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "anatolian-shepherd",
+      "display_name": "Anatolian Shepherd",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "anglo-fran-ais-de-petite-v-nerie",
+      "display_name": "Anglo-Fran\u00e7ais de Petite V\u00e9nerie",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "appenzeller-sennenhund",
+      "display_name": "Appenzeller Sennenhund",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "australian-stumpy-tail-cattle-dog",
+      "display_name": "Australian Stumpy Tail Cattle Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "austrian-black-and-tan-hound",
+      "display_name": "Austrian Black and Tan Hound",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "austrian-pinscher",
+      "display_name": "Austrian Pinscher",
+      "target_fields": [
+        "exercise_needs_detail"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "basset-fauve-de-bretagne",
+      "display_name": "Basset Fauve de Bretagne",
+      "target_fields": [
+        "exercise_needs_detail"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "belgian-laekenois",
+      "display_name": "Belgian Laekenois",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "belgian-sheepdog",
+      "display_name": "Belgian Sheepdog",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "biewer-terrier",
+      "display_name": "Biewer Terrier",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "black-norwegian-elkhound",
+      "display_name": "Black Norwegian Elkhound",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "boerboel",
+      "display_name": "Boerboel",
+      "target_fields": [
+        "exercise_needs_detail"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "bouvier-des-ardennes",
+      "display_name": "Bouvier des Ardennes",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "boxer",
+      "display_name": "Boxer",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "briquet-de-provence",
+      "display_name": "Briquet de Provence",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "brittany",
+      "display_name": "Brittany",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "brussels-griffon",
+      "display_name": "Brussels Griffon",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "bucovina-shepherd-dog",
+      "display_name": "Bucovina Shepherd Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "bull-arab",
+      "display_name": "Bull Arab",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "ca-rater-mallorqu",
+      "display_name": "Ca Rater Mallorqu\u00ed",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "cairn-terriers",
+      "display_name": "Cairn Terriers",
+      "target_fields": [
+        "exercise_needs_detail"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "canadian-eskimo-dog",
+      "display_name": "Canadian Eskimo Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "cardigan-welsh-corgi",
+      "display_name": "Cardigan Welsh Corgi",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "carolina-dog",
+      "display_name": "Carolina Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "catahoula-leopard-dog",
+      "display_name": "Catahoula Leopard Dog",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "catalan-sheepdog",
+      "display_name": "Catalan Sheepdog",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "caucasian-shepherd-dog",
+      "display_name": "Caucasian Shepherd Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "cesky-terrier",
+      "display_name": "Cesky Terrier",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "chihuahua",
+      "display_name": "Chihuahua",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "chinese-crested",
+      "display_name": "Chinese Crested",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "chinese-crested-dog",
+      "display_name": "Chinese Crested Dog",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "clumber-spaniel",
+      "display_name": "Clumber Spaniel",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "cretan-hound",
+      "display_name": "Cretan Hound",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "curly-coated-retriever",
+      "display_name": "Curly-coated Retriever",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "czechoslovakian-wolfdog",
+      "display_name": "Czechoslovakian Wolfdog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "dalmatian",
+      "display_name": "Dalmatian",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "dogo-argentino",
+      "display_name": "Dogo Argentino",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "dogue-brasileiro",
+      "display_name": "Dogue Brasileiro",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "drentse-patrijshond",
+      "display_name": "Drentse Patrijshond",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "english-cocker-spaniel",
+      "display_name": "English Cocker Spaniel",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "english-setter",
+      "display_name": "English Setter",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "english-springer-spaniel",
+      "display_name": "English Springer Spaniel",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "estonian-hound",
+      "display_name": "Estonian Hound",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "estrela-mountain-dog",
+      "display_name": "Estrela Mountain Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "eurasier",
+      "display_name": "Eurasier",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "fila-brasileiro",
+      "display_name": "Fila Brasileiro",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "finnish-lapphund",
+      "display_name": "Finnish Lapphund",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "georgian-shepherd",
+      "display_name": "Georgian Shepherd",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "german-hound",
+      "display_name": "German Hound",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "german-shorthaired-pointer",
+      "display_name": "German Shorthaired Pointer",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "german-wirehaired-pointer",
+      "display_name": "German Wirehaired Pointer",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "go-czy-polski",
+      "display_name": "Go\u0144czy Polski",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "greek-shepherd",
+      "display_name": "Greek Shepherd",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "greenland-dog",
+      "display_name": "Greenland Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "greyhound",
+      "display_name": "Greyhound",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "halden-hound",
+      "display_name": "Halden Hound",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "havanese",
+      "display_name": "Havanese",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "himalayan-sheepdog",
+      "display_name": "Himalayan Sheepdog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "indian-pariah-dog",
+      "display_name": "Indian pariah dog",
+      "target_fields": [
+        "exercise_needs_detail"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "irish-red-and-white-setter",
+      "display_name": "Irish Red and White Setter",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "irish-setter",
+      "display_name": "Irish Setter",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "irish-water-spaniel",
+      "display_name": "Irish Water Spaniel",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "japanese-chin",
+      "display_name": "Japanese Chin",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "japanese-terrier",
+      "display_name": "Japanese Terrier",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "kamchatka-sled-dog",
+      "display_name": "Kamchatka Sled Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "kangal-shepherd-dog",
+      "display_name": "Kangal Shepherd Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "karelian-bear-dog",
+      "display_name": "Karelian Bear Dog",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "koolie",
+      "display_name": "Koolie",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "kunming",
+      "display_name": "Kunming",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "lakeland-terrier",
+      "display_name": "Lakeland Terrier",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "large-m-nsterl-nder",
+      "display_name": "Large M\u00fcnsterl\u00e4nder",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "lithuanian-hound",
+      "display_name": "Lithuanian Hound",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "lupo-italiano",
+      "display_name": "Lupo Italiano",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "maltese",
+      "display_name": "Maltese",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "manchester-terrier",
+      "display_name": "Manchester Terrier",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "mastiff",
+      "display_name": "Mastiff",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "molossus-of-epirus",
+      "display_name": "Molossus of Epirus",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "mongrel",
+      "display_name": "Mongrel",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "moscow-watchdog",
+      "display_name": "Moscow Watchdog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "newfoundland",
+      "display_name": "Newfoundland",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "norrbottenspets",
+      "display_name": "Norrbottenspets",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "northern-inuit-dog",
+      "display_name": "Northern Inuit Dog",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "norwegian-buhund",
+      "display_name": "Norwegian Buhund",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "norwegian-elkhound",
+      "display_name": "Norwegian Elkhound",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "norwegian-lundehund",
+      "display_name": "Norwegian Lundehund",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "otterhound",
+      "display_name": "Otterhound",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "papillon",
+      "display_name": "Papillon",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "parson-russell-terrier",
+      "display_name": "Parson Russell Terrier",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "pekingese",
+      "display_name": "Pekingese",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "phu-quoc-ridgeback",
+      "display_name": "Phu Quoc Ridgeback",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "pointer",
+      "display_name": "Pointer",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "pomeranian",
+      "display_name": "Pomeranian",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "portuguese-water-dog",
+      "display_name": "Portuguese Water Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "pug",
+      "display_name": "Pug",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "rhodesian-ridgeback",
+      "display_name": "Rhodesian Ridgeback",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "rough-collie",
+      "display_name": "Rough Collie",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "russell-terrier",
+      "display_name": "Russell Terrier",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "russian-spaniel",
+      "display_name": "Russian Spaniel",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "russian-toy",
+      "display_name": "Russian Toy",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "russkiy-toy",
+      "display_name": "Russkiy Toy",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "saint-miguel-cattle-dog",
+      "display_name": "Saint Miguel Cattle Dog",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "sakhalin-husky",
+      "display_name": "Sakhalin Husky",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "schweizer-laufhund",
+      "display_name": "Schweizer Laufhund",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "shetland-sheepdog",
+      "display_name": "Shetland Sheepdog",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "sloughi",
+      "display_name": "Sloughi",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "slovak-cuvac",
+      "display_name": "Slovak Cuvac",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "smaland-hound",
+      "display_name": "Smaland Hound",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "small-me-imurje-dog",
+      "display_name": "Small Me\u0111imurje Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "small-m-nsterl-nder",
+      "display_name": "Small M\u00fcnsterl\u00e4nder",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "smooth-collie",
+      "display_name": "Smooth Collie",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "smooth-fox-terrier",
+      "display_name": "Smooth Fox Terrier",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "stabyhoun",
+      "display_name": "Stabyhoun",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "sussex-spaniel",
+      "display_name": "Sussex Spaniel",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "taiwan-dog",
+      "display_name": "Taiwan Dog",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "tamaskan-dog",
+      "display_name": "Tamaskan Dog",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "tarsus-atalburun",
+      "display_name": "Tarsus \u00e7atalburun",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "tenterfield-terrier",
+      "display_name": "Tenterfield Terrier",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "thai-bangkaew-dog",
+      "display_name": "Thai Bangkaew Dog",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "tibetan-mastiff",
+      "display_name": "Tibetan Mastiff",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "tibetan-terrier",
+      "display_name": "Tibetan Terrier",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "tyrolean-hound",
+      "display_name": "Tyrolean Hound",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "weimaraner",
+      "display_name": "Weimaraner",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "welsh-springer-spaniel",
+      "display_name": "Welsh Springer Spaniel",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "welsh-terrier",
+      "display_name": "Welsh Terrier",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "wire-fox-terrier",
+      "display_name": "Wire Fox Terrier",
+      "target_fields": [
+        "temperament"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "xiasi-dog",
+      "display_name": "Xiasi Dog",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "yakutian-laika",
+      "display_name": "Yakutian Laika",
+      "target_fields": [
+        "health_issues"
+      ],
+      "priority_score": 1
+    },
+    {
+      "breed_slug": "zerdava",
+      "display_name": "Zerdava",
+      "target_fields": [
+        "grooming_needs"
+      ],
+      "priority_score": 1
+    }
+  ]
+}

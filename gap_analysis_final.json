@@ -1,0 +1,282 @@
+{
+  "timestamp": "2025-09-20T09:40:01.962980",
+  "overall_completeness": 75.64995123263714,
+  "total_breeds": 583,
+  "content_fields_count": 51,
+  "field_statistics": {
+    "display_name": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "aliases": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "size_category": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "adult_weight_min_kg": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "adult_weight_max_kg": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "adult_weight_avg_kg": {
+      "filled": 541,
+      "missing": 42,
+      "percentage": 92.7958833619211
+    },
+    "height_min_cm": {
+      "filled": 501,
+      "missing": 82,
+      "percentage": 85.93481989708405
+    },
+    "height_max_cm": {
+      "filled": 518,
+      "missing": 65,
+      "percentage": 88.8507718696398
+    },
+    "lifespan_min_years": {
+      "filled": 345,
+      "missing": 238,
+      "percentage": 59.17667238421955
+    },
+    "lifespan_max_years": {
+      "filled": 345,
+      "missing": 238,
+      "percentage": 59.17667238421955
+    },
+    "lifespan_avg_years": {
+      "filled": 345,
+      "missing": 238,
+      "percentage": 59.17667238421955
+    },
+    "growth_end_months": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "senior_start_months": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "energy": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "trainability": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "coat_length": {
+      "filled": 409,
+      "missing": 174,
+      "percentage": 70.15437392795883
+    },
+    "shedding": {
+      "filled": 571,
+      "missing": 12,
+      "percentage": 97.94168096054888
+    },
+    "bark_level": {
+      "filled": 409,
+      "missing": 174,
+      "percentage": 70.15437392795883
+    },
+    "friendliness_to_dogs": {
+      "filled": 427,
+      "missing": 156,
+      "percentage": 73.2418524871355
+    },
+    "friendliness_to_humans": {
+      "filled": 565,
+      "missing": 18,
+      "percentage": 96.91252144082333
+    },
+    "origin": {
+      "filled": 526,
+      "missing": 57,
+      "percentage": 90.2229845626072
+    },
+    "introduction": {
+      "filled": 532,
+      "missing": 51,
+      "percentage": 91.25214408233276
+    },
+    "history": {
+      "filled": 463,
+      "missing": 120,
+      "percentage": 79.41680960548885
+    },
+    "history_brief": {
+      "filled": 463,
+      "missing": 120,
+      "percentage": 79.41680960548885
+    },
+    "personality_description": {
+      "filled": 413,
+      "missing": 170,
+      "percentage": 70.84048027444254
+    },
+    "personality_traits": {
+      "filled": 230,
+      "missing": 353,
+      "percentage": 39.451114922813034
+    },
+    "temperament": {
+      "filled": 395,
+      "missing": 188,
+      "percentage": 67.75300171526587
+    },
+    "good_with_children": {
+      "filled": 291,
+      "missing": 292,
+      "percentage": 49.914236706689536
+    },
+    "good_with_pets": {
+      "filled": 68,
+      "missing": 515,
+      "percentage": 11.663807890222985
+    },
+    "general_care": {
+      "filled": 571,
+      "missing": 12,
+      "percentage": 97.94168096054888
+    },
+    "grooming_needs": {
+      "filled": 312,
+      "missing": 271,
+      "percentage": 53.516295025728986
+    },
+    "grooming_frequency": {
+      "filled": 282,
+      "missing": 301,
+      "percentage": 48.3704974271012
+    },
+    "exercise_needs_detail": {
+      "filled": 397,
+      "missing": 186,
+      "percentage": 68.09605488850772
+    },
+    "exercise_level": {
+      "filled": 199,
+      "missing": 384,
+      "percentage": 34.133790737564325
+    },
+    "training_tips": {
+      "filled": 357,
+      "missing": 226,
+      "percentage": 61.23499142367067
+    },
+    "health_issues": {
+      "filled": 266,
+      "missing": 317,
+      "percentage": 45.62607204116638
+    },
+    "coat": {
+      "filled": 295,
+      "missing": 288,
+      "percentage": 50.60034305317325
+    },
+    "colors": {
+      "filled": 318,
+      "missing": 265,
+      "percentage": 54.54545454545454
+    },
+    "color_varieties": {
+      "filled": 274,
+      "missing": 309,
+      "percentage": 46.99828473413379
+    },
+    "fun_facts": {
+      "filled": 73,
+      "missing": 510,
+      "percentage": 12.521440823327614
+    },
+    "working_roles": {
+      "filled": 494,
+      "missing": 89,
+      "percentage": 84.73413379073756
+    },
+    "breed_standard": {
+      "filled": 571,
+      "missing": 12,
+      "percentage": 97.94168096054888
+    },
+    "recognized_by": {
+      "filled": 435,
+      "missing": 148,
+      "percentage": 74.61406518010291
+    },
+    "size_category_display": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "energy_level_display": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "age_bounds_from": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "size_from": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "height_from": {
+      "filled": 214,
+      "missing": 369,
+      "percentage": 36.706689536878216
+    },
+    "weight_from": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "wikipedia_url": {
+      "filled": 571,
+      "missing": 12,
+      "percentage": 97.94168096054888
+    },
+    "lifespan_from": {
+      "filled": 345,
+      "missing": 238,
+      "percentage": 59.17667238421955
+    }
+  },
+  "assault_impact": {
+    "grooming_frequency": {
+      "filled": 282,
+      "missing": 301,
+      "percentage": 48.3704974271012
+    },
+    "good_with_children": {
+      "filled": 291,
+      "missing": 292,
+      "percentage": 49.914236706689536
+    },
+    "good_with_pets": {
+      "filled": 68,
+      "missing": 515,
+      "percentage": 11.663807890222985
+    }
+  },
+  "gap_to_95": 19.350048767362864,
+  "fields_needed": 5753
+}

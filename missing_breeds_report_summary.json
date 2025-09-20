@@ -1,0 +1,57 @@
+{
+  "generation_date": "2025-09-19",
+  "total_breeds": 583,
+  "breeds_needing_data": 580,
+  "field_statistics": {
+    "exercise_needs_detail": {
+      "missing_count": 192,
+      "missing_percentage": 32.9,
+      "priority": "LOW"
+    },
+    "training_tips": {
+      "missing_count": 230,
+      "missing_percentage": 39.5,
+      "priority": "MEDIUM"
+    },
+    "grooming_needs": {
+      "missing_count": 277,
+      "missing_percentage": 47.5,
+      "priority": "MEDIUM"
+    },
+    "temperament": {
+      "missing_count": 193,
+      "missing_percentage": 33.1,
+      "priority": "LOW"
+    },
+    "personality_traits": {
+      "missing_count": 353,
+      "missing_percentage": 60.5,
+      "priority": "MEDIUM"
+    },
+    "health_issues": {
+      "missing_count": 317,
+      "missing_percentage": 54.4,
+      "priority": "MEDIUM"
+    },
+    "good_with_children": {
+      "missing_count": 513,
+      "missing_percentage": 88.0,
+      "priority": "HIGH"
+    },
+    "good_with_pets": {
+      "missing_count": 513,
+      "missing_percentage": 88.0,
+      "priority": "HIGH"
+    },
+    "grooming_frequency": {
+      "missing_count": 541,
+      "missing_percentage": 92.8,
+      "priority": "HIGH"
+    },
+    "exercise_level": {
+      "missing_count": 396,
+      "missing_percentage": 67.9,
+      "priority": "MEDIUM"
+    }
+  }
+}

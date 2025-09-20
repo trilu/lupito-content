@@ -1,0 +1,196 @@
+{
+  "timestamp": "2025-09-19T21:52:54.620076",
+  "overall_completeness": 32.14804063860668,
+  "total_breeds": 583,
+  "field_statistics": {
+    "display_name": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "description": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "origin": {
+      "filled": 526,
+      "missing": 57,
+      "percentage": 90.2229845626072
+    },
+    "image_url": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "size_category": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "weight_range": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "height_range": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "life_expectancy": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "temperament": {
+      "filled": 395,
+      "missing": 188,
+      "percentage": 67.75300171526587
+    },
+    "energy_level": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "exercise_needs": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "grooming_frequency": {
+      "filled": 282,
+      "missing": 301,
+      "percentage": 48.3704974271012
+    },
+    "trainability": {
+      "filled": 583,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    "health_issues": {
+      "filled": 266,
+      "missing": 317,
+      "percentage": 45.62607204116638
+    },
+    "good_with_children": {
+      "filled": 291,
+      "missing": 292,
+      "percentage": 49.914236706689536
+    },
+    "good_with_pets": {
+      "filled": 68,
+      "missing": 515,
+      "percentage": 11.663807890222985
+    },
+    "space_requirements": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "dietary_needs": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "coat_type": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "color_variations": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "recognition_status": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "breed_group": {
+      "filled": 0,
+      "missing": 583,
+      "percentage": 0.0
+    },
+    "exercise_needs_detail": {
+      "filled": 397,
+      "missing": 186,
+      "percentage": 68.09605488850772
+    },
+    "training_tips": {
+      "filled": 357,
+      "missing": 226,
+      "percentage": 61.23499142367067
+    },
+    "grooming_needs": {
+      "filled": 312,
+      "missing": 271,
+      "percentage": 53.516295025728986
+    },
+    "personality_traits": {
+      "filled": 230,
+      "missing": 353,
+      "percentage": 39.451114922813034
+    }
+  },
+  "critical_gaps": [
+    {
+      "field": "description",
+      "missing": 583,
+      "percentage": 0.0
+    },
+    {
+      "field": "image_url",
+      "missing": 583,
+      "percentage": 0.0
+    },
+    {
+      "field": "temperament",
+      "missing": 188,
+      "percentage": 67.75300171526587
+    },
+    {
+      "field": "grooming_frequency",
+      "missing": 301,
+      "percentage": 48.3704974271012
+    },
+    {
+      "field": "good_with_children",
+      "missing": 292,
+      "percentage": 49.914236706689536
+    },
+    {
+      "field": "good_with_pets",
+      "missing": 515,
+      "percentage": 11.663807890222985
+    },
+    {
+      "field": "exercise_needs",
+      "missing": 583,
+      "percentage": 0.0
+    },
+    {
+      "field": "energy_level",
+      "missing": 583,
+      "percentage": 0.0
+    },
+    {
+      "field": "personality_traits",
+      "missing": 353,
+      "percentage": 39.451114922813034
+    },
+    {
+      "field": "health_issues",
+      "missing": 317,
+      "percentage": 45.62607204116638
+    },
+    {
+      "field": "space_requirements",
+      "missing": 583,
+      "percentage": 0.0
+    }
+  ],
+  "gap_to_95_target": 62.85195936139332,
+  "fields_needed": 9527
+}

@@ -1,0 +1,99 @@
+
+================================================================================
+BREED CONTENT GAP ANALYSIS REPORT
+Generated: 2025-09-19 21:48:31
+================================================================================
+
+📊 OVERALL STATISTICS
+Total breeds in database: 584
+
+🎯 OVERALL COMPLETENESS: 18.2%
+   Total fields possible: 14,600
+   Total fields filled: 2,650
+   Total fields missing: 11,950
+   Gap to 95% target: 76.8%
+
+🔴 CRITICAL FIELDS STATUS (High Priority)
+------------------------------------------------------------
+Field                     Filled     Missing    Coverage  
+------------------------------------------------------------
+grooming_frequency        282        302        48.3%
+good_with_children        291        293        49.8%
+good_with_pets            68         516        11.6%
+energy_level              0          584        0.0%
+personality_traits        230        354        39.4%
+health_issues             279        305        47.8%
+trainability              0          584        0.0%
+space_requirements        0          584        0.0%
+
+📊 ALL FIELDS RANKING (By Coverage)
+------------------------------------------------------------
+🟡 exercise_needs_detail       70.2% (410/584)
+🔴 temperament                 67.6% (395/584)
+🔴 training_tips               63.4% (370/584)
+🔴 grooming_needs              55.7% (325/584)
+🔴 good_with_children          49.8% (291/584)
+🔴 grooming_frequency          48.3% (282/584)
+🔴 health_issues               47.8% (279/584)
+🔴 personality_traits          39.4% (230/584)
+🔴 good_with_pets              11.6% (68/584)
+🔴 description                  0.0% (0/584)
+
+...
+🔴 life_expectancy              0.0% (0/584)
+🔴 energy_level                 0.0% (0/584)
+🔴 exercise_needs               0.0% (0/584)
+🔴 trainability                 0.0% (0/584)
+🔴 space_requirements           0.0% (0/584)
+🔴 dietary_needs                0.0% (0/584)
+🔴 coat_type                    0.0% (0/584)
+🔴 color_variations             0.0% (0/584)
+🔴 recognition_status           0.0% (0/584)
+🔴 breed_group                  0.0% (0/584)
+
+🐕 BREEDS WITH MOST GAPS (Target for manual curation)
+------------------------------------------------------------
+b-c-h                                      0.0% (0/25 fields)
+billy                                      0.0% (0/25 fields)
+cane-di-oropa                              0.0% (0/25 fields)
+jeju                                       0.0% (0/25 fields)
+kaikadi                                    0.0% (0/25 fields)
+greek-harehound                            0.0% (0/25 fields)
+ecuadorian-hairless-dog                    0.0% (0/25 fields)
+khala                                      0.0% (0/25 fields)
+kombai                                     0.0% (0/25 fields)
+kintamani                                  0.0% (0/25 fields)
+poitevin                                   0.0% (0/25 fields)
+smithfield                                 0.0% (0/25 fields)
+pumi                                       0.0% (0/25 fields)
+perro-majorero                             0.0% (0/25 fields)
+pungsan                                    0.0% (0/25 fields)
+st-bernard                                 0.0% (0/25 fields)
+spino-degli-iblei                          0.0% (0/25 fields)
+dogo-sardesco                              0.0% (0/25 fields)
+peruvian-hairless-dog                      0.0% (0/25 fields)
+grand-griffon-vend-en                      0.0% (0/25 fields)
+
+📋 STRATEGIC RECOMMENDATIONS TO REACH 95%
+============================================================
+
+1. IMMEDIATE PRIORITIES (Fields <50% complete): 21 fields
+   - description: 0.0% (584 breeds missing)
+   - origin: 0.0% (584 breeds missing)
+   - image_url: 0.0% (584 breeds missing)
+   - size_category: 0.0% (584 breeds missing)
+   - weight_range: 0.0% (584 breeds missing)
+
+2. SECONDARY TARGETS (50-80% complete): 4 fields
+   - temperament: 67.6% (189 breeds missing)
+   - exercise_needs_detail: 70.2% (174 breeds missing)
+   - training_tips: 63.4% (214 breeds missing)
+   - grooming_needs: 55.7% (259 breeds missing)
+
+3. FINAL PUSH (80-95% complete): 0 fields
+
+🎯 EFFORT REQUIRED FOR 95%
+   Fields needed: 11,220
+   Average per breed: 19.2
+
+✅ Detailed report saved to gap_analysis_report.json

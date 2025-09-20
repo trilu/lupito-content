@@ -1,0 +1,627 @@
+{
+  "timestamp": "2025-09-19T21:48:33.078781",
+  "overall_completeness": 18.15068493150685,
+  "total_breeds": 584,
+  "field_statistics": {
+    "description": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "origin": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "image_url": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "size_category": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "weight_range": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "height_range": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "life_expectancy": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "temperament": {
+      "filled": 395,
+      "missing": 189,
+      "percentage": 67.63698630136986
+    },
+    "energy_level": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "exercise_needs": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "grooming_frequency": {
+      "filled": 282,
+      "missing": 302,
+      "percentage": 48.28767123287671
+    },
+    "trainability": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "health_issues": {
+      "filled": 279,
+      "missing": 305,
+      "percentage": 47.773972602739725
+    },
+    "good_with_children": {
+      "filled": 291,
+      "missing": 293,
+      "percentage": 49.82876712328767
+    },
+    "good_with_pets": {
+      "filled": 68,
+      "missing": 516,
+      "percentage": 11.643835616438356
+    },
+    "space_requirements": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "dietary_needs": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "coat_type": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "color_variations": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "recognition_status": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "breed_group": {
+      "filled": 0,
+      "missing": 584,
+      "percentage": 0.0
+    },
+    "exercise_needs_detail": {
+      "filled": 410,
+      "missing": 174,
+      "percentage": 70.2054794520548
+    },
+    "training_tips": {
+      "filled": 370,
+      "missing": 214,
+      "percentage": 63.35616438356164
+    },
+    "grooming_needs": {
+      "filled": 325,
+      "missing": 259,
+      "percentage": 55.650684931506845
+    },
+    "personality_traits": {
+      "filled": 230,
+      "missing": 354,
+      "percentage": 39.38356164383562
+    }
+  },
+  "breeds_with_gaps": [
+    [
+      "b-c-h",
+      {
+        "display_name": "b-c-h",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "billy",
+      {
+        "display_name": "billy",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "cane-di-oropa",
+      {
+        "display_name": "cane-di-oropa",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "jeju",
+      {
+        "display_name": "jeju",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "kaikadi",
+      {
+        "display_name": "kaikadi",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "greek-harehound",
+      {
+        "display_name": "greek-harehound",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "ecuadorian-hairless-dog",
+      {
+        "display_name": "ecuadorian-hairless-dog",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "khala",
+      {
+        "display_name": "khala",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "kombai",
+      {
+        "display_name": "kombai",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "kintamani",
+      {
+        "display_name": "kintamani",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "poitevin",
+      {
+        "display_name": "poitevin",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "smithfield",
+      {
+        "display_name": "smithfield",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "pumi",
+      {
+        "display_name": "pumi",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "perro-majorero",
+      {
+        "display_name": "perro-majorero",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "pungsan",
+      {
+        "display_name": "pungsan",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "st-bernard",
+      {
+        "display_name": "st-bernard",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "spino-degli-iblei",
+      {
+        "display_name": "spino-degli-iblei",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "dogo-sardesco",
+      {
+        "display_name": "dogo-sardesco",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "peruvian-hairless-dog",
+      {
+        "display_name": "peruvian-hairless-dog",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "grand-griffon-vend-en",
+      {
+        "display_name": "grand-griffon-vend-en",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "sporting-lucas-terrier",
+      {
+        "display_name": "sporting-lucas-terrier",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "armant",
+      {
+        "display_name": "armant",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "sinhala-hound",
+      {
+        "display_name": "sinhala-hound",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "english-toy-terrier-black-tan",
+      {
+        "display_name": "english-toy-terrier-black-tan",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "erbi-txakur",
+      {
+        "display_name": "erbi-txakur",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "majorca-shepherd-dog",
+      {
+        "display_name": "majorca-shepherd-dog",
+        "filled": 0,
+        "total": 25,
+        "percentage": 0.0
+      }
+    ],
+    [
+      "argentine-pila",
+      {
+        "display_name": "argentine-pila",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "brazilian-terrier",
+      {
+        "display_name": "brazilian-terrier",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "bulgarian-scenthound",
+      {
+        "display_name": "bulgarian-scenthound",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "chien-fran-ais-tricolore",
+      {
+        "display_name": "chien-fran-ais-tricolore",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "cantabrian-water-dog",
+      {
+        "display_name": "cantabrian-water-dog",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "bulgarian-hound",
+      {
+        "display_name": "bulgarian-hound",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "campeiro-bulldog",
+      {
+        "display_name": "campeiro-bulldog",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "faroese-sheepdog",
+      {
+        "display_name": "faroese-sheepdog",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "chortai",
+      {
+        "display_name": "chortai",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "hygen-hound",
+      {
+        "display_name": "hygen-hound",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "grand-anglo-fran-ais-blanc-et-orange",
+      {
+        "display_name": "grand-anglo-fran-ais-blanc-et-orange",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "maneto",
+      {
+        "display_name": "maneto",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "levriero-sardo",
+      {
+        "display_name": "levriero-sardo",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "pastor-garafiano",
+      {
+        "display_name": "pastor-garafiano",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "rampur-greyhound",
+      {
+        "display_name": "rampur-greyhound",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "rastreador-brasileiro",
+      {
+        "display_name": "rastreador-brasileiro",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "segugio-maremmano",
+      {
+        "display_name": "segugio-maremmano",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "sardinian-shepherd-dog",
+      {
+        "display_name": "sardinian-shepherd-dog",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "mcnab",
+      {
+        "display_name": "mcnab",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "westphalian-dachsbracke",
+      {
+        "display_name": "westphalian-dachsbracke",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "montenegrin-mountain-hound",
+      {
+        "display_name": "montenegrin-mountain-hound",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "white-swiss-shepherd-dog",
+      {
+        "display_name": "white-swiss-shepherd-dog",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "mudhol-hound",
+      {
+        "display_name": "mudhol-hound",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ],
+    [
+      "nureongi",
+      {
+        "display_name": "nureongi",
+        "filled": 1,
+        "total": 25,
+        "percentage": 4.0
+      }
+    ]
+  ],
+  "critical_gaps": [
+    {
+      "field": "grooming_frequency",
+      "missing": 302,
+      "percentage": 48.28767123287671
+    },
+    {
+      "field": "good_with_children",
+      "missing": 293,
+      "percentage": 49.82876712328767
+    },
+    {
+      "field": "good_with_pets",
+      "missing": 516,
+      "percentage": 11.643835616438356
+    },
+    {
+      "field": "energy_level",
+      "missing": 584,
+      "percentage": 0.0
+    },
+    {
+      "field": "personality_traits",
+      "missing": 354,
+      "percentage": 39.38356164383562
+    },
+    {
+      "field": "health_issues",
+      "missing": 305,
+      "percentage": 47.773972602739725
+    },
+    {
+      "field": "trainability",
+      "missing": 584,
+      "percentage": 0.0
+    },
+    {
+      "field": "space_requirements",
+      "missing": 584,
+      "percentage": 0.0
+    }
+  ],
+  "gap_to_target": 76.84931506849315
+}

@@ -1,0 +1,605 @@
+{
+  "analysis_date": "2025-09-19",
+  "current_completeness": {
+    "total_breeds": 583,
+    "field_gaps": {
+      "exercise_needs_detail": {
+        "missing_count": 186,
+        "gap_percentage": 31.903945111492284,
+        "missing_breeds": [
+          {
+            "breed_slug": "akbash",
+            "display_name": "Akbash"
+          },
+          {
+            "breed_slug": "aksaray-malaklisi",
+            "display_name": "Aksaray Malaklisi"
+          },
+          {
+            "breed_slug": "alano-espa-ol",
+            "display_name": "Alano Espa\u00f1ol"
+          },
+          {
+            "breed_slug": "alapaha-blue-blood-bulldog",
+            "display_name": "Alapaha Blue Blood Bulldog"
+          },
+          {
+            "breed_slug": "alpine-dachsbracke",
+            "display_name": "Alpine Dachsbracke"
+          },
+          {
+            "breed_slug": "american-leopard-hound",
+            "display_name": "American Leopard Hound"
+          },
+          {
+            "breed_slug": "argentine-pila",
+            "display_name": "Argentine Pila"
+          },
+          {
+            "breed_slug": "ari-geois",
+            "display_name": "Ari\u00e9geois"
+          },
+          {
+            "breed_slug": "armant",
+            "display_name": "Armant"
+          },
+          {
+            "breed_slug": "armenian-gampr",
+            "display_name": "Armenian Gampr"
+          }
+        ]
+      },
+      "training_tips": {
+        "missing_count": 226,
+        "gap_percentage": 38.76500857632933,
+        "missing_breeds": [
+          {
+            "breed_slug": "aidi",
+            "display_name": "Aidi"
+          },
+          {
+            "breed_slug": "akbash",
+            "display_name": "Akbash"
+          },
+          {
+            "breed_slug": "alano-espa-ol",
+            "display_name": "Alano Espa\u00f1ol"
+          },
+          {
+            "breed_slug": "alapaha-blue-blood-bulldog",
+            "display_name": "Alapaha Blue Blood Bulldog"
+          },
+          {
+            "breed_slug": "american-leopard-hound",
+            "display_name": "American Leopard Hound"
+          },
+          {
+            "breed_slug": "anglo-fran-ais-de-petite-v-nerie",
+            "display_name": "Anglo-Fran\u00e7ais de Petite V\u00e9nerie"
+          },
+          {
+            "breed_slug": "appenzeller-sennenhund",
+            "display_name": "Appenzeller Sennenhund"
+          },
+          {
+            "breed_slug": "argentine-pila",
+            "display_name": "Argentine Pila"
+          },
+          {
+            "breed_slug": "ari-geois",
+            "display_name": "Ari\u00e9geois"
+          },
+          {
+            "breed_slug": "armant",
+            "display_name": "Armant"
+          }
+        ]
+      },
+      "grooming_needs": {
+        "missing_count": 271,
+        "gap_percentage": 46.483704974271014,
+        "missing_breeds": [
+          {
+            "breed_slug": "aidi",
+            "display_name": "Aidi"
+          },
+          {
+            "breed_slug": "aksaray-malaklisi",
+            "display_name": "Aksaray Malaklisi"
+          },
+          {
+            "breed_slug": "alano-espa-ol",
+            "display_name": "Alano Espa\u00f1ol"
+          },
+          {
+            "breed_slug": "alapaha-blue-blood-bulldog",
+            "display_name": "Alapaha Blue Blood Bulldog"
+          },
+          {
+            "breed_slug": "alaskan-klee-kai",
+            "display_name": "Alaskan Klee Kai"
+          },
+          {
+            "breed_slug": "alpine-dachsbracke",
+            "display_name": "Alpine Dachsbracke"
+          },
+          {
+            "breed_slug": "american-cocker-spaniel",
+            "display_name": "American Cocker Spaniel"
+          },
+          {
+            "breed_slug": "american-english-coonhound",
+            "display_name": "American English Coonhound"
+          },
+          {
+            "breed_slug": "american-leopard-hound",
+            "display_name": "American Leopard Hound"
+          },
+          {
+            "breed_slug": "american-water-spaniel",
+            "display_name": "American Water Spaniel"
+          }
+        ]
+      },
+      "temperament": {
+        "missing_count": 188,
+        "gap_percentage": 32.24699828473413,
+        "missing_breeds": [
+          {
+            "breed_slug": "akita",
+            "display_name": "Akita"
+          },
+          {
+            "breed_slug": "armant",
+            "display_name": "Armant"
+          },
+          {
+            "breed_slug": "b-c-h",
+            "display_name": "B\u1eafc H\u00e0"
+          },
+          {
+            "breed_slug": "banjara-hound",
+            "display_name": "Banjara Hound"
+          },
+          {
+            "breed_slug": "barbet",
+            "display_name": "Barbet"
+          },
+          {
+            "breed_slug": "biewerterrier",
+            "display_name": "Biewerterrier"
+          },
+          {
+            "breed_slug": "billy",
+            "display_name": "Billy"
+          },
+          {
+            "breed_slug": "blue-picardy-spaniel",
+            "display_name": "Blue Picardy Spaniel"
+          },
+          {
+            "breed_slug": "bohemian-shepherd",
+            "display_name": "Bohemian Shepherd"
+          },
+          {
+            "breed_slug": "bolognese",
+            "display_name": "Bolognese"
+          }
+        ]
+      },
+      "personality_traits": {
+        "missing_count": 353,
+        "gap_percentage": 60.548885077186966,
+        "missing_breeds": [
+          {
+            "breed_slug": "affenpinscher",
+            "display_name": "Affenpinscher"
+          },
+          {
+            "breed_slug": "afghan-hound",
+            "display_name": "Afghan Hound"
+          },
+          {
+            "breed_slug": "aidi",
+            "display_name": "Aidi"
+          },
+          {
+            "breed_slug": "akbash",
+            "display_name": "Akbash"
+          },
+          {
+            "breed_slug": "akita",
+            "display_name": "Akita"
+          },
+          {
+            "breed_slug": "aksaray-malaklisi",
+            "display_name": "Aksaray Malaklisi"
+          },
+          {
+            "breed_slug": "alano-espa-ol",
+            "display_name": "Alano Espa\u00f1ol"
+          },
+          {
+            "breed_slug": "alapaha-blue-blood-bulldog",
+            "display_name": "Alapaha Blue Blood Bulldog"
+          },
+          {
+            "breed_slug": "alaskan-husky",
+            "display_name": "Alaskan Husky"
+          },
+          {
+            "breed_slug": "alaskan-malamute",
+            "display_name": "Alaskan Malamute"
+          }
+        ]
+      },
+      "health_issues": {
+        "missing_count": 317,
+        "gap_percentage": 54.373927958833626,
+        "missing_breeds": [
+          {
+            "breed_slug": "africanis",
+            "display_name": "Africanis"
+          },
+          {
+            "breed_slug": "aidi",
+            "display_name": "Aidi"
+          },
+          {
+            "breed_slug": "akbash",
+            "display_name": "Akbash"
+          },
+          {
+            "breed_slug": "aksaray-malaklisi",
+            "display_name": "Aksaray Malaklisi"
+          },
+          {
+            "breed_slug": "alano-espa-ol",
+            "display_name": "Alano Espa\u00f1ol"
+          },
+          {
+            "breed_slug": "alapaha-blue-blood-bulldog",
+            "display_name": "Alapaha Blue Blood Bulldog"
+          },
+          {
+            "breed_slug": "alaskan-klee-kai",
+            "display_name": "Alaskan Klee Kai"
+          },
+          {
+            "breed_slug": "alopekis",
+            "display_name": "Alopekis"
+          },
+          {
+            "breed_slug": "alpine-dachsbracke",
+            "display_name": "Alpine Dachsbracke"
+          },
+          {
+            "breed_slug": "american-leopard-hound",
+            "display_name": "American Leopard Hound"
+          }
+        ]
+      },
+      "good_with_children": {
+        "missing_count": 513,
+        "gap_percentage": 87.99313893653516,
+        "missing_breeds": [
+          {
+            "breed_slug": "affenpinscher",
+            "display_name": "Affenpinscher"
+          },
+          {
+            "breed_slug": "afghan-hound",
+            "display_name": "Afghan Hound"
+          },
+          {
+            "breed_slug": "aidi",
+            "display_name": "Aidi"
+          },
+          {
+            "breed_slug": "akbash",
+            "display_name": "Akbash"
+          },
+          {
+            "breed_slug": "akita",
+            "display_name": "Akita"
+          },
+          {
+            "breed_slug": "aksaray-malaklisi",
+            "display_name": "Aksaray Malaklisi"
+          },
+          {
+            "breed_slug": "alano-espa-ol",
+            "display_name": "Alano Espa\u00f1ol"
+          },
+          {
+            "breed_slug": "alapaha-blue-blood-bulldog",
+            "display_name": "Alapaha Blue Blood Bulldog"
+          },
+          {
+            "breed_slug": "alaskan-husky",
+            "display_name": "Alaskan Husky"
+          },
+          {
+            "breed_slug": "alaskan-klee-kai",
+            "display_name": "Alaskan Klee Kai"
+          }
+        ]
+      },
+      "good_with_pets": {
+        "missing_count": 513,
+        "gap_percentage": 87.99313893653516,
+        "missing_breeds": [
+          {
+            "breed_slug": "affenpinscher",
+            "display_name": "Affenpinscher"
+          },
+          {
+            "breed_slug": "africanis",
+            "display_name": "Africanis"
+          },
+          {
+            "breed_slug": "aidi",
+            "display_name": "Aidi"
+          },
+          {
+            "breed_slug": "airedale-terrier",
+            "display_name": "Airedale Terrier"
+          },
+          {
+            "breed_slug": "akbash",
+            "display_name": "Akbash"
+          },
+          {
+            "breed_slug": "akita",
+            "display_name": "Akita"
+          },
+          {
+            "breed_slug": "alano-espa-ol",
+            "display_name": "Alano Espa\u00f1ol"
+          },
+          {
+            "breed_slug": "alapaha-blue-blood-bulldog",
+            "display_name": "Alapaha Blue Blood Bulldog"
+          },
+          {
+            "breed_slug": "alaskan-husky",
+            "display_name": "Alaskan Husky"
+          },
+          {
+            "breed_slug": "alaskan-klee-kai",
+            "display_name": "Alaskan Klee Kai"
+          }
+        ]
+      },
+      "grooming_frequency": {
+        "missing_count": 541,
+        "gap_percentage": 92.7958833619211,
+        "missing_breeds": [
+          {
+            "breed_slug": "affenpinscher",
+            "display_name": "Affenpinscher"
+          },
+          {
+            "breed_slug": "afghan-hound",
+            "display_name": "Afghan Hound"
+          },
+          {
+            "breed_slug": "africanis",
+            "display_name": "Africanis"
+          },
+          {
+            "breed_slug": "aidi",
+            "display_name": "Aidi"
+          },
+          {
+            "breed_slug": "airedale-terrier",
+            "display_name": "Airedale Terrier"
+          },
+          {
+            "breed_slug": "akbash",
+            "display_name": "Akbash"
+          },
+          {
+            "breed_slug": "akita",
+            "display_name": "Akita"
+          },
+          {
+            "breed_slug": "aksaray-malaklisi",
+            "display_name": "Aksaray Malaklisi"
+          },
+          {
+            "breed_slug": "alano-espa-ol",
+            "display_name": "Alano Espa\u00f1ol"
+          },
+          {
+            "breed_slug": "alapaha-blue-blood-bulldog",
+            "display_name": "Alapaha Blue Blood Bulldog"
+          }
+        ]
+      },
+      "exercise_level": {
+        "missing_count": 396,
+        "gap_percentage": 67.9245283018868,
+        "missing_breeds": [
+          {
+            "breed_slug": "affenpinscher",
+            "display_name": "Affenpinscher"
+          },
+          {
+            "breed_slug": "africanis",
+            "display_name": "Africanis"
+          },
+          {
+            "breed_slug": "airedale-terrier",
+            "display_name": "Airedale Terrier"
+          },
+          {
+            "breed_slug": "akbash",
+            "display_name": "Akbash"
+          },
+          {
+            "breed_slug": "akita",
+            "display_name": "Akita"
+          },
+          {
+            "breed_slug": "aksaray-malaklisi",
+            "display_name": "Aksaray Malaklisi"
+          },
+          {
+            "breed_slug": "alano-espa-ol",
+            "display_name": "Alano Espa\u00f1ol"
+          },
+          {
+            "breed_slug": "alapaha-blue-blood-bulldog",
+            "display_name": "Alapaha Blue Blood Bulldog"
+          },
+          {
+            "breed_slug": "alaskan-klee-kai",
+            "display_name": "Alaskan Klee Kai"
+          },
+          {
+            "breed_slug": "alaskan-malamute",
+            "display_name": "Alaskan Malamute"
+          }
+        ]
+      }
+    },
+    "critical_gaps": [
+      "good_with_children",
+      "good_with_pets",
+      "grooming_frequency"
+    ],
+    "completion_by_category": {},
+    "search_priorities": [
+      {
+        "field": "good_with_children",
+        "strategy": "targeted_search",
+        "gap_percentage": 87.99313893653516,
+        "search_queries": [
+          "{breed_name} good with children kids family friendly",
+          "{breed_name} child safety temperament around kids",
+          "{breed_name} family dog children compatibility"
+        ],
+        "expected_sources": [
+          "akc.org",
+          "aspca.org",
+          "rover.com",
+          "petfinder.com",
+          "dogtime.com",
+          "vetstreet.com",
+          "petmd.com"
+        ]
+      },
+      {
+        "field": "good_with_pets",
+        "strategy": "targeted_search",
+        "gap_percentage": 87.99313893653516,
+        "search_queries": [
+          "{breed_name} good with other dogs pets animals",
+          "{breed_name} dog aggression social other pets",
+          "{breed_name} multi-pet household compatibility"
+        ],
+        "expected_sources": [
+          "akc.org",
+          "aspca.org",
+          "dogtime.com",
+          "petfinder.com",
+          "vetstreet.com",
+          "rover.com"
+        ]
+      },
+      {
+        "field": "grooming_frequency",
+        "strategy": "targeted_search",
+        "gap_percentage": 92.7958833619211,
+        "search_queries": [
+          "{breed_name} grooming requirements frequency daily weekly",
+          "{breed_name} coat care brushing schedule maintenance",
+          "{breed_name} grooming needs how often brush"
+        ],
+        "expected_sources": [
+          "akc.org",
+          "petco.com",
+          "petsmart.com",
+          "rover.com",
+          "dogtime.com",
+          "groomers.com"
+        ]
+      }
+    ]
+  },
+  "search_strategies": [
+    {
+      "name": "Critical Gap Filling",
+      "target_fields": [
+        "good_with_children",
+        "good_with_pets",
+        "grooming_frequency"
+      ],
+      "approach": "Systematic web search for fields with >80% gaps",
+      "priority": "HIGH",
+      "expected_impact": "Fill 50-70% of critical gaps"
+    },
+    {
+      "name": "High-Value Source Mining",
+      "target_sources": [
+        "akc.org",
+        "aspca.org",
+        "petmd.com",
+        "rover.com"
+      ],
+      "approach": "Dedicated scrapers for authoritative sources",
+      "priority": "HIGH",
+      "expected_impact": "Fill 30-50% of remaining gaps"
+    },
+    {
+      "name": "Intelligent Query Generation",
+      "approach": "AI-powered query generation for specific breed-field combinations",
+      "target": "Rare breeds with multiple missing fields",
+      "priority": "MEDIUM",
+      "expected_impact": "Fill 20-30% of remaining gaps"
+    },
+    {
+      "name": "Breed Community Forums",
+      "target_sources": [
+        "breed-specific forums",
+        "reddit.com/r/dogs",
+        "specialty breed sites"
+      ],
+      "approach": "Community knowledge extraction",
+      "priority": "MEDIUM",
+      "expected_impact": "Fill gaps for rare/exotic breeds"
+    }
+  ],
+  "implementation_phases": [
+    {
+      "phase": 1,
+      "focus": "AKC and ASPCA systematic scraping",
+      "duration": "2-3 hours",
+      "target_fields": [
+        "good_with_children",
+        "good_with_pets",
+        "exercise_level"
+      ],
+      "expected_completion_gain": "15-20%"
+    },
+    {
+      "phase": 2,
+      "focus": "Rover and PetMD data extraction",
+      "duration": "2-3 hours",
+      "target_fields": [
+        "grooming_frequency",
+        "health_issues",
+        "training_tips"
+      ],
+      "expected_completion_gain": "10-15%"
+    },
+    {
+      "phase": 3,
+      "focus": "Intelligent web search for remaining gaps",
+      "duration": "3-4 hours",
+      "target_fields": "All remaining gaps",
+      "expected_completion_gain": "10-15%"
+    }
+  ]
+}

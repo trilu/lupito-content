@@ -1,0 +1,1714 @@
+{
+  "overall_completeness": 82.1166826312624,
+  "total_field_groups": 77,
+  "already_complete": [
+    "good_with_pets",
+    "friendliness_to_humans",
+    "general_care",
+    "color_varieties",
+    "breed_standard",
+    "wikipedia_url",
+    "scraped_at",
+    "id",
+    "breed_slug",
+    "display_name",
+    "aliases",
+    "size",
+    "adult_weight_min_kg",
+    "adult_weight_max_kg",
+    "adult_weight_avg_kg",
+    "avg_height_cm",
+    "growth_end_months",
+    "senior_start_months",
+    "energy",
+    "trainability",
+    "shedding",
+    "data_quality_grade",
+    "weight_from",
+    "age_bounds_from",
+    "created_at",
+    "updated_at",
+    "content_updated_at",
+    "content_completeness_score",
+    "has_physical_data",
+    "care_content_word_count"
+  ],
+  "high_impact_missing": [
+    [
+      "has_world_records",
+      1.8867924528301887
+    ],
+    [
+      "override_reason",
+      4.802744425385934
+    ],
+    [
+      "intelligence_noted",
+      26.929674099485418
+    ],
+    [
+      "drooling_tendency",
+      34.305317324185246
+    ],
+    [
+      "height_from",
+      36.706689536878216
+    ],
+    [
+      "coat_texture",
+      45.96912521440824
+    ],
+    [
+      "grooming_frequency",
+      50.77186963979416
+    ],
+    [
+      "good_with_children",
+      54.373927958833626
+    ],
+    [
+      "lifespan_min_years",
+      59.17667238421955
+    ],
+    [
+      "lifespan_max_years",
+      59.17667238421955
+    ],
+    [
+      "lifespan_avg_years",
+      59.17667238421955
+    ],
+    [
+      "lifespan_from",
+      59.17667238421955
+    ],
+    [
+      "colors",
+      61.06346483704974
+    ],
+    [
+      "personality_traits",
+      62.264150943396224
+    ],
+    [
+      "grooming_needs",
+      69.81132075471697
+    ],
+    [
+      "coat_length",
+      70.15437392795883
+    ],
+    [
+      "bark",
+      70.15437392795883
+    ],
+    [
+      "coat",
+      70.15437392795883
+    ],
+    [
+      "personality_description",
+      70.84048027444254
+    ],
+    [
+      "training_tips",
+      72.72727272727273
+    ],
+    [
+      "friendliness_to_dogs",
+      73.2418524871355
+    ],
+    [
+      "recognized_by",
+      74.61406518010291
+    ],
+    [
+      "health_issues",
+      76.32933104631218
+    ],
+    [
+      "history",
+      79.41680960548885
+    ]
+  ],
+  "completely_empty": [
+    "conflict_flags"
+  ],
+  "detailed_analysis": {
+    "id": {
+      "variants": [
+        "id"
+      ],
+      "completeness": {
+        "id": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "55",
+            "56",
+            "202"
+          ]
+        }
+      },
+      "best_variant": "id",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "breed_slug": {
+      "variants": [
+        "breed_slug"
+      ],
+      "completeness": {
+        "breed_slug": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "affenpinscher",
+            "afghan-hound",
+            "africanis"
+          ]
+        }
+      },
+      "best_variant": "breed_slug",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "display_name": {
+      "variants": [
+        "display_name"
+      ],
+      "completeness": {
+        "display_name": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "Affenpinscher",
+            "Afghan Hound",
+            "Africanis"
+          ]
+        }
+      },
+      "best_variant": "display_name",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "aliases": {
+      "variants": [
+        "aliases"
+      ],
+      "completeness": {
+        "aliases": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "['Affenpinscher']",
+            "['Afghan Hound']",
+            "[]"
+          ]
+        }
+      },
+      "best_variant": "aliases",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "size": {
+      "variants": [
+        "size_category",
+        "size_from",
+        "size_category_display"
+      ],
+      "completeness": {
+        "size_category": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "xs",
+            "m",
+            "l"
+          ]
+        },
+        "size_from": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "calculated",
+            "calculated",
+            "height"
+          ]
+        },
+        "size_category_display": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "Extra Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      },
+      "best_variant": "size_category",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "adult_weight_min_kg": {
+      "variants": [
+        "adult_weight_min_kg"
+      ],
+      "completeness": {
+        "adult_weight_min_kg": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "4.0",
+            "20.0",
+            "25.0"
+          ]
+        }
+      },
+      "best_variant": "adult_weight_min_kg",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "adult_weight_max_kg": {
+      "variants": [
+        "adult_weight_max_kg"
+      ],
+      "completeness": {
+        "adult_weight_max_kg": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "6.0",
+            "27.0",
+            "45.0"
+          ]
+        }
+      },
+      "best_variant": "adult_weight_max_kg",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "adult_weight_avg_kg": {
+      "variants": [
+        "adult_weight_avg_kg"
+      ],
+      "completeness": {
+        "adult_weight_avg_kg": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "16.25",
+            "16.25",
+            "16.25"
+          ]
+        }
+      },
+      "best_variant": "adult_weight_avg_kg",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "height_min_cm": {
+      "variants": [
+        "height_min_cm"
+      ],
+      "completeness": {
+        "height_min_cm": {
+          "filled_count": 518,
+          "percentage": 88.8507718696398,
+          "sample_values": [
+            "25",
+            "61",
+            "50"
+          ]
+        }
+      },
+      "best_variant": "height_min_cm",
+      "best_percentage": 88.8507718696398,
+      "effective_completeness": 88.8507718696398
+    },
+    "height_max_cm": {
+      "variants": [
+        "height_max_cm"
+      ],
+      "completeness": {
+        "height_max_cm": {
+          "filled_count": 518,
+          "percentage": 88.8507718696398,
+          "sample_values": [
+            "30",
+            "73",
+            "62"
+          ]
+        }
+      },
+      "best_variant": "height_max_cm",
+      "best_percentage": 88.8507718696398,
+      "effective_completeness": 88.8507718696398
+    },
+    "avg_height_cm": {
+      "variants": [
+        "avg_height_cm"
+      ],
+      "completeness": {
+        "avg_height_cm": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "50.0",
+            "50.0",
+            "50.0"
+          ]
+        }
+      },
+      "best_variant": "avg_height_cm",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "avg_male_weight_kg": {
+      "variants": [
+        "avg_male_weight_kg"
+      ],
+      "completeness": {
+        "avg_male_weight_kg": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "17.5",
+            "17.5",
+            "17.5"
+          ]
+        }
+      },
+      "best_variant": "avg_male_weight_kg",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "avg_female_weight_kg": {
+      "variants": [
+        "avg_female_weight_kg"
+      ],
+      "completeness": {
+        "avg_female_weight_kg": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "15.0",
+            "15.0",
+            "15.0"
+          ]
+        }
+      },
+      "best_variant": "avg_female_weight_kg",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "lifespan_min_years": {
+      "variants": [
+        "lifespan_min_years"
+      ],
+      "completeness": {
+        "lifespan_min_years": {
+          "filled_count": 345,
+          "percentage": 59.17667238421955,
+          "sample_values": [
+            "1",
+            "30",
+            "20"
+          ]
+        }
+      },
+      "best_variant": "lifespan_min_years",
+      "best_percentage": 59.17667238421955,
+      "effective_completeness": 59.17667238421955
+    },
+    "lifespan_max_years": {
+      "variants": [
+        "lifespan_max_years"
+      ],
+      "completeness": {
+        "lifespan_max_years": {
+          "filled_count": 345,
+          "percentage": 59.17667238421955,
+          "sample_values": [
+            "3",
+            "60",
+            "50"
+          ]
+        }
+      },
+      "best_variant": "lifespan_max_years",
+      "best_percentage": 59.17667238421955,
+      "effective_completeness": 59.17667238421955
+    },
+    "lifespan_avg_years": {
+      "variants": [
+        "lifespan_avg_years"
+      ],
+      "completeness": {
+        "lifespan_avg_years": {
+          "filled_count": 345,
+          "percentage": 59.17667238421955,
+          "sample_values": [
+            "2.0",
+            "45.0",
+            "35.0"
+          ]
+        }
+      },
+      "best_variant": "lifespan_avg_years",
+      "best_percentage": 59.17667238421955,
+      "effective_completeness": 59.17667238421955
+    },
+    "growth_end_months": {
+      "variants": [
+        "growth_end_months"
+      ],
+      "completeness": {
+        "growth_end_months": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "8",
+            "12",
+            "15"
+          ]
+        }
+      },
+      "best_variant": "growth_end_months",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "senior_start_months": {
+      "variants": [
+        "senior_start_months"
+      ],
+      "completeness": {
+        "senior_start_months": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "120",
+            "96",
+            "84"
+          ]
+        }
+      },
+      "best_variant": "senior_start_months",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "energy": {
+      "variants": [
+        "energy",
+        "energy_level_numeric",
+        "energy_level_display"
+      ],
+      "completeness": {
+        "energy": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "low",
+            "high",
+            "high"
+          ]
+        },
+        "energy_level_numeric": {
+          "filled_count": 461,
+          "percentage": 79.073756432247,
+          "sample_values": [
+            "2",
+            "4",
+            "4"
+          ]
+        },
+        "energy_level_display": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "Low Energy",
+            "High Energy",
+            "High Energy"
+          ]
+        }
+      },
+      "best_variant": "energy",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "trainability": {
+      "variants": [
+        "trainability"
+      ],
+      "completeness": {
+        "trainability": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "moderate",
+            "moderate",
+            "easy"
+          ]
+        }
+      },
+      "best_variant": "trainability",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "coat_length": {
+      "variants": [
+        "coat_length",
+        "coat_length_text"
+      ],
+      "completeness": {
+        "coat_length": {
+          "filled_count": 409,
+          "percentage": 70.15437392795883,
+          "sample_values": [
+            "short",
+            "medium",
+            "medium"
+          ]
+        },
+        "coat_length_text": {
+          "filled_count": 200,
+          "percentage": 34.305317324185246,
+          "sample_values": [
+            "short",
+            "medium",
+            "short"
+          ]
+        }
+      },
+      "best_variant": "coat_length",
+      "best_percentage": 70.15437392795883,
+      "effective_completeness": 70.15437392795883
+    },
+    "shedding": {
+      "variants": [
+        "shedding",
+        "shedding_text"
+      ],
+      "completeness": {
+        "shedding": {
+          "filled_count": 0,
+          "percentage": 0.0,
+          "sample_values": []
+        },
+        "shedding_text": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "Low",
+            "Medium",
+            "Medium"
+          ]
+        }
+      },
+      "best_variant": "shedding_text",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "bark": {
+      "variants": [
+        "bark_level",
+        "barking_tendency"
+      ],
+      "completeness": {
+        "bark_level": {
+          "filled_count": 409,
+          "percentage": 70.15437392795883,
+          "sample_values": [
+            "moderate",
+            "moderate",
+            "moderate"
+          ]
+        },
+        "barking_tendency": {
+          "filled_count": 200,
+          "percentage": 34.305317324185246,
+          "sample_values": [
+            "moderate",
+            "moderate",
+            "moderate"
+          ]
+        }
+      },
+      "best_variant": "bark_level",
+      "best_percentage": 70.15437392795883,
+      "effective_completeness": 70.15437392795883
+    },
+    "friendliness_to_dogs": {
+      "variants": [
+        "friendliness_to_dogs"
+      ],
+      "completeness": {
+        "friendliness_to_dogs": {
+          "filled_count": 427,
+          "percentage": 73.2418524871355,
+          "sample_values": [
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      "best_variant": "friendliness_to_dogs",
+      "best_percentage": 73.2418524871355,
+      "effective_completeness": 73.2418524871355
+    },
+    "friendliness_to_humans": {
+      "variants": [
+        "friendliness_to_humans"
+      ],
+      "completeness": {
+        "friendliness_to_humans": {
+          "filled_count": 565,
+          "percentage": 96.91252144082333,
+          "sample_values": [
+            "4",
+            "2",
+            "4"
+          ]
+        }
+      },
+      "best_variant": "friendliness_to_humans",
+      "best_percentage": 96.91252144082333,
+      "effective_completeness": 96.91252144082333
+    },
+    "coat_texture": {
+      "variants": [
+        "coat_texture"
+      ],
+      "completeness": {
+        "coat_texture": {
+          "filled_count": 268,
+          "percentage": 45.96912521440824,
+          "sample_values": [
+            "wiry",
+            "smooth",
+            "smooth"
+          ]
+        }
+      },
+      "best_variant": "coat_texture",
+      "best_percentage": 45.96912521440824,
+      "effective_completeness": 45.96912521440824
+    },
+    "drooling_tendency": {
+      "variants": [
+        "drooling_tendency"
+      ],
+      "completeness": {
+        "drooling_tendency": {
+          "filled_count": 200,
+          "percentage": 34.305317324185246,
+          "sample_values": [
+            "moderate",
+            "moderate",
+            "moderate"
+          ]
+        }
+      },
+      "best_variant": "drooling_tendency",
+      "best_percentage": 34.305317324185246,
+      "effective_completeness": 34.305317324185246
+    },
+    "origin": {
+      "variants": [
+        "origin"
+      ],
+      "completeness": {
+        "origin": {
+          "filled_count": 526,
+          "percentage": 90.2229845626072,
+          "sample_values": [
+            "Germany",
+            "Afghanistan",
+            "Southern Africa"
+          ]
+        }
+      },
+      "best_variant": "origin",
+      "best_percentage": 90.2229845626072,
+      "effective_completeness": 90.2229845626072
+    },
+    "history": {
+      "variants": [
+        "history",
+        "history_brief"
+      ],
+      "completeness": {
+        "history": {
+          "filled_count": 463,
+          "percentage": 79.41680960548885,
+          "sample_values": [
+            "The word 'Affenpinscher' derives fromAffe, German for 'ape' or 'monkey'; it is sometimes translated as 'Monkey Terrier', although the dog is apinscherand not aterrier.: 30 The origins of the Pinscher group of dogs are unknown.Dogs of this type, both rough-haired and smooth-haired, were traditionally kept ascarriage dogsor as stable dogs, and so were sometimes known asStallpinscher; they were capableratters.Until the late nineteenth century, both rough-haired and smooth-haired types were known as Deutscher Pinscher, and came from the same lineage; puppies of both types could occur in the same litter. In 1880 the Pinscher was recorded in theDeutschen Hundestammbuchof theVerein zur Veredelung der Hunderassen.In 1895Ludwig Beckmann[de]described five varieties of Pinscher \u2013 the rough- and smooth-haired Pinscher, the rough- and smooth-haired Miniature Pinscher, and the Affenpinscher.: 152In 1895 abreed society, the Pinscher-Schnauzer-Klub, was established for both types, both rough- and smooth-haired.",
+            "The Afghan Hound has been identified as abasal breedthat predates the emergence of the modern breeds in the 19th century. It is most closely related to theSaluki. Connections with other types and breeds from the same area may provide clues to the history. A name for a desert coursing Afghan Hound, Tazi (Sag-e-Tazi), suggests a shared ancestry with the very similarTazybreed from theCaspian Seaarea ofRussiaandTurkmenistan. Other types or breeds of similar appearance are theTaiganfrom the mountainousTian Shanregion on the Chinese border of Afghanistan, and theBarakzay, orKurram ValleyHound. Once out ofAfghanistan, the history of the Afghan Hound breed became entwined with that of the very earliestdog showsandthe Kennel Club(UK). Various sighthounds were brought to England in the 1800s by army officers returning fromBritish Indiaand were exhibited at dog shows, which were then just becoming popular, under various names, such as Barukzy hounds.They were also called \"Persian Greyhounds\" by the English, in reference to their own indigenous sighthound.",
+            "Africa's indigenous dogs descended fromancient Egyptiandogs found throughout theNile Deltaaround 5,900 years ago.[note 1]It is believed the descendants of these dogs spread throughout Africa with tribal movements, first throughout theSaharaand finally reaching southern Africa around the6th centuryAD.[note 2] The Africanis has always been attached tohuman settlementsin southern Africa. The dogs have been used to help herd sheep, goats and cattle, guard against predators and help their human companions in the hunt.The Africanis is known by a number of names. These include the Kasi dog,umbwa wa ki-tamaduni(\"traditional dog\" inKiswahili), theKhoikhoidog, theTswanadog and theZuludog. Other local names includeSica,Isiqha,umhuqa,umgodoyi,Ixhalaga,Ixalagha,Isigola,I-Twina, andItiwina. While generally looked down upon by European settlers who preferred their imported dog breeds, the Africanis was held in higher esteem by Europeans in Africa than theIndian pariah dogwas inIndia."
+          ]
+        },
+        "history_brief": {
+          "filled_count": 463,
+          "percentage": 79.41680960548885,
+          "sample_values": [
+            "The word 'Affenpinscher' derives fromAffe, German for 'ape' or 'monkey'; it is sometimes translated as 'Monkey Terrier', although the dog is apinscherand not aterrier.: 30 The origins of the Pinscher group of dogs are unknown.Dogs of this type, both rough-haired and smooth-haired, were traditionally kept ascarriage dogsor as stable dogs, and so were sometimes known asStallpinscher; they were capableratters.Until the late nineteenth century, both rough-haired and smooth-haired types were known as...",
+            "The Afghan Hound has been identified as abasal breedthat predates the emergence of the modern breeds in the 19th century. It is most closely related to theSaluki. Connections with other types and breeds from the same area may provide clues to the history. A name for a desert coursing Afghan Hound, Tazi (Sag-e-Tazi), suggests a shared ancestry with the very similarTazybreed from theCaspian Seaarea ofRussiaandTurkmenistan. Other types or breeds of similar appearance are theTaiganfrom the mountaino...",
+            "Africa's indigenous dogs descended fromancient Egyptiandogs found throughout theNile Deltaaround 5,900 years ago.[note 1]It is believed the descendants of these dogs spread throughout Africa with tribal movements, first throughout theSaharaand finally reaching southern Africa around the6th centuryAD.[note 2] The Africanis has always been attached tohuman settlementsin southern Africa. The dogs have been used to help herd sheep, goats and cattle, guard against predators and help their human compa..."
+          ]
+        }
+      },
+      "best_variant": "history",
+      "best_percentage": 79.41680960548885,
+      "effective_completeness": 79.41680960548885
+    },
+    "introduction": {
+      "variants": [
+        "introduction"
+      ],
+      "completeness": {
+        "introduction": {
+          "filled_count": 532,
+          "percentage": 91.25214408233276,
+          "sample_values": [
+            "TheAffenpinscher[a]is a Germanbreedof smalltoy dogofPinschertype.: 30Originally developed as amouser, the Affenpinscher is now commonly found as acompanionworldwide.",
+            "TheAfghan Houndis ahounddistinguished by its thick, fine, silky coat, and a tail with a ring curl at the end. The breed originates in the cold mountains ofAfghanistan. Its local name isSag-e T\u0101z\u012b(Dari:\u0633\u06af \u062a\u0627\u0632\u06cc) orT\u0101\u017e\u012b Spay(Pashto:\u062a\u0627\u0698\u064a \u0633\u067e\u06cc). Other names for this breed are T\u0101z\u012b, Balkh Hound, Baluchi Hound, andBarakzaiHound. TheAmerican Kennel Club(AKC) describes the breed as among the most eye-catching of all. The Afghan Hound is an \"aloof and dignified aristocrat of sublime beauty.\" Despite their regal appearance, the Afghan possesses an \"endearing streak of silliness and a profound loyalty.\"",
+            "TheAfricanisis a doglandracefound acrosssouthern Africa.It is a medium-sized, short-coated dog, with a distinctive black patch around the front of the muzzle."
+          ]
+        }
+      },
+      "best_variant": "introduction",
+      "best_percentage": 91.25214408233276,
+      "effective_completeness": 91.25214408233276
+    },
+    "personality_description": {
+      "variants": [
+        "personality_description"
+      ],
+      "completeness": {
+        "personality_description": {
+          "filled_count": 413,
+          "percentage": 70.84048027444254,
+          "sample_values": [
+            "The Affenpinscher generally weighs 4\u20136 kg (9\u201313 lb) and stands some 25\u201330 cm (10\u201312 in) at thewithers.It has a harsh rough coat when it is not clipped, but if clipped it can be softer and fluffier. It has a notable monkey-like expression (affeis German for monkey). Its coat is shaggier over the head and shoulders, forming a mane, with a shorter coat over the back and hind quarters. It is harsh and wiry in texture when properly maintained. TheF\u00e9d\u00e9ration Cynologique Internationaleand BritishKennel Clubbreed standards specify that the coat must be black,but theAmerican Kennel Clubalso allows grey, silver, red, black and tan, and beige (a mixture of red, brown, black and white hairs). Affenpinschers have a distinct appearance that some associate with terriers. However, they are part of \"Group 2, Section 1: Pinschers and Schnauzers\" in theFCIclassification, and not the terrier group.",
+            "The dogs in this breed occur in many different coat colors. A study that mapped the genes of Afghan Hounds and discussed the effect of genes on coat colour in the breed was published in the Journal of Heredity in 2010. The Afghan Hound is tall, standing in height 61\u201374 cm (24\u201329 in) and weighing 20\u201327 kg (44\u201360 lb). The coat may be any colour, but white markings, particularly on the head, are discouraged; many individuals have ablack facial mask.A specimen may have a beard on the lower jaw, known as a \"mandarin\".Some Afghan Hounds are almost white, but parti-color hounds (white with islands of red or black) are penalized in the AKC standard, but not by the FCI. Their long, fine-textured coat requires considerable care and grooming.The long topknot and the shorter-haired saddle on the back of the dog are distinctive features of the Afghan Hound coat. The high hipbones and unique small ring on the end of the tail are also characteristics of the breed.",
+            "The Africanus is widely regarded as affectionate, intelligent, and gentle.They have a natural desire to please their owners, which makes them easy to train. They respond best to positive reinforcement training They're also known for being good with childrenand make good family pets. However, they do display watchful, territorial behaviour."
+          ]
+        }
+      },
+      "best_variant": "personality_description",
+      "best_percentage": 70.84048027444254,
+      "effective_completeness": 70.84048027444254
+    },
+    "personality_traits": {
+      "variants": [
+        "personality_traits"
+      ],
+      "completeness": {
+        "personality_traits": {
+          "filled_count": 363,
+          "percentage": 62.264150943396224,
+          "sample_values": [
+            "['Loyal']",
+            "['gentle', 'intelligent']",
+            "['Alert']"
+          ]
+        }
+      },
+      "best_variant": "personality_traits",
+      "best_percentage": 62.264150943396224,
+      "effective_completeness": 62.264150943396224
+    },
+    "temperament": {
+      "variants": [
+        "temperament"
+      ],
+      "completeness": {
+        "temperament": {
+          "filled_count": 527,
+          "percentage": 90.39451114922812,
+          "sample_values": [
+            "TraitsHeight25\u201330\u00a0cm (10\u201312\u00a0in)Weight4\u20136\u00a0kg (10\u201315\u00a0lb)Coatwire-hairedColorblack",
+            "TraitsHeight61\u201373\u00a0cm (24\u201329\u00a0in)Weight20\u201327\u00a0kg (44\u201360\u00a0lb)CoatLong and fineColourFawnGoldBrindleWhiteRedCreamBlueGrayTricolourLitter\u00a0size6\u20138 puppies",
+            "TraitsHeight50\u201362\u00a0cm (20\u201324\u00a0in)CoatShort and compactColourAll colours or combinations of colours, particularly brown, brindle, black or whiteLitter\u00a0size2-8"
+          ]
+        }
+      },
+      "best_variant": "temperament",
+      "best_percentage": 90.39451114922812,
+      "effective_completeness": 90.39451114922812
+    },
+    "good_with_children": {
+      "variants": [
+        "good_with_children"
+      ],
+      "completeness": {
+        "good_with_children": {
+          "filled_count": 317,
+          "percentage": 54.373927958833626,
+          "sample_values": [
+            "True",
+            "True",
+            "True"
+          ]
+        }
+      },
+      "best_variant": "good_with_children",
+      "best_percentage": 54.373927958833626,
+      "effective_completeness": 54.373927958833626
+    },
+    "good_with_pets": {
+      "variants": [
+        "good_with_pets"
+      ],
+      "completeness": {
+        "good_with_pets": {
+          "filled_count": 562,
+          "percentage": 96.39794168096056,
+          "sample_values": [
+            "True",
+            "True",
+            "True"
+          ]
+        }
+      },
+      "best_variant": "good_with_pets",
+      "best_percentage": 96.39794168096056,
+      "effective_completeness": 96.39794168096056
+    },
+    "intelligence_noted": {
+      "variants": [
+        "intelligence_noted"
+      ],
+      "completeness": {
+        "intelligence_noted": {
+          "filled_count": 157,
+          "percentage": 26.929674099485418,
+          "sample_values": [
+            "True",
+            "True",
+            "True"
+          ]
+        }
+      },
+      "best_variant": "intelligence_noted",
+      "best_percentage": 26.929674099485418,
+      "effective_completeness": 26.929674099485418
+    },
+    "general_care": {
+      "variants": [
+        "general_care"
+      ],
+      "completeness": {
+        "general_care": {
+          "filled_count": 571,
+          "percentage": 97.94168096054888,
+          "sample_values": [
+            "**Exercise:** Moderate exercise needs; short walks and gentle play sessions are usually sufficient.\n\n**Training:** Generally trainable with consistent, patient training approaches.\n\n**Health:** Health considerations: A UK study found a life expectancy of 9.3 years for the breed compared to an average of 12.7 for purebreeds and 12 forcrossbreeds The Affenpinscher is prone tohip dysplasia.As with many small breeds of dog, they are prone tocollapsed tracheaandluxating patella.Some are prone to fractures, PDA, open fontanel and respiratory problems in hot weather. Ocular conditions such ascataractsare occasionally reported.An emerging concern is syringomyelia, although the incidence is currently unknown. Bitches are more prone to seasonal flankalopecia, which seems to affect them during the winter.\n\n**Feeding:** Small breed dogs typically need 1/4 to 1 cup of high-quality dry food daily, divided into two meals. Monitor food intake carefully as lower energy dogs are prone to weight gain.",
+            "**Exercise:** Requires substantial daily exercise including vigorous activities, long walks, or active play sessions.\n\n**Training:** Generally trainable with consistent, patient training approaches.\n\n**Health:** Health considerations: Major health issues areallergies,cancer, andhip dysplasia. Like other sighthounds, the Afghan Hound is sensitive toanesthesia, as sighthounds have relatively low levels of body fat. Afghan Hounds are also among the dog breeds most likely to developchylothorax, a rare condition which causes the thoracic ducts to leak, allowing large quantities ofchyle fluidto enter the dog's chest cavity.This condition commonly results in a lung-lobe torsion (in which the dog's lung twists within the chest cavity, requiring emergency surgery), due to the breed's typically deep, \"barrel\"-shaped chest. If not corrected through surgery, chylothorax can ultimately cause fibrosing pleuritis, or a hardening of the organs, due to scar tissue forming around the organs to protect them from the chyle fluid. Chylothorax is often fatal. Among other health problems arelaryngeal paralysis,dilated cardiomyopathy(twice as common in males as females), and dermatological issues such as testosterone-responsivedermatosisof male dogs (often seen in castrated males), nasal depigmentation (also known asDudley nose), andskin tumours. Afghans are also prone toCentral diabetes insipidus(CDI),hypothyroidismandtricholemmoma, a rare condition which mainly affects older dogs in the Middle Ages.Ocular conditions that can occur include medial canthal pocket syndrome (breed predisposition due to shape of head),corneal dystrophy,cataractand generalized progressive retinal atrophy (GPRA). Afghanmyelopathy(causing pelvic limb ataxia) is sometimes reported.\n\n**Feeding:** Medium-sized dogs usually require 1 to 2 cups of high-quality dry food daily, divided into two meals. High-energy dogs may need additional calories to fuel their active lifestyle.",
+            "**Grooming:** Weekly brushing is usually sufficient for coat maintenance.\n\n**Exercise:** Requires substantial daily exercise including vigorous activities, long walks, or active play sessions."
+          ]
+        }
+      },
+      "best_variant": "general_care",
+      "best_percentage": 97.94168096054888,
+      "effective_completeness": 97.94168096054888
+    },
+    "grooming_needs": {
+      "variants": [
+        "grooming_needs"
+      ],
+      "completeness": {
+        "grooming_needs": {
+          "filled_count": 407,
+          "percentage": 69.81132075471697,
+          "sample_values": [
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "In South Africa, a society was established in 1998 to preserve the Africanis, theAfricanis Society of Southern Africa."
+          ]
+        }
+      },
+      "best_variant": "grooming_needs",
+      "best_percentage": 69.81132075471697,
+      "effective_completeness": 69.81132075471697
+    },
+    "grooming_frequency": {
+      "variants": [
+        "grooming_frequency"
+      ],
+      "completeness": {
+        "grooming_frequency": {
+          "filled_count": 296,
+          "percentage": 50.77186963979416,
+          "sample_values": [
+            "weekly",
+            "weekly",
+            "weekly"
+          ]
+        }
+      },
+      "best_variant": "grooming_frequency",
+      "best_percentage": 50.77186963979416,
+      "effective_completeness": 50.77186963979416
+    },
+    "exercise_needs_detail": {
+      "variants": [
+        "exercise_needs_detail"
+      ],
+      "completeness": {
+        "exercise_needs_detail": {
+          "filled_count": 487,
+          "percentage": 83.53344768439108,
+          "sample_values": [
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "Efforts have been made to protect, preserve and promote these dogs, and prevent them from being split into a number of different breeds based upon different distinguishing physical features."
+          ]
+        }
+      },
+      "best_variant": "exercise_needs_detail",
+      "best_percentage": 83.53344768439108,
+      "effective_completeness": 83.53344768439108
+    },
+    "exercise": {
+      "variants": [
+        "exercise_needs_detail",
+        "exercise_level"
+      ],
+      "completeness": {
+        "exercise_needs_detail": {
+          "filled_count": 487,
+          "percentage": 83.53344768439108,
+          "sample_values": [
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "Efforts have been made to protect, preserve and promote these dogs, and prevent them from being split into a number of different breeds based upon different distinguishing physical features."
+          ]
+        },
+        "exercise_level": {
+          "filled_count": 500,
+          "percentage": 85.76329331046311,
+          "sample_values": [
+            "moderate",
+            "high",
+            "High - 1-2 hours daily"
+          ]
+        }
+      },
+      "best_variant": "exercise_level",
+      "best_percentage": 85.76329331046311,
+      "effective_completeness": 85.76329331046311
+    },
+    "training_tips": {
+      "variants": [
+        "training_tips"
+      ],
+      "completeness": {
+        "training_tips": {
+          "filled_count": 424,
+          "percentage": 72.72727272727273,
+          "sample_values": [
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "The Africanus is widely regarded as affectionate, intelligent, and gentle. They have a natural desire to please their owners, which makes them easy to train. They respond best to positive reinforcement training They're also known for being good with childrenand make good family pets."
+          ]
+        }
+      },
+      "best_variant": "training_tips",
+      "best_percentage": 72.72727272727273,
+      "effective_completeness": 72.72727272727273
+    },
+    "recommended_daily_exercise_min": {
+      "variants": [
+        "recommended_daily_exercise_min"
+      ],
+      "completeness": {
+        "recommended_daily_exercise_min": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      },
+      "best_variant": "recommended_daily_exercise_min",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "activity_level_profile": {
+      "variants": [
+        "activity_level_profile"
+      ],
+      "completeness": {
+        "activity_level_profile": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "Moderate",
+            "Moderate",
+            "Moderate"
+          ]
+        }
+      },
+      "best_variant": "activity_level_profile",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "health_issues": {
+      "variants": [
+        "health_issues"
+      ],
+      "completeness": {
+        "health_issues": {
+          "filled_count": 445,
+          "percentage": 76.32933104631218,
+          "sample_values": [
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "CloseAdded to your cartSuccessSuccesshas been added to your cartView Your CartContinue ShoppingSuccessSuccessSuccessSuccessNewMenMenExploreRight ArrowRight ArrowShirts & T-ShirtsShirts & T-ShirtsShop AllButton-Down ShirtsT-ShirtsPolo ShirtsPerformance ShirtsWrinkle-Resistant ShirtsPants & ShortsPants & ShortsShop AllPantsShortsPerformance Pants & ShortsJackets & VestsJackets & VestsShop AllJacketsVestsBarbour\u00aeSweatshirts & FleeceSweatshirts & FleeceShop AllSweatshirtsFleeceSweatersSweatersShop A",
+            "^\"Aidi Breed Information: History, Health, Pictures, and more\""
+          ]
+        }
+      },
+      "best_variant": "health_issues",
+      "best_percentage": 76.32933104631218,
+      "effective_completeness": 76.32933104631218
+    },
+    "nutrition": {
+      "variants": [
+        "nutrition"
+      ],
+      "completeness": {
+        "nutrition": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "{'rer_formula_note': 'Use formulas_lookup.rer_formula', 'macro_targets_pct': {'fat': '12\u201316', 'carb': 'rest', 'protein': '22\u201328'}, 'special_considerations': [], 'maintenance_multipliers': {'puppy': 3, 'senior': 0.8, 'adult_intact': 1.8, 'high_activity': 2, 'special_cases': {}, 'adult_neutered': 1.6}, 'feeding_frequency_per_day': '2'}",
+            "{'rer_formula_note': 'Use formulas_lookup.rer_formula', 'macro_targets_pct': {'fat': '12\u201316', 'carb': 'rest', 'protein': '22\u201328'}, 'special_considerations': [], 'maintenance_multipliers': {'puppy': 3, 'senior': 0.8, 'adult_intact': 1.8, 'high_activity': 2, 'special_cases': {}, 'adult_neutered': 1.6}, 'feeding_frequency_per_day': '2'}",
+            "{'rer_formula_note': 'Use formulas_lookup.rer_formula', 'macro_targets_pct': {'fat': '12\u201316', 'carb': 'rest', 'protein': '22\u201328'}, 'special_considerations': [], 'maintenance_multipliers': {'puppy': 3, 'senior': 0.8, 'adult_intact': 1.8, 'high_activity': 2, 'special_cases': {}, 'adult_neutered': 1.6}, 'feeding_frequency_per_day': '2'}"
+          ]
+        }
+      },
+      "best_variant": "nutrition",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "weight_gain_risk_score": {
+      "variants": [
+        "weight_gain_risk_score"
+      ],
+      "completeness": {
+        "weight_gain_risk_score": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "3",
+            "3",
+            "3"
+          ]
+        }
+      },
+      "best_variant": "weight_gain_risk_score",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "climate_tolerance": {
+      "variants": [
+        "climate_tolerance"
+      ],
+      "completeness": {
+        "climate_tolerance": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "Moderate",
+            "Moderate",
+            "Moderate"
+          ]
+        }
+      },
+      "best_variant": "climate_tolerance",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "coat": {
+      "variants": [
+        "coat_length",
+        "coat_texture",
+        "coat_length_text",
+        "coat"
+      ],
+      "completeness": {
+        "coat_length": {
+          "filled_count": 409,
+          "percentage": 70.15437392795883,
+          "sample_values": [
+            "short",
+            "medium",
+            "medium"
+          ]
+        },
+        "coat_texture": {
+          "filled_count": 268,
+          "percentage": 45.96912521440824,
+          "sample_values": [
+            "wiry",
+            "smooth",
+            "smooth"
+          ]
+        },
+        "coat_length_text": {
+          "filled_count": 200,
+          "percentage": 34.305317324185246,
+          "sample_values": [
+            "short",
+            "medium",
+            "short"
+          ]
+        },
+        "coat": {
+          "filled_count": 306,
+          "percentage": 52.48713550600343,
+          "sample_values": [
+            "wire-haired",
+            "Long and fine",
+            "Short and compact"
+          ]
+        }
+      },
+      "best_variant": "coat_length",
+      "best_percentage": 70.15437392795883,
+      "effective_completeness": 70.15437392795883
+    },
+    "colors": {
+      "variants": [
+        "colors"
+      ],
+      "completeness": {
+        "colors": {
+          "filled_count": 356,
+          "percentage": 61.06346483704974,
+          "sample_values": [
+            "black",
+            "FawnGoldBrindleWhiteRedCreamBlueGrayTricolour",
+            "All colours or combinations of colours, particularly brown, brindle, black or white"
+          ]
+        }
+      },
+      "best_variant": "colors",
+      "best_percentage": 61.06346483704974,
+      "effective_completeness": 61.06346483704974
+    },
+    "color_varieties": {
+      "variants": [
+        "color_varieties"
+      ],
+      "completeness": {
+        "color_varieties": {
+          "filled_count": 571,
+          "percentage": 97.94168096054888,
+          "sample_values": [
+            "Black",
+            "Brindle",
+            "Black, Brindle, Brown, White"
+          ]
+        }
+      },
+      "best_variant": "color_varieties",
+      "best_percentage": 97.94168096054888,
+      "effective_completeness": 97.94168096054888
+    },
+    "fun_facts": {
+      "variants": [
+        "fun_facts"
+      ],
+      "completeness": {
+        "fun_facts": {
+          "filled_count": 494,
+          "percentage": 84.73413379073756,
+          "sample_values": [
+            "['[1]:\\u200a30Originally developed as amouser, the Affenpinscher is now commonly found as acompanionworldwide.', '[4]Dogs of this type, both rough-haired and smooth-haired, were traditionally kept ascarriage dogsor as stable dogs, and so were sometimes known asStallpinscher; they were capableratters.', 'In 1880 the Pinscher was recorded in theDeutschen Hundestammbuchof theVerein zur Veredelung der Hunderassen.', '[2]There were originally thought to be two sizes, the larger size is now extinct.', 'Pages including recorded pronunciations.']",
+            "[\"Pablo Picassosaid thathis 1967 statuelocated in Chicago'sDaley Plazarepresented the head of an Afghan Hound named Kabul.\", \"The Afghan Hound has been represented in multiple animated feature films and TV shows, including Universal Pictures'Balto(Sylvie), Disney'sLady and the Tramp II: Scamp's Adventure(Ruby), Hasbro Studios'sPound Puppies(Twiggy) and ABC Kids'Bluey(Indy).\", \"An Afghan Hound also appeared in the filmsOne Hundred and One Dalmatians,101 Dalmatians,102 Dalmatians, and101 Dalmatians II: Patch's London Adventure.\"]",
+            "['[1]It is a medium-sized, short-coated dog, with a distinctive black patch around the front of the muzzle.', '[2][3]A distinctive, possibly primitive, feature is a black patch found high on the outside of the tail where thecaudal glandis found in the wildwolf.', '[note 1]It is believed the descendants of these dogs spread throughout Africa with tribal movements, first throughout theSaharaand finally reaching southern Africa around the6th centuryAD.', \"They respond best to positive reinforcement training  They're also known for being good with children[10]and make good family pets.\"]"
+          ]
+        }
+      },
+      "best_variant": "fun_facts",
+      "best_percentage": 84.73413379073756,
+      "effective_completeness": 84.73413379073756
+    },
+    "has_world_records": {
+      "variants": [
+        "has_world_records"
+      ],
+      "completeness": {
+        "has_world_records": {
+          "filled_count": 11,
+          "percentage": 1.8867924528301887,
+          "sample_values": [
+            "True",
+            "True",
+            "True"
+          ]
+        }
+      },
+      "best_variant": "has_world_records",
+      "best_percentage": 1.8867924528301887,
+      "effective_completeness": 1.8867924528301887
+    },
+    "working_roles": {
+      "variants": [
+        "working_roles"
+      ],
+      "completeness": {
+        "working_roles": {
+          "filled_count": 494,
+          "percentage": 84.73413379073756,
+          "sample_values": [
+            "['hunting dog', 'herding dog']",
+            "['hunting dog']",
+            "['guard dog', 'police dog']"
+          ]
+        }
+      },
+      "best_variant": "working_roles",
+      "best_percentage": 84.73413379073756,
+      "effective_completeness": 84.73413379073756
+    },
+    "breed_standard": {
+      "variants": [
+        "breed_standard"
+      ],
+      "completeness": {
+        "breed_standard": {
+          "filled_count": 571,
+          "percentage": 97.94168096054888,
+          "sample_values": [
+            "https://www.akc.org/dog-breeds/affenpinscher/",
+            "https://www.akc.org/dog-breeds/afghan-hound/",
+            "https://www.akc.org/dog-breeds/africanis/"
+          ]
+        }
+      },
+      "best_variant": "breed_standard",
+      "best_percentage": 97.94168096054888,
+      "effective_completeness": 97.94168096054888
+    },
+    "recognized_by": {
+      "variants": [
+        "recognized_by"
+      ],
+      "completeness": {
+        "recognized_by": {
+          "filled_count": 435,
+          "percentage": 74.61406518010291,
+          "sample_values": [
+            "['AKC', 'American Kennel Club', 'FCI', 'The Kennel Club']",
+            "['AKC', 'American Kennel Club', 'UKC', 'United Kennel Club', 'FCI']",
+            "['UKC', 'United Kennel Club', 'FCI']"
+          ]
+        }
+      },
+      "best_variant": "recognized_by",
+      "best_percentage": 74.61406518010291,
+      "effective_completeness": 74.61406518010291
+    },
+    "care_profile": {
+      "variants": [
+        "care_profile"
+      ],
+      "completeness": {
+        "care_profile": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "{'en': {'health': {'notes': 'Keep a lean body condition, schedule regular veterinary checks, and adjust activity with age and fitness.', 'watchouts': ['weight management and portion control', 'avoid overexertion in weather extremes']}, 'summary': 'Medium-sized dog with moderate energy and moderate climate tolerance. Benefits from around 60 minutes of daily activity.', 'exercise': 'Aim for about 60 minutes daily. Mix walks with gentle play and short training games.', 'grooming': 'Routine coat care as appropriate, plus regular nail trims, ear checks, and dental hygiene.', 'training': 'Use brief, positive sessions; reinforce calm behaviors and reliable recall; include scent and puzzle work for mental exercise.', 'nutrition': 'Choose a complete diet appropriate for age and activity. Typical targets: protein 22\u201328%, fat 12\u201316%, carbohydrate as needed to balance energy. Split into 2 meals per day.', 'living_tips': 'Provide daily structure, safe space to rest, and interactive toys. Offer appropriate shelter for moderate tolerance.', 'temperament': 'Temperament varies by line and upbringing; consistent routines and enrichment support good manners. Energy level is typically moderate.'}}",
+            "{'en': {'health': {'notes': 'Keep a lean body condition, schedule regular veterinary checks, and adjust activity with age and fitness.', 'watchouts': ['weight management and portion control', 'avoid overexertion in weather extremes']}, 'summary': 'Medium-sized dog with moderate energy and moderate climate tolerance. Benefits from around 60 minutes of daily activity.', 'exercise': 'Aim for about 60 minutes daily. Mix walks with gentle play and short training games.', 'grooming': 'Routine coat care as appropriate, plus regular nail trims, ear checks, and dental hygiene.', 'training': 'Use brief, positive sessions; reinforce calm behaviors and reliable recall; include scent and puzzle work for mental exercise.', 'nutrition': 'Choose a complete diet appropriate for age and activity. Typical targets: protein 22\u201328%, fat 12\u201316%, carbohydrate as needed to balance energy. Split into 2 meals per day.', 'living_tips': 'Provide daily structure, safe space to rest, and interactive toys. Offer appropriate shelter for moderate tolerance.', 'temperament': 'Temperament varies by line and upbringing; consistent routines and enrichment support good manners. Energy level is typically moderate.'}}",
+            "{'en': {'health': {'notes': 'Keep a lean body condition, schedule regular veterinary checks, and adjust activity with age and fitness.', 'watchouts': ['weight management and portion control', 'avoid overexertion in weather extremes']}, 'summary': 'Medium-sized dog with moderate energy and moderate climate tolerance. Benefits from around 60 minutes of daily activity.', 'exercise': 'Aim for about 60 minutes daily. Mix walks with gentle play and short training games.', 'grooming': 'Routine coat care as appropriate, plus regular nail trims, ear checks, and dental hygiene.', 'training': 'Use brief, positive sessions; reinforce calm behaviors and reliable recall; include scent and puzzle work for mental exercise.', 'nutrition': 'Choose a complete diet appropriate for age and activity. Typical targets: protein 22\u201328%, fat 12\u201316%, carbohydrate as needed to balance energy. Split into 2 meals per day.', 'living_tips': 'Provide daily structure, safe space to rest, and interactive toys. Offer appropriate shelter for moderate tolerance.', 'temperament': 'Temperament varies by line and upbringing; consistent routines and enrichment support good manners. Energy level is typically moderate.'}}"
+          ]
+        }
+      },
+      "best_variant": "care_profile",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "data_quality_grade": {
+      "variants": [
+        "data_quality_grade"
+      ],
+      "completeness": {
+        "data_quality_grade": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "A+",
+            "A+",
+            "B"
+          ]
+        }
+      },
+      "best_variant": "data_quality_grade",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "conflict_flags": {
+      "variants": [
+        "conflict_flags"
+      ],
+      "completeness": {
+        "conflict_flags": {
+          "filled_count": 0,
+          "percentage": 0.0,
+          "sample_values": []
+        }
+      },
+      "best_variant": null,
+      "best_percentage": 0.0,
+      "effective_completeness": 0.0
+    },
+    "breeds_qa_status": {
+      "variants": [
+        "breeds_qa_status"
+      ],
+      "completeness": {
+        "breeds_qa_status": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "auto_pass",
+            "auto_pass",
+            "auto_pass"
+          ]
+        }
+      },
+      "best_variant": "breeds_qa_status",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "profile_version": {
+      "variants": [
+        "profile_version"
+      ],
+      "completeness": {
+        "profile_version": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "1",
+            "1",
+            "1"
+          ]
+        }
+      },
+      "best_variant": "profile_version",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "weight_from": {
+      "variants": [
+        "weight_from"
+      ],
+      "completeness": {
+        "weight_from": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "wikipedia",
+            "wikipedia",
+            "manual_research"
+          ]
+        }
+      },
+      "best_variant": "weight_from",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "height_from": {
+      "variants": [
+        "height_from"
+      ],
+      "completeness": {
+        "height_from": {
+          "filled_count": 214,
+          "percentage": 36.706689536878216,
+          "sample_values": [
+            "wikipedia",
+            "wikipedia",
+            "wikipedia"
+          ]
+        }
+      },
+      "best_variant": "height_from",
+      "best_percentage": 36.706689536878216,
+      "effective_completeness": 36.706689536878216
+    },
+    "lifespan_from": {
+      "variants": [
+        "lifespan_from"
+      ],
+      "completeness": {
+        "lifespan_from": {
+          "filled_count": 345,
+          "percentage": 59.17667238421955,
+          "sample_values": [
+            "wikipedia",
+            "wikipedia",
+            "calculated"
+          ]
+        }
+      },
+      "best_variant": "lifespan_from",
+      "best_percentage": 59.17667238421955,
+      "effective_completeness": 59.17667238421955
+    },
+    "age_bounds_from": {
+      "variants": [
+        "age_bounds_from"
+      ],
+      "completeness": {
+        "age_bounds_from": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "default",
+            "default",
+            "default"
+          ]
+        }
+      },
+      "best_variant": "age_bounds_from",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "override_reason": {
+      "variants": [
+        "override_reason"
+      ],
+      "completeness": {
+        "override_reason": {
+          "filled_count": 28,
+          "percentage": 4.802744425385934,
+          "sample_values": [
+            "Bernese Mountain Dogs are giant dogs (35-55kg)",
+            "Coonhounds are large dogs (18-34kg), not extra small",
+            "Boerboels are extra large mastiff-type dogs (68-91kg)"
+          ]
+        }
+      },
+      "best_variant": "override_reason",
+      "best_percentage": 4.802744425385934,
+      "effective_completeness": 4.802744425385934
+    },
+    "breeds_primary_sources": {
+      "variants": [
+        "breeds_primary_sources"
+      ],
+      "completeness": {
+        "breeds_primary_sources": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "[{'url': 'https://www.fci.be/en/nomenclature/', 'year': 2025, 'title': 'FCI breed nomenclature list', 'doi_or_isbn': None, 'source_type': 'BreedRegistry'}, {'url': 'https://wsava.org/global-guidelines/global-nutrition-guidelines/', 'year': 2021, 'title': 'WSAVA Global Nutrition Toolkit', 'doi_or_isbn': None, 'source_type': 'VetGuideline'}]",
+            "[{'url': 'https://www.fci.be/en/nomenclature/', 'year': 2025, 'title': 'FCI breed nomenclature list', 'doi_or_isbn': None, 'source_type': 'BreedRegistry'}, {'url': 'https://wsava.org/global-guidelines/global-nutrition-guidelines/', 'year': 2021, 'title': 'WSAVA Global Nutrition Toolkit', 'doi_or_isbn': None, 'source_type': 'VetGuideline'}]",
+            "[{'url': 'https://www.fci.be/en/nomenclature/', 'year': 2025, 'title': 'FCI breed nomenclature list', 'doi_or_isbn': None, 'source_type': 'BreedRegistry'}, {'url': 'https://wsava.org/global-guidelines/global-nutrition-guidelines/', 'year': 2021, 'title': 'WSAVA Global Nutrition Toolkit', 'doi_or_isbn': None, 'source_type': 'VetGuideline'}]"
+          ]
+        }
+      },
+      "best_variant": "breeds_primary_sources",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "wikipedia_url": {
+      "variants": [
+        "wikipedia_url"
+      ],
+      "completeness": {
+        "wikipedia_url": {
+          "filled_count": 571,
+          "percentage": 97.94168096054888,
+          "sample_values": [
+            "https://en.wikipedia.org/wiki/Affenpinscher",
+            "https://en.wikipedia.org/wiki/Afghan_Hound",
+            "https://en.wikipedia.org/wiki/Africanis"
+          ]
+        }
+      },
+      "best_variant": "wikipedia_url",
+      "best_percentage": 97.94168096054888,
+      "effective_completeness": 97.94168096054888
+    },
+    "scraped_at": {
+      "variants": [
+        "scraped_at"
+      ],
+      "completeness": {
+        "scraped_at": {
+          "filled_count": 571,
+          "percentage": 97.94168096054888,
+          "sample_values": [
+            "2025-09-17T16:27:37.6966+00:00",
+            "2025-09-17T16:27:44.182227+00:00",
+            "2025-09-17T16:28:23.857745+00:00"
+          ]
+        }
+      },
+      "best_variant": "scraped_at",
+      "best_percentage": 97.94168096054888,
+      "effective_completeness": 97.94168096054888
+    },
+    "created_at": {
+      "variants": [
+        "created_at"
+      ],
+      "completeness": {
+        "created_at": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "2025-09-06T20:29:10.071025+00:00",
+            "2025-09-06T20:29:12.586101+00:00",
+            "2025-09-08T09:22:58.638345+00:00"
+          ]
+        }
+      },
+      "best_variant": "created_at",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "updated_at": {
+      "variants": [
+        "updated_at"
+      ],
+      "completeness": {
+        "updated_at": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "2025-09-20T18:38:42.684962+00:00",
+            "2025-09-20T18:38:43.503654+00:00",
+            "2025-09-20T18:38:11.992635+00:00"
+          ]
+        }
+      },
+      "best_variant": "updated_at",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "content_updated_at": {
+      "variants": [
+        "content_updated_at"
+      ],
+      "completeness": {
+        "content_updated_at": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "2025-09-20T18:38:42.684962+00:00",
+            "2025-09-20T18:38:43.503654+00:00",
+            "2025-09-20T18:38:11.992635+00:00"
+          ]
+        }
+      },
+      "best_variant": "content_updated_at",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "breeds_updated_at": {
+      "variants": [
+        "breeds_updated_at"
+      ],
+      "completeness": {
+        "breeds_updated_at": {
+          "filled_count": 544,
+          "percentage": 93.31046312178388,
+          "sample_values": [
+            "2025-08-30T12:11:19.021+00:00",
+            "2025-08-30T12:11:19.021+00:00",
+            "2025-08-30T12:11:19.014+00:00"
+          ]
+        }
+      },
+      "best_variant": "breeds_updated_at",
+      "best_percentage": 93.31046312178388,
+      "effective_completeness": 93.31046312178388
+    },
+    "content_completeness_score": {
+      "variants": [
+        "content_completeness_score"
+      ],
+      "completeness": {
+        "content_completeness_score": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "90",
+            "95",
+            "80"
+          ]
+        }
+      },
+      "best_variant": "content_completeness_score",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "has_rich_content": {
+      "variants": [
+        "has_rich_content"
+      ],
+      "completeness": {
+        "has_rich_content": {
+          "filled_count": 517,
+          "percentage": 88.67924528301887,
+          "sample_values": [
+            "True",
+            "True",
+            "True"
+          ]
+        }
+      },
+      "best_variant": "has_rich_content",
+      "best_percentage": 88.67924528301887,
+      "effective_completeness": 88.67924528301887
+    },
+    "has_physical_data": {
+      "variants": [
+        "has_physical_data"
+      ],
+      "completeness": {
+        "has_physical_data": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "True",
+            "True",
+            "True"
+          ]
+        }
+      },
+      "best_variant": "has_physical_data",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    },
+    "care_content_word_count": {
+      "variants": [
+        "care_content_word_count"
+      ],
+      "completeness": {
+        "care_content_word_count": {
+          "filled_count": 583,
+          "percentage": 100.0,
+          "sample_values": [
+            "139",
+            "253",
+            "22"
+          ]
+        }
+      },
+      "best_variant": "care_content_word_count",
+      "best_percentage": 100.0,
+      "effective_completeness": 100.0
+    }
+  }
+}

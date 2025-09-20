@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-09-20T09:41:10.969384",
+  "operation": "Breed Standards Import",
+  "extractable_fields": [
+    "height_min_cm",
+    "height_max_cm",
+    "weight_min_kg",
+    "weight_max_kg",
+    "coat",
+    "colors",
+    "temperament",
+    "personality_traits",
+    "grooming_needs",
+    "exercise_needs_detail",
+    "health_issues",
+    "lifespan_min_years",
+    "lifespan_max_years",
+    "training_tips",
+    "fun_facts",
+    "origin"
+  ],
+  "breeds_processed": 100,
+  "breeds_updated": 0,
+  "fields_updated": 0,
+  "success_rate_percent": 0.0,
+  "estimated_gain_percent": 0.0
+}
