@@ -1,0 +1,365 @@
+{
+  "timestamp": "2025-09-24T15:55:11.114898",
+  "upload_type": "pixabay_breed_images_to_gcs_gsutil",
+  "bucket_name": "lupito-breed-images-public",
+  "statistics": {
+    "images_uploaded": 50,
+    "thumbnails_uploaded": 50,
+    "errors_encountered": 0,
+    "total_size_uploaded_mb": 12.768437385559082
+  },
+  "upload_results": [
+    {
+      "breed_slug": "l-wchen",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/l-wchen.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/l-wchen_thumb.jpg"
+    },
+    {
+      "breed_slug": "maremmano-abruzzese-sheepdog",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/maremmano-abruzzese-sheepdog.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/maremmano-abruzzese-sheepdog_thumb.jpg"
+    },
+    {
+      "breed_slug": "denmark-feist",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/denmark-feist.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/denmark-feist_thumb.jpg"
+    },
+    {
+      "breed_slug": "majorca-shepherd-dog",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/majorca-shepherd-dog.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/majorca-shepherd-dog_thumb.jpg"
+    },
+    {
+      "breed_slug": "mahratta-hound",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/mahratta-hound.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/mahratta-hound_thumb.jpg"
+    },
+    {
+      "breed_slug": "miniature-fox-terrier",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/miniature-fox-terrier.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/miniature-fox-terrier_thumb.jpg"
+    },
+    {
+      "breed_slug": "lagotto-romagnolo",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lagotto-romagnolo.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lagotto-romagnolo_thumb.jpg"
+    },
+    {
+      "breed_slug": "lucas-terrier",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lucas-terrier.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lucas-terrier_thumb.jpg"
+    },
+    {
+      "breed_slug": "german-wire-haired-pointer",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-wire-haired-pointer.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-wire-haired-pointer_thumb.jpg"
+    },
+    {
+      "breed_slug": "large-m-nsterl-nder",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/large-m-nsterl-nder.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/large-m-nsterl-nder_thumb.jpg"
+    },
+    {
+      "breed_slug": "mongrel",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/mongrel.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/mongrel_thumb.jpg"
+    },
+    {
+      "breed_slug": "lapponian-herder",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lapponian-herder.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lapponian-herder_thumb.jpg"
+    },
+    {
+      "breed_slug": "german-short-haired-pointer",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-short-haired-pointer.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-short-haired-pointer_thumb.jpg"
+    },
+    {
+      "breed_slug": "khala",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/khala.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/khala_thumb.jpg"
+    },
+    {
+      "breed_slug": "mackenzie-river-husky",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/mackenzie-river-husky.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/mackenzie-river-husky_thumb.jpg"
+    },
+    {
+      "breed_slug": "kombai",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kombai.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kombai_thumb.jpg"
+    },
+    {
+      "breed_slug": "kintamani",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kintamani.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kintamani_thumb.jpg"
+    },
+    {
+      "breed_slug": "maneto",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/maneto.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/maneto_thumb.jpg"
+    },
+    {
+      "breed_slug": "irish-red-white-setter",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/irish-red-white-setter.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/irish-red-white-setter_thumb.jpg"
+    },
+    {
+      "breed_slug": "glen-of-imaal-terrier",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/glen-of-imaal-terrier.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/glen-of-imaal-terrier_thumb.jpg"
+    },
+    {
+      "breed_slug": "dikkulak",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/dikkulak.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/dikkulak_thumb.jpg"
+    },
+    {
+      "breed_slug": "landseer",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/landseer.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/landseer_thumb.jpg"
+    },
+    {
+      "breed_slug": "kurdish-mastiff",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kurdish-mastiff.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kurdish-mastiff_thumb.jpg"
+    },
+    {
+      "breed_slug": "german-shorthaired-pointers",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-shorthaired-pointers.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-shorthaired-pointers_thumb.jpg"
+    },
+    {
+      "breed_slug": "miniature-american-shepherd",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/miniature-american-shepherd.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/miniature-american-shepherd_thumb.jpg"
+    },
+    {
+      "breed_slug": "jindo",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/jindo.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/jindo_thumb.jpg"
+    },
+    {
+      "breed_slug": "boerboe",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/boerboe.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/boerboe_thumb.jpg"
+    },
+    {
+      "breed_slug": "markiesje",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/markiesje.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/markiesje_thumb.jpg"
+    },
+    {
+      "breed_slug": "german-wirehaired-pointers",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-wirehaired-pointers.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-wirehaired-pointers_thumb.jpg"
+    },
+    {
+      "breed_slug": "levriero-sardo",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/levriero-sardo.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/levriero-sardo_thumb.jpg"
+    },
+    {
+      "breed_slug": "liangshan-dog",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/liangshan-dog.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/liangshan-dog_thumb.jpg"
+    },
+    {
+      "breed_slug": "miniature-bull-terrier",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/miniature-bull-terrier.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/miniature-bull-terrier_thumb.jpg"
+    },
+    {
+      "breed_slug": "harrier",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/harrier.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/harrier_thumb.jpg"
+    },
+    {
+      "breed_slug": "miniature-schnauzer",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/miniature-schnauzer.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/miniature-schnauzer_thumb.jpg"
+    },
+    {
+      "breed_slug": "lowchen",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lowchen.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lowchen_thumb.jpg"
+    },
+    {
+      "breed_slug": "lobito-herreno",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lobito-herreno.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lobito-herreno_thumb.jpg"
+    },
+    {
+      "breed_slug": "kaikadi",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kaikadi.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kaikadi_thumb.jpg"
+    },
+    {
+      "breed_slug": "lithuanian-hound",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lithuanian-hound.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lithuanian-hound_thumb.jpg"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-tricolore",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/grand-anglo-fran-ais-tricolore.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/grand-anglo-fran-ais-tricolore_thumb.jpg"
+    },
+    {
+      "breed_slug": "leonberger",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/leonberger.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/leonberger_thumb.jpg"
+    },
+    {
+      "breed_slug": "magyar-ag-r",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/magyar-ag-r.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/magyar-ag-r_thumb.jpg"
+    },
+    {
+      "breed_slug": "mcnab",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/mcnab.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/mcnab_thumb.jpg"
+    },
+    {
+      "breed_slug": "jeju",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/jeju.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/jeju_thumb.jpg"
+    },
+    {
+      "breed_slug": "manchester-terrier",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/manchester-terrier.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/manchester-terrier_thumb.jpg"
+    },
+    {
+      "breed_slug": "lupo-italiano",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lupo-italiano.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lupo-italiano_thumb.jpg"
+    },
+    {
+      "breed_slug": "lagotti-romagnoli",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lagotti-romagnoli.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lagotti-romagnoli_thumb.jpg"
+    },
+    {
+      "breed_slug": "dogues-de-bordeaux",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/dogues-de-bordeaux.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/dogues-de-bordeaux_thumb.jpg"
+    },
+    {
+      "breed_slug": "kamchatka-sled-dog",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kamchatka-sled-dog.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kamchatka-sled-dog_thumb.jpg"
+    },
+    {
+      "breed_slug": "lancashire-heeler",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lancashire-heeler.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/lancashire-heeler_thumb.jpg"
+    },
+    {
+      "breed_slug": "molossus-of-epirus",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/molossus-of-epirus.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/molossus-of-epirus_thumb.jpg"
+    }
+  ],
+  "successful_uploads": 50,
+  "success_rate": 100.0
+}

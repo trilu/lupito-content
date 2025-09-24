@@ -1,0 +1,120 @@
+{
+  "timestamp": "2025-09-24T15:44:41.786576",
+  "upload_type": "pixabay_breed_images_to_gcs_gsutil",
+  "bucket_name": "lupito-breed-images-public",
+  "statistics": {
+    "images_uploaded": 15,
+    "thumbnails_uploaded": 15,
+    "errors_encountered": 0,
+    "total_size_uploaded_mb": 3.7327327728271484
+  },
+  "upload_results": [
+    {
+      "breed_slug": "denmark-feist",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/denmark-feist.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/denmark-feist_thumb.jpg"
+    },
+    {
+      "breed_slug": "german-wire-haired-pointer",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-wire-haired-pointer.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-wire-haired-pointer_thumb.jpg"
+    },
+    {
+      "breed_slug": "german-short-haired-pointer",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-short-haired-pointer.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-short-haired-pointer_thumb.jpg"
+    },
+    {
+      "breed_slug": "irish-red-white-setter",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/irish-red-white-setter.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/irish-red-white-setter_thumb.jpg"
+    },
+    {
+      "breed_slug": "glen-of-imaal-terrier",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/glen-of-imaal-terrier.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/glen-of-imaal-terrier_thumb.jpg"
+    },
+    {
+      "breed_slug": "dikkulak",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/dikkulak.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/dikkulak_thumb.jpg"
+    },
+    {
+      "breed_slug": "german-shorthaired-pointers",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-shorthaired-pointers.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-shorthaired-pointers_thumb.jpg"
+    },
+    {
+      "breed_slug": "jindo",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/jindo.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/jindo_thumb.jpg"
+    },
+    {
+      "breed_slug": "boerboe",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/boerboe.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/boerboe_thumb.jpg"
+    },
+    {
+      "breed_slug": "german-wirehaired-pointers",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-wirehaired-pointers.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/german-wirehaired-pointers_thumb.jpg"
+    },
+    {
+      "breed_slug": "harrier",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/harrier.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/harrier_thumb.jpg"
+    },
+    {
+      "breed_slug": "kaikadi",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kaikadi.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/kaikadi_thumb.jpg"
+    },
+    {
+      "breed_slug": "grand-anglo-fran-ais-tricolore",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/grand-anglo-fran-ais-tricolore.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/grand-anglo-fran-ais-tricolore_thumb.jpg"
+    },
+    {
+      "breed_slug": "jeju",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/jeju.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/jeju_thumb.jpg"
+    },
+    {
+      "breed_slug": "dogues-de-bordeaux",
+      "original_uploaded": true,
+      "thumbnail_uploaded": true,
+      "original_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/dogues-de-bordeaux.jpg",
+      "thumbnail_url": "https://storage.googleapis.com/lupito-breed-images-public/breeds/pixabay/dogues-de-bordeaux_thumb.jpg"
+    }
+  ],
+  "successful_uploads": 15,
+  "success_rate": 100.0
+}
